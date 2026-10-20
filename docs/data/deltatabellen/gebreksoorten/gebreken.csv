@@ -1,0 +1,177 @@
+Afkorting,Gebreksoort,Gebrek (oud),Gebrek (nieuw),Mutatie
+Afs,Afsterving,,Afsterving,Toegevoegd
+Afs,Afsterving,,Scheutlengte-ontwikkeling,Toegevoegd
+Afs,Afsterving,,Blauwalgontwikkeling,Toegevoegd
+Aft,Aftakeling,,Houtweefselschade,Toegevoegd
+Aft,Aftakeling,,Houtrot,Toegevoegd
+Aft,Aftakeling,,Bedekkingsgraad,Toegevoegd
+Aft,Aftakeling,,Groeiontwikkeling,Toegevoegd
+Aft,Aftakeling,,Aantasting,Toegevoegd
+Afw,Afwerking,Graffity,Graffity,Ongewijzigd
+Afw,Afwerking,Vervuiling,Vervuiling,Ongewijzigd
+Afw,Afwerking,Scheefstand,Scheefstand,Ongewijzigd
+Afw,Afwerking,"Verbinding, verplaatst","Verbinding, verplaatst",Ongewijzigd
+Afw,Afwerking,Aangroei,Aangroei,Ongewijzigd
+Afw,Afwerking,"Takken laaghangend, niet kritisch",,Vervallen
+Afw,Afwerking,"Takken laaghangend, kritisch",,Vervallen
+Bk,Basiskwaliteit,"Beschermingsgraad, onvoldoende","Beschermingsgraad, onvoldoende",Ongewijzigd
+Bk,Basiskwaliteit,"Bevestiging, onjuist","Bevestiging, onjuist",Ongewijzigd
+Bk,Basiskwaliteit,"Toplaag, dichtgeslibd","Toplaag, dichtgeslibd",Ongewijzigd
+Bk,Basiskwaliteit,"Servicetermijn, ten einde","Servicetermijn, ten einde",Ongewijzigd
+Bk,Basiskwaliteit,"Kortsluitvastheid, onvoldoende","Kortsluitvastheid, onvoldoende",Ongewijzigd
+Bk,Basiskwaliteit,"Markering, onjuist","Markering, onjuist",Ongewijzigd
+Bk,Basiskwaliteit,"Diepte, onvoldoende","Diepte, onvoldoende",Ongewijzigd
+Bk,Basiskwaliteit,"Bevestiging, defect","Bevestiging, defect",Ongewijzigd
+Bk,Basiskwaliteit,"Schade, mechanisch","Schade, mechanisch",Ongewijzigd
+Bk,Basiskwaliteit,"Exotengroei, ongewenst",,Vervallen
+Bk,Basiskwaliteit,"Houtige begroeing, onderbroken",,Vervallen
+Bk,Basiskwaliteit,"Bladontwikkeling, onjuist",,Vervallen
+Bk,Basiskwaliteit,,"Afdekking, ongewenst",Toegevoegd
+Bko,Basiskwaliteit en veroudering onderdelen,"Functie, verminderd","Functie, verminderd",Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,"Onderdeel, ontbreekt","Onderdeel, ontbreekt",Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,Ontgronding,Ontgronding,Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,"Organische stof, overlast","Organische stof, overlast",Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,"Scheur, niet constructief","Scheur, niet constructief",Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,Spoorvorming,Spoorvorming,Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,Verstuiving,Verstuiving,Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,"Leemgehalte, onjuist","Leemgehalte, onjuist",Ongewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,Vertrapping,,Vervallen
+Bks,Basiskwaliteit en veroudering subonderdelen,"Codering, onjuist","Codering, onjuist",Ongewijzigd
+Bks,Basiskwaliteit en veroudering subonderdelen,"Documentatie, onjuist","Documentatie, onjuist",Ongewijzigd
+Bks,Basiskwaliteit en veroudering subonderdelen,"Wet & regelgeving, voldoet niet","Wet & regelgeving, voldoet niet",Ongewijzigd
+Bks,Basiskwaliteit en veroudering subonderdelen,Zetting,Zetting,Ongewijzigd
+Bks,Basiskwaliteit en veroudering subonderdelen,"Voegvulling, defect","Voegvulling, defect",Ongewijzigd
+Cp,Constructief primair,Afbrokkelen,Afbrokkelen,Ongewijzigd
+Cp,Constructief primair,Breuk,Breuk,Ongewijzigd
+Cp,Constructief primair,"Deformatie, kritiek","Deformatie, kritiek",Ongewijzigd
+Cp,Constructief primair,Langsonvlakheid,Langsonvlakheid,Ongewijzigd
+Cp,Constructief primair,Oneffenheden,Oneffenheden,Ongewijzigd
+Cp,Constructief primair,"Scheur, constructief","Scheur, constructief",Ongewijzigd
+Cp,Constructief primair,"Verankering, defect","Verankering, defect",Ongewijzigd
+Cp,Constructief primair,Verweking,Verweking,Ongewijzigd
+Cp,Constructief primair,Verzakking,Verzakking,Ongewijzigd
+Cp,Constructief primair,"Dakgrind, ingezakt","Dakgrind, ingezakt",Ongewijzigd
+Cp,Constructief primair,"Breuk/instorting, riool","Breuk/instorting, riool",Ongewijzigd
+Cp,Constructief primair,Scheurvorming,Scheurvorming,Ongewijzigd
+Cp,Constructief primair,Delaminatie,Delaminatie,Ongewijzigd
+Cp,Constructief primair,Vervorming,Vervorming,Ongewijzigd
+Cp,Constructief primair,"Comfort, fietspad","Comfort, fietspad",Ongewijzigd
+Cp,Constructief primair,Aanhechtingsmankement,,Vervallen
+Cp,Constructief primair,"Groeistoornis, kritisch",,Vervallen
+Cp,Constructief primair,"Kroon-stam, verhouding onjuist",,Vervallen
+Cp,Constructief primair,"Insectenvraat, kritisch",,Vervallen
+Cp,Constructief primair,"Gesteltakken, gescheurd",,Vervallen
+Cp,Constructief primair,"Ziekte, kritisch",,Vervallen
+Cp,Constructief primair,"Zuigers, overlast",,Vervallen
+Cp,Constructief primair,,Windworp,Toegevoegd
+Cp,Constructief primair,,Omgevallen,Toegevoegd
+Cp,Constructief primair,,Verdwenen,Toegevoegd
+Cs,Constructief secundair,Onkruidgroei,Onkruidgroei,Ongewijzigd
+Cs,Constructief secundair,"Smering, onvoldoende","Smering, onvoldoende",Ongewijzigd
+Cs,Constructief secundair,Opbolling,Opbolling,Ongewijzigd
+Cs,Constructief secundair,"Beschermlaag, defect","Beschermlaag, defect",Ongewijzigd
+Cs,Constructief secundair,Verhouting,Verhouting,Ongewijzigd
+Cs,Constructief secundair,Vermossing,Vermossing,Ongewijzigd
+Cs,Constructief secundair,"Inlaat, instekend","Inlaat, instekend",Ongewijzigd
+Cs,Constructief secundair,Randschade,Randschade,Ongewijzigd
+Cs,Constructief secundair,"Biotoop, afwijkend","Biotoop, afwijkend",Ongewijzigd
+Cs,Constructief secundair,"Aansluiting, onjuist","Aansluiting, onjuist",Ongewijzigd
+Cs,Constructief secundair,"Lining, defect","Lining, defect",Ongewijzigd
+Cs,Constructief secundair,Grondindringing,Grondindringing,Ongewijzigd
+Cs,Constructief secundair,"Vloeistofpeil, onjuist","Vloeistofpeil, onjuist",Ongewijzigd
+Cs,Constructief secundair,"Deformatie, niet kritiek","Deformatie, niet kritiek",Ongewijzigd
+Cs,Constructief secundair,"Aansluiting, defect","Aansluiting, defect",Ongewijzigd
+Cs,Constructief secundair,"Kroonontwikkeling, onevenwichtig",,Vervallen
+Cs,Constructief secundair,"Bladkleur, afwijkend",,Vervallen
+Cs,Constructief secundair,"Groeistoornis, niet kritisch",,Vervallen
+Cs,Constructief secundair,"Groeihoogte onjuist, niet kritisch",,Vervallen
+Cs,Constructief secundair,"Kroon-stam, verhouding afwijkend",,Vervallen
+Cs,Constructief secundair,Reactiehout,,Vervallen
+Cs,Constructief secundair,"Ziekte, niet kritisch",,Vervallen
+Cs,Constructief secundair,Wurgwortels,,Vervallen
+Cs,Constructief secundair,"Groeihoogte onjuist, kritisch",,Vervallen
+Cs,Constructief secundair,,"Aansluiting, onvoldoende",Toegevoegd
+Mo,Materiaal oppervlak,Boomwortelopgroei,Boomwortelopgroei,Ongewijzigd
+Mo,Materiaal oppervlak,"Corrosie, uniform","Corrosie, uniform",Ongewijzigd
+Mo,Materiaal oppervlak,Groeven,Groeven,Ongewijzigd
+Mo,Materiaal oppervlak,Krassen,Krassen,Ongewijzigd
+Mo,Materiaal oppervlak,Verwering,Verwering,Ongewijzigd
+Mo,Materiaal oppervlak,Verzanding,Verzanding,Ongewijzigd
+Mo,Materiaal oppervlak,Oppervlakteschade,Oppervlakteschade,Ongewijzigd
+Mo,Materiaal oppervlak,Desintegratie,Desintegratie,Ongewijzigd
+Mo,Materiaal oppervlak,"Slijtage, mechanisch","Slijtage, mechanisch",Ongewijzigd
+Mo,Materiaal oppervlak,"Slijtage, sportvelden","Slijtage, sportvelden",Ongewijzigd
+Mo,Materiaal oppervlak,"Stam, beschadigd",,Vervallen
+Mo,Materiaal oppervlak,Wildschade,,Vervallen
+Mo,Materiaal oppervlak,"Aantasting, niet kritisch",,Vervallen
+Mo,Materiaal oppervlak,"Kroon, beschadigd",,Vervallen
+Mo,Materiaal oppervlak,"Wortels, beschadigd",,Vervallen
+Mo,Materiaal oppervlak,"Bedekkingsgraad, onvoldoende",,Vervallen
+Mi,Materiaalintrinsiek,Afschuiving,Afschuiving,Ongewijzigd
+Mi,Materiaalintrinsiek,Oeverafslag,Oeverafslag,Ongewijzigd
+Mi,Materiaalintrinsiek,Putcorrosie,Putcorrosie,Ongewijzigd
+Mi,Materiaalintrinsiek,Rafeling,Rafeling,Ongewijzigd
+Mi,Materiaalintrinsiek,Spleetcorrosie,Spleetcorrosie,Ongewijzigd
+Mi,Materiaalintrinsiek,Stroefheid,Stroefheid,Ongewijzigd
+Mi,Materiaalintrinsiek,Vergraving,Vergraving,Ongewijzigd
+Mi,Materiaalintrinsiek,Verpoederen,Verpoederen,Ongewijzigd
+Mi,Materiaalintrinsiek,Wapeningscorrosie,Wapeningscorrosie,Ongewijzigd
+Mi,Materiaalintrinsiek,Rafeling (ZOAB),Rafeling (ZOAB),Ongewijzigd
+Mi,Materiaalintrinsiek,Losliggend,Losliggend,Ongewijzigd
+Mi,Materiaalintrinsiek,Verzuring,Verzuring,Ongewijzigd
+Mi,Materiaalintrinsiek,"Materiaal, poreus","Materiaal, poreus",Ongewijzigd
+Mi,Materiaalintrinsiek,Onthechting,Onthechting,Ongewijzigd
+Mi,Materiaalintrinsiek,Verpulveren,Verpulveren,Ongewijzigd
+Mi,Materiaalintrinsiek,Houtrot,,Vervallen
+Mi,Materiaalintrinsiek,Verdroging,,Vervallen
+Mi,Materiaalintrinsiek,"Aantasting, kritisch",,Vervallen
+Mi,Materiaalintrinsiek,,Erosie,Toegevoegd
+Mi,Materiaalintrinsiek,,Gaten,Toegevoegd
+Nop,Niet optimaal,,Bloeiontwikkeling,Toegevoegd
+Ond,Onderhoud,Wortelingroei,Wortelingroei,Ongewijzigd
+Ond,Onderhoud,"Afzetting, aangehecht","Afzetting, aangehecht",Ongewijzigd
+Ond,Onderhoud,Bezinksel,Bezinksel,Ongewijzigd
+Ond,Onderhoud,Obstakels,Obstakels,Ongewijzigd
+Ond,Onderhoud,Verruiging,Verruiging,Ongewijzigd
+Ond,Onderhoud,"Afzetting, bezonken","Afzetting, bezonken",Ongewijzigd
+Ond,Onderhoud,"Insectenvraat, niet kritisch",,Vervallen
+Ond,Onderhoud,,"Begroeiing, ongewenst",Toegevoegd
+Ond,Onderhoud,,"Soortenrijkdom, onvoldoende",Toegevoegd
+Sti,Stilstand,,Bladverkleuring,Toegevoegd
+Sti,Stilstand,,Wondreactie,Toegevoegd
+Sti,Stilstand,,Stamontwikkeling,Toegevoegd
+Sti,Stilstand,,Bladontwikkeling,Toegevoegd
+Verv,Verval,"Theoretische levensduur, 100%","Theoretische levensduur, 100%",Ongewijzigd
+Verv,Verval,"Theoretische levensduur, tussen 50% en 75%","Theoretische levensduur, tussen 50% en 75%",Ongewijzigd
+Verv,Verval,"Theoretische levensduur, ouder dan 75%","Theoretische levensduur, ouder dan 75%",Ongewijzigd
+Wp,Werking primair,"Afdichting, defect","Afdichting, defect",Ongewijzigd
+Wp,Werking primair,"Afschot, foutief","Afschot, foutief",Ongewijzigd
+Wp,Werking primair,"Bevestiging, ontbreekt","Bevestiging, ontbreekt",Ongewijzigd
+Wp,Werking primair,"Dichtgroei, boomopslag","Dichtgroei, boomopslag",Ongewijzigd
+Wp,Werking primair,Dwarsonvlakheid,Dwarsonvlakheid,Ongewijzigd
+Wp,Werking primair,"Functie, afwezig","Functie, afwezig",Ongewijzigd
+Wp,Werking primair,Uitspoeling,Uitspoeling,Ongewijzigd
+Wp,Werking primair,Vergrassing,Vergrassing,Ongewijzigd
+Wp,Werking primair,Verstopping,Verstopping,Ongewijzigd
+Wp,Werking primair,Wellen (zandmeevoerend),Wellen (zandmeevoerend),Ongewijzigd
+Wp,Werking primair,"Verkeerstekens, onvoldoende","Verkeerstekens, onvoldoende",Ongewijzigd
+Wp,Werking primair,Kieren,Kieren,Ongewijzigd
+Wp,Werking primair,Infiltratie,Infiltratie,Ongewijzigd
+Wp,Werking primair,Spoordiepte,Spoordiepte,Ongewijzigd
+Wp,Werking primair,"Draagkracht bodem, onvoldoende","Draagkracht bodem, onvoldoende",Ongewijzigd
+Wp,Werking primair,Afsterving,,Vervallen
+Wp,Werking primair,"Boomvitaliteit, vermindering",,Vervallen
+Wp,Werking primair,"Bloeiontwikkeling, onvoldoende",,Vervallen
+Wp,Werking primair,"Top, dubbel",,Vervallen
+Wp,Werking primair,Plakoksel,,Vervallen
+Ws,Werking secundair,"Grasmat, beschadigd","Grasmat, beschadigd",Ongewijzigd
+Ws,Werking secundair,"Instelling, foutief","Instelling, foutief",Ongewijzigd
+Ws,Werking secundair,Kwelplek,Kwelplek,Ongewijzigd
+Ws,Werking secundair,"Trilling, overmatig","Trilling, overmatig",Ongewijzigd
+Ws,Werking secundair,"Warmte-ontwikkeling, overmatig","Warmte-ontwikkeling, overmatig",Ongewijzigd
+Ws,Werking secundair,Plasvorming,Plasvorming,Ongewijzigd
+Ws,Werking secundair,Verlanding,Verlanding,Ongewijzigd
+Ws,Werking secundair,"Verspreidingsweerstand, onjuist","Verspreidingsweerstand, onjuist",Ongewijzigd
+Ws,Werking secundair,"Voegwijdte, onjuist","Voegwijdte, onjuist",Ongewijzigd
+Ws,Werking secundair,"Capaciteit, verminderd","Capaciteit, verminderd",Ongewijzigd
+Ws,Werking secundair,"Snoeiwond, afgrendeling onjuist",,Vervallen

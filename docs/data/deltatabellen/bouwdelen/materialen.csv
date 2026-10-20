@@ -1,0 +1,3254 @@
+Nr,Code,Bouwdeel,Materiaal (oud),Materiaal (nieuw),Mutatie
+1,1003,Aandrijving,Mechaniek,Mechaniek,Ongewijzigd
+1,1003,Aandrijving,Elektrotechniek,Elektrotechniek,Ongewijzigd
+1,1003,Aandrijving,Hydrauliek,Hydrauliek,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Glas,Glas,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Kunststof,Kunststof,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Staal,Staal,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Zink,Zink,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Rubber,Rubber,Ongewijzigd
+2,1006,"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Koper,Koper,Ongewijzigd
+3,1007,"Aandrijving en bewegingswerk (elektromechanisch), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+3,1007,"Aandrijving en bewegingswerk (elektromechanisch), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+4,1008,"Aandrijving en bewegingswerk (mechanisch), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+5,1009,"Aanrijbalk, Algemeen",Hout,Hout,Ongewijzigd
+5,1009,"Aanrijbalk, Algemeen",Kunststof,Kunststof,Ongewijzigd
+5,1009,"Aanrijbalk, Algemeen",Staal,Staal,Ongewijzigd
+5,1009,"Aanrijbalk, Algemeen",Aluminium,Aluminium,Ongewijzigd
+5,1009,"Aanrijbalk, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+5,1009,"Aanrijbalk, Algemeen",Rubber,Rubber,Ongewijzigd
+6,1010,Aanslag,Hout,Hout,Ongewijzigd
+6,1010,Aanslag,Kunststof,Kunststof,Ongewijzigd
+6,1010,Aanslag,Staal,Staal,Ongewijzigd
+6,1010,Aanslag,Gietijzer,Gietijzer,Ongewijzigd
+6,1010,Aanslag,Metaal; overig,Metaal; overig,Ongewijzigd
+7,1011,Aansluitconstructie,Hout,Hout,Ongewijzigd
+7,1011,Aansluitconstructie,Beton,Beton,Ongewijzigd
+7,1011,Aansluitconstructie,Steen,Steen,Ongewijzigd
+7,1011,Aansluitconstructie,Kunststof,Kunststof,Ongewijzigd
+8,1013,Aansluitleiding,Steen,Steen,Ongewijzigd
+8,1013,Aansluitleiding,Kunststof,Kunststof,Ongewijzigd
+8,1013,Aansluitleiding,Staal,Staal,Ongewijzigd
+8,1013,Aansluitleiding,Gietijzer,Gietijzer,Ongewijzigd
+8,1013,Aansluitleiding,Metaal; overig,Metaal; overig,Ongewijzigd
+8,1013,Aansluitleiding,Rubber,Rubber,Ongewijzigd
+9,1014,Aanstraalverlichting,Kunststof,Kunststof,Ongewijzigd
+9,1014,Aanstraalverlichting,Elektrotechniek,Elektrotechniek,Ongewijzigd
+9,1014,Aanstraalverlichting,Aluminium,Aluminium,Ongewijzigd
+9,1014,Aanstraalverlichting,Metaal; overig,Metaal; overig,Ongewijzigd
+9,1014,Aanstraalverlichting,Rubber,Rubber,Ongewijzigd
+10,1015,Aardelektrode,Elektrotechniek,Elektrotechniek,Ongewijzigd
+11,1016,"Aarding- en bliksembeveiligingsinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+12,2089,Aardrail,Elektrotechniek,Elektrotechniek,Ongewijzigd
+12,2089,Aardrail,Staal,Staal,Ongewijzigd
+12,2089,Aardrail,Aluminium,Aluminium,Ongewijzigd
+12,2089,Aardrail,Koper,Koper,Ongewijzigd
+13,1018,Accu,Elektrotechniek,Elektrotechniek,Ongewijzigd
+14,1019,Achterbeplating fender,Hout,Hout,Ongewijzigd
+14,1019,Achterbeplating fender,Beton,Beton,Ongewijzigd
+14,1019,Achterbeplating fender,Kunststof,Kunststof,Ongewijzigd
+14,1019,Achterbeplating fender,Staal,Staal,Ongewijzigd
+14,1019,Achterbeplating fender,Aluminium,Aluminium,Ongewijzigd
+14,1019,Achterbeplating fender,Metaal; overig,Metaal; overig,Ongewijzigd
+15,1020,Achtergrondschild,Kunststof,Kunststof,Ongewijzigd
+15,1020,Achtergrondschild,Staal,Staal,Ongewijzigd
+15,1020,Achtergrondschild,Metaal; overig,Metaal; overig,Ongewijzigd
+16,1021,Achterloopheidscherm,Hout,Hout,Ongewijzigd
+16,1021,Achterloopheidscherm,Kunststof,Kunststof,Ongewijzigd
+16,1021,Achterloopheidscherm,Staal,Staal,Ongewijzigd
+17,1022,Achterplaat,Hout,Hout,Ongewijzigd
+17,1022,Achterplaat,Beton,Beton,Ongewijzigd
+17,1022,Achterplaat,Staal,Staal,Ongewijzigd
+17,1022,Achterplaat,Gietijzer,Gietijzer,Ongewijzigd
+17,1022,Achterplaat,Metaal; overig,Metaal; overig,Ongewijzigd
+18,2049,Afdekplaat,Beton,Beton,Ongewijzigd
+18,2049,Afdekplaat,Kunststof,Kunststof,Ongewijzigd
+18,2049,Afdekplaat,Staal,Staal,Ongewijzigd
+18,2049,Afdekplaat,Gietijzer,Gietijzer,Ongewijzigd
+19,1023,Afdichting,Kunststof,Kunststof,Ongewijzigd
+19,1023,Afdichting,Mechaniek,Mechaniek,Ongewijzigd
+19,1023,Afdichting,Elektrotechniek,Elektrotechniek,Ongewijzigd
+19,1023,Afdichting,Hydrauliek,Hydrauliek,Ongewijzigd
+19,1023,Afdichting,Metaal; overig,Metaal; overig,Ongewijzigd
+19,1023,Afdichting,Rubber,Rubber,Ongewijzigd
+19,1023,Afdichting,Koper,Koper,Ongewijzigd
+20,1024,Afdichtingsprofiel,Kunststof,Kunststof,Ongewijzigd
+20,1024,Afdichtingsprofiel,Asfalt,Asfalt,Ongewijzigd
+20,1024,Afdichtingsprofiel,Staal,Staal,Ongewijzigd
+20,1024,Afdichtingsprofiel,Gietijzer,Gietijzer,Ongewijzigd
+20,1024,Afdichtingsprofiel,Metaal; overig,Metaal; overig,Ongewijzigd
+20,1024,Afdichtingsprofiel,Rubber,Rubber,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Hout,Hout,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Beton,Beton,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Steen,Steen,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Glas,Glas,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Kunststof,Kunststof,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Asfalt,Asfalt,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Staal,Staal,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Aluminium,Aluminium,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Zink,Zink,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Rubber,Rubber,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Asfalt (open),Asfalt (open),Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Koper,Koper,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Kurk,Kurk,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Textiel,Textiel,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Vilt,Vilt,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Jute,Jute,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Emaille,Emaille,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Installaties,Installaties,Ongewijzigd
+21,1990,"Afmeervoorziening, Algemeen",Grind,Grind,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Hout,Hout,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Beton,Beton,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Steen,Steen,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Kunststof,Kunststof,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Staal,Staal,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Aluminium,Aluminium,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Rubber,Rubber,Ongewijzigd
+22,2076,"Afscheiding, Algemeen",Fauna,Fauna,Ongewijzigd
+23,1094,Afsluitboom,Hout,Hout,Ongewijzigd
+23,1094,Afsluitboom,Kunststof,Kunststof,Ongewijzigd
+23,1094,Afsluitboom,Staal,Staal,Ongewijzigd
+23,1094,Afsluitboom,Aluminium,Aluminium,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Hout,Hout,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Staal,Staal,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+24,1032,"Afsluitboominstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+25,1033,Afsluitboomverlichting,Kunststof,Kunststof,Ongewijzigd
+25,1033,Afsluitboomverlichting,Elektrotechniek,Elektrotechniek,Ongewijzigd
+25,1033,Afsluitboomverlichting,Staal,Staal,Ongewijzigd
+25,1033,Afsluitboomverlichting,Aluminium,Aluminium,Ongewijzigd
+26,1034,Afsluiter,Kunststof,Kunststof,Ongewijzigd
+26,1034,Afsluiter,Mechaniek,Mechaniek,Ongewijzigd
+26,1034,Afsluiter,Elektrotechniek,Elektrotechniek,Ongewijzigd
+26,1034,Afsluiter,Hydrauliek,Hydrauliek,Ongewijzigd
+26,1034,Afsluiter,Staal,Staal,Ongewijzigd
+26,1034,Afsluiter,Aluminium,Aluminium,Ongewijzigd
+26,1034,Afsluiter,Gietijzer,Gietijzer,Ongewijzigd
+26,1034,Afsluiter,Metaal; overig,Metaal; overig,Ongewijzigd
+26,1034,Afsluiter,Rubber,Rubber,Ongewijzigd
+26,1034,Afsluiter,Koper,Koper,Ongewijzigd
+27,1717,Afvalbak,Hout,Hout,Ongewijzigd
+27,1717,Afvalbak,Beton,Beton,Ongewijzigd
+27,1717,Afvalbak,Kunststof,Kunststof,Ongewijzigd
+27,1717,Afvalbak,Staal,Staal,Ongewijzigd
+27,1717,Afvalbak,Metaal; overig,Metaal; overig,Ongewijzigd
+28,1718,Afvalcontainer,Kunststof,Kunststof,Ongewijzigd
+28,1718,Afvalcontainer,Staal,Staal,Ongewijzigd
+28,1718,Afvalcontainer,Metaal; overig,Metaal; overig,Ongewijzigd
+29,1719,Afvoer,Beton,Beton,Ongewijzigd
+29,1719,Afvoer,Kunststof,Kunststof,Ongewijzigd
+29,1719,Afvoer,Staal,Staal,Ongewijzigd
+29,1719,Afvoer,Fauna,Fauna,Ongewijzigd
+30,1037,Anker,Staal,Staal,Ongewijzigd
+31,2084,Anode,Zink,Zink,Ongewijzigd
+32,1038,Antenne,Elektrotechniek,Elektrotechniek,Ongewijzigd
+32,1038,Antenne,Staal,Staal,Ongewijzigd
+32,1038,Antenne,Koper,Koper,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Hout,Hout,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Beton,Beton,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Steen,Steen,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Glas,Glas,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Kunststof,Kunststof,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Staal,Staal,Ongewijzigd
+33,1039,"Antivandalismevoorziening, Algemeen",Aluminium,Aluminium,Ongewijzigd
+34,2040,Antiverblindingsscherm,Kunststof,Kunststof,Ongewijzigd
+34,2040,Antiverblindingsscherm,Aluminium,Aluminium,Ongewijzigd
+34,2040,Antiverblindingsscherm,Rubber,Rubber,Ongewijzigd
+35,1040,Appendage,Hout,Hout,Ongewijzigd
+35,1040,Appendage,Beton,Beton,Ongewijzigd
+35,1040,Appendage,Steen,Steen,Ongewijzigd
+35,1040,Appendage,Kunststof,Kunststof,Ongewijzigd
+35,1040,Appendage,Mechaniek,Mechaniek,Ongewijzigd
+35,1040,Appendage,Elektrotechniek,Elektrotechniek,Ongewijzigd
+35,1040,Appendage,Hydrauliek,Hydrauliek,Ongewijzigd
+35,1040,Appendage,Staal,Staal,Ongewijzigd
+35,1040,Appendage,Aluminium,Aluminium,Ongewijzigd
+35,1040,Appendage,Zink,Zink,Ongewijzigd
+35,1040,Appendage,Gietijzer,Gietijzer,Ongewijzigd
+35,1040,Appendage,Metaal; overig,Metaal; overig,Ongewijzigd
+35,1040,Appendage,Rubber,Rubber,Ongewijzigd
+36,1041,Arm,Staal,Staal,Ongewijzigd
+36,1041,Arm,Aluminium,Aluminium,Ongewijzigd
+36,1041,Arm,Metaal; overig,Metaal; overig,Ongewijzigd
+37,1042,Armatuur,Kunststof,Kunststof,Ongewijzigd
+37,1042,Armatuur,Elektrotechniek,Elektrotechniek,Ongewijzigd
+37,1042,Armatuur,Staal,Staal,Ongewijzigd
+37,1042,Armatuur,Aluminium,Aluminium,Ongewijzigd
+37,1042,Armatuur,Rubber,Rubber,Ongewijzigd
+38,1044,Asfaltverharding,Asfalt,Asfalt,Ongewijzigd
+38,1044,Asfaltverharding,Granulaat,Granulaat,Ongewijzigd
+39,2197,Asfaltwapening,Glas,Glas,Ongewijzigd
+39,2197,Asfaltwapening,Kunststof,Kunststof,Ongewijzigd
+39,2197,Asfaltwapening,Staal,Staal,Ongewijzigd
+40,1046,Askoppeling,Kunststof,Kunststof,Ongewijzigd
+40,1046,Askoppeling,Mechaniek,Mechaniek,Ongewijzigd
+40,1046,Askoppeling,Hydrauliek,Hydrauliek,Ongewijzigd
+40,1046,Askoppeling,Staal,Staal,Ongewijzigd
+40,1046,Askoppeling,Rubber,Rubber,Ongewijzigd
+41,1047,Assenstelsel,Mechaniek,Mechaniek,Ongewijzigd
+41,1047,Assenstelsel,Hydrauliek,Hydrauliek,Ongewijzigd
+41,1047,Assenstelsel,Staal,Staal,Ongewijzigd
+41,1047,Assenstelsel,Metaal; overig,Metaal; overig,Ongewijzigd
+42,1724,Atletiekbaan,Kunststof,Kunststof,Ongewijzigd
+42,1724,Atletiekbaan,Gras,Gras,Ongewijzigd
+42,1724,Atletiekbaan,Grind,Grind,Ongewijzigd
+42,1724,Atletiekbaan,Zand,Zand,Ongewijzigd
+42,1724,Atletiekbaan,Gravel,Gravel,Ongewijzigd
+42,1724,Atletiekbaan,Kunstgras,Kunstgras,Ongewijzigd
+42,1724,Atletiekbaan,Granulaat,Granulaat,Ongewijzigd
+43,1725,Baanzool,Kunststof,Kunststof,Ongewijzigd
+43,1725,Baanzool,Gras,Gras,Ongewijzigd
+43,1725,Baanzool,Grind,Grind,Ongewijzigd
+43,1725,Baanzool,Zand,Zand,Ongewijzigd
+43,1725,Baanzool,Boomschors,Boomschors,Ongewijzigd
+43,1725,Baanzool,Kunstgras,Kunstgras,Ongewijzigd
+44,1726,Backstop honk- en softbal,Metaal; overig,Metaal; overig,Ongewijzigd
+45,2159,Bad,Hout,Hout,Ongewijzigd
+45,2159,Bad,Kunststof,Kunststof,Ongewijzigd
+45,2159,Bad,Staal,Staal,Ongewijzigd
+45,2159,Bad,Aluminium,Aluminium,Ongewijzigd
+45,2159,Bad,Koper,Koper,Ongewijzigd
+45,2159,Bad,Keramiek,Keramiek,Ongewijzigd
+46,2131,Bak,Hout,Hout,Ongewijzigd
+46,2131,Bak,Beton,Beton,Ongewijzigd
+46,2131,Bak,Steen,Steen,Ongewijzigd
+46,2131,Bak,Kunststof,Kunststof,Ongewijzigd
+46,2131,Bak,Mechaniek,Mechaniek,Ongewijzigd
+46,2131,Bak,Staal,Staal,Ongewijzigd
+46,2131,Bak,Aluminium,Aluminium,Ongewijzigd
+46,2131,Bak,Zink,Zink,Ongewijzigd
+46,2131,Bak,Rubber,Rubber,Ongewijzigd
+47,1713,Baken,Hout,Hout,Ongewijzigd
+47,1713,Baken,Kunststof,Kunststof,Ongewijzigd
+47,1713,Baken,Staal,Staal,Ongewijzigd
+48,1049,Balanspriem,Hout,Hout,Ongewijzigd
+48,1049,Balanspriem,Staal,Staal,Ongewijzigd
+48,1049,Balanspriem,Gietijzer,Gietijzer,Ongewijzigd
+48,1049,Balanspriem,Metaal; overig,Metaal; overig,Ongewijzigd
+49,1050,Balg,Kunststof,Kunststof,Ongewijzigd
+49,1050,Balg,Mechaniek,Mechaniek,Ongewijzigd
+49,1050,Balg,Staal,Staal,Ongewijzigd
+49,1050,Balg,Metaal; overig,Metaal; overig,Ongewijzigd
+49,1050,Balg,Rubber,Rubber,Ongewijzigd
+50,1051,Balk,Hout,Hout,Ongewijzigd
+50,1051,Balk,Beton,Beton,Ongewijzigd
+50,1051,Balk,Steen,Steen,Ongewijzigd
+50,1051,Balk,Staal,Staal,Ongewijzigd
+50,1051,Balk,Gietijzer,Gietijzer,Ongewijzigd
+50,1051,Balk,Metaal; overig,Metaal; overig,Ongewijzigd
+51,2090,Ballastweerstand,Kunststof,Kunststof,Ongewijzigd
+51,2090,Ballastweerstand,Elektrotechniek,Elektrotechniek,Ongewijzigd
+51,2090,Ballastweerstand,Staal,Staal,Ongewijzigd
+51,2090,Ballastweerstand,Aluminium,Aluminium,Ongewijzigd
+51,2090,Ballastweerstand,Rubber,Rubber,Ongewijzigd
+52,1728,Ballenvanger,Kunststof,Kunststof,Ongewijzigd
+52,1728,Ballenvanger,Metaal; overig,Metaal; overig,Ongewijzigd
+53,2093,Ballon,Kunststof,Kunststof,Ongewijzigd
+53,2093,Ballon,Mechaniek,Mechaniek,Ongewijzigd
+53,2093,Ballon,Metaal; overig,Metaal; overig,Ongewijzigd
+53,2093,Ballon,Rubber,Rubber,Ongewijzigd
+54,2036,Bank,Hout,Hout,Ongewijzigd
+54,2036,Bank,Beton,Beton,Ongewijzigd
+54,2036,Bank,Steen,Steen,Ongewijzigd
+54,2036,Bank,Kunststof,Kunststof,Ongewijzigd
+54,2036,Bank,Staal,Staal,Ongewijzigd
+54,2036,Bank,Aluminium,Aluminium,Ongewijzigd
+54,2036,Bank,Gietijzer,Gietijzer,Ongewijzigd
+54,2036,Bank,Metaal; overig,Metaal; overig,Ongewijzigd
+54,2036,Bank,Rubber,Rubber,Ongewijzigd
+54,2036,Bank,Grind,Grind,Ongewijzigd
+54,2036,Bank,Boomschors,Boomschors,Ongewijzigd
+54,2036,Bank,Kunstgras,Kunstgras,Ongewijzigd
+55,2058,Banket,Beton,Beton,Ongewijzigd
+55,2058,Banket,Steen,Steen,Ongewijzigd
+55,2058,Banket,Kunststof,Kunststof,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Hout,Hout,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Beton,Beton,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Steen,Steen,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Kunststof,Kunststof,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Staal,Staal,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+56,1667,"Basculekelder, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+57,1730,Basketbalpaal,Hout,Hout,Ongewijzigd
+57,1730,Basketbalpaal,Kunststof,Kunststof,Ongewijzigd
+57,1730,Basketbalpaal,Aluminium,Aluminium,Ongewijzigd
+57,1730,Basketbalpaal,Metaal; overig,Metaal; overig,Ongewijzigd
+58,1731,Basketbalveld,Steen,Steen,Ongewijzigd
+58,1731,Basketbalveld,Kunststof,Kunststof,Ongewijzigd
+58,1731,Basketbalveld,Asfalt,Asfalt,Ongewijzigd
+58,1731,Basketbalveld,Gras,Gras,Ongewijzigd
+59,1732,Beachvolleyveld,Kunststof,Kunststof,Ongewijzigd
+59,1732,Beachvolleyveld,Gras,Gras,Ongewijzigd
+59,1732,Beachvolleyveld,Grind,Grind,Ongewijzigd
+59,1732,Beachvolleyveld,Zand,Zand,Ongewijzigd
+59,1732,Beachvolleyveld,Kunstgras,Kunstgras,Ongewijzigd
+60,1054,"Bebording/bewegwijzering (statisch), Algemeen",Hout,Hout,Ongewijzigd
+60,1054,"Bebording/bewegwijzering (statisch), Algemeen",Kunststof,Kunststof,Ongewijzigd
+60,1054,"Bebording/bewegwijzering (statisch), Algemeen",Staal,Staal,Ongewijzigd
+60,1054,"Bebording/bewegwijzering (statisch), Algemeen",Aluminium,Aluminium,Ongewijzigd
+60,1054,"Bebording/bewegwijzering (statisch), Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+61,1056,"Bedienings- en besturingssysteem, Algemeen",Kunststof,Kunststof,Ongewijzigd
+61,1056,"Bedienings- en besturingssysteem, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+61,1056,"Bedienings- en besturingssysteem, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+61,1056,"Bedienings- en besturingssysteem, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+61,1056,"Bedienings- en besturingssysteem, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+61,1056,"Bedienings- en besturingssysteem, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+62,1057,Bedieningspaneel,Kunststof,Kunststof,Ongewijzigd
+62,1057,Bedieningspaneel,Mechaniek,Mechaniek,Ongewijzigd
+62,1057,Bedieningspaneel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+62,1057,Bedieningspaneel,Hydrauliek,Hydrauliek,Ongewijzigd
+62,1057,Bedieningspaneel,Staal,Staal,Ongewijzigd
+62,1057,Bedieningspaneel,Aluminium,Aluminium,Ongewijzigd
+62,1057,Bedieningspaneel,Pneumatiek,Pneumatiek,Ongewijzigd
+63,2151,Beglazing,Glas,Glas,Ongewijzigd
+64,1060,Begroeiing,Gras,Gras,Ongewijzigd
+64,1060,Begroeiing,Beplanting,Beplanting,Ongewijzigd
+64,1060,Begroeiing,Fauna,Fauna,Ongewijzigd
+65,1962,"Begroeiingsvrij gebied, Algemeen",Zand,Zand,Ongewijzigd
+66,1062,Bekabeling,Kunststof,Kunststof,Ongewijzigd
+66,1062,Bekabeling,Elektrotechniek,Elektrotechniek,Ongewijzigd
+66,1062,Bekabeling,Staal,Staal,Ongewijzigd
+66,1062,Bekabeling,Aluminium,Aluminium,Ongewijzigd
+66,1062,Bekabeling,Rubber,Rubber,Ongewijzigd
+66,1062,Bekabeling,Koper,Koper,Ongewijzigd
+67,2206,Bekleding,Beton,Beton,Ongewijzigd
+67,2206,Bekleding,Steen,Steen,Ongewijzigd
+67,2206,Bekleding,Kunststof,Kunststof,Ongewijzigd
+67,2206,Bekleding,Gras,Gras,Ongewijzigd
+67,2206,Bekleding,Staal,Staal,Ongewijzigd
+67,2206,Bekleding,Metaal; overig,Metaal; overig,Ongewijzigd
+67,2206,Bekleding,Beplanting,Beplanting,Ongewijzigd
+67,2206,Bekleding,Stortsteen,Stortsteen,Ongewijzigd
+67,2206,Bekleding,Zetsteen,Zetsteen,Ongewijzigd
+67,2206,Bekleding,,Kruidachtige vegetatie,Toegevoegd
+67,2206,Bekleding,,Houtige vegetatie,Toegevoegd
+68,1736,Belijning,Kunststof,Kunststof,Ongewijzigd
+68,1736,Belijning,Wegenverf,Wegenverf,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Beton,Beton,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+69,2095,"Beluchtingsinstallatie, Algemeen",Installaties,Installaties,Ongewijzigd
+70,2166,Beplating,Staal,Staal,Ongewijzigd
+71,1067,"Berm, Algemeen",Steen,,Vervallen
+71,1067,"Berm, Algemeen",Asfalt,,Vervallen
+71,1067,"Berm, Algemeen",Grond,,Vervallen
+71,1067,"Berm, Algemeen",Gras,,Vervallen
+71,1067,"Berm, Algemeen",Asfalt (open),,Vervallen
+71,1067,"Berm, Algemeen",Beplanting,,Vervallen
+71,1067,"Berm, Algemeen",Granulaat,,Vervallen
+72,1976,Beschermconstructie,Hout,Hout,Ongewijzigd
+72,1976,Beschermconstructie,Beton,Beton,Ongewijzigd
+72,1976,Beschermconstructie,Kunststof,Kunststof,Ongewijzigd
+72,1976,Beschermconstructie,Mechaniek,Mechaniek,Ongewijzigd
+72,1976,Beschermconstructie,Elektrotechniek,Elektrotechniek,Ongewijzigd
+72,1976,Beschermconstructie,Staal,Staal,Ongewijzigd
+72,1976,Beschermconstructie,Aluminium,Aluminium,Ongewijzigd
+72,1976,Beschermconstructie,Gietijzer,Gietijzer,Ongewijzigd
+72,1976,Beschermconstructie,Metaal; overig,Metaal; overig,Ongewijzigd
+72,1976,Beschermconstructie,Rubber,Rubber,Ongewijzigd
+73,1988,Beschermkap,Hout,Hout,Ongewijzigd
+73,1988,Beschermkap,Kunststof,Kunststof,Ongewijzigd
+73,1988,Beschermkap,Staal,Staal,Ongewijzigd
+73,1988,Beschermkap,Aluminium,Aluminium,Ongewijzigd
+73,1988,Beschermkap,Gietijzer,Gietijzer,Ongewijzigd
+73,1988,Beschermkap,Metaal; overig,Metaal; overig,Ongewijzigd
+73,1988,Beschermkap,Rubber,Rubber,Ongewijzigd
+73,1988,Beschermkap,Koper,Koper,Ongewijzigd
+74,2073,Beschermlaag,Kunststof,Kunststof,Ongewijzigd
+74,2073,Beschermlaag,Rubber,Rubber,Ongewijzigd
+74,2073,Beschermlaag,Vilt,Vilt,Ongewijzigd
+74,2073,Beschermlaag,Emaille,Emaille,Ongewijzigd
+74,2073,Beschermlaag,Grind,Grind,Ongewijzigd
+75,1068,Beschoeiing,Hout,Hout,Ongewijzigd
+75,1068,Beschoeiing,Beton,Beton,Ongewijzigd
+75,1068,Beschoeiing,Kunststof,Kunststof,Ongewijzigd
+75,1068,Beschoeiing,Staal,Staal,Ongewijzigd
+76,1070,Betonverharding,Cementbeton,Cementbeton,Ongewijzigd
+77,1071,Bevestiging,Beton,Beton,Ongewijzigd
+77,1071,Bevestiging,Kunststof,Kunststof,Ongewijzigd
+77,1071,Bevestiging,Staal,Staal,Ongewijzigd
+77,1071,Bevestiging,Metaal; overig,Metaal; overig,Ongewijzigd
+78,1072,Bewegingswerk,Mechaniek,Mechaniek,Ongewijzigd
+78,1072,Bewegingswerk,Elektrotechniek,Elektrotechniek,Ongewijzigd
+79,1073,Bewegwijzeringsbord,Hout,Hout,Ongewijzigd
+79,1073,Bewegwijzeringsbord,Kunststof,Kunststof,Ongewijzigd
+79,1073,Bewegwijzeringsbord,Staal,Staal,Ongewijzigd
+79,1073,Bewegwijzeringsbord,Aluminium,Aluminium,Ongewijzigd
+79,1073,Bewegwijzeringsbord,Metaal; overig,Metaal; overig,Ongewijzigd
+80,1059,Beëindigingsprofiel,Beton,Beton,Ongewijzigd
+80,1059,Beëindigingsprofiel,Staal,Staal,Ongewijzigd
+80,1059,Beëindigingsprofiel,Gietijzer,Gietijzer,Ongewijzigd
+80,1059,Beëindigingsprofiel,Metaal; overig,Metaal; overig,Ongewijzigd
+81,1739,Biezenvegetatie,Gras,,Vervallen
+81,1739,Biezenvegetatie,Fauna,,Vervallen
+82,1074,"Binnenverlichting, Algemeen",Kunststof,Kunststof,Ongewijzigd
+82,1074,"Binnenverlichting, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+82,1074,"Binnenverlichting, Algemeen",Aluminium,Aluminium,Ongewijzigd
+82,1074,"Binnenverlichting, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+82,1074,"Binnenverlichting, Algemeen",Rubber,Rubber,Ongewijzigd
+83,2088,Bliksemafleider,Elektrotechniek,Elektrotechniek,Ongewijzigd
+83,2088,Bliksemafleider,Staal,Staal,Ongewijzigd
+83,2088,Bliksemafleider,Aluminium,Aluminium,Ongewijzigd
+83,2088,Bliksemafleider,Koper,Koper,Ongewijzigd
+84,2024,Bloembak,Hout,Hout,Ongewijzigd
+84,2024,Bloembak,Steen,Steen,Ongewijzigd
+84,2024,Bloembak,Kunststof,Kunststof,Ongewijzigd
+84,2024,Bloembak,Staal,Staal,Ongewijzigd
+84,2024,Bloembak,Zink,Zink,Ongewijzigd
+84,2024,Bloembak,Gietijzer,Gietijzer,Ongewijzigd
+84,2024,Bloembak,Metaal; overig,Metaal; overig,Ongewijzigd
+84,2024,Bloembak,Keramiek,Keramiek,Ongewijzigd
+85,1075,Blokkenmuur,Beton,Beton,Ongewijzigd
+85,1075,Blokkenmuur,Steen,Steen,Ongewijzigd
+85,1075,Blokkenmuur,Kunststof,Kunststof,Ongewijzigd
+86,1078,Bodem (waterbodem),Hout,Hout,Ongewijzigd
+86,1078,Bodem (waterbodem),Beton,Beton,Ongewijzigd
+86,1078,Bodem (waterbodem),Steen,Steen,Ongewijzigd
+86,1078,Bodem (waterbodem),Kunststof,Kunststof,Ongewijzigd
+86,1078,Bodem (waterbodem),Asfalt,Asfalt,Ongewijzigd
+86,1078,Bodem (waterbodem),Grond,Grond,Ongewijzigd
+86,1078,Bodem (waterbodem),Gras,Gras,Ongewijzigd
+86,1078,Bodem (waterbodem),Beplanting,Beplanting,Ongewijzigd
+86,1078,Bodem (waterbodem),,Kruidachtige vegetatie,Toegevoegd
+87,1077,"Bodem, Algemeen",Hout,Hout,Ongewijzigd
+87,1077,"Bodem, Algemeen",Beton,Beton,Ongewijzigd
+87,1077,"Bodem, Algemeen",Steen,Steen,Ongewijzigd
+87,1077,"Bodem, Algemeen",Kunststof,Kunststof,Ongewijzigd
+87,1077,"Bodem, Algemeen",Asfalt,Asfalt,Ongewijzigd
+87,1077,"Bodem, Algemeen",Grond,Grond,Ongewijzigd
+87,1077,"Bodem, Algemeen",Gras,Gras,Ongewijzigd
+87,1077,"Bodem, Algemeen",Beplanting,Beplanting,Ongewijzigd
+88,1740,Bodembedekkende heester,Beplanting,,Vervallen
+89,2212,Bodembedekker,,Houtige vegetatie,Toegevoegd
+90,1086,"Bodembescherming, Algemeen",Beton,Beton,Ongewijzigd
+90,1086,"Bodembescherming, Algemeen",Steen,Steen,Ongewijzigd
+90,1086,"Bodembescherming, Algemeen",Asfalt,Asfalt,Ongewijzigd
+90,1086,"Bodembescherming, Algemeen",Asfalt (open),Asfalt (open),Ongewijzigd
+91,1087,Bodemstabilisatie,Beton,Beton,Ongewijzigd
+91,1087,Bodemstabilisatie,Steen,Steen,Ongewijzigd
+91,1087,Bodemstabilisatie,Grond,Grond,Ongewijzigd
+92,1090,Boei,Kunststof,Kunststof,Ongewijzigd
+92,1090,Boei,Staal,Staal,Ongewijzigd
+93,2082,Boeienlijn,Kunststof,Kunststof,Ongewijzigd
+93,2082,Boeienlijn,Staal,Staal,Ongewijzigd
+94,2162,Boiler,Kunststof,Kunststof,Ongewijzigd
+94,2162,Boiler,Staal,Staal,Ongewijzigd
+94,2162,Boiler,Aluminium,Aluminium,Ongewijzigd
+94,2162,Boiler,Rubber,Rubber,Ongewijzigd
+94,2162,Boiler,Koper,Koper,Ongewijzigd
+95,1091,Bolder,Beton,Beton,Ongewijzigd
+95,1091,Bolder,Staal,Staal,Ongewijzigd
+95,1091,Bolder,Gietijzer,Gietijzer,Ongewijzigd
+95,1091,Bolder,Metaal; overig,Metaal; overig,Ongewijzigd
+96,1742,Bollen,Beplanting,,Vervallen
+97,1092,Bomen/houtopstanden,Bomen,,Vervallen
+97,1092,Bomen/houtopstanden,Fauna,,Vervallen
+98,1744,Bomenlaan,Bomen,,Vervallen
+98,1744,Bomenlaan,Fauna,,Vervallen
+99,1745,Bomenrij,Bomen,,Vervallen
+99,1745,Bomenrij,Fauna,,Vervallen
+100,1093,Boog,Hout,Hout,Ongewijzigd
+100,1093,Boog,Beton,Beton,Ongewijzigd
+100,1093,Boog,Staal,Staal,Ongewijzigd
+100,1093,Boog,Gietijzer,Gietijzer,Ongewijzigd
+100,1093,Boog,Metaal; overig,Metaal; overig,Ongewijzigd
+101,1743,Boom,Bomen,,Vervallen
+101,1743,Boom,,Houtige vegetatie,Toegevoegd
+102,2021,Boombak,Hout,Hout,Ongewijzigd
+102,2021,Boombak,Steen,Steen,Ongewijzigd
+102,2021,Boombak,Kunststof,Kunststof,Ongewijzigd
+102,2021,Boombak,Staal,Staal,Ongewijzigd
+102,2021,Boombak,Zink,Zink,Ongewijzigd
+102,2021,Boombak,Gietijzer,Gietijzer,Ongewijzigd
+102,2021,Boombak,Metaal; overig,Metaal; overig,Ongewijzigd
+102,2021,Boombak,Keramiek,Keramiek,Ongewijzigd
+103,2011,Boomgeleiding,Hout,,Vervallen
+103,2011,Boomgeleiding,Beton,,Vervallen
+103,2011,Boomgeleiding,Kunststof,,Vervallen
+103,2011,Boomgeleiding,Staal,,Vervallen
+103,2011,Boomgeleiding,Rubber,,Vervallen
+104,1748,Boomweide,Bomen,,Vervallen
+105,1095,Bordes,Hout,Hout,Ongewijzigd
+105,1095,Bordes,Beton,Beton,Ongewijzigd
+105,1095,Bordes,Steen,Steen,Ongewijzigd
+105,1095,Bordes,Staal,Staal,Ongewijzigd
+105,1095,Bordes,Metaal; overig,Metaal; overig,Ongewijzigd
+106,2096,Borstel,Kunststof,Kunststof,Ongewijzigd
+106,2096,Borstel,Mechaniek,Mechaniek,Ongewijzigd
+106,2096,Borstel,Staal,Staal,Ongewijzigd
+106,2096,Borstel,Metaal; overig,Metaal; overig,Ongewijzigd
+106,2096,Borstel,Rubber,Rubber,Ongewijzigd
+106,2096,Borstel,Installaties,Installaties,Ongewijzigd
+107,2039,"Borstwering, Algemeen",Hout,Hout,Ongewijzigd
+107,2039,"Borstwering, Algemeen",Beton,Beton,Ongewijzigd
+107,2039,"Borstwering, Algemeen",Steen,Steen,Ongewijzigd
+107,2039,"Borstwering, Algemeen",Staal,Staal,Ongewijzigd
+108,1751,Botanische rozen,Beplanting,,Vervallen
+109,1752,Bouwakker,Grond,Grond,Ongewijzigd
+110,1099,Bovenleiding,Kunststof,Kunststof,Ongewijzigd
+110,1099,Bovenleiding,Elektrotechniek,Elektrotechniek,Ongewijzigd
+110,1099,Bovenleiding,Aluminium,Aluminium,Ongewijzigd
+110,1099,Bovenleiding,Koper,Koper,Ongewijzigd
+111,1101,"Brandblusinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+111,1101,"Brandblusinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+111,1101,"Brandblusinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+111,1101,"Brandblusinstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+111,1101,"Brandblusinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+112,1100,Brandblusser,Kunststof,Kunststof,Ongewijzigd
+112,1100,Brandblusser,Staal,Staal,Ongewijzigd
+113,1754,Brandgang,Grond,Grond,Ongewijzigd
+113,1754,Brandgang,Zand,Zand,Ongewijzigd
+114,1102,"Brandmeld- en ontruimingsinstallatie (BMI), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+115,2204,Brandslang,Kunststof,Kunststof,Ongewijzigd
+115,2204,Brandslang,Staal,Staal,Ongewijzigd
+115,2204,Brandslang,Rubber,Rubber,Ongewijzigd
+116,1103,Brandstofcel,Kunststof,Kunststof,Ongewijzigd
+116,1103,Brandstofcel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+117,1104,Brandstofunit,Kunststof,Kunststof,Ongewijzigd
+117,1104,Brandstofunit,Staal,Staal,Ongewijzigd
+118,1755,Broedgat,Hout,Hout,Ongewijzigd
+118,1755,Broedgat,Beton,Beton,Ongewijzigd
+118,1755,Broedgat,Steen,Steen,Ongewijzigd
+118,1755,Broedgat,Kunststof,Kunststof,Ongewijzigd
+118,1755,Broedgat,Grond,Grond,Ongewijzigd
+118,1755,Broedgat,Staal,Staal,Ongewijzigd
+118,1755,Broedgat,Metaal; overig,Metaal; overig,Ongewijzigd
+118,1755,Broedgat,Fauna,Fauna,Ongewijzigd
+119,2019,Broeihoop,Fauna,Fauna,Ongewijzigd
+120,1106,Buffer,Kunststof,Kunststof,Ongewijzigd
+120,1106,Buffer,Hydrauliek,Hydrauliek,Ongewijzigd
+120,1106,Buffer,Staal,Staal,Ongewijzigd
+120,1106,Buffer,Metaal; overig,Metaal; overig,Ongewijzigd
+121,2053,Buisaansluiting,Beton,Beton,Ongewijzigd
+121,2053,Buisaansluiting,Kunststof,Kunststof,Ongewijzigd
+121,2053,Buisaansluiting,Staal,Staal,Ongewijzigd
+121,2053,Buisaansluiting,Gietijzer,Gietijzer,Ongewijzigd
+121,2053,Buisaansluiting,Keramiek,Keramiek,Ongewijzigd
+122,2097,Buisbeluchter,Kunststof,Kunststof,Ongewijzigd
+122,2097,Buisbeluchter,Staal,Staal,Ongewijzigd
+122,2097,Buisbeluchter,Metaal; overig,Metaal; overig,Ongewijzigd
+122,2097,Buisbeluchter,Rubber,Rubber,Ongewijzigd
+123,1331,Buisleiding,Beton,Beton,Ongewijzigd
+123,1331,Buisleiding,Steen,Steen,Ongewijzigd
+123,1331,Buisleiding,Kunststof,Kunststof,Ongewijzigd
+123,1331,Buisleiding,Hydrauliek,Hydrauliek,Ongewijzigd
+123,1331,Buisleiding,Staal,Staal,Ongewijzigd
+123,1331,Buisleiding,Aluminium,Aluminium,Ongewijzigd
+123,1331,Buisleiding,Gietijzer,Gietijzer,Ongewijzigd
+123,1331,Buisleiding,Metaal; overig,Metaal; overig,Ongewijzigd
+123,1331,Buisleiding,Rubber,Rubber,Ongewijzigd
+123,1331,Buisleiding,Pneumatiek,Pneumatiek,Ongewijzigd
+123,1331,Buisleiding,Fauna,Fauna,Ongewijzigd
+123,1331,Buisleiding,Keramiek,Keramiek,Ongewijzigd
+124,1110,Caisson,Beton,Beton,Ongewijzigd
+124,1110,Caisson,Steen,Steen,Ongewijzigd
+125,1109,"Calamiteiten Doorsteek installatie (CADO), Algemeen",Kunststof,Kunststof,Ongewijzigd
+125,1109,"Calamiteiten Doorsteek installatie (CADO), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+125,1109,"Calamiteiten Doorsteek installatie (CADO), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+125,1109,"Calamiteiten Doorsteek installatie (CADO), Algemeen",Staal,Staal,Ongewijzigd
+125,1109,"Calamiteiten Doorsteek installatie (CADO), Algemeen",Aluminium,Aluminium,Ongewijzigd
+126,2080,Camera (beweegbaar),Mechaniek,Mechaniek,Ongewijzigd
+126,2080,Camera (beweegbaar),Elektrotechniek,Elektrotechniek,Ongewijzigd
+127,2079,Camera (vast),Elektrotechniek,Elektrotechniek,Ongewijzigd
+128,1116,Centrale,Kunststof,Kunststof,Ongewijzigd
+128,1116,Centrale,Elektrotechniek,Elektrotechniek,Ongewijzigd
+129,1671,"Centrale Antenne Installatie (CAI), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+129,1671,"Centrale Antenne Installatie (CAI), Algemeen",Staal,Staal,Ongewijzigd
+129,1671,"Centrale Antenne Installatie (CAI), Algemeen",Koper,Koper,Ongewijzigd
+130,1118,Centrale-deurontgrendeling,Mechaniek,Mechaniek,Ongewijzigd
+130,1118,Centrale-deurontgrendeling,Elektrotechniek,Elektrotechniek,Ongewijzigd
+131,2120,Centrifuge,Kunststof,Kunststof,Ongewijzigd
+131,2120,Centrifuge,Mechaniek,Mechaniek,Ongewijzigd
+131,2120,Centrifuge,Hydrauliek,Hydrauliek,Ongewijzigd
+131,2120,Centrifuge,Staal,Staal,Ongewijzigd
+131,2120,Centrifuge,Gietijzer,Gietijzer,Ongewijzigd
+131,2120,Centrifuge,Metaal; overig,Metaal; overig,Ongewijzigd
+131,2120,Centrifuge,Rubber,Rubber,Ongewijzigd
+131,2120,Centrifuge,Installaties,Installaties,Ongewijzigd
+131,2120,Centrifuge,Keramiek,Keramiek,Ongewijzigd
+132,1119,Cilinder,Glas,Glas,Ongewijzigd
+132,1119,Cilinder,Mechaniek,Mechaniek,Ongewijzigd
+132,1119,Cilinder,Hydrauliek,Hydrauliek,Ongewijzigd
+132,1119,Cilinder,Staal,Staal,Ongewijzigd
+132,1119,Cilinder,Metaal; overig,Metaal; overig,Ongewijzigd
+133,1115,"Closed Circuit TeleVision installatie (CCTV installatie), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+134,1120,Coaxstralers (tunnelbekabeling),Kunststof,Kunststof,Ongewijzigd
+134,1120,Coaxstralers (tunnelbekabeling),Elektrotechniek,Elektrotechniek,Ongewijzigd
+134,1120,Coaxstralers (tunnelbekabeling),Aluminium,Aluminium,Ongewijzigd
+134,1120,Coaxstralers (tunnelbekabeling),Koper,Koper,Ongewijzigd
+135,1756,Columbarium (urnenmuur),Beton,Beton,Ongewijzigd
+135,1756,Columbarium (urnenmuur),Steen,Steen,Ongewijzigd
+135,1756,Columbarium (urnenmuur),Kunststof,Kunststof,Ongewijzigd
+136,1757,Combinatietoestel,Hout,Hout,Ongewijzigd
+136,1757,Combinatietoestel,Beton,Beton,Ongewijzigd
+136,1757,Combinatietoestel,Kunststof,Kunststof,Ongewijzigd
+136,1757,Combinatietoestel,Staal,Staal,Ongewijzigd
+136,1757,Combinatietoestel,Aluminium,Aluminium,Ongewijzigd
+136,1757,Combinatietoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+137,1121,Combiwand,Staal,Staal,Ongewijzigd
+138,2098,Compensator,Kunststof,Kunststof,Ongewijzigd
+138,2098,Compensator,Mechaniek,Mechaniek,Ongewijzigd
+138,2098,Compensator,Staal,Staal,Ongewijzigd
+138,2098,Compensator,Metaal; overig,Metaal; overig,Ongewijzigd
+138,2098,Compensator,Rubber,Rubber,Ongewijzigd
+139,1122,Compressor,Kunststof,Kunststof,Ongewijzigd
+139,1122,Compressor,Mechaniek,Mechaniek,Ongewijzigd
+139,1122,Compressor,Elektrotechniek,Elektrotechniek,Ongewijzigd
+140,1123,"Compressorinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+140,1123,"Compressorinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+141,1124,Connector,Elektrotechniek,Elektrotechniek,Ongewijzigd
+142,1126,Console,Hout,Hout,Ongewijzigd
+142,1126,Console,Beton,Beton,Ongewijzigd
+142,1126,Console,Staal,Staal,Ongewijzigd
+142,1126,Console,Gietijzer,Gietijzer,Ongewijzigd
+142,1126,Console,Metaal; overig,Metaal; overig,Ongewijzigd
+143,1131,Contragewicht,Hout,Hout,Ongewijzigd
+143,1131,Contragewicht,Beton,Beton,Ongewijzigd
+143,1131,Contragewicht,Staal,Staal,Ongewijzigd
+143,1131,Contragewicht,Gietijzer,Gietijzer,Ongewijzigd
+143,1131,Contragewicht,Metaal; overig,Metaal; overig,Ongewijzigd
+144,1132,Dak,Hout,Hout,Ongewijzigd
+144,1132,Dak,Beton,Beton,Ongewijzigd
+144,1132,Dak,Steen,Steen,Ongewijzigd
+144,1132,Dak,Kunststof,Kunststof,Ongewijzigd
+144,1132,Dak,Staal,Staal,Ongewijzigd
+144,1132,Dak,Aluminium,Aluminium,Ongewijzigd
+144,1132,Dak,Gietijzer,Gietijzer,Ongewijzigd
+144,1132,Dak,Metselwerk,Metselwerk,Ongewijzigd
+145,2147,Dakafwerking,Hout,Hout,Ongewijzigd
+145,2147,Dakafwerking,Glas,Glas,Ongewijzigd
+145,2147,Dakafwerking,Kunststof,Kunststof,Ongewijzigd
+145,2147,Dakafwerking,Gras,Gras,Ongewijzigd
+145,2147,Dakafwerking,Staal,Staal,Ongewijzigd
+145,2147,Dakafwerking,Aluminium,Aluminium,Ongewijzigd
+145,2147,Dakafwerking,Grind,Grind,Ongewijzigd
+145,2147,Dakafwerking,Beplanting,Beplanting,Ongewijzigd
+145,2147,Dakafwerking,Bitumen,Bitumen,Ongewijzigd
+145,2147,Dakafwerking,Riet,Riet,Ongewijzigd
+146,1133,Damwand,Hout,Hout,Ongewijzigd
+146,1133,Damwand,Beton,Beton,Ongewijzigd
+146,1133,Damwand,Kunststof,Kunststof,Ongewijzigd
+146,1133,Damwand,Staal,Staal,Ongewijzigd
+146,1133,Damwand,Gietijzer,Gietijzer,Ongewijzigd
+146,1133,Damwand,Metaal; overig,Metaal; overig,Ongewijzigd
+147,1135,Damwand (0nderwatertalud),Hout,Hout,Ongewijzigd
+147,1135,Damwand (0nderwatertalud),Beton,Beton,Ongewijzigd
+147,1135,Damwand (0nderwatertalud),Kunststof,Kunststof,Ongewijzigd
+147,1135,Damwand (0nderwatertalud),Staal,Staal,Ongewijzigd
+147,1135,Damwand (0nderwatertalud),Gietijzer,Gietijzer,Ongewijzigd
+147,1135,Damwand (0nderwatertalud),Metaal; overig,Metaal; overig,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Hout,Hout,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Beton,Beton,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Kunststof,Kunststof,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Gras,Gras,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Staal,Staal,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Gietijzer,Gietijzer,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Metaal; overig,Metaal; overig,Ongewijzigd
+148,1134,Damwand (bovenwatertalud),Beplanting,Beplanting,Ongewijzigd
+149,2081,"Dataloginstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+150,1140,Dek,Hout,Hout,Ongewijzigd
+150,1140,Dek,Beton,Beton,Ongewijzigd
+150,1140,Dek,Steen,Steen,Ongewijzigd
+150,1140,Dek,Staal,Staal,Ongewijzigd
+151,2173,Deklaag (dicht),Asfaltbeton,Asfaltbeton,Ongewijzigd
+151,2173,Deklaag (dicht),Cementbeton,Cementbeton,Ongewijzigd
+152,2174,Deklaag (open),Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+153,1759,Deksel,Hout,Hout,Ongewijzigd
+153,1759,Deksel,Beton,Beton,Ongewijzigd
+153,1759,Deksel,Kunststof,Kunststof,Ongewijzigd
+153,1759,Deksel,Staal,Staal,Ongewijzigd
+153,1759,Deksel,Aluminium,Aluminium,Ongewijzigd
+153,1759,Deksel,Gietijzer,Gietijzer,Ongewijzigd
+153,1759,Deksel,Metaal; overig,Metaal; overig,Ongewijzigd
+153,1759,Deksel,Fauna,Fauna,Ongewijzigd
+154,1141,Dekzerkprofiel,Beton,Beton,Ongewijzigd
+154,1141,Dekzerkprofiel,Steen,Steen,Ongewijzigd
+154,1141,Dekzerkprofiel,Staal,Staal,Ongewijzigd
+154,1141,Dekzerkprofiel,Aluminium,Aluminium,Ongewijzigd
+154,1141,Dekzerkprofiel,Gietijzer,Gietijzer,Ongewijzigd
+154,1141,Dekzerkprofiel,Metaal; overig,Metaal; overig,Ongewijzigd
+155,1144,Detectielus,Elektrotechniek,Elektrotechniek,Ongewijzigd
+156,1146,Detector,Kunststof,Kunststof,Ongewijzigd
+156,1146,Detector,Elektrotechniek,Elektrotechniek,Ongewijzigd
+156,1146,Detector,Staal,Staal,Ongewijzigd
+156,1146,Detector,Aluminium,Aluminium,Ongewijzigd
+156,1146,Detector,Metaal; overig,Metaal; overig,Ongewijzigd
+156,1146,Detector,Rubber,Rubber,Ongewijzigd
+156,1146,Detector,Koper,Koper,Ongewijzigd
+157,1148,Deur,Hout,Hout,Ongewijzigd
+157,1148,Deur,Glas,Glas,Ongewijzigd
+157,1148,Deur,Kunststof,Kunststof,Ongewijzigd
+157,1148,Deur,Staal,Staal,Ongewijzigd
+157,1148,Deur,Aluminium,Aluminium,Ongewijzigd
+158,1150,Deurgeleiding,Hout,Hout,Ongewijzigd
+158,1150,Deurgeleiding,Kunststof,Kunststof,Ongewijzigd
+158,1150,Deurgeleiding,Staal,Staal,Ongewijzigd
+158,1150,Deurgeleiding,Aluminium,Aluminium,Ongewijzigd
+158,1150,Deurgeleiding,Zink,Zink,Ongewijzigd
+158,1150,Deurgeleiding,Gietijzer,Gietijzer,Ongewijzigd
+158,1150,Deurgeleiding,Metaal; overig,Metaal; overig,Ongewijzigd
+159,1151,Deurrails,Staal,Staal,Ongewijzigd
+159,1151,Deurrails,Gietijzer,Gietijzer,Ongewijzigd
+159,1151,Deurrails,Metaal; overig,Metaal; overig,Ongewijzigd
+160,1152,Deuvel,Beton,Beton,Ongewijzigd
+160,1152,Deuvel,Kunststof,Kunststof,Ongewijzigd
+160,1152,Deuvel,Staal,Staal,Ongewijzigd
+161,1153,Diagonaal (vakwerkligger),Hout,Hout,Ongewijzigd
+161,1153,Diagonaal (vakwerkligger),Staal,Staal,Ongewijzigd
+161,1153,Diagonaal (vakwerkligger),Gietijzer,Gietijzer,Ongewijzigd
+161,1153,Diagonaal (vakwerkligger),Metaal; overig,Metaal; overig,Ongewijzigd
+162,1154,Dieptefiltratie,Kunststof,Kunststof,Ongewijzigd
+162,1154,Dieptefiltratie,Mechaniek,Mechaniek,Ongewijzigd
+162,1154,Dieptefiltratie,Elektrotechniek,Elektrotechniek,Ongewijzigd
+162,1154,Dieptefiltratie,Staal,Staal,Ongewijzigd
+162,1154,Dieptefiltratie,Aluminium,Aluminium,Ongewijzigd
+162,1154,Dieptefiltratie,Zink,Zink,Ongewijzigd
+162,1154,Dieptefiltratie,Rubber,Rubber,Ongewijzigd
+162,1154,Dieptefiltratie,Koper,Koper,Ongewijzigd
+163,1155,Diepwand,Beton,Beton,Ongewijzigd
+164,1158,Dilatatievoeg,Kunststof,Kunststof,Ongewijzigd
+164,1158,Dilatatievoeg,Asfalt,Asfalt,Ongewijzigd
+164,1158,Dilatatievoeg,Staal,Staal,Ongewijzigd
+164,1158,Dilatatievoeg,Gietijzer,Gietijzer,Ongewijzigd
+164,1158,Dilatatievoeg,Metaal; overig,Metaal; overig,Ongewijzigd
+164,1158,Dilatatievoeg,Rubber,Rubber,Ongewijzigd
+165,1159,Dilatatievoegovergang,Beton,Beton,Ongewijzigd
+165,1159,Dilatatievoegovergang,Steen,Steen,Ongewijzigd
+165,1159,Dilatatievoegovergang,Kunststof,Kunststof,Ongewijzigd
+165,1159,Dilatatievoegovergang,Asfalt,Asfalt,Ongewijzigd
+166,1160,Display,Kunststof,Kunststof,Ongewijzigd
+166,1160,Display,Elektrotechniek,Elektrotechniek,Ongewijzigd
+167,1760,Doel,Hout,Hout,Ongewijzigd
+167,1760,Doel,Beton,Beton,Ongewijzigd
+167,1760,Doel,Kunststof,Kunststof,Ongewijzigd
+167,1760,Doel,Staal,Staal,Ongewijzigd
+167,1760,Doel,Aluminium,Aluminium,Ongewijzigd
+167,1760,Doel,Metaal; overig,Metaal; overig,Ongewijzigd
+168,1761,Doelvoorstellingsapparatuur,Mechaniek,Mechaniek,Ongewijzigd
+168,1761,Doelvoorstellingsapparatuur,Elektrotechniek,Elektrotechniek,Ongewijzigd
+168,1761,Doelvoorstellingsapparatuur,Staal,Staal,Ongewijzigd
+169,1762,Doorgang grondlichaam,Hout,Hout,Ongewijzigd
+169,1762,Doorgang grondlichaam,Beton,Beton,Ongewijzigd
+169,1762,Doorgang grondlichaam,Kunststof,Kunststof,Ongewijzigd
+169,1762,Doorgang grondlichaam,Staal,Staal,Ongewijzigd
+169,1762,Doorgang grondlichaam,Aluminium,Aluminium,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Beton,Beton,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Steen,Steen,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Staal,Staal,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Aluminium,Aluminium,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Zink,Zink,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+170,1161,"Doorlaatkoker, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+171,1280,Doorvoer,Kunststof,Kunststof,Ongewijzigd
+171,1280,Doorvoer,Staal,Staal,Ongewijzigd
+172,2158,Douche,Hout,Hout,Ongewijzigd
+172,2158,Douche,Kunststof,Kunststof,Ongewijzigd
+172,2158,Douche,Staal,Staal,Ongewijzigd
+172,2158,Douche,Aluminium,Aluminium,Ongewijzigd
+172,2158,Douche,Koper,Koper,Ongewijzigd
+172,2158,Douche,Keramiek,Keramiek,Ongewijzigd
+173,1765,Draad (glad/punt),Staal,Staal,Ongewijzigd
+173,1765,Draad (glad/punt),Metaal; overig,Metaal; overig,Ongewijzigd
+173,1765,Draad (glad/punt),Fauna,Fauna,Ongewijzigd
+174,1162,Draadstang,Staal,Staal,Ongewijzigd
+174,1162,Draadstang,Gietijzer,Gietijzer,Ongewijzigd
+174,1162,Draadstang,Metaal; overig,Metaal; overig,Ongewijzigd
+175,2032,Draaipoort,Hout,Hout,Ongewijzigd
+175,2032,Draaipoort,Kunststof,Kunststof,Ongewijzigd
+175,2032,Draaipoort,Staal,Staal,Ongewijzigd
+175,2032,Draaipoort,Aluminium,Aluminium,Ongewijzigd
+175,2032,Draaipoort,Metaal; overig,Metaal; overig,Ongewijzigd
+175,2032,Draaipoort,Rubber,Rubber,Ongewijzigd
+175,2032,Draaipoort,Koper,Koper,Ongewijzigd
+176,1164,Draaipunt,Kunststof,Kunststof,Ongewijzigd
+176,1164,Draaipunt,Mechaniek,Mechaniek,Ongewijzigd
+176,1164,Draaipunt,Staal,Staal,Ongewijzigd
+176,1164,Draaipunt,Gietijzer,Gietijzer,Ongewijzigd
+176,1164,Draaipunt,Metaal; overig,Metaal; overig,Ongewijzigd
+177,1766,Draaitoestel,Hout,Hout,Ongewijzigd
+177,1766,Draaitoestel,Kunststof,Kunststof,Ongewijzigd
+177,1766,Draaitoestel,Staal,Staal,Ongewijzigd
+177,1766,Draaitoestel,Aluminium,Aluminium,Ongewijzigd
+177,1766,Draaitoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+178,1166,Drainagebuis,Beton,Beton,Ongewijzigd
+178,1166,Drainagebuis,Steen,Steen,Ongewijzigd
+178,1166,Drainagebuis,Kunststof,Kunststof,Ongewijzigd
+178,1166,Drainagebuis,Staal,Staal,Ongewijzigd
+178,1166,Drainagebuis,Gietijzer,Gietijzer,Ongewijzigd
+178,1166,Drainagebuis,Metaal; overig,Metaal; overig,Ongewijzigd
+178,1166,Drainagebuis,Jute,Jute,Ongewijzigd
+179,1167,Drainmonding,Beton,Beton,Ongewijzigd
+179,1167,Drainmonding,Kunststof,Kunststof,Ongewijzigd
+180,1168,Drempel,Beton,Beton,Ongewijzigd
+180,1168,Drempel,Steen,Steen,Ongewijzigd
+180,1168,Drempel,Asfalt,Asfalt,Ongewijzigd
+181,1711,Drijfbaken,Hout,Hout,Ongewijzigd
+181,1711,Drijfbaken,Kunststof,Kunststof,Ongewijzigd
+181,1711,Drijfbaken,Staal,Staal,Ongewijzigd
+182,2210,Drijfkist,Kunststof,Kunststof,Ongewijzigd
+182,2210,Drijfkist,Staal,Staal,Ongewijzigd
+182,2210,Drijfkist,Aluminium,Aluminium,Ongewijzigd
+182,2210,Drijfkist,Metaal; overig,Metaal; overig,Ongewijzigd
+183,2121,Drijflaag afvoerbak,Beton,Beton,Ongewijzigd
+183,2121,Drijflaag afvoerbak,Mechaniek,Mechaniek,Ongewijzigd
+183,2121,Drijflaag afvoerbak,Staal,Staal,Ongewijzigd
+183,2121,Drijflaag afvoerbak,Metaal; overig,Metaal; overig,Ongewijzigd
+184,2099,Drijflaagruimer,Mechaniek,Mechaniek,Ongewijzigd
+184,2099,Drijflaagruimer,Staal,Staal,Ongewijzigd
+184,2099,Drijflaagruimer,Metaal; overig,Metaal; overig,Ongewijzigd
+184,2099,Drijflaagruimer,Rubber,Rubber,Ongewijzigd
+185,1170,Drijfraam,Hout,Hout,Ongewijzigd
+185,1170,Drijfraam,Staal,Staal,Ongewijzigd
+185,1170,Drijfraam,Metaal; overig,Metaal; overig,Ongewijzigd
+186,1171,Drijvende bolder,Kunststof,Kunststof,Ongewijzigd
+186,1171,Drijvende bolder,Staal,Staal,Ongewijzigd
+186,1171,Drijvende bolder,Metaal; overig,Metaal; overig,Ongewijzigd
+187,1767,Droge heide,Beplanting,,Vervallen
+188,1987,Droogzetvoorziening,Kunststof,Kunststof,Ongewijzigd
+188,1987,Droogzetvoorziening,Mechaniek,Mechaniek,Ongewijzigd
+188,1987,Droogzetvoorziening,Elektrotechniek,Elektrotechniek,Ongewijzigd
+188,1987,Droogzetvoorziening,Staal,Staal,Ongewijzigd
+188,1987,Droogzetvoorziening,Aluminium,Aluminium,Ongewijzigd
+188,1987,Droogzetvoorziening,Zink,Zink,Ongewijzigd
+188,1987,Droogzetvoorziening,Gietijzer,Gietijzer,Ongewijzigd
+188,1987,Droogzetvoorziening,Metaal; overig,Metaal; overig,Ongewijzigd
+188,1987,Droogzetvoorziening,Rubber,Rubber,Ongewijzigd
+188,1987,Droogzetvoorziening,Koper,Koper,Ongewijzigd
+188,1987,Droogzetvoorziening,Installaties,Installaties,Ongewijzigd
+189,1172,Drukknoppaal,Kunststof,Kunststof,Ongewijzigd
+189,1172,Drukknoppaal,Elektrotechniek,Elektrotechniek,Ongewijzigd
+190,1670,"Drukluchtschuiminstallatie (DLS), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+190,1670,"Drukluchtschuiminstallatie (DLS), Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+191,1173,Drukpalen,Hout,Hout,Ongewijzigd
+191,1173,Drukpalen,Beton,Beton,Ongewijzigd
+191,1173,Drukpalen,Staal,Staal,Ongewijzigd
+192,1174,Drukvat,Kunststof,Kunststof,Ongewijzigd
+192,1174,Drukvat,Staal,Staal,Ongewijzigd
+193,1768,Dugout,Hout,Hout,Ongewijzigd
+193,1768,Dugout,Beton,Beton,Ongewijzigd
+193,1768,Dugout,Steen,Steen,Ongewijzigd
+193,1768,Dugout,Kunststof,Kunststof,Ongewijzigd
+193,1768,Dugout,Staal,Staal,Ongewijzigd
+193,1768,Dugout,Aluminium,Aluminium,Ongewijzigd
+193,1768,Dugout,Metaal; overig,Metaal; overig,Ongewijzigd
+194,1176,Duinovergang,Beton,Beton,Ongewijzigd
+194,1176,Duinovergang,Steen,Steen,Ongewijzigd
+194,1176,Duinovergang,Asfalt,Asfalt,Ongewijzigd
+194,1176,Duinovergang,Grond,Grond,Ongewijzigd
+194,1176,Duinovergang,Gras,Gras,Ongewijzigd
+194,1176,Duinovergang,Zand,Zand,Ongewijzigd
+195,1770,Duinstruweel,Beplanting,Beplanting,Ongewijzigd
+196,1177,Duinvoetverdediging,Steen,Steen,Ongewijzigd
+196,1177,Duinvoetverdediging,Grond,Grond,Ongewijzigd
+196,1177,Duinvoetverdediging,Gras,Gras,Ongewijzigd
+196,1177,Duinvoetverdediging,Beplanting,Beplanting,Ongewijzigd
+197,1178,"Duurzame energiebron, Algemeen",Kunststof,Kunststof,Ongewijzigd
+197,1178,"Duurzame energiebron, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+198,1179,Dwarsdrager,Hout,Hout,Ongewijzigd
+198,1179,Dwarsdrager,Beton,Beton,Ongewijzigd
+198,1179,Dwarsdrager,Staal,Staal,Ongewijzigd
+198,1179,Dwarsdrager,Gietijzer,Gietijzer,Ongewijzigd
+198,1179,Dwarsdrager,Metaal; overig,Metaal; overig,Ongewijzigd
+199,1180,"Dynamische bewegwijzering en informatiesystemen, Algemeen",Kunststof,Kunststof,Ongewijzigd
+199,1180,"Dynamische bewegwijzering en informatiesystemen, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+199,1180,"Dynamische bewegwijzering en informatiesystemen, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+200,1182,Elektromotor,Kunststof,Kunststof,Ongewijzigd
+200,1182,Elektromotor,Mechaniek,Mechaniek,Ongewijzigd
+200,1182,Elektromotor,Elektrotechniek,Elektrotechniek,Ongewijzigd
+200,1182,Elektromotor,Staal,Staal,Ongewijzigd
+200,1182,Elektromotor,Gietijzer,Gietijzer,Ongewijzigd
+200,1182,Elektromotor,Metaal; overig,Metaal; overig,Ongewijzigd
+200,1182,Elektromotor,Koper,Koper,Ongewijzigd
+201,1183,Elektrovijzel,Mechaniek,Mechaniek,Ongewijzigd
+201,1183,Elektrovijzel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+201,1183,Elektrovijzel,Hydrauliek,Hydrauliek,Ongewijzigd
+201,1183,Elektrovijzel,Staal,Staal,Ongewijzigd
+201,1183,Elektrovijzel,Gietijzer,Gietijzer,Ongewijzigd
+201,1183,Elektrovijzel,Metaal; overig,Metaal; overig,Ongewijzigd
+201,1183,Elektrovijzel,Koper,Koper,Ongewijzigd
+202,1184,Elementenverharding,Elementen,Elementen,Ongewijzigd
+203,2232,Embryonaal-duin,,Zand,Toegevoegd
+204,1185,Energiekabel,Kunststof,Kunststof,Ongewijzigd
+204,1185,Energiekabel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+204,1185,Energiekabel,Aluminium,Aluminium,Ongewijzigd
+204,1185,Energiekabel,Koper,Koper,Ongewijzigd
+205,1187,Evacuatieverlichting,Kunststof,Kunststof,Ongewijzigd
+205,1187,Evacuatieverlichting,Elektrotechniek,Elektrotechniek,Ongewijzigd
+205,1187,Evacuatieverlichting,Staal,Staal,Ongewijzigd
+205,1187,Evacuatieverlichting,Aluminium,Aluminium,Ongewijzigd
+205,1187,Evacuatieverlichting,Rubber,Rubber,Ongewijzigd
+206,1188,Evenaar,Mechaniek,Mechaniek,Ongewijzigd
+206,1188,Evenaar,Staal,Staal,Ongewijzigd
+206,1188,Evenaar,Gietijzer,Gietijzer,Ongewijzigd
+207,1771,Evenwichtstoestel,Hout,Hout,Ongewijzigd
+207,1771,Evenwichtstoestel,Kunststof,Kunststof,Ongewijzigd
+207,1771,Evenwichtstoestel,Mechaniek,Mechaniek,Ongewijzigd
+207,1771,Evenwichtstoestel,Gietijzer,Gietijzer,Ongewijzigd
+207,1771,Evenwichtstoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+208,1794,Extensief gazon,Gras,,Vervallen
+208,1794,Extensief gazon,Fauna,,Vervallen
+209,1860,Eén- en tweejarige perkplant,Beplanting,,Vervallen
+210,1772,Fantasietoestel,Hout,Hout,Ongewijzigd
+210,1772,Fantasietoestel,Kunststof,Kunststof,Ongewijzigd
+210,1772,Fantasietoestel,Grond,Grond,Ongewijzigd
+210,1772,Fantasietoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+210,1772,Fantasietoestel,Rubber,Rubber,Ongewijzigd
+210,1772,Fantasietoestel,Zand,Zand,Ongewijzigd
+211,1775,Faunaopening,Hout,Hout,Ongewijzigd
+211,1775,Faunaopening,Beton,Beton,Ongewijzigd
+211,1775,Faunaopening,Steen,Steen,Ongewijzigd
+211,1775,Faunaopening,Kunststof,Kunststof,Ongewijzigd
+211,1775,Faunaopening,Staal,Staal,Ongewijzigd
+211,1775,Faunaopening,Metaal; overig,Metaal; overig,Ongewijzigd
+211,1775,Faunaopening,Fauna,Fauna,Ongewijzigd
+212,1778,Faunaspiegel,Kunststof,Kunststof,Ongewijzigd
+212,1778,Faunaspiegel,Staal,Staal,Ongewijzigd
+212,1778,Faunaspiegel,Aluminium,Aluminium,Ongewijzigd
+212,1778,Faunaspiegel,Metaal; overig,Metaal; overig,Ongewijzigd
+212,1778,Faunaspiegel,Fauna,Fauna,Ongewijzigd
+213,2010,Faunawand,Hout,Hout,Ongewijzigd
+213,2010,Faunawand,Beton,Beton,Ongewijzigd
+213,2010,Faunawand,Kunststof,Kunststof,Ongewijzigd
+213,2010,Faunawand,Staal,Staal,Ongewijzigd
+213,2010,Faunawand,Metaal; overig,Metaal; overig,Ongewijzigd
+213,2010,Faunawand,Fauna,Fauna,Ongewijzigd
+214,1191,Filterconstructie,Hout,Hout,Ongewijzigd
+214,1191,Filterconstructie,Steen,Steen,Ongewijzigd
+214,1191,Filterconstructie,Kunststof,Kunststof,Ongewijzigd
+214,1191,Filterconstructie,Grond,Grond,Ongewijzigd
+215,2100,Filterdoek,Kunststof,Kunststof,Ongewijzigd
+215,2100,Filterdoek,Metaal; overig,Metaal; overig,Ongewijzigd
+215,2100,Filterdoek,Rubber,Rubber,Ongewijzigd
+215,2100,Filterdoek,Textiel,Textiel,Ongewijzigd
+216,2102,Filterhuis,Beton,Beton,Ongewijzigd
+216,2102,Filterhuis,Kunststof,Kunststof,Ongewijzigd
+216,2102,Filterhuis,Staal,Staal,Ongewijzigd
+216,2102,Filterhuis,Aluminium,Aluminium,Ongewijzigd
+216,2102,Filterhuis,Gietijzer,Gietijzer,Ongewijzigd
+216,2102,Filterhuis,Metaal; overig,Metaal; overig,Ongewijzigd
+217,2101,Filtervulling,Steen,Steen,Ongewijzigd
+217,2101,Filtervulling,Textiel,Textiel,Ongewijzigd
+217,2101,Filtervulling,Zand,Zand,Ongewijzigd
+217,2101,Filtervulling,Boomschors,Boomschors,Ongewijzigd
+217,2101,Filtervulling,Granulaat,Granulaat,Ongewijzigd
+217,2101,Filtervulling,Absorptiekorrels,Absorptiekorrels,Ongewijzigd
+218,2035,Fitnesstoestel,Hout,Hout,Ongewijzigd
+218,2035,Fitnesstoestel,Beton,Beton,Ongewijzigd
+218,2035,Fitnesstoestel,Kunststof,Kunststof,Ongewijzigd
+218,2035,Fitnesstoestel,Staal,Staal,Ongewijzigd
+218,2035,Fitnesstoestel,Aluminium,Aluminium,Ongewijzigd
+218,2035,Fitnesstoestel,Gietijzer,Gietijzer,Ongewijzigd
+218,2035,Fitnesstoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+218,2035,Fitnesstoestel,Rubber,Rubber,Ongewijzigd
+218,2035,Fitnesstoestel,Koper,Koper,Ongewijzigd
+219,1200,Flens,Kunststof,Kunststof,Ongewijzigd
+219,1200,Flens,Staal,Staal,Ongewijzigd
+219,1200,Flens,Rubber,Rubber,Ongewijzigd
+220,1201,Folie,Kunststof,Kunststof,Ongewijzigd
+221,1202,"Folieconstructie, Algemeen",Hout,Hout,Ongewijzigd
+221,1202,"Folieconstructie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+222,1780,Fontein,Beton,Beton,Ongewijzigd
+222,1780,Fontein,Steen,Steen,Ongewijzigd
+222,1780,Fontein,Kunststof,Kunststof,Ongewijzigd
+222,1780,Fontein,Staal,Staal,Ongewijzigd
+222,1780,Fontein,Gietijzer,Gietijzer,Ongewijzigd
+222,1780,Fontein,Metaal; overig,Metaal; overig,Ongewijzigd
+222,1780,Fontein,Water,Water,Ongewijzigd
+222,1780,Fontein,Grind,Grind,Ongewijzigd
+223,1203,Frame,Hout,Hout,Ongewijzigd
+223,1203,Frame,Kunststof,Kunststof,Ongewijzigd
+223,1203,Frame,Staal,Staal,Ongewijzigd
+223,1203,Frame,Gietijzer,Gietijzer,Ongewijzigd
+223,1203,Frame,Metaal; overig,Metaal; overig,Ongewijzigd
+223,1203,Frame,Fauna,Fauna,Ongewijzigd
+224,1204,Fundatie,Hout,Hout,Ongewijzigd
+224,1204,Fundatie,Beton,Beton,Ongewijzigd
+224,1204,Fundatie,Steen,Steen,Ongewijzigd
+224,1204,Fundatie,Staal,Staal,Ongewijzigd
+224,1204,Fundatie,Gietijzer,Gietijzer,Ongewijzigd
+224,1204,Fundatie,Metaal; overig,Metaal; overig,Ongewijzigd
+224,1204,Fundatie,Granulaat,Granulaat,Ongewijzigd
+225,2176,Funderingslaag (gebonden),Granulaat,Granulaat,Ongewijzigd
+225,2176,Funderingslaag (gebonden),Slakken,Slakken,Ongewijzigd
+226,2177,Funderingslaag (ongebonden),Steen,Steen,Ongewijzigd
+226,2177,Funderingslaag (ongebonden),Granulaat,Granulaat,Ongewijzigd
+227,1781,Gaas,Kunststof,Kunststof,Ongewijzigd
+227,1781,Gaas,Staal,Staal,Ongewijzigd
+227,1781,Gaas,Metaal; overig,Metaal; overig,Ongewijzigd
+227,1781,Gaas,Fauna,Fauna,Ongewijzigd
+228,1979,Gaffel,Kunststof,Kunststof,Ongewijzigd
+228,1979,Gaffel,Mechaniek,Mechaniek,Ongewijzigd
+228,1979,Gaffel,Staal,Staal,Ongewijzigd
+228,1979,Gaffel,Aluminium,Aluminium,Ongewijzigd
+228,1979,Gaffel,Gietijzer,Gietijzer,Ongewijzigd
+228,1979,Gaffel,Metaal; overig,Metaal; overig,Ongewijzigd
+228,1979,Gaffel,Koper,Koper,Ongewijzigd
+229,1206,"Gasdetectie-installatie (LEL), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+230,2165,"Gasinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+230,2165,"Gasinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+230,2165,"Gasinstallatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+230,2165,"Gasinstallatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+230,2165,"Gasinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+230,2165,"Gasinstallatie, Algemeen",Koper,Koper,Ongewijzigd
+231,1886,Gazon,Kunststof,,Vervallen
+231,1886,Gazon,Gras,,Vervallen
+231,1886,Gazon,Grind,,Vervallen
+231,1886,Gazon,Zand,,Vervallen
+231,1886,Gazon,Kunstgras,,Vervallen
+232,2030,Gedenksteen,Beton,Beton,Ongewijzigd
+232,2030,Gedenksteen,Steen,Steen,Ongewijzigd
+232,2030,Gedenksteen,Keramiek,Keramiek,Ongewijzigd
+233,2163,Geiser,Kunststof,Kunststof,Ongewijzigd
+233,2163,Geiser,Staal,Staal,Ongewijzigd
+233,2163,Geiser,Aluminium,Aluminium,Ongewijzigd
+233,2163,Geiser,Gietijzer,Gietijzer,Ongewijzigd
+233,2163,Geiser,Rubber,Rubber,Ongewijzigd
+233,2163,Geiser,Koper,Koper,Ongewijzigd
+234,1053,Geleidebarriër,Hout,Hout,Ongewijzigd
+234,1053,Geleidebarriër,Beton,Beton,Ongewijzigd
+234,1053,Geleidebarriër,Kunststof,Kunststof,Ongewijzigd
+234,1053,Geleidebarriër,Staal,Staal,Ongewijzigd
+234,1053,Geleidebarriër,Metaal; overig,Metaal; overig,Ongewijzigd
+235,1210,Geleidende balk,Hout,Hout,Ongewijzigd
+235,1210,Geleidende balk,Staal,Staal,Ongewijzigd
+236,1211,Geleider,Elektrotechniek,Elektrotechniek,Ongewijzigd
+237,1212,Geleiderail,Hout,Hout,Ongewijzigd
+237,1212,Geleiderail,Staal,Staal,Ongewijzigd
+237,1212,Geleiderail,Metaal; overig,Metaal; overig,Ongewijzigd
+238,2195,"Geleidetoren, Algemeen",Beton,Beton,Ongewijzigd
+238,2195,"Geleidetoren, Algemeen",Staal,Staal,Ongewijzigd
+238,2195,"Geleidetoren, Algemeen",Aluminium,Aluminium,Ongewijzigd
+238,2195,"Geleidetoren, Algemeen",Zink,Zink,Ongewijzigd
+238,2195,"Geleidetoren, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+239,1213,Geleidewerk,Hout,Hout,Ongewijzigd
+239,1213,Geleidewerk,Staal,Staal,Ongewijzigd
+239,1213,Geleidewerk,Gietijzer,Gietijzer,Ongewijzigd
+239,1213,Geleidewerk,Metaal; overig,Metaal; overig,Ongewijzigd
+240,1984,Geleiding,Hout,Hout,Ongewijzigd
+240,1984,Geleiding,Kunststof,Kunststof,Ongewijzigd
+240,1984,Geleiding,Staal,Staal,Ongewijzigd
+240,1984,Geleiding,Aluminium,Aluminium,Ongewijzigd
+240,1984,Geleiding,Zink,Zink,Ongewijzigd
+240,1984,Geleiding,Gietijzer,Gietijzer,Ongewijzigd
+240,1984,Geleiding,Metaal; overig,Metaal; overig,Ongewijzigd
+240,1984,Geleiding,Rubber,Rubber,Ongewijzigd
+240,1984,Geleiding,Koper,Koper,Ongewijzigd
+240,1984,Geleiding,Beplanting,Beplanting,Ongewijzigd
+240,1984,Geleiding,Fauna,Fauna,Ongewijzigd
+241,1215,Gelijkrichter,Elektrotechniek,Elektrotechniek,Ongewijzigd
+242,1143,Geluidsdemper,Kunststof,Kunststof,Ongewijzigd
+242,1143,Geluidsdemper,Mechaniek,Mechaniek,Ongewijzigd
+242,1143,Geluidsdemper,Elektrotechniek,Elektrotechniek,Ongewijzigd
+242,1143,Geluidsdemper,Staal,Staal,Ongewijzigd
+243,1219,Generator,Mechaniek,Mechaniek,Ongewijzigd
+243,1219,Generator,Elektrotechniek,Elektrotechniek,Ongewijzigd
+244,1220,Geotextiel,Kunststof,Kunststof,Ongewijzigd
+244,1220,Geotextiel,Textiel,Textiel,Ongewijzigd
+245,1783,Geschoren haag,Beplanting,,Vervallen
+246,1784,Geschoren heestervak,Beplanting,,Vervallen
+247,1660,Giek,Mechaniek,Mechaniek,Ongewijzigd
+247,1660,Giek,Staal,Staal,Ongewijzigd
+248,1221,"Gladheidsmeldsysteem, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+249,1222,Glasvezelkabel,Kunststof,Kunststof,Ongewijzigd
+249,1222,Glasvezelkabel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+250,1223,Glasvezelput,Beton,Beton,Ongewijzigd
+251,1786,Glijbaan,Hout,Hout,Ongewijzigd
+251,1786,Glijbaan,Beton,Beton,Ongewijzigd
+251,1786,Glijbaan,Kunststof,Kunststof,Ongewijzigd
+251,1786,Glijbaan,Staal,Staal,Ongewijzigd
+251,1786,Glijbaan,Metaal; overig,Metaal; overig,Ongewijzigd
+252,1224,Golfpijp,Elektrotechniek,Elektrotechniek,Ongewijzigd
+252,1224,Golfpijp,Aluminium,Aluminium,Ongewijzigd
+252,1224,Golfpijp,Koper,Koper,Ongewijzigd
+253,1225,Goot,Beton,Beton,Ongewijzigd
+253,1225,Goot,Steen,Steen,Ongewijzigd
+253,1225,Goot,Kunststof,Kunststof,Ongewijzigd
+253,1225,Goot,Asfalt,Asfalt,Ongewijzigd
+253,1225,Goot,Staal,Staal,Ongewijzigd
+253,1225,Goot,Aluminium,Aluminium,Ongewijzigd
+253,1225,Goot,Zink,Zink,Ongewijzigd
+253,1225,Goot,Gietijzer,Gietijzer,Ongewijzigd
+253,1225,Goot,Metaal; overig,Metaal; overig,Ongewijzigd
+253,1225,Goot,Koper,Koper,Ongewijzigd
+254,1226,Gording,Hout,Hout,Ongewijzigd
+254,1226,Gording,Beton,Beton,Ongewijzigd
+254,1226,Gording,Kunststof,Kunststof,Ongewijzigd
+254,1226,Gording,Staal,Staal,Ongewijzigd
+255,1793,"Graf, Algemeen",Gras,Gras,Ongewijzigd
+256,1788,Grafbeplanting,Beplanting,Beplanting,Ongewijzigd
+257,1790,Grafsteen,Steen,Steen,Ongewijzigd
+257,1790,Grafsteen,Grond,Grond,Ongewijzigd
+257,1790,Grafsteen,Keramiek,Keramiek,Ongewijzigd
+258,2211,Gras/kruid,,Kruidachtige vegetatie,Toegevoegd
+259,1227,Grendel,Mechaniek,Mechaniek,Ongewijzigd
+259,1227,Grendel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+259,1227,Grendel,Staal,Staal,Ongewijzigd
+259,1227,Grendel,Gietijzer,Gietijzer,Ongewijzigd
+260,1677,"Grendelinrichting, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+260,1677,"Grendelinrichting, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+261,1797,Greppel,Hout,Hout,Ongewijzigd
+261,1797,Greppel,Beton,Beton,Ongewijzigd
+261,1797,Greppel,Steen,Steen,Ongewijzigd
+261,1797,Greppel,Grond,Grond,Ongewijzigd
+261,1797,Greppel,Gras,Gras,Ongewijzigd
+261,1797,Greppel,Water,Water,Ongewijzigd
+261,1797,Greppel,Grind,Grind,Ongewijzigd
+261,1797,Greppel,Fauna,Fauna,Ongewijzigd
+262,2017,Grienden,Bomen,,Vervallen
+263,2086,Grijper,Kunststof,Kunststof,Ongewijzigd
+263,2086,Grijper,Mechaniek,Mechaniek,Ongewijzigd
+263,2086,Grijper,Hydrauliek,Hydrauliek,Ongewijzigd
+263,2086,Grijper,Staal,Staal,Ongewijzigd
+263,2086,Grijper,Aluminium,Aluminium,Ongewijzigd
+264,1798,Grindkoffer,Beton,Beton,Ongewijzigd
+264,1798,Grindkoffer,Grind,Grind,Ongewijzigd
+265,1801,Gronddepot,Grond,Grond,Ongewijzigd
+266,1228,Grondlichaam,Steen,Steen,Ongewijzigd
+266,1228,Grondlichaam,Grond,Grond,Ongewijzigd
+266,1228,Grondlichaam,Gras,Gras,Ongewijzigd
+266,1228,Grondlichaam,Beplanting,Beplanting,Ongewijzigd
+266,1228,Grondlichaam,,Kruidachtige vegetatie,Toegevoegd
+267,1234,Grondverbetering,Grond,Grond,Ongewijzigd
+268,1236,H-palen,Beton,Beton,Ongewijzigd
+269,2214,Haag,,Houtige vegetatie,Toegevoegd
+270,1803,Haagwindscherm,Beplanting,,Vervallen
+271,1237,Haalkom,Beton,Beton,Ongewijzigd
+271,1237,Haalkom,Steen,Steen,Ongewijzigd
+271,1237,Haalkom,Staal,Staal,Ongewijzigd
+271,1237,Haalkom,Gietijzer,Gietijzer,Ongewijzigd
+271,1237,Haalkom,Metaal; overig,Metaal; overig,Ongewijzigd
+272,2016,Hakhout,Bomen,,Vervallen
+273,1804,Halfheester,Beplanting,,Vervallen
+274,1805,Halfverhard sportveld,Grind,Grind,Ongewijzigd
+274,1805,Halfverhard sportveld,Boomschors,Boomschors,Ongewijzigd
+274,1805,Halfverhard sportveld,Kunstgras,Kunstgras,Ongewijzigd
+275,2008,Halfverharding,Grind,Grind,Ongewijzigd
+275,2008,Halfverharding,Schelpen,Schelp,Gewijzigd
+275,2008,Halfverharding,Boomschors,Boomschors,Ongewijzigd
+275,2008,Halfverharding,Gravel,Gravel,Ongewijzigd
+275,2008,Halfverharding,Halfverhard,Halfverhard,Ongewijzigd
+275,2008,Halfverharding,Betonpuin,Betonpuin,Ongewijzigd
+275,2008,Halfverharding,Steenpuin,Steenpuin,Ongewijzigd
+275,2008,Halfverharding,,Grasklinker,Toegevoegd
+275,2008,Halfverharding,,Puin,Toegevoegd
+276,2045,Halsbeugel,Staal,Staal,Ongewijzigd
+276,2045,Halsbeugel,Gietijzer,Gietijzer,Ongewijzigd
+276,2045,Halsbeugel,Metaal; overig,Metaal; overig,Ongewijzigd
+277,1703,Halslager,Mechaniek,Mechaniek,Ongewijzigd
+277,1703,Halslager,Staal,Staal,Ongewijzigd
+277,1703,Halslager,Gietijzer,Gietijzer,Ongewijzigd
+277,1703,Halslager,Metaal; overig,Metaal; overig,Ongewijzigd
+278,1238,Hameistijl (-poort),Hout,Hout,Ongewijzigd
+278,1238,Hameistijl (-poort),Staal,Staal,Ongewijzigd
+278,1238,Hameistijl (-poort),Gietijzer,Gietijzer,Ongewijzigd
+278,1238,Hameistijl (-poort),Metaal; overig,Metaal; overig,Ongewijzigd
+279,2167,Hamerstuk,Beton,Beton,Ongewijzigd
+280,2005,Handbrandmelder,Kunststof,Kunststof,Ongewijzigd
+280,2005,Handbrandmelder,Mechaniek,Mechaniek,Ongewijzigd
+280,2005,Handbrandmelder,Staal,Staal,Ongewijzigd
+280,2005,Handbrandmelder,Aluminium,Aluminium,Ongewijzigd
+280,2005,Handbrandmelder,Metaal; overig,Metaal; overig,Ongewijzigd
+281,1239,Hanger (boogbrug),Staal,Staal,Ongewijzigd
+281,1239,Hanger (boogbrug),Metaal; overig,Metaal; overig,Ongewijzigd
+282,1240,Hangstang,Staal,Staal,Ongewijzigd
+282,1240,Hangstang,Metaal; overig,Metaal; overig,Ongewijzigd
+283,1695,Har,Staal,Staal,Ongewijzigd
+283,1695,Har,Gietijzer,Gietijzer,Ongewijzigd
+283,1695,Har,Metaal; overig,Metaal; overig,Ongewijzigd
+284,2122,Hark,Kunststof,Kunststof,Ongewijzigd
+284,2122,Hark,Mechaniek,Mechaniek,Ongewijzigd
+284,2122,Hark,Staal,Staal,Ongewijzigd
+284,2122,Hark,Metaal; overig,Metaal; overig,Ongewijzigd
+285,2077,Haspel,Kunststof,Kunststof,Ongewijzigd
+285,2077,Haspel,Staal,Staal,Ongewijzigd
+285,2077,Haspel,Rubber,Rubber,Ongewijzigd
+286,1242,Hectometerbord,Hout,Hout,Ongewijzigd
+286,1242,Hectometerbord,Kunststof,Kunststof,Ongewijzigd
+287,1905,Heester,Beplanting,,Vervallen
+287,1905,Heester,,Houtige vegetatie,Toegevoegd
+288,1810,Heesterrozen,Beplanting,,Vervallen
+289,1243,Hefdeur,Hout,Hout,Ongewijzigd
+289,1243,Hefdeur,Kunststof,Kunststof,Ongewijzigd
+289,1243,Hefdeur,Staal,Staal,Ongewijzigd
+289,1243,Hefdeur,Metaal; overig,Metaal; overig,Ongewijzigd
+290,1244,Hefschuif,Hout,Hout,Ongewijzigd
+290,1244,Hefschuif,Kunststof,Kunststof,Ongewijzigd
+290,1244,Hefschuif,Staal,Staal,Ongewijzigd
+290,1244,Hefschuif,Metaal; overig,Metaal; overig,Ongewijzigd
+291,1245,"Heftoren, Algemeen",Beton,Beton,Ongewijzigd
+291,1245,"Heftoren, Algemeen",Staal,Staal,Ongewijzigd
+291,1245,"Heftoren, Algemeen",Aluminium,Aluminium,Ongewijzigd
+291,1245,"Heftoren, Algemeen",Zink,Zink,Ongewijzigd
+291,1245,"Heftoren, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+292,1246,Hek,Hout,Hout,Ongewijzigd
+292,1246,Hek,Beton,Beton,Ongewijzigd
+292,1246,Hek,Kunststof,Kunststof,Ongewijzigd
+292,1246,Hek,Staal,Staal,Ongewijzigd
+292,1246,Hek,Aluminium,Aluminium,Ongewijzigd
+292,1246,Hek,Gietijzer,Gietijzer,Ongewijzigd
+292,1246,Hek,Metaal; overig,Metaal; overig,Ongewijzigd
+292,1246,Hek,Fauna,Fauna,Ongewijzigd
+293,2142,Helling,Hout,Hout,Ongewijzigd
+293,2142,Helling,Beton,Beton,Ongewijzigd
+293,2142,Helling,Steen,Steen,Ongewijzigd
+293,2142,Helling,Kunststof,Kunststof,Ongewijzigd
+293,2142,Helling,Staal,Staal,Ongewijzigd
+293,2142,Helling,Aluminium,Aluminium,Ongewijzigd
+293,2142,Helling,Gietijzer,Gietijzer,Ongewijzigd
+293,2142,Helling,Metselwerk,Metselwerk,Ongewijzigd
+294,2143,Hellingafwerking,Hout,Hout,Ongewijzigd
+294,2143,Hellingafwerking,Steen,Steen,Ongewijzigd
+294,2143,Hellingafwerking,Glas,Glas,Ongewijzigd
+294,2143,Hellingafwerking,Kunststof,Kunststof,Ongewijzigd
+294,2143,Hellingafwerking,Staal,Staal,Ongewijzigd
+294,2143,Hellingafwerking,Aluminium,Aluminium,Ongewijzigd
+294,2143,Hellingafwerking,Kurk,Kurk,Ongewijzigd
+294,2143,Hellingafwerking,Keramiek,Keramiek,Ongewijzigd
+294,2143,Hellingafwerking,Gips,Gips,Ongewijzigd
+295,1813,Helmgras,Gras,,Vervallen
+296,1248,Helofytenfilter,Beton,,Vervallen
+296,1248,Helofytenfilter,Steen,,Vervallen
+296,1248,Helofytenfilter,Kunststof,,Vervallen
+296,1248,Helofytenfilter,Grond,,Vervallen
+296,1248,Helofytenfilter,Gras,,Vervallen
+296,1248,Helofytenfilter,Textiel,,Vervallen
+296,1248,Helofytenfilter,Vilt,,Vervallen
+296,1248,Helofytenfilter,Jute,,Vervallen
+296,1248,Helofytenfilter,Water,,Vervallen
+296,1248,Helofytenfilter,Grind,,Vervallen
+296,1248,Helofytenfilter,Zand,,Vervallen
+296,1248,Helofytenfilter,Schelpen,,Vervallen
+296,1248,Helofytenfilter,Beplanting,,Vervallen
+296,1248,Helofytenfilter,Fauna,,Vervallen
+297,1248,Helofytenfilter,,Kruidachtige vegetatie,Toegevoegd
+297,1248,Helofytenfilter,,Houtige vegetatie,Toegevoegd
+297,1248,Helofytenfilter,,Watervegetatie,Toegevoegd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Beton,Beton,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Steen,Steen,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Kunststof,Kunststof,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Asfalt,Asfalt,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Staal,Staal,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Aluminium,Aluminium,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Zink,Zink,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Rubber,Rubber,Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Asfalt (open),Asfalt (open),Ongewijzigd
+298,1249,"Hemelwaterafvoer (HWA), Algemeen",Koper,Koper,Ongewijzigd
+299,1250,Heugelstang,Kunststof,Kunststof,Ongewijzigd
+299,1250,Heugelstang,Staal,Staal,Ongewijzigd
+299,1250,Heugelstang,Metaal; overig,Metaal; overig,Ongewijzigd
+300,1252,"Hijs- en hefinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+300,1252,"Hijs- en hefinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+301,1814,Hindernisbaan,Hout,Hout,Ongewijzigd
+301,1814,Hindernisbaan,Kunststof,Kunststof,Ongewijzigd
+301,1814,Hindernisbaan,Staal,Staal,Ongewijzigd
+301,1814,Hindernisbaan,Metaal; overig,Metaal; overig,Ongewijzigd
+301,1814,Hindernisbaan,Grind,Grind,Ongewijzigd
+301,1814,Hindernisbaan,Zand,Zand,Ongewijzigd
+302,2207,Hittewerende bekleding,Kunststof,Kunststof,Ongewijzigd
+303,1816,Hockeyveld,Kunststof,Kunststof,Ongewijzigd
+303,1816,Hockeyveld,Gras,Gras,Ongewijzigd
+303,1816,Hockeyveld,Zand,Zand,Ongewijzigd
+303,1816,Hockeyveld,Gravel,Gravel,Ongewijzigd
+303,1816,Hockeyveld,Kunstgras,Kunstgras,Ongewijzigd
+304,1817,Honkbalveld,Steen,Steen,Ongewijzigd
+304,1817,Honkbalveld,Kunststof,Kunststof,Ongewijzigd
+304,1817,Honkbalveld,Gras,Gras,Ongewijzigd
+304,1817,Honkbalveld,Zand,Zand,Ongewijzigd
+304,1817,Honkbalveld,Gravel,Gravel,Ongewijzigd
+304,1817,Honkbalveld,Kunstgras,Kunstgras,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Hout,Hout,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Beton,Beton,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Steen,Steen,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Glas,Glas,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Asfalt,Asfalt,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Staal,Staal,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Zink,Zink,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Rubber,Rubber,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Asfalt (open),Asfalt (open),Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Koper,Koper,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Kurk,Kurk,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Textiel,Textiel,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Vilt,Vilt,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Jute,Jute,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Emaille,Emaille,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Installaties,Installaties,Ongewijzigd
+305,1991,"Hoofddraagconstructie, Algemeen",Grind,Grind,Ongewijzigd
+306,1254,"Hoofddraaipunt, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+306,1254,"Hoofddraaipunt, Algemeen",Staal,Staal,Ongewijzigd
+306,1254,"Hoofddraaipunt, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+306,1254,"Hoofddraaipunt, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+307,1256,Hoofdverdeler,Elektrotechniek,Elektrotechniek,Ongewijzigd
+308,1251,"Hoog Frequent installatie (HF-Installatie), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+309,1257,"Hoogspanningsinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+310,1258,Hoogspanningsverdeler,Elektrotechniek,Elektrotechniek,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Kunststof,Kunststof,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Asfalt,Asfalt,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Gras,Gras,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Staal,Staal,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Aluminium,Aluminium,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Metaal; overig,Metaal; overig,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Rubber,Rubber,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Grind,Grind,Ongewijzigd
+311,1973,Hoogspringaccommodatie,Zand,Zand,Ongewijzigd
+312,1259,"Hoogtedetectie-installatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+312,1259,"Hoogtedetectie-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+313,2201,Hulppostkast,Glas,Glas,Ongewijzigd
+313,2201,Hulppostkast,Kunststof,Kunststof,Ongewijzigd
+313,2201,Hulppostkast,Mechaniek,Mechaniek,Ongewijzigd
+313,2201,Hulppostkast,Elektrotechniek,Elektrotechniek,Ongewijzigd
+313,2201,Hulppostkast,Staal,Staal,Ongewijzigd
+313,2201,Hulppostkast,Rubber,Rubber,Ongewijzigd
+314,2004,Hydrant,Kunststof,Kunststof,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Kunststof,Kunststof,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Mechaniek,Mechaniek,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Elektrotechniek,Elektrotechniek,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Hydrauliek,Hydrauliek,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Staal,Staal,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Aluminium,Aluminium,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Gietijzer,Gietijzer,Ongewijzigd
+315,1260,Hydraulisch aggregaat,Metaal; overig,Metaal; overig,Ongewijzigd
+316,1263,Hydrometer,Elektrotechniek,Elektrotechniek,Ongewijzigd
+317,2205,Hydromotor,Hydrauliek,Hydrauliek,Ongewijzigd
+318,1821,IJsbaan,Kunststof,Kunststof,Ongewijzigd
+318,1821,IJsbaan,Gras,Gras,Ongewijzigd
+318,1821,IJsbaan,Zand,Zand,Ongewijzigd
+318,1821,IJsbaan,Kunstgras,Kunstgras,Ongewijzigd
+319,1264,In grond vervaardigde palen,Beton,Beton,Ongewijzigd
+320,1682,"Inbraakbeveiligingsinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Beton,Beton,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Steen,Steen,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Kunststof,Kunststof,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Mechaniek,Mechaniek,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Elektrotechniek,Elektrotechniek,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Staal,Staal,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Aluminium,Aluminium,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Gietijzer,Gietijzer,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Rubber,Rubber,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Grind,Grind,Ongewijzigd
+321,1265,Individuele Behandeling van Afvalwater (IBA),Zand,Zand,Ongewijzigd
+322,1266,Infiltratiekratten,Beton,Beton,Ongewijzigd
+322,1266,Infiltratiekratten,Steen,Steen,Ongewijzigd
+322,1266,Infiltratiekratten,Kunststof,Kunststof,Ongewijzigd
+322,1266,Infiltratiekratten,Grond,Grond,Ongewijzigd
+322,1266,Infiltratiekratten,Grind,Grind,Ongewijzigd
+322,1266,Infiltratiekratten,Zand,Zand,Ongewijzigd
+322,1266,Infiltratiekratten,Schelpen,Schelp,Gewijzigd
+323,1267,Infiltratieleiding,Beton,Beton,Ongewijzigd
+323,1267,Infiltratieleiding,Steen,Steen,Ongewijzigd
+323,1267,Infiltratieleiding,Kunststof,Kunststof,Ongewijzigd
+323,1267,Infiltratieleiding,Asfalt,Asfalt,Ongewijzigd
+323,1267,Infiltratieleiding,Gietijzer,Gietijzer,Ongewijzigd
+323,1267,Infiltratieleiding,Rubber,Rubber,Ongewijzigd
+323,1267,Infiltratieleiding,Jute,Jute,Ongewijzigd
+324,1268,Infiltratievelden,Grond,Grond,Ongewijzigd
+324,1268,Infiltratievelden,Gras,Gras,Ongewijzigd
+324,1268,Infiltratievelden,Grind,Grind,Ongewijzigd
+324,1268,Infiltratievelden,Zand,Zand,Ongewijzigd
+324,1268,Infiltratievelden,Schelpen,Schelp,Gewijzigd
+325,1269,Infiltratievijvers,Kunststof,Kunststof,Ongewijzigd
+325,1269,Infiltratievijvers,Grond,Grond,Ongewijzigd
+325,1269,Infiltratievijvers,Gras,Gras,Ongewijzigd
+325,1269,Infiltratievijvers,Textiel,Textiel,Ongewijzigd
+325,1269,Infiltratievijvers,Grind,Grind,Ongewijzigd
+325,1269,Infiltratievijvers,Zand,Zand,Ongewijzigd
+325,1269,Infiltratievijvers,Schelpen,Schelp,Gewijzigd
+326,1276,"Informatie- en Volgsysteem Scheepvaart 1990 (IVS90), Algemeen",Kunststof,Kunststof,Ongewijzigd
+326,1276,"Informatie- en Volgsysteem Scheepvaart 1990 (IVS90), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+327,1822,Informatiebord,Hout,Hout,Ongewijzigd
+327,1822,Informatiebord,Beton,Beton,Ongewijzigd
+327,1822,Informatiebord,Glas,Glas,Ongewijzigd
+327,1822,Informatiebord,Kunststof,Kunststof,Ongewijzigd
+327,1822,Informatiebord,Staal,Staal,Ongewijzigd
+327,1822,Informatiebord,Aluminium,Aluminium,Ongewijzigd
+327,1822,Informatiebord,Metaal; overig,Metaal; overig,Ongewijzigd
+328,1675,Infraroodlamp,Elektrotechniek,Elektrotechniek,Ongewijzigd
+329,2063,Inlaat,Beton,Beton,Ongewijzigd
+329,2063,Inlaat,Kunststof,Kunststof,Ongewijzigd
+329,2063,Inlaat,Staal,Staal,Ongewijzigd
+329,2063,Inlaat,Keramiek,Keramiek,Ongewijzigd
+330,2123,Inlooptrommel,Staal,Staal,Ongewijzigd
+330,2123,Inlooptrommel,Metaal; overig,Metaal; overig,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Kunststof,Kunststof,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Staal,Staal,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Aluminium,Aluminium,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Rubber,Rubber,Ongewijzigd
+331,1271,"Inspectiewagen, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+332,1668,Installatiekabel,Kunststof,Kunststof,Ongewijzigd
+332,1668,Installatiekabel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+332,1668,Installatiekabel,Staal,Staal,Ongewijzigd
+332,1668,Installatiekabel,Aluminium,Aluminium,Ongewijzigd
+332,1668,Installatiekabel,Rubber,Rubber,Ongewijzigd
+332,1668,Installatiekabel,Koper,Koper,Ongewijzigd
+333,1272,Instroomopening,Beton,Beton,Ongewijzigd
+333,1272,Instroomopening,Steen,Steen,Ongewijzigd
+333,1272,Instroomopening,Staal,Staal,Ongewijzigd
+333,1272,Instroomopening,Gietijzer,Gietijzer,Ongewijzigd
+333,1272,Instroomopening,Metaal; overig,Metaal; overig,Ongewijzigd
+334,1273,Intercom,Kunststof,Kunststof,Ongewijzigd
+334,1273,Intercom,Elektrotechniek,Elektrotechniek,Ongewijzigd
+335,1274,"Intercominstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+335,1274,"Intercominstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+336,1275,Intercompost,Beton,Beton,Ongewijzigd
+336,1275,Intercompost,Kunststof,Kunststof,Ongewijzigd
+336,1275,Intercompost,Elektrotechniek,Elektrotechniek,Ongewijzigd
+337,2103,Isolator,Kunststof,Kunststof,Ongewijzigd
+337,2103,Isolator,Aluminium,Aluminium,Ongewijzigd
+337,2103,Isolator,Steenwol,Steenwol,Ongewijzigd
+337,2103,Isolator,Glaswol,Glaswol,Ongewijzigd
+338,2188,Jaloezie (lamel),Hout,Hout,Ongewijzigd
+338,2188,Jaloezie (lamel),Kunststof,Kunststof,Ongewijzigd
+338,2188,Jaloezie (lamel),Mechaniek,Mechaniek,Ongewijzigd
+338,2188,Jaloezie (lamel),Staal,Staal,Ongewijzigd
+338,2188,Jaloezie (lamel),Rubber,Rubber,Ongewijzigd
+339,1278,Juk,Hout,Hout,Ongewijzigd
+339,1278,Juk,Beton,Beton,Ongewijzigd
+339,1278,Juk,Kunststof,Kunststof,Ongewijzigd
+339,1278,Juk,Staal,Staal,Ongewijzigd
+339,1278,Juk,Aluminium,Aluminium,Ongewijzigd
+339,1278,Juk,Gietijzer,Gietijzer,Ongewijzigd
+339,1278,Juk,Metaal; overig,Metaal; overig,Ongewijzigd
+340,1322,KWh-metering,Mechaniek,Mechaniek,Ongewijzigd
+340,1322,KWh-metering,Elektrotechniek,Elektrotechniek,Ongewijzigd
+341,1279,Kaapstander,Hout,Hout,Ongewijzigd
+341,1279,Kaapstander,Staal,Staal,Ongewijzigd
+341,1279,Kaapstander,Metaal; overig,Metaal; overig,Ongewijzigd
+342,2183,Kaart,Kunststof,Kunststof,Ongewijzigd
+342,2183,Kaart,Elektrotechniek,Elektrotechniek,Ongewijzigd
+343,1063,"Kabel, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+344,1281,"Kabeldraagconstructie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+344,1281,"Kabeldraagconstructie, Algemeen",Staal,Staal,Ongewijzigd
+344,1281,"Kabeldraagconstructie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+345,1282,Kabelgoot,Beton,Beton,Ongewijzigd
+345,1282,Kabelgoot,Kunststof,Kunststof,Ongewijzigd
+346,1285,Kabelspaninrichting,Mechaniek,Mechaniek,Ongewijzigd
+346,1285,Kabelspaninrichting,Elektrotechniek,Elektrotechniek,Ongewijzigd
+346,1285,Kabelspaninrichting,Hydrauliek,Hydrauliek,Ongewijzigd
+347,1287,Kabeltender,Mechaniek,Mechaniek,Ongewijzigd
+348,1288,Kabeltrommel,Mechaniek,Mechaniek,Ongewijzigd
+349,1290,Kadeput,Beton,Beton,Ongewijzigd
+349,1290,Kadeput,Kunststof,Kunststof,Ongewijzigd
+350,1678,Kapiteel,Beton,Beton,Ongewijzigd
+350,1678,Kapiteel,Staal,Staal,Ongewijzigd
+350,1678,Kapiteel,Gietijzer,Gietijzer,Ongewijzigd
+350,1678,Kapiteel,Metaal; overig,Metaal; overig,Ongewijzigd
+351,1292,Kast,Beton,Beton,Ongewijzigd
+351,1292,Kast,Kunststof,Kunststof,Ongewijzigd
+351,1292,Kast,Mechaniek,Mechaniek,Ongewijzigd
+351,1292,Kast,Elektrotechniek,Elektrotechniek,Ongewijzigd
+351,1292,Kast,Staal,Staal,Ongewijzigd
+351,1292,Kast,Aluminium,Aluminium,Ongewijzigd
+351,1292,Kast,Gietijzer,Gietijzer,Ongewijzigd
+351,1292,Kast,Rubber,Rubber,Ongewijzigd
+351,1292,Kast,Koper,Koper,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Staal,Staal,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Zink,Zink,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Koper,Koper,Ongewijzigd
+352,2085,"Kathodische bescherminstallatie, Algemeen",Installaties,Installaties,Ongewijzigd
+353,1295,Keerelement,Hout,Hout,Ongewijzigd
+353,1295,Keerelement,Beton,Beton,Ongewijzigd
+353,1295,Keerelement,Steen,Steen,Ongewijzigd
+354,1296,Keermuur,Beton,Beton,Ongewijzigd
+354,1296,Keermuur,Steen,Steen,Ongewijzigd
+355,1824,Keerwand,Beton,Beton,Ongewijzigd
+356,2056,Kegelstuk,Beton,Beton,Ongewijzigd
+356,2056,Kegelstuk,Steen,Steen,Ongewijzigd
+356,2056,Kegelstuk,Kunststof,Kunststof,Ongewijzigd
+357,1684,"Kelder, Algemeen",Beton,Beton,Ongewijzigd
+357,1684,"Kelder, Algemeen",Steen,Steen,Ongewijzigd
+358,2233,Kerf,,Zand,Toegevoegd
+359,2194,"Keringschuif, Algemeen",Kunststof,Kunststof,Ongewijzigd
+359,2194,"Keringschuif, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+359,2194,"Keringschuif, Algemeen",Staal,Staal,Ongewijzigd
+359,2194,"Keringschuif, Algemeen",Aluminium,Aluminium,Ongewijzigd
+359,2194,"Keringschuif, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+359,2194,"Keringschuif, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+359,2194,"Keringschuif, Algemeen",Rubber,Rubber,Ongewijzigd
+360,1297,Kesp,Hout,Hout,Ongewijzigd
+360,1297,Kesp,Beton,Beton,Ongewijzigd
+360,1297,Kesp,Staal,Staal,Ongewijzigd
+360,1297,Kesp,Metaal; overig,Metaal; overig,Ongewijzigd
+361,1299,Ketel,Mechaniek,Mechaniek,Ongewijzigd
+361,1299,Ketel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+362,1300,Ketting,Staal,Staal,Ongewijzigd
+362,1300,Ketting,Gietijzer,Gietijzer,Ongewijzigd
+362,1300,Ketting,Metaal; overig,Metaal; overig,Ongewijzigd
+363,1301,Kettingoog,Staal,Staal,Ongewijzigd
+363,1301,Kettingoog,Gietijzer,Gietijzer,Ongewijzigd
+363,1301,Kettingoog,Metaal; overig,Metaal; overig,Ongewijzigd
+364,1302,Kettingoverbrenging,Mechaniek,Mechaniek,Ongewijzigd
+365,2124,Kettingtand,Kunststof,Kunststof,Ongewijzigd
+365,2124,Kettingtand,Mechaniek,Mechaniek,Ongewijzigd
+365,2124,Kettingtand,Staal,Staal,Ongewijzigd
+365,2124,Kettingtand,Metaal; overig,Metaal; overig,Ongewijzigd
+366,1303,Kettingverankering,Hout,Hout,Ongewijzigd
+366,1303,Kettingverankering,Beton,Beton,Ongewijzigd
+366,1303,Kettingverankering,Steen,Steen,Ongewijzigd
+366,1303,Kettingverankering,Staal,Staal,Ongewijzigd
+366,1303,Kettingverankering,Gietijzer,Gietijzer,Ongewijzigd
+366,1303,Kettingverankering,Metaal; overig,Metaal; overig,Ongewijzigd
+367,2198,Keukenblok,Hout,Hout,Ongewijzigd
+367,2198,Keukenblok,Glas,Glas,Ongewijzigd
+367,2198,Keukenblok,Kunststof,Kunststof,Ongewijzigd
+367,2198,Keukenblok,Staal,Staal,Ongewijzigd
+367,2198,Keukenblok,Aluminium,Aluminium,Ongewijzigd
+367,2198,Keukenblok,Gietijzer,Gietijzer,Ongewijzigd
+367,2198,Keukenblok,Rubber,Rubber,Ongewijzigd
+367,2198,Keukenblok,Keramiek,Keramiek,Ongewijzigd
+368,2199,Keukeninstallatie,Glas,Glas,Ongewijzigd
+368,2199,Keukeninstallatie,Kunststof,Kunststof,Ongewijzigd
+368,2199,Keukeninstallatie,Mechaniek,Mechaniek,Ongewijzigd
+368,2199,Keukeninstallatie,Elektrotechniek,Elektrotechniek,Ongewijzigd
+368,2199,Keukeninstallatie,Staal,Staal,Ongewijzigd
+368,2199,Keukeninstallatie,Aluminium,Aluminium,Ongewijzigd
+368,2199,Keukeninstallatie,Rubber,Rubber,Ongewijzigd
+368,2199,Keukeninstallatie,Koper,Koper,Ongewijzigd
+369,1825,Kinderspeelplaats,Hout,Hout,Ongewijzigd
+369,1825,Kinderspeelplaats,Beton,Beton,Ongewijzigd
+369,1825,Kinderspeelplaats,Steen,Steen,Ongewijzigd
+369,1825,Kinderspeelplaats,Kunststof,Kunststof,Ongewijzigd
+369,1825,Kinderspeelplaats,Asfalt,Asfalt,Ongewijzigd
+369,1825,Kinderspeelplaats,Grond,Grond,Ongewijzigd
+369,1825,Kinderspeelplaats,Gras,Gras,Ongewijzigd
+369,1825,Kinderspeelplaats,Staal,Staal,Ongewijzigd
+369,1825,Kinderspeelplaats,Aluminium,Aluminium,Ongewijzigd
+369,1825,Kinderspeelplaats,Metaal; overig,Metaal; overig,Ongewijzigd
+369,1825,Kinderspeelplaats,Grind,Grind,Ongewijzigd
+369,1825,Kinderspeelplaats,Zand,Zand,Ongewijzigd
+369,1825,Kinderspeelplaats,Boomschors,Boomschors,Ongewijzigd
+369,1825,Kinderspeelplaats,Kunstgras,Kunstgras,Ongewijzigd
+370,2169,Kist,Kunststof,Kunststof,Ongewijzigd
+370,2169,Kist,Staal,Staal,Ongewijzigd
+370,2169,Kist,Aluminium,Aluminium,Ongewijzigd
+370,2169,Kist,Metaal; overig,Metaal; overig,Ongewijzigd
+371,1304,Klep,Kunststof,Kunststof,Ongewijzigd
+371,1304,Klep,Mechaniek,Mechaniek,Ongewijzigd
+371,1304,Klep,Hydrauliek,Hydrauliek,Ongewijzigd
+371,1304,Klep,Staal,Staal,Ongewijzigd
+371,1304,Klep,Gietijzer,Gietijzer,Ongewijzigd
+371,1304,Klep,Metaal; overig,Metaal; overig,Ongewijzigd
+371,1304,Klep,Rubber,Rubber,Ongewijzigd
+371,1304,Klep,Pneumatiek,Pneumatiek,Ongewijzigd
+372,1305,"Klepconstructie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+372,1305,"Klepconstructie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+372,1305,"Klepconstructie, Algemeen",Staal,Staal,Ongewijzigd
+372,1305,"Klepconstructie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+372,1305,"Klepconstructie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+372,1305,"Klepconstructie, Algemeen",Rubber,Rubber,Ongewijzigd
+373,1306,Klepketting,Mechaniek,Mechaniek,Ongewijzigd
+373,1306,Klepketting,Staal,Staal,Ongewijzigd
+373,1306,Klepketting,Gietijzer,Gietijzer,Ongewijzigd
+373,1306,Klepketting,Metaal; overig,Metaal; overig,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Kunststof,Kunststof,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Mechaniek,Mechaniek,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Staal,Staal,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Aluminium,Aluminium,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Gietijzer,Gietijzer,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Rubber,Rubber,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Koper,Koper,Ongewijzigd
+374,2006,"Klimaatinstallatie, algemeen",Installaties,Installaties,Ongewijzigd
+375,1826,Klimplant,Beplanting,,Vervallen
+376,1827,Klimplantconstructie,Hout,Hout,Ongewijzigd
+376,1827,Klimplantconstructie,Kunststof,Kunststof,Ongewijzigd
+376,1827,Klimplantconstructie,Staal,Staal,Ongewijzigd
+376,1827,Klimplantconstructie,Metaal; overig,Metaal; overig,Ongewijzigd
+377,1828,Klimtoestel,Hout,Hout,Ongewijzigd
+377,1828,Klimtoestel,Kunststof,Kunststof,Ongewijzigd
+377,1828,Klimtoestel,Staal,Staal,Ongewijzigd
+377,1828,Klimtoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+378,1310,Knelbeveiliging,Kunststof,Kunststof,Ongewijzigd
+378,1310,Knelbeveiliging,Elektrotechniek,Elektrotechniek,Ongewijzigd
+379,1311,Knooppunt,Hout,Hout,Ongewijzigd
+379,1311,Knooppunt,Beton,Beton,Ongewijzigd
+379,1311,Knooppunt,Staal,Staal,Ongewijzigd
+379,1311,Knooppunt,Gietijzer,Gietijzer,Ongewijzigd
+379,1311,Knooppunt,Metaal; overig,Metaal; overig,Ongewijzigd
+380,1313,Koelmachine,Mechaniek,Mechaniek,Ongewijzigd
+380,1313,Koelmachine,Elektrotechniek,Elektrotechniek,Ongewijzigd
+381,1830,Kogelvanger,Hout,Hout,Ongewijzigd
+381,1830,Kogelvanger,Beton,Beton,Ongewijzigd
+381,1830,Kogelvanger,Kunststof,Kunststof,Ongewijzigd
+381,1830,Kogelvanger,Zand,Zand,Ongewijzigd
+382,1831,Koker,Beton,Beton,Ongewijzigd
+382,1831,Koker,Kunststof,Kunststof,Ongewijzigd
+382,1831,Koker,Fauna,Fauna,Ongewijzigd
+383,1314,Kolk,Beton,Beton,Ongewijzigd
+383,1314,Kolk,Steen,Steen,Ongewijzigd
+383,1314,Kolk,Kunststof,Kunststof,Ongewijzigd
+383,1314,Kolk,Staal,Staal,Ongewijzigd
+383,1314,Kolk,Gietijzer,Gietijzer,Ongewijzigd
+383,1314,Kolk,Metaal; overig,Metaal; overig,Ongewijzigd
+383,1314,Kolk,Rubber,Rubber,Ongewijzigd
+384,1679,Kolom,Beton,Beton,Ongewijzigd
+384,1679,Kolom,Steen,Steen,Ongewijzigd
+384,1679,Kolom,Staal,Staal,Ongewijzigd
+385,1315,Kooi,Kunststof,Kunststof,Ongewijzigd
+385,1315,Kooi,Staal,Staal,Ongewijzigd
+385,1315,Kooi,Metaal; overig,Metaal; overig,Ongewijzigd
+386,1316,Koppeling,Mechaniek,Mechaniek,Ongewijzigd
+387,2149,Kozijn,Hout,Hout,Ongewijzigd
+387,2149,Kozijn,Glas,Glas,Ongewijzigd
+387,2149,Kozijn,Kunststof,Kunststof,Ongewijzigd
+387,2149,Kozijn,Staal,Staal,Ongewijzigd
+387,2149,Kozijn,Aluminium,Aluminium,Ongewijzigd
+388,2161,Kraan,Hout,Hout,Ongewijzigd
+388,2161,Kraan,Kunststof,Kunststof,Ongewijzigd
+388,2161,Kraan,Staal,Staal,Ongewijzigd
+388,2161,Kraan,Aluminium,Aluminium,Ongewijzigd
+388,2161,Kraan,Koper,Koper,Ongewijzigd
+389,1317,Kraanrail,Kunststof,Kunststof,Ongewijzigd
+389,1317,Kraanrail,Mechaniek,Mechaniek,Ongewijzigd
+389,1317,Kraanrail,Staal,Staal,Ongewijzigd
+389,1317,Kraanrail,Gietijzer,Gietijzer,Ongewijzigd
+389,1317,Kraanrail,Metaal; overig,Metaal; overig,Ongewijzigd
+390,1318,Kraanrailfundering,Hout,Hout,Ongewijzigd
+390,1318,Kraanrailfundering,Beton,Beton,Ongewijzigd
+391,1319,Kribbaken,Beton,Beton,Ongewijzigd
+391,1319,Kribbaken,Steen,Steen,Ongewijzigd
+391,1319,Kribbaken,Staal,Staal,Ongewijzigd
+392,1926,Kruidachtige plant,Beplanting,,Vervallen
+393,1321,Krukstang,Mechaniek,Mechaniek,Ongewijzigd
+394,1833,Kunstobject,Hout,Hout,Ongewijzigd
+394,1833,Kunstobject,Beton,Beton,Ongewijzigd
+394,1833,Kunstobject,Steen,Steen,Ongewijzigd
+394,1833,Kunstobject,Kunststof,Kunststof,Ongewijzigd
+394,1833,Kunstobject,Gras,Gras,Ongewijzigd
+394,1833,Kunstobject,Staal,Staal,Ongewijzigd
+394,1833,Kunstobject,Gietijzer,Gietijzer,Ongewijzigd
+394,1833,Kunstobject,Metaal; overig,Metaal; overig,Ongewijzigd
+394,1833,Kunstobject,Grind,Grind,Ongewijzigd
+394,1833,Kunstobject,Zand,Zand,Ongewijzigd
+394,1833,Kunstobject,Boomschors,Boomschors,Ongewijzigd
+394,1833,Kunstobject,Kunstgras,Kunstgras,Ongewijzigd
+395,1834,Kunststofsportveld,Kunststof,Kunststof,Ongewijzigd
+395,1834,Kunststofsportveld,Kunstgras,Kunstgras,Ongewijzigd
+396,2227,Kwelscherm,,Hout,Toegevoegd
+396,2227,Kwelscherm,,Kunststof,Toegevoegd
+396,2227,Kwelscherm,,Staal,Toegevoegd
+397,1323,"Laagspanningsinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+398,1324,Ladder,Hout,Hout,Ongewijzigd
+398,1324,Ladder,Kunststof,Kunststof,Ongewijzigd
+398,1324,Ladder,Staal,Staal,Ongewijzigd
+398,1324,Ladder,Aluminium,Aluminium,Ongewijzigd
+399,1325,Ladderbaan,Kunststof,Kunststof,Ongewijzigd
+399,1325,Ladderbaan,Staal,Staal,Ongewijzigd
+399,1325,Ladderbaan,Metaal; overig,Metaal; overig,Ongewijzigd
+400,2007,Lager,Kunststof,Kunststof,Ongewijzigd
+400,2007,Lager,Mechaniek,Mechaniek,Ongewijzigd
+400,2007,Lager,Staal,Staal,Ongewijzigd
+400,2007,Lager,Gietijzer,Gietijzer,Ongewijzigd
+400,2007,Lager,Metaal; overig,Metaal; overig,Ongewijzigd
+401,2068,Lamellenafscheider,Beton,Beton,Ongewijzigd
+402,1326,Landhoofd,Beton,Beton,Ongewijzigd
+402,1326,Landhoofd,Steen,Steen,Ongewijzigd
+403,1327,Landverkeerssein,Kunststof,Kunststof,Ongewijzigd
+403,1327,Landverkeerssein,Elektrotechniek,Elektrotechniek,Ongewijzigd
+403,1327,Landverkeerssein,Aluminium,Aluminium,Ongewijzigd
+403,1327,Landverkeerssein,Metaal; overig,Metaal; overig,Ongewijzigd
+404,1328,Langsligger,Hout,Hout,Ongewijzigd
+404,1328,Langsligger,Beton,Beton,Ongewijzigd
+404,1328,Langsligger,Kunststof,Kunststof,Ongewijzigd
+404,1328,Langsligger,Staal,Staal,Ongewijzigd
+404,1328,Langsligger,Aluminium,Aluminium,Ongewijzigd
+404,1328,Langsligger,Gietijzer,Gietijzer,Ongewijzigd
+404,1328,Langsligger,Metaal; overig,Metaal; overig,Ongewijzigd
+405,1332,"Leiding, Algemeen",Beton,Beton,Ongewijzigd
+405,1332,"Leiding, Algemeen",Kunststof,Kunststof,Ongewijzigd
+405,1332,"Leiding, Algemeen",Staal,Staal,Ongewijzigd
+405,1332,"Leiding, Algemeen",Aluminium,Aluminium,Ongewijzigd
+405,1332,"Leiding, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+406,2202,Leidingnetwerk,Kunststof,Kunststof,Ongewijzigd
+406,2202,Leidingnetwerk,Staal,Staal,Ongewijzigd
+406,2202,Leidingnetwerk,Koper,Koper,Ongewijzigd
+407,1837,Leiplant,Beplanting,,Vervallen
+408,1333,Lekdetector,Elektrotechniek,Elektrotechniek,Ongewijzigd
+409,2192,Leuning,Hout,Hout,Ongewijzigd
+409,2192,Leuning,Beton,Beton,Ongewijzigd
+409,2192,Leuning,Steen,Steen,Ongewijzigd
+409,2192,Leuning,Kunststof,Kunststof,Ongewijzigd
+409,2192,Leuning,Staal,Staal,Ongewijzigd
+409,2192,Leuning,Gietijzer,Gietijzer,Ongewijzigd
+409,2192,Leuning,Metselwerk,Metselwerk,Ongewijzigd
+410,2145,Leuningafwerking,Hout,Hout,Ongewijzigd
+410,2145,Leuningafwerking,Steen,Steen,Ongewijzigd
+410,2145,Leuningafwerking,Glas,Glas,Ongewijzigd
+410,2145,Leuningafwerking,Kunststof,Kunststof,Ongewijzigd
+410,2145,Leuningafwerking,Staal,Staal,Ongewijzigd
+410,2145,Leuningafwerking,Aluminium,Aluminium,Ongewijzigd
+410,2145,Leuningafwerking,Kurk,Kurk,Ongewijzigd
+410,2145,Leuningafwerking,Keramiek,Keramiek,Ongewijzigd
+410,2145,Leuningafwerking,Gips,Gips,Ongewijzigd
+410,2145,Leuningafwerking,Tapijt,Tapijt,Ongewijzigd
+410,2145,Leuningafwerking,Linoleum,Linoleum,Ongewijzigd
+411,1336,Leuningband,Kunststof,Kunststof,Ongewijzigd
+412,1669,Lichtgroepenkast,Elektrotechniek,Elektrotechniek,Ongewijzigd
+413,2152,Lichtkoepel,Hout,Hout,Ongewijzigd
+413,2152,Lichtkoepel,Glas,Glas,Ongewijzigd
+413,2152,Lichtkoepel,Kunststof,Kunststof,Ongewijzigd
+413,2152,Lichtkoepel,Staal,Staal,Ongewijzigd
+413,2152,Lichtkoepel,Aluminium,Aluminium,Ongewijzigd
+414,1338,Lichtopstand,Beton,Beton,Ongewijzigd
+414,1338,Lichtopstand,Kunststof,Kunststof,Ongewijzigd
+414,1338,Lichtopstand,Elektrotechniek,Elektrotechniek,Ongewijzigd
+415,2153,Lichtstraat,Hout,Hout,Ongewijzigd
+415,2153,Lichtstraat,Glas,Glas,Ongewijzigd
+415,2153,Lichtstraat,Kunststof,Kunststof,Ongewijzigd
+415,2153,Lichtstraat,Staal,Staal,Ongewijzigd
+415,2153,Lichtstraat,Aluminium,Aluminium,Ongewijzigd
+415,2153,Lichtstraat,Koper,Koper,Ongewijzigd
+416,1339,"Lift-installatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+416,1339,"Lift-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+417,1340,Liftdeur,Mechaniek,Mechaniek,Ongewijzigd
+417,1340,Liftdeur,Elektrotechniek,Elektrotechniek,Ongewijzigd
+417,1340,Liftdeur,Staal,Staal,Ongewijzigd
+417,1340,Liftdeur,Aluminium,Aluminium,Ongewijzigd
+417,1340,Liftdeur,Metaal; overig,Metaal; overig,Ongewijzigd
+418,2062,Lijnafwatering,Beton,Beton,Ongewijzigd
+418,2062,Lijnafwatering,Kunststof,Kunststof,Ongewijzigd
+418,2062,Lijnafwatering,Staal,Staal,Ongewijzigd
+419,2189,Local Area Network (LAN),Elektrotechniek,Elektrotechniek,Ongewijzigd
+420,1342,"Loopbrug, Algemeen",Hout,Hout,Ongewijzigd
+420,1342,"Loopbrug, Algemeen",Staal,Staal,Ongewijzigd
+420,1342,"Loopbrug, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+420,1342,"Loopbrug, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+421,1343,Loopkat,Mechaniek,Mechaniek,Ongewijzigd
+421,1343,Loopkat,Elektrotechniek,Elektrotechniek,Ongewijzigd
+422,1344,Loopplank,Hout,Hout,Ongewijzigd
+422,1344,Loopplank,Beton,Beton,Ongewijzigd
+422,1344,Loopplank,Kunststof,Kunststof,Ongewijzigd
+422,1344,Loopplank,Staal,Staal,Ongewijzigd
+422,1344,Loopplank,Aluminium,Aluminium,Ongewijzigd
+422,1344,Loopplank,Fauna,Fauna,Ongewijzigd
+423,2034,Looppoort,Hout,Hout,Ongewijzigd
+423,2034,Looppoort,Kunststof,Kunststof,Ongewijzigd
+423,2034,Looppoort,Staal,Staal,Ongewijzigd
+423,2034,Looppoort,Aluminium,Aluminium,Ongewijzigd
+423,2034,Looppoort,Metaal; overig,Metaal; overig,Ongewijzigd
+423,2034,Looppoort,Koper,Koper,Ongewijzigd
+424,1838,Loopstrook,Hout,Hout,Ongewijzigd
+424,1838,Loopstrook,Grond,Grond,Ongewijzigd
+424,1838,Loopstrook,Gras,Gras,Ongewijzigd
+424,1838,Loopstrook,Beplanting,Beplanting,Ongewijzigd
+424,1838,Loopstrook,Fauna,Fauna,Ongewijzigd
+425,1839,Losse haag,Beplanting,,Vervallen
+426,1345,Luchtdroger,Mechaniek,Mechaniek,Ongewijzigd
+426,1345,Luchtdroger,Elektrotechniek,Elektrotechniek,Ongewijzigd
+427,1277,Luchtinlaat,Kunststof,Kunststof,Ongewijzigd
+427,1277,Luchtinlaat,Mechaniek,Mechaniek,Ongewijzigd
+427,1277,Luchtinlaat,Elektrotechniek,Elektrotechniek,Ongewijzigd
+427,1277,Luchtinlaat,Staal,Staal,Ongewijzigd
+427,1277,Luchtinlaat,Metaal; overig,Metaal; overig,Ongewijzigd
+428,1291,Luchtkanaal,Beton,Beton,Ongewijzigd
+428,1291,Luchtkanaal,Kunststof,Kunststof,Ongewijzigd
+428,1291,Luchtkanaal,Staal,Staal,Ongewijzigd
+428,1291,Luchtkanaal,Aluminium,Aluminium,Ongewijzigd
+428,1291,Luchtkanaal,Rubber,Rubber,Ongewijzigd
+429,1346,Luidspreker,Elektrotechniek,Elektrotechniek,Ongewijzigd
+430,1347,Luik,Hout,Hout,Ongewijzigd
+430,1347,Luik,Beton,Beton,Ongewijzigd
+430,1347,Luik,Kunststof,Kunststof,Ongewijzigd
+430,1347,Luik,Staal,Staal,Ongewijzigd
+430,1347,Luik,Aluminium,Aluminium,Ongewijzigd
+430,1347,Luik,Gietijzer,Gietijzer,Ongewijzigd
+430,1347,Luik,Metaal; overig,Metaal; overig,Ongewijzigd
+430,1347,Luik,Rubber,Rubber,Ongewijzigd
+431,1350,Maaiveld,Grond,Grond,Ongewijzigd
+431,1350,Maaiveld,Gras,Gras,Ongewijzigd
+432,1355,"Mantelbuis, Algemeen",Beton,Beton,Ongewijzigd
+432,1355,"Mantelbuis, Algemeen",Kunststof,Kunststof,Ongewijzigd
+433,1356,"Marifooninstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+434,1357,Markering,Kunststof,Kunststof,Ongewijzigd
+435,1840,Markeringspaal,Hout,Hout,Ongewijzigd
+435,1840,Markeringspaal,Kunststof,Kunststof,Ongewijzigd
+436,1358,Mast,Hout,Hout,Ongewijzigd
+436,1358,Mast,Kunststof,Kunststof,Ongewijzigd
+436,1358,Mast,Staal,Staal,Ongewijzigd
+436,1358,Mast,Aluminium,Aluminium,Ongewijzigd
+436,1358,Mast,Gietijzer,Gietijzer,Ongewijzigd
+436,1358,Mast,Metaal; overig,Metaal; overig,Ongewijzigd
+437,1702,Meerboei,Kunststof,Kunststof,Ongewijzigd
+437,1702,Meerboei,Staal,Staal,Ongewijzigd
+438,1361,Meerpaal,Hout,Hout,Ongewijzigd
+438,1361,Meerpaal,Beton,Beton,Ongewijzigd
+438,1361,Meerpaal,Kunststof,Kunststof,Ongewijzigd
+438,1361,Meerpaal,Staal,Staal,Ongewijzigd
+438,1361,Meerpaal,Gietijzer,Gietijzer,Ongewijzigd
+438,1361,Meerpaal,Metaal; overig,Metaal; overig,Ongewijzigd
+439,1362,Meerstoel,Hout,Hout,Ongewijzigd
+439,1362,Meerstoel,Beton,Beton,Ongewijzigd
+439,1362,Meerstoel,Staal,Staal,Ongewijzigd
+439,1362,Meerstoel,Gietijzer,Gietijzer,Ongewijzigd
+439,1362,Meerstoel,Metaal; overig,Metaal; overig,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Hout,Hout,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Zink,Zink,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+440,2091,"Meetinstallatie, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+441,2087,Meetpunt,Beton,Beton,Ongewijzigd
+441,2087,Meetpunt,Elektrotechniek,Elektrotechniek,Ongewijzigd
+441,2087,Meetpunt,Staal,Staal,Ongewijzigd
+441,2087,Meetpunt,Aluminium,Aluminium,Ongewijzigd
+441,2087,Meetpunt,Koper,Koper,Ongewijzigd
+442,1364,Meetput,Beton,Beton,Ongewijzigd
+442,1364,Meetput,Kunststof,Kunststof,Ongewijzigd
+442,1364,Meetput,Elektrotechniek,Elektrotechniek,Ongewijzigd
+443,1363,Meetsysteem,Kunststof,Kunststof,Ongewijzigd
+443,1363,Meetsysteem,Mechaniek,Mechaniek,Ongewijzigd
+443,1363,Meetsysteem,Elektrotechniek,Elektrotechniek,Ongewijzigd
+443,1363,Meetsysteem,Staal,Staal,Ongewijzigd
+443,1363,Meetsysteem,Metaal; overig,Metaal; overig,Ongewijzigd
+443,1363,Meetsysteem,Koper,Koper,Ongewijzigd
+444,2104,Membraan,Kunststof,Kunststof,Ongewijzigd
+444,2104,Membraan,Rubber,Rubber,Ongewijzigd
+445,2105,Membraanbeluchter,Kunststof,Kunststof,Ongewijzigd
+445,2105,Membraanbeluchter,Staal,Staal,Ongewijzigd
+445,2105,Membraanbeluchter,Rubber,Rubber,Ongewijzigd
+446,1365,Meubilair,Hout,Hout,Ongewijzigd
+446,1365,Meubilair,Beton,Beton,Ongewijzigd
+446,1365,Meubilair,Steen,Steen,Ongewijzigd
+446,1365,Meubilair,Kunststof,Kunststof,Ongewijzigd
+446,1365,Meubilair,Staal,Staal,Ongewijzigd
+447,1366,Microfoon,Elektrotechniek,Elektrotechniek,Ongewijzigd
+448,2106,Mixer,Kunststof,Kunststof,Ongewijzigd
+448,2106,Mixer,Mechaniek,Mechaniek,Ongewijzigd
+448,2106,Mixer,Staal,Staal,Ongewijzigd
+448,2106,Mixer,Gietijzer,Gietijzer,Ongewijzigd
+448,2106,Mixer,Metaal; overig,Metaal; overig,Ongewijzigd
+449,1842,Moeras- en oevervegetatie,Gras,,Vervallen
+449,1842,Moeras- en oevervegetatie,Fauna,,Vervallen
+450,1843,Moeraszeggevegetatie,Gras,,Vervallen
+450,1843,Moeraszeggevegetatie,Fauna,,Vervallen
+451,1369,Monitor,Elektrotechniek,Elektrotechniek,Ongewijzigd
+452,2119,Monsternameapparaat,Kunststof,Kunststof,Ongewijzigd
+452,2119,Monsternameapparaat,Elektrotechniek,Elektrotechniek,Ongewijzigd
+452,2119,Monsternameapparaat,Staal,Staal,Ongewijzigd
+453,1846,Natte heide,Beplanting,,Vervallen
+453,1846,Natte heide,Fauna,,Vervallen
+454,1847,Natuurlijke grasvegetatie,Gras,,Vervallen
+455,1372,Nautofoon,Elektrotechniek,Elektrotechniek,Ongewijzigd
+456,1373,"Nautofooninstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+457,2132,Net,Kunststof,Kunststof,Ongewijzigd
+457,2132,Net,Staal,Staal,Ongewijzigd
+457,2132,Net,Metaal; overig,Metaal; overig,Ongewijzigd
+457,2132,Net,Textiel,Textiel,Ongewijzigd
+458,2015,Niet vrij uitgroeiende boom,Bomen,,Vervallen
+459,1375,Nivelleerschuif,Hout,Hout,Ongewijzigd
+459,1375,Nivelleerschuif,Kunststof,Kunststof,Ongewijzigd
+459,1375,Nivelleerschuif,Staal,Staal,Ongewijzigd
+459,1375,Nivelleerschuif,Metaal; overig,Metaal; overig,Ongewijzigd
+460,2000,Noodhandbediening,Kunststof,Kunststof,Ongewijzigd
+460,2000,Noodhandbediening,Mechaniek,Mechaniek,Ongewijzigd
+460,2000,Noodhandbediening,Staal,Staal,Ongewijzigd
+460,2000,Noodhandbediening,Aluminium,Aluminium,Ongewijzigd
+460,2000,Noodhandbediening,Metaal; overig,Metaal; overig,Ongewijzigd
+461,1377,Noodstop,Mechaniek,Mechaniek,Ongewijzigd
+461,1377,Noodstop,Elektrotechniek,Elektrotechniek,Ongewijzigd
+462,1378,"Noodstroominstallatie (roterend), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+462,1378,"Noodstroominstallatie (roterend), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+463,1379,"Noodstroominstallatie (statisch), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+464,1683,Noodtelefoon,Elektrotechniek,Elektrotechniek,Ongewijzigd
+465,1735,Objectbegroeiing,Beplanting,,Vervallen
+466,1381,"Objectverlichting, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+467,1382,Obstakelbeveiliger,Beton,Beton,Ongewijzigd
+467,1382,Obstakelbeveiliger,Mechaniek,Mechaniek,Ongewijzigd
+467,1382,Obstakelbeveiliger,Staal,Staal,Ongewijzigd
+467,1382,Obstakelbeveiliger,Gietijzer,Gietijzer,Ongewijzigd
+467,1382,Obstakelbeveiliger,Metaal; overig,Metaal; overig,Ongewijzigd
+468,1848,Oefenring,Staal,Staal,Ongewijzigd
+468,1848,Oefenring,Metaal; overig,Metaal; overig,Ongewijzigd
+468,1848,Oefenring,Grind,Grind,Ongewijzigd
+468,1848,Oefenring,Zand,Zand,Ongewijzigd
+470,2027,Oeverzwaluwenwand,Beton,Beton,Ongewijzigd
+470,2027,Oeverzwaluwenwand,Steen,Steen,Ongewijzigd
+470,2027,Oeverzwaluwenwand,Grond,Grond,Ongewijzigd
+470,2027,Oeverzwaluwenwand,Zand,Zand,Ongewijzigd
+470,2027,Oeverzwaluwenwand,Fauna,Fauna,Ongewijzigd
+471,2064,Olie- en benzineafscheider,Beton,Beton,Ongewijzigd
+471,2064,Olie- en benzineafscheider,Staal,Staal,Ongewijzigd
+472,2181,Olieboom,Kunststof,Kunststof,Ongewijzigd
+472,2181,Olieboom,Metaal; overig,Metaal; overig,Ongewijzigd
+472,2181,Olieboom,Rubber,Rubber,Ongewijzigd
+473,1977,Oliefilter,Kunststof,Kunststof,Ongewijzigd
+473,1977,Oliefilter,Mechaniek,Mechaniek,Ongewijzigd
+473,1977,Oliefilter,Staal,Staal,Ongewijzigd
+473,1977,Oliefilter,Aluminium,Aluminium,Ongewijzigd
+473,1977,Oliefilter,Zink,Zink,Ongewijzigd
+473,1977,Oliefilter,Gietijzer,Gietijzer,Ongewijzigd
+473,1977,Oliefilter,Metaal; overig,Metaal; overig,Ongewijzigd
+473,1977,Oliefilter,Rubber,Rubber,Ongewijzigd
+473,1977,Oliefilter,Koper,Koper,Ongewijzigd
+473,1977,Oliefilter,Textiel,Textiel,Ongewijzigd
+474,1851,Omloopbaan,Kunststof,Kunststof,Ongewijzigd
+474,1851,Omloopbaan,Gras,Gras,Ongewijzigd
+474,1851,Omloopbaan,Grind,Grind,Ongewijzigd
+474,1851,Omloopbaan,Zand,Zand,Ongewijzigd
+474,1851,Omloopbaan,Boomschors,Boomschors,Ongewijzigd
+474,1851,Omloopbaan,Gravel,Gravel,Ongewijzigd
+474,1851,Omloopbaan,Kunstgras,Kunstgras,Ongewijzigd
+475,1383,Omloopriool,Beton,Beton,Ongewijzigd
+475,1383,Omloopriool,Kunststof,Kunststof,Ongewijzigd
+475,1383,Omloopriool,Staal,Staal,Ongewijzigd
+475,1383,Omloopriool,Metaal; overig,Metaal; overig,Ongewijzigd
+476,1385,"Omroepinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+477,2048,Onderbak,Beton,Beton,Ongewijzigd
+477,2048,Onderbak,Steen,Steen,Ongewijzigd
+477,2048,Onderbak,Kunststof,Kunststof,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Beton,Beton,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Steen,Steen,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Staal,Staal,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Aluminium,Aluminium,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Zink,Zink,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+478,1387,"Onderbouw, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+479,2178,Ondergrond,Grond,Grond,Ongewijzigd
+479,2178,Ondergrond,Zand,Zand,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Kunststof,Kunststof,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Gras,Gras,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Grind,Grind,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Zand,Zand,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Boomschors,Boomschors,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Gravel,Gravel,Ongewijzigd
+480,1852,Ondergrond speelvoorziening,Kunstgras,Kunstgras,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Hout,Hout,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Beton,Beton,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Steen,Steen,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Kunststof,Kunststof,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Staal,Staal,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Aluminium,Aluminium,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Zink,Zink,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+481,1389,"Onderhoudsvoorziening, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+482,2175,Onderlaag,Zand,Zand,Ongewijzigd
+482,2175,Onderlaag,Asfaltbeton,Asfaltbeton,Ongewijzigd
+482,2175,Onderlaag,Cementbeton,Cementbeton,Ongewijzigd
+483,1391,Onderloopsheidscherm,Kunststof,Kunststof,Ongewijzigd
+484,1393,Onderverdeler,Elektrotechniek,Elektrotechniek,Ongewijzigd
+485,1395,Ontvangbed,Beton,Beton,Ongewijzigd
+485,1395,Ontvangbed,Steen,Steen,Ongewijzigd
+485,1395,Ontvangbed,Asfalt,Asfalt,Ongewijzigd
+486,1396,Ontvanger,Elektrotechniek,Elektrotechniek,Ongewijzigd
+487,1397,Onverhard oppervlak,Zand,Zand,Ongewijzigd
+487,1397,Onverhard oppervlak,Grond,,Vervallen
+487,1397,Onverhard oppervlak,Gras,,Vervallen
+487,1397,Onverhard oppervlak,Onverhard,,Vervallen
+488,1398,Op- en afrit,Hout,Hout,Ongewijzigd
+488,1398,Op- en afrit,Beton,Beton,Ongewijzigd
+488,1398,Op- en afrit,Steen,Steen,Ongewijzigd
+488,1398,Op- en afrit,Asfalt,Asfalt,Ongewijzigd
+489,1399,Open buispalen,Hout,Hout,Ongewijzigd
+489,1399,Open buispalen,Staal,Staal,Ongewijzigd
+489,1399,Open buispalen,Metaal; overig,Metaal; overig,Ongewijzigd
+490,1400,"Openbare verlichting (OV), Algemeen",Kunststof,Kunststof,Ongewijzigd
+490,1400,"Openbare verlichting (OV), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+491,1401,Openfilterconstructie,Beton,Beton,Ongewijzigd
+491,1401,Openfilterconstructie,Steen,Steen,Ongewijzigd
+491,1401,Openfilterconstructie,Kunststof,Kunststof,Ongewijzigd
+491,1401,Openfilterconstructie,Grond,Grond,Ongewijzigd
+492,1854,Ophangconstructie,Kunststof,Kunststof,Ongewijzigd
+492,1854,Ophangconstructie,Staal,Staal,Ongewijzigd
+492,1854,Ophangconstructie,Metaal; overig,Metaal; overig,Ongewijzigd
+493,1402,Ophoging,Beton,Beton,Ongewijzigd
+493,1402,Ophoging,Grond,Grond,Ongewijzigd
+493,1402,Ophoging,Zand,Zand,Ongewijzigd
+493,1402,Ophoging,Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+493,1402,Ophoging,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+494,1687,Oplegbalk,Beton,Beton,Ongewijzigd
+494,1687,Oplegbalk,Staal,Staal,Ongewijzigd
+495,1686,Oplegblok,Beton,Beton,Ongewijzigd
+495,1686,Oplegblok,Staal,Staal,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Hout,Hout,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Beton,Beton,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Steen,Steen,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Kunststof,Kunststof,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Staal,Staal,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Aluminium,Aluminium,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+496,1404,"Oplegging, Algemeen",Rubber,Rubber,Ongewijzigd
+497,1403,Oplegpunt,Hout,Hout,Ongewijzigd
+497,1403,Oplegpunt,Beton,Beton,Ongewijzigd
+497,1403,Oplegpunt,Steen,Steen,Ongewijzigd
+497,1403,Oplegpunt,Kunststof,Kunststof,Ongewijzigd
+497,1403,Oplegpunt,Staal,Staal,Ongewijzigd
+497,1403,Oplegpunt,Aluminium,Aluminium,Ongewijzigd
+497,1403,Oplegpunt,Gietijzer,Gietijzer,Ongewijzigd
+497,1403,Oplegpunt,Metaal; overig,Metaal; overig,Ongewijzigd
+497,1403,Oplegpunt,Rubber,Rubber,Ongewijzigd
+498,1688,Oplegstoel,Hout,Hout,Ongewijzigd
+498,1688,Oplegstoel,Beton,Beton,Ongewijzigd
+498,1688,Oplegstoel,Steen,Steen,Ongewijzigd
+498,1688,Oplegstoel,Staal,Staal,Ongewijzigd
+498,1688,Oplegstoel,Aluminium,Aluminium,Ongewijzigd
+498,1688,Oplegstoel,Gietijzer,Gietijzer,Ongewijzigd
+498,1688,Oplegstoel,Metaal; overig,Metaal; overig,Ongewijzigd
+498,1688,Oplegstoel,Rubber,Rubber,Ongewijzigd
+499,1689,Oplegtafel,Hout,Hout,Ongewijzigd
+499,1689,Oplegtafel,Beton,Beton,Ongewijzigd
+499,1689,Oplegtafel,Steen,Steen,Ongewijzigd
+499,1689,Oplegtafel,Staal,Staal,Ongewijzigd
+499,1689,Oplegtafel,Aluminium,Aluminium,Ongewijzigd
+499,1689,Oplegtafel,Gietijzer,Gietijzer,Ongewijzigd
+499,1689,Oplegtafel,Metaal; overig,Metaal; overig,Ongewijzigd
+499,1689,Oplegtafel,Rubber,Rubber,Ongewijzigd
+500,1405,Opnamemedium,Kunststof,Kunststof,Ongewijzigd
+500,1405,Opnamemedium,Elektrotechniek,Elektrotechniek,Ongewijzigd
+501,1408,Opsluitband,Hout,Hout,Ongewijzigd
+501,1408,Opsluitband,Beton,Beton,Ongewijzigd
+501,1408,Opsluitband,Steen,Steen,Ongewijzigd
+501,1408,Opsluitband,Kunststof,Kunststof,Ongewijzigd
+501,1408,Opsluitband,Asfalt,Asfalt,Ongewijzigd
+501,1408,Opsluitband,Staal,Staal,Ongewijzigd
+502,1411,Opsluitconstructie,Beton,Beton,Ongewijzigd
+502,1411,Opsluitconstructie,Steen,Steen,Ongewijzigd
+502,1411,Opsluitconstructie,Staal,Staal,Ongewijzigd
+502,1411,Opsluitconstructie,Fauna,Fauna,Ongewijzigd
+503,1417,"Opstal, Algemeen",Hout,Hout,Ongewijzigd
+503,1417,"Opstal, Algemeen",Beton,Beton,Ongewijzigd
+503,1417,"Opstal, Algemeen",Glas,Glas,Ongewijzigd
+503,1417,"Opstal, Algemeen",Kunststof,Kunststof,Ongewijzigd
+503,1417,"Opstal, Algemeen",Staal,Staal,Ongewijzigd
+503,1417,"Opstal, Algemeen",Aluminium,Aluminium,Ongewijzigd
+503,1417,"Opstal, Algemeen",Zink,Zink,Ongewijzigd
+503,1417,"Opstal, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+504,1615,Opvulling,Beton,Beton,Ongewijzigd
+504,1615,Opvulling,Kunststof,Kunststof,Ongewijzigd
+504,1615,Opvulling,Asfalt,Asfalt,Ongewijzigd
+504,1615,Opvulling,Grond,Grond,Ongewijzigd
+504,1615,Opvulling,Asfalt (open),Asfalt (open),Ongewijzigd
+504,1615,Opvulling,Zand,Zand,Ongewijzigd
+505,1418,Opzetinrichting,Mechaniek,Mechaniek,Ongewijzigd
+505,1418,Opzetinrichting,Staal,Staal,Ongewijzigd
+506,1419,"Over- en onderdrukinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+506,1419,"Over- en onderdrukinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+507,1420,Overgangsplaat,Beton,Beton,Ongewijzigd
+507,1420,Overgangsplaat,Mechaniek,Mechaniek,Ongewijzigd
+507,1420,Overgangsplaat,Staal,Staal,Ongewijzigd
+508,1421,Overlastbelastingsbeveiliging,Mechaniek,Mechaniek,Ongewijzigd
+508,1421,Overlastbelastingsbeveiliging,Elektrotechniek,Elektrotechniek,Ongewijzigd
+509,1438,Overspanning,Beton,,Vervallen
+509,1438,Overspanning,Kunststof,,Vervallen
+509,1438,Overspanning,Staal,,Vervallen
+510,1422,Overspanningbeveiliging,Elektrotechniek,Elektrotechniek,Ongewijzigd
+511,2217,Oversteek,,Hout,Toegevoegd
+511,2217,Oversteek,,Beton,Toegevoegd
+511,2217,Oversteek,,Kunststof,Toegevoegd
+511,2217,Oversteek,,Staal,Toegevoegd
+511,2217,Oversteek,,Aluminium,Toegevoegd
+511,2217,Oversteek,,Metaal; overig,Toegevoegd
+512,1855,Paaiplaats,Fauna,Fauna,Ongewijzigd
+513,1423,Paal,Hout,Hout,Ongewijzigd
+513,1423,Paal,Beton,Beton,Ongewijzigd
+513,1423,Paal,Kunststof,Kunststof,Ongewijzigd
+513,1423,Paal,Staal,Staal,Ongewijzigd
+513,1423,Paal,Gietijzer,Gietijzer,Ongewijzigd
+513,1423,Paal,Metaal; overig,Metaal; overig,Ongewijzigd
+513,1423,Paal,Fauna,Fauna,Ongewijzigd
+514,1424,Paalbeugel,Staal,Staal,Ongewijzigd
+514,1424,Paalbeugel,Gietijzer,Gietijzer,Ongewijzigd
+514,1424,Paalbeugel,Metaal; overig,Metaal; overig,Ongewijzigd
+515,2234,Palenrij,,Hout,Toegevoegd
+515,2234,Palenrij,,Beton,Toegevoegd
+516,1661,Panamawiel,Mechaniek,Mechaniek,Ongewijzigd
+516,1661,Panamawiel,Staal,Staal,Ongewijzigd
+516,1661,Panamawiel,Gietijzer,Gietijzer,Ongewijzigd
+517,2136,Paneel,Hout,Hout,Ongewijzigd
+517,2136,Paneel,Beton,Beton,Ongewijzigd
+517,2136,Paneel,Glas,Glas,Ongewijzigd
+517,2136,Paneel,Kunststof,Kunststof,Ongewijzigd
+517,2136,Paneel,Staal,Staal,Ongewijzigd
+518,1856,Pannakooi,Metaal; overig,Metaal; overig,Ongewijzigd
+519,1857,Papierbak,Hout,Hout,Ongewijzigd
+519,1857,Papierbak,Beton,Beton,Ongewijzigd
+519,1857,Papierbak,Steen,Steen,Ongewijzigd
+519,1857,Papierbak,Kunststof,Kunststof,Ongewijzigd
+519,1857,Papierbak,Staal,Staal,Ongewijzigd
+519,1857,Papierbak,Metaal; overig,Metaal; overig,Ongewijzigd
+520,2172,Parkeerbeugel,Kunststof,Kunststof,Ongewijzigd
+520,2172,Parkeerbeugel,Mechaniek,Mechaniek,Ongewijzigd
+520,2172,Parkeerbeugel,Staal,Staal,Ongewijzigd
+520,2172,Parkeerbeugel,Rubber,Rubber,Ongewijzigd
+521,2226,Peilbuis,,Kunststof,Toegevoegd
+521,2226,Peilbuis,,Staal,Toegevoegd
+522,1425,Peilschaal,Hout,Hout,Ongewijzigd
+522,1425,Peilschaal,Beton,Beton,Ongewijzigd
+522,1425,Peilschaal,Kunststof,Kunststof,Ongewijzigd
+522,1425,Peilschaal,Staal,Staal,Ongewijzigd
+522,1425,Peilschaal,Aluminium,Aluminium,Ongewijzigd
+522,1425,Peilschaal,Metaal; overig,Metaal; overig,Ongewijzigd
+522,1425,Peilschaal,Emaille,Emaille,Ongewijzigd
+523,1427,Pennenbaan,Mechaniek,Mechaniek,Ongewijzigd
+523,1427,Pennenbaan,Staal,Staal,Ongewijzigd
+524,1859,Pergola,Hout,Hout,Ongewijzigd
+524,1859,Pergola,Kunststof,Kunststof,Ongewijzigd
+524,1859,Pergola,Metaal; overig,Metaal; overig,Ongewijzigd
+525,2110,"Persinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+525,2110,"Persinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+525,2110,"Persinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+525,2110,"Persinstallatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+525,2110,"Persinstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+526,1428,"Personenzoekinstallatie (PZI), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+527,1429,Pictogram,Kunststof,Kunststof,Ongewijzigd
+528,1430,Pijler,Hout,Hout,Ongewijzigd
+528,1430,Pijler,Beton,Beton,Ongewijzigd
+528,1430,Pijler,Steen,Steen,Ongewijzigd
+528,1430,Pijler,Staal,Staal,Ongewijzigd
+528,1430,Pijler,Gietijzer,Gietijzer,Ongewijzigd
+528,1430,Pijler,Metaal; overig,Metaal; overig,Ongewijzigd
+529,2107,Plaatbeluchter,Kunststof,Kunststof,Ongewijzigd
+529,2107,Plaatbeluchter,Staal,Staal,Ongewijzigd
+529,2107,Plaatbeluchter,Metaal; overig,Metaal; overig,Ongewijzigd
+529,2107,Plaatbeluchter,Rubber,Rubber,Ongewijzigd
+530,1680,Plaatveld,Staal,Staal,Ongewijzigd
+530,1680,Plaatveld,Aluminium,Aluminium,Ongewijzigd
+531,1563,Plafond,Hout,Hout,Ongewijzigd
+531,1563,Plafond,Beton,Beton,Ongewijzigd
+531,1563,Plafond,Steen,Steen,Ongewijzigd
+531,1563,Plafond,Glas,Glas,Ongewijzigd
+531,1563,Plafond,Kunststof,Kunststof,Ongewijzigd
+531,1563,Plafond,Staal,Staal,Ongewijzigd
+531,1563,Plafond,Aluminium,Aluminium,Ongewijzigd
+531,1563,Plafond,Gietijzer,Gietijzer,Ongewijzigd
+532,2148,Plafondafwerking,Hout,Hout,Ongewijzigd
+532,2148,Plafondafwerking,Glas,Glas,Ongewijzigd
+532,2148,Plafondafwerking,Kunststof,Kunststof,Ongewijzigd
+532,2148,Plafondafwerking,Staal,Staal,Ongewijzigd
+532,2148,Plafondafwerking,Aluminium,Aluminium,Ongewijzigd
+532,2148,Plafondafwerking,Kurk,Kurk,Ongewijzigd
+532,2148,Plafondafwerking,Keramiek,Keramiek,Ongewijzigd
+532,2148,Plafondafwerking,Gips,Gips,Ongewijzigd
+533,2215,Plant,,Houtige vegetatie,Toegevoegd
+534,1863,Plasberm,Grond,,Vervallen
+534,1863,Plasberm,Gras,,Vervallen
+534,1863,Plasberm,Fauna,,Vervallen
+535,1863,Plasberm,,Grond,Toegevoegd
+535,1863,Plasberm,,Fauna,Toegevoegd
+535,1863,Plasberm,,Kruidachtige vegetatie,Toegevoegd
+536,1433,Poer,Beton,Beton,Ongewijzigd
+536,1433,Poer,Steen,Steen,Ongewijzigd
+537,2191,"Pollerinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+537,2191,"Pollerinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+537,2191,"Pollerinstallatie, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+538,1434,Pomp,Mechaniek,Mechaniek,Ongewijzigd
+538,1434,Pomp,Elektrotechniek,Elektrotechniek,Ongewijzigd
+539,1435,"Pompinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+539,1435,"Pompinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+540,1436,"Pompkelder, Algemeen",Beton,Beton,Ongewijzigd
+540,1436,"Pompkelder, Algemeen",Steen,Steen,Ongewijzigd
+540,1436,"Pompkelder, Algemeen",Keramiek,Keramiek,Ongewijzigd
+541,1437,"Ponton, Algemeen",Beton,Beton,Ongewijzigd
+541,1437,"Ponton, Algemeen",Staal,Staal,Ongewijzigd
+541,1437,"Ponton, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+541,1437,"Ponton, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+542,1439,"Portaal, Algemeen",Beton,Beton,Ongewijzigd
+542,1439,"Portaal, Algemeen",Kunststof,Kunststof,Ongewijzigd
+542,1439,"Portaal, Algemeen",Staal,Staal,Ongewijzigd
+543,2221,Portofoon,,Elektrotechniek,Toegevoegd
+544,1440,Praatpaal,Elektrotechniek,Elektrotechniek,Ongewijzigd
+545,1431,Programmable Logic Controller (PLC),Elektrotechniek,Elektrotechniek,Ongewijzigd
+546,2108,Puntbeluchter,Mechaniek,Mechaniek,Ongewijzigd
+546,2108,Puntbeluchter,Staal,Staal,Ongewijzigd
+546,2108,Puntbeluchter,Gietijzer,Gietijzer,Ongewijzigd
+546,2108,Puntbeluchter,Metaal; overig,Metaal; overig,Ongewijzigd
+547,1445,Puntdeur,Hout,Hout,Ongewijzigd
+547,1445,Puntdeur,Staal,Staal,Ongewijzigd
+548,2057,Putrand,Beton,Beton,Ongewijzigd
+548,2057,Putrand,Kunststof,Kunststof,Ongewijzigd
+548,2057,Putrand,Staal,Staal,Ongewijzigd
+549,1447,Pyloon,Beton,Beton,Ongewijzigd
+549,1447,Pyloon,Staal,Staal,Ongewijzigd
+550,2150,Raam,Hout,Hout,Ongewijzigd
+550,2150,Raam,Glas,Glas,Ongewijzigd
+550,2150,Raam,Kunststof,Kunststof,Ongewijzigd
+550,2150,Raam,Staal,Staal,Ongewijzigd
+550,2150,Raam,Aluminium,Aluminium,Ongewijzigd
+551,1448,"Radarinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+551,1448,"Radarinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+551,1448,"Radarinstallatie, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+552,1449,Radarscanner,Kunststof,Kunststof,Ongewijzigd
+552,1449,Radarscanner,Elektrotechniek,Elektrotechniek,Ongewijzigd
+553,1458,Radio Direction Finding (RDF),Elektrotechniek,Elektrotechniek,Ongewijzigd
+554,1450,Rail,Kunststof,Kunststof,Ongewijzigd
+554,1450,Rail,Mechaniek,Mechaniek,Ongewijzigd
+554,1450,Rail,Staal,Staal,Ongewijzigd
+554,1450,Rail,Aluminium,Aluminium,Ongewijzigd
+554,1450,Rail,Gietijzer,Gietijzer,Ongewijzigd
+554,1450,Rail,Metaal; overig,Metaal; overig,Ongewijzigd
+555,1451,Railbaan,Kunststof,Kunststof,Ongewijzigd
+555,1451,Railbaan,Mechaniek,Mechaniek,Ongewijzigd
+555,1451,Railbaan,Staal,Staal,Ongewijzigd
+555,1451,Railbaan,Aluminium,Aluminium,Ongewijzigd
+555,1451,Railbaan,Gietijzer,Gietijzer,Ongewijzigd
+555,1451,Railbaan,Metaal; overig,Metaal; overig,Ongewijzigd
+556,1452,Railgeleiding,Kunststof,Kunststof,Ongewijzigd
+556,1452,Railgeleiding,Mechaniek,Mechaniek,Ongewijzigd
+556,1452,Railgeleiding,Staal,Staal,Ongewijzigd
+556,1452,Railgeleiding,Aluminium,Aluminium,Ongewijzigd
+556,1452,Railgeleiding,Metaal; overig,Metaal; overig,Ongewijzigd
+556,1452,Railgeleiding,Rubber,Rubber,Ongewijzigd
+557,1453,Rails in verharding,Kunststof,Kunststof,Ongewijzigd
+557,1453,Rails in verharding,Mechaniek,Mechaniek,Ongewijzigd
+557,1453,Rails in verharding,Staal,Staal,Ongewijzigd
+557,1453,Rails in verharding,Gietijzer,Gietijzer,Ongewijzigd
+557,1453,Rails in verharding,Metaal; overig,Metaal; overig,Ongewijzigd
+558,1454,Rails vrijliggend,Kunststof,Kunststof,Ongewijzigd
+558,1454,Rails vrijliggend,Mechaniek,Mechaniek,Ongewijzigd
+558,1454,Rails vrijliggend,Staal,Staal,Ongewijzigd
+558,1454,Rails vrijliggend,Gietijzer,Gietijzer,Ongewijzigd
+558,1454,Rails vrijliggend,Metaal; overig,Metaal; overig,Ongewijzigd
+559,1455,Railsysteem,Kunststof,Kunststof,Ongewijzigd
+559,1455,Railsysteem,Mechaniek,Mechaniek,Ongewijzigd
+559,1455,Railsysteem,Staal,Staal,Ongewijzigd
+559,1455,Railsysteem,Koper,Koper,Ongewijzigd
+560,1456,Randelement,Hout,Hout,Ongewijzigd
+560,1456,Randelement,Beton,Beton,Ongewijzigd
+560,1456,Randelement,Steen,Steen,Ongewijzigd
+560,1456,Randelement,Kunststof,Kunststof,Ongewijzigd
+560,1456,Randelement,Staal,Staal,Ongewijzigd
+560,1456,Randelement,Metaal; overig,Metaal; overig,Ongewijzigd
+561,1457,Randprofiel,Beton,Beton,Ongewijzigd
+561,1457,Randprofiel,Steen,Steen,Ongewijzigd
+562,2135,Reclamezuil,Beton,Beton,Ongewijzigd
+562,2135,Reclamezuil,Kunststof,Kunststof,Ongewijzigd
+562,2135,Reclamezuil,Staal,Staal,Ongewijzigd
+562,2135,Reclamezuil,Gietijzer,Gietijzer,Ongewijzigd
+562,2135,Reclamezuil,Metaal; overig,Metaal; overig,Ongewijzigd
+563,2072,Reddingsboei,Kunststof,Kunststof,Ongewijzigd
+563,2072,Reddingsboei,Rubber,Rubber,Ongewijzigd
+564,2078,Reddingsdavit,Kunststof,Kunststof,Ongewijzigd
+564,2078,Reddingsdavit,Mechaniek,Mechaniek,Ongewijzigd
+564,2078,Reddingsdavit,Staal,Staal,Ongewijzigd
+564,2078,Reddingsdavit,Metaal; overig,Metaal; overig,Ongewijzigd
+564,2078,Reddingsdavit,Rubber,Rubber,Ongewijzigd
+564,2078,Reddingsdavit,Pneumatiek,Pneumatiek,Ongewijzigd
+565,2070,Reddingslijn,Kunststof,Kunststof,Ongewijzigd
+566,2071,Reddingsvest,Kunststof,Kunststof,Ongewijzigd
+566,2071,Reddingsvest,Textiel,Textiel,Ongewijzigd
+567,1459,Reductiekast,Kunststof,Kunststof,Ongewijzigd
+567,1459,Reductiekast,Mechaniek,Mechaniek,Ongewijzigd
+567,1459,Reductiekast,Elektrotechniek,Elektrotechniek,Ongewijzigd
+567,1459,Reductiekast,Staal,Staal,Ongewijzigd
+567,1459,Reductiekast,Gietijzer,Gietijzer,Ongewijzigd
+567,1459,Reductiekast,Metaal; overig,Metaal; overig,Ongewijzigd
+568,1043,Reflector,Kunststof,Kunststof,Ongewijzigd
+568,1043,Reflector,Staal,Staal,Ongewijzigd
+568,1043,Reflector,Aluminium,Aluminium,Ongewijzigd
+569,1662,Regelballast,Elektrotechniek,Elektrotechniek,Ongewijzigd
+570,2193,Regelbare aandrijving,Elektrotechniek,Elektrotechniek,Ongewijzigd
+571,1334,Reling,Hout,Hout,Ongewijzigd
+571,1334,Reling,Beton,Beton,Ongewijzigd
+571,1334,Reling,Steen,Steen,Ongewijzigd
+571,1334,Reling,Kunststof,Kunststof,Ongewijzigd
+571,1334,Reling,Staal,Staal,Ongewijzigd
+571,1334,Reling,Aluminium,Aluminium,Ongewijzigd
+571,1334,Reling,Gietijzer,Gietijzer,Ongewijzigd
+571,1334,Reling,Metaal; overig,Metaal; overig,Ongewijzigd
+571,1334,Reling,Metselwerk,Metselwerk,Ongewijzigd
+572,1460,Rem,Kunststof,Kunststof,Ongewijzigd
+572,1460,Rem,Mechaniek,Mechaniek,Ongewijzigd
+572,1460,Rem,Elektrotechniek,Elektrotechniek,Ongewijzigd
+572,1460,Rem,Hydrauliek,Hydrauliek,Ongewijzigd
+572,1460,Rem,Staal,Staal,Ongewijzigd
+572,1460,Rem,Gietijzer,Gietijzer,Ongewijzigd
+572,1460,Rem,Metaal; overig,Metaal; overig,Ongewijzigd
+573,2051,Remschot,Beton,Beton,Ongewijzigd
+573,2051,Remschot,Steen,Steen,Ongewijzigd
+573,2051,Remschot,Kunststof,Kunststof,Ongewijzigd
+573,2051,Remschot,Staal,Staal,Ongewijzigd
+573,2051,Remschot,Gietijzer,Gietijzer,Ongewijzigd
+574,2094,Riem,Kunststof,Kunststof,Ongewijzigd
+574,2094,Riem,Metaal; overig,Metaal; overig,Ongewijzigd
+574,2094,Riem,Rubber,Rubber,Ongewijzigd
+575,1871,Rietvegetatie,Gras,,Vervallen
+575,1871,Rietvegetatie,Fauna,,Vervallen
+576,1700,Rij-ijzer,Staal,Staal,Ongewijzigd
+577,1461,Rijdek,Hout,Hout,Ongewijzigd
+577,1461,Rijdek,Beton,Beton,Ongewijzigd
+577,1461,Rijdek,Kunststof,Kunststof,Ongewijzigd
+577,1461,Rijdek,Staal,Staal,Ongewijzigd
+577,1461,Rijdek,Metaal; overig,Metaal; overig,Ongewijzigd
+578,1992,Rijzendam,Hout,Hout,Ongewijzigd
+578,1992,Rijzendam,Steen,Steen,Ongewijzigd
+578,1992,Rijzendam,Asfalt,Asfalt,Ongewijzigd
+578,1992,Rijzendam,Grond,Grond,Ongewijzigd
+578,1992,Rijzendam,Textiel,Textiel,Ongewijzigd
+578,1992,Rijzendam,Grind,Grind,Ongewijzigd
+579,2216,Rivierhout,,Hout,Toegevoegd
+580,2118,Roerwerk,Kunststof,Kunststof,Ongewijzigd
+580,2118,Roerwerk,Mechaniek,Mechaniek,Ongewijzigd
+580,2118,Roerwerk,Staal,Staal,Ongewijzigd
+580,2118,Roerwerk,Gietijzer,Gietijzer,Ongewijzigd
+581,1466,Rolbaan,Mechaniek,Mechaniek,Ongewijzigd
+581,1466,Rolbaan,Elektrotechniek,Elektrotechniek,Ongewijzigd
+581,1466,Rolbaan,Hydrauliek,Hydrauliek,Ongewijzigd
+582,1467,Roldeur,Hout,Hout,Ongewijzigd
+582,1467,Roldeur,Staal,Staal,Ongewijzigd
+582,1467,Roldeur,Metaal; overig,Metaal; overig,Ongewijzigd
+583,2187,Rolgordijn,Kunststof,Kunststof,Ongewijzigd
+583,2187,Rolgordijn,Mechaniek,Mechaniek,Ongewijzigd
+583,2187,Rolgordijn,Staal,Staal,Ongewijzigd
+583,2187,Rolgordijn,Rubber,Rubber,Ongewijzigd
+583,2187,Rolgordijn,Textiel,Textiel,Ongewijzigd
+584,2185,Rolluik,Kunststof,Kunststof,Ongewijzigd
+584,2185,Rolluik,Mechaniek,Mechaniek,Ongewijzigd
+584,2185,Rolluik,Staal,Staal,Ongewijzigd
+584,2185,Rolluik,Rubber,Rubber,Ongewijzigd
+585,1468,Rolsleufmechanisme,Mechaniek,Mechaniek,Ongewijzigd
+586,1469,"Roltrapinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+586,1469,"Roltrapinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+587,1555,Roltraptrede,Hout,Hout,Ongewijzigd
+587,1555,Roltraptrede,Beton,Beton,Ongewijzigd
+587,1555,Roltraptrede,Steen,Steen,Ongewijzigd
+587,1555,Roltraptrede,Staal,Staal,Ongewijzigd
+588,1470,Rolwagen (roldeur),Mechaniek,Mechaniek,Ongewijzigd
+589,1471,Rondsel,Mechaniek,Mechaniek,Ongewijzigd
+590,1699,Rookafvoer,Staal,Staal,Ongewijzigd
+590,1699,Rookafvoer,Aluminium,Aluminium,Ongewijzigd
+590,1699,Rookafvoer,Metaal; overig,Metaal; overig,Ongewijzigd
+591,1473,Rooster,Beton,Beton,Ongewijzigd
+591,1473,Rooster,Kunststof,Kunststof,Ongewijzigd
+591,1473,Rooster,Staal,Staal,Ongewijzigd
+591,1473,Rooster,Aluminium,Aluminium,Ongewijzigd
+591,1473,Rooster,Gietijzer,Gietijzer,Ongewijzigd
+591,1473,Rooster,Metaal; overig,Metaal; overig,Ongewijzigd
+591,1473,Rooster,Fauna,Fauna,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Kunststof,Kunststof,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Mechaniek,Mechaniek,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Staal,Staal,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Gietijzer,Gietijzer,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+592,2109,"Roostergoedcontainer, algemeen",Rubber,Rubber,Ongewijzigd
+593,1873,Roosterput,Hout,Hout,Ongewijzigd
+593,1873,Roosterput,Beton,Beton,Ongewijzigd
+593,1873,Roosterput,Staal,Staal,Ongewijzigd
+593,1873,Roosterput,Metaal; overig,Metaal; overig,Ongewijzigd
+593,1873,Roosterput,Fauna,Fauna,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+594,2111,"Roosterreinigingsinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+595,2112,Rotorbeluchter,Kunststof,Kunststof,Ongewijzigd
+595,2112,Rotorbeluchter,Mechaniek,Mechaniek,Ongewijzigd
+595,2112,Rotorbeluchter,Staal,Staal,Ongewijzigd
+595,2112,Rotorbeluchter,Metaal; overig,Metaal; overig,Ongewijzigd
+595,2112,Rotorbeluchter,Rubber,Rubber,Ongewijzigd
+595,2112,Rotorbeluchter,Installaties,Installaties,Ongewijzigd
+596,1874,Ruige oevervegetatie,Gras,,Vervallen
+596,1874,Ruige oevervegetatie,Fauna,,Vervallen
+597,1875,Ruiggras,Gras,,Vervallen
+597,1875,Ruiggras,Fauna,,Vervallen
+598,2113,"Ruimerinstallatie, algemeen",Beton,Beton,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Kunststof,Kunststof,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Mechaniek,Mechaniek,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Staal,Staal,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Aluminium,Aluminium,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Gietijzer,Gietijzer,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+598,2113,"Ruimerinstallatie, algemeen",Rubber,Rubber,Ongewijzigd
+599,1474,Samengestelde damwand,Staal,Staal,Ongewijzigd
+600,2160,"Sanitaire installatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+600,2160,"Sanitaire installatie, Algemeen",Staal,Staal,Ongewijzigd
+600,2160,"Sanitaire installatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+600,2160,"Sanitaire installatie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+600,2160,"Sanitaire installatie, Algemeen",Rubber,Rubber,Ongewijzigd
+600,2160,"Sanitaire installatie, Algemeen",Koper,Koper,Ongewijzigd
+601,2046,Schacht,Beton,Beton,Ongewijzigd
+601,2046,Schacht,Steen,Steen,Ongewijzigd
+601,2046,Schacht,Kunststof,Kunststof,Ongewijzigd
+601,2046,Schacht,Staal,Staal,Ongewijzigd
+601,2046,Schacht,Gietijzer,Gietijzer,Ongewijzigd
+602,2050,Schachtopbouw,Beton,Beton,Ongewijzigd
+602,2050,Schachtopbouw,Steen,Steen,Ongewijzigd
+602,2050,Schachtopbouw,Kunststof,Kunststof,Ongewijzigd
+603,2180,Schakelaar,Kunststof,Kunststof,Ongewijzigd
+603,2180,Schakelaar,Mechaniek,Mechaniek,Ongewijzigd
+603,2180,Schakelaar,Elektrotechniek,Elektrotechniek,Ongewijzigd
+603,2180,Schakelaar,Staal,Staal,Ongewijzigd
+603,2180,Schakelaar,Metaal; overig,Metaal; overig,Ongewijzigd
+603,2180,Schakelaar,Rubber,Rubber,Ongewijzigd
+603,2180,Schakelaar,Koper,Koper,Ongewijzigd
+604,1476,Schamelstel,Mechaniek,Mechaniek,Ongewijzigd
+605,1477,"Schampkant, Algemeen",Hout,Hout,Ongewijzigd
+605,1477,"Schampkant, Algemeen",Beton,Beton,Ongewijzigd
+605,1477,"Schampkant, Algemeen",Steen,Steen,Ongewijzigd
+605,1477,"Schampkant, Algemeen",Staal,Staal,Ongewijzigd
+605,1477,"Schampkant, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+606,1478,Schampstrook,Beton,Beton,Ongewijzigd
+606,1478,Schampstrook,Steen,Steen,Ongewijzigd
+606,1478,Schampstrook,Staal,Staal,Ongewijzigd
+606,1478,Schampstrook,Metaal; overig,Metaal; overig,Ongewijzigd
+607,1878,Schanskorf,Steen,Steen,Ongewijzigd
+607,1878,Schanskorf,Staal,Staal,Ongewijzigd
+607,1878,Schanskorf,Metaal; overig,Metaal; overig,Ongewijzigd
+607,1878,Schanskorf,Fauna,Fauna,Ongewijzigd
+607,1878,Schanskorf,,Breuksteen,Toegevoegd
+608,1479,"Scheepvaartdetectie-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+609,1480,Scheepvaartsein,Kunststof,Kunststof,Ongewijzigd
+609,1480,Scheepvaartsein,Elektrotechniek,Elektrotechniek,Ongewijzigd
+609,1480,Scheepvaartsein,Staal,Staal,Ongewijzigd
+609,1480,Scheepvaartsein,Aluminium,Aluminium,Ongewijzigd
+609,1480,Scheepvaartsein,Metaal; overig,Metaal; overig,Ongewijzigd
+609,1480,Scheepvaartsein,Rubber,Rubber,Ongewijzigd
+610,1481,"Scheepverkeersbeseining, Algemeen",Beton,Beton,Ongewijzigd
+610,1481,"Scheepverkeersbeseining, Algemeen",Kunststof,Kunststof,Ongewijzigd
+610,1481,"Scheepverkeersbeseining, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+611,2186,Scherm,Kunststof,Kunststof,Ongewijzigd
+611,2186,Scherm,Mechaniek,Mechaniek,Ongewijzigd
+611,2186,Scherm,Staal,Staal,Ongewijzigd
+611,2186,Scherm,Rubber,Rubber,Ongewijzigd
+611,2186,Scherm,Textiel,Textiel,Ongewijzigd
+612,1969,Schietbaanportaal,Beton,Beton,Ongewijzigd
+613,1749,Schietbord,Hout,Hout,Ongewijzigd
+613,1749,Schietbord,Kunststof,Kunststof,Ongewijzigd
+613,1749,Schietbord,Aluminium,Aluminium,Ongewijzigd
+613,1749,Schietbord,Zink,Zink,Ongewijzigd
+613,1749,Schietbord,Metaal; overig,Metaal; overig,Ongewijzigd
+613,1749,Schietbord,Rubber,Rubber,Ongewijzigd
+613,1749,Schietbord,Kurk,Kurk,Ongewijzigd
+614,2225,Schijnduiker,,Kunststof,Toegevoegd
+615,2170,Schokdemper,Kunststof,Kunststof,Ongewijzigd
+615,2170,Schokdemper,Mechaniek,Mechaniek,Ongewijzigd
+615,2170,Schokdemper,Staal,Staal,Ongewijzigd
+615,2170,Schokdemper,Rubber,Rubber,Ongewijzigd
+616,1880,Schommel,Hout,Hout,Ongewijzigd
+616,1880,Schommel,Kunststof,Kunststof,Ongewijzigd
+616,1880,Schommel,Staal,Staal,Ongewijzigd
+616,1880,Schommel,Metaal; overig,Metaal; overig,Ongewijzigd
+617,1482,Schoor,Beton,Beton,Ongewijzigd
+617,1482,Schoor,Staal,Staal,Ongewijzigd
+617,1482,Schoor,Metaal; overig,Metaal; overig,Ongewijzigd
+618,1983,Schort,Beton,Beton,Ongewijzigd
+619,1483,Schotbalk,Hout,Hout,Ongewijzigd
+619,1483,Schotbalk,Staal,Staal,Ongewijzigd
+619,1483,Schotbalk,Aluminium,Aluminium,Ongewijzigd
+619,1483,Schotbalk,Metaal; overig,Metaal; overig,Ongewijzigd
+620,1484,Schotbalksponning,Beton,Beton,Ongewijzigd
+620,1484,Schotbalksponning,Steen,Steen,Ongewijzigd
+621,2125,Schotelbeluchter,Kunststof,Kunststof,Ongewijzigd
+621,2125,Schotelbeluchter,Staal,Staal,Ongewijzigd
+621,2125,Schotelbeluchter,Metaal; overig,Metaal; overig,Ongewijzigd
+621,2125,Schotelbeluchter,Rubber,Rubber,Ongewijzigd
+622,1883,Schraalgrasland,Gras,Gras,Ongewijzigd
+622,1883,Schraalgrasland,Fauna,Fauna,Ongewijzigd
+623,2114,Schraper,Kunststof,Kunststof,Ongewijzigd
+623,2114,Schraper,Staal,Staal,Ongewijzigd
+623,2114,Schraper,Metaal; overig,Metaal; overig,Ongewijzigd
+624,1485,Schrikhek,Hout,Hout,Ongewijzigd
+624,1485,Schrikhek,Beton,Beton,Ongewijzigd
+624,1485,Schrikhek,Kunststof,Kunststof,Ongewijzigd
+624,1485,Schrikhek,Elektrotechniek,Elektrotechniek,Ongewijzigd
+625,1486,Schuif,Hout,Hout,Ongewijzigd
+625,1486,Schuif,Kunststof,Kunststof,Ongewijzigd
+625,1486,Schuif,Mechaniek,Mechaniek,Ongewijzigd
+625,1486,Schuif,Staal,Staal,Ongewijzigd
+625,1486,Schuif,Metaal; overig,Metaal; overig,Ongewijzigd
+626,1487,"Schuifconstructie, Algemeen",Hout,Hout,Ongewijzigd
+626,1487,"Schuifconstructie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+626,1487,"Schuifconstructie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+626,1487,"Schuifconstructie, Algemeen",Staal,Staal,Ongewijzigd
+626,1487,"Schuifconstructie, Algemeen",Zink,Zink,Ongewijzigd
+626,1487,"Schuifconstructie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+627,1994,Schuifgeleiding,Hout,Hout,Ongewijzigd
+627,1994,Schuifgeleiding,Kunststof,Kunststof,Ongewijzigd
+627,1994,Schuifgeleiding,Staal,Staal,Ongewijzigd
+627,1994,Schuifgeleiding,Aluminium,Aluminium,Ongewijzigd
+627,1994,Schuifgeleiding,Zink,Zink,Ongewijzigd
+627,1994,Schuifgeleiding,Gietijzer,Gietijzer,Ongewijzigd
+627,1994,Schuifgeleiding,Metaal; overig,Metaal; overig,Ongewijzigd
+628,1488,Schuifketting,Staal,Staal,Ongewijzigd
+628,1488,Schuifketting,Gietijzer,Gietijzer,Ongewijzigd
+628,1488,Schuifketting,Metaal; overig,Metaal; overig,Ongewijzigd
+629,2033,Schuifpoort,Hout,Hout,Ongewijzigd
+629,2033,Schuifpoort,Kunststof,Kunststof,Ongewijzigd
+629,2033,Schuifpoort,Staal,Staal,Ongewijzigd
+629,2033,Schuifpoort,Aluminium,Aluminium,Ongewijzigd
+629,2033,Schuifpoort,Metaal; overig,Metaal; overig,Ongewijzigd
+629,2033,Schuifpoort,Koper,Koper,Ongewijzigd
+630,1490,Sensor,Elektrotechniek,Elektrotechniek,Ongewijzigd
+631,1491,Server,Elektrotechniek,Elektrotechniek,Ongewijzigd
+632,2126,Shikanen,Kunststof,Kunststof,Ongewijzigd
+632,2126,Shikanen,Mechaniek,Mechaniek,Ongewijzigd
+632,2126,Shikanen,Staal,Staal,Ongewijzigd
+632,2126,Shikanen,Metaal; overig,Metaal; overig,Ongewijzigd
+632,2126,Shikanen,Rubber,Rubber,Ongewijzigd
+632,2126,Shikanen,Installaties,Installaties,Ongewijzigd
+633,1888,Sierheester,Beplanting,,Vervallen
+634,1492,Signaalgever,Elektrotechniek,Elektrotechniek,Ongewijzigd
+635,1493,Signaalkabel,Kunststof,Kunststof,Ongewijzigd
+635,1493,Signaalkabel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+635,1493,Signaalkabel,Aluminium,Aluminium,Ongewijzigd
+635,1493,Signaalkabel,Koper,Koper,Ongewijzigd
+636,1890,Skatebaan,Beton,Beton,Ongewijzigd
+636,1890,Skatebaan,Kunststof,Kunststof,Ongewijzigd
+636,1890,Skatebaan,Asfalt,Asfalt,Ongewijzigd
+636,1890,Skatebaan,Metaal; overig,Metaal; overig,Ongewijzigd
+637,1891,Skateramp,Hout,Hout,Ongewijzigd
+637,1891,Skateramp,Beton,Beton,Ongewijzigd
+637,1891,Skateramp,Kunststof,Kunststof,Ongewijzigd
+637,1891,Skateramp,Staal,Staal,Ongewijzigd
+637,1891,Skateramp,Metaal; overig,Metaal; overig,Ongewijzigd
+638,1892,Skatetoestel,Hout,Hout,Ongewijzigd
+638,1892,Skatetoestel,Beton,Beton,Ongewijzigd
+638,1892,Skatetoestel,Kunststof,Kunststof,Ongewijzigd
+638,1892,Skatetoestel,Asfalt,Asfalt,Ongewijzigd
+638,1892,Skatetoestel,Staal,Staal,Ongewijzigd
+638,1892,Skatetoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+639,2038,Sleufonderbouw,Beton,Beton,Ongewijzigd
+639,2038,Sleufonderbouw,Steen,Steen,Ongewijzigd
+639,2038,Sleufonderbouw,Staal,Staal,Ongewijzigd
+639,2038,Sleufonderbouw,Gietijzer,Gietijzer,Ongewijzigd
+640,2037,Sleufopbouw,Beton,Beton,Ongewijzigd
+640,2037,Sleufopbouw,Steen,Steen,Ongewijzigd
+640,2037,Sleufopbouw,Staal,Staal,Ongewijzigd
+640,2037,Sleufopbouw,Gietijzer,Gietijzer,Ongewijzigd
+641,2066,Slibafscheider,Beton,Beton,Ongewijzigd
+641,2066,Slibafscheider,Kunststof,Kunststof,Ongewijzigd
+642,2209,"Slijtlaag, Algemeen",Kunststof,Kunststof,Ongewijzigd
+642,2209,"Slijtlaag, Algemeen",Asfalt,Asfalt,Ongewijzigd
+643,2061,Slokop,Beton,Beton,Ongewijzigd
+643,2061,Slokop,Kunststof,Kunststof,Ongewijzigd
+644,1496,Sloof,Hout,Hout,Ongewijzigd
+644,1496,Sloof,Beton,Beton,Ongewijzigd
+645,2235,Slufter,,Zand,Toegevoegd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Hout,Hout,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Kunststof,Kunststof,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Staal,Staal,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Aluminium,Aluminium,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Rubber,Rubber,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Koper,Koper,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+646,2043,"Sluisdeur (hef, punt, rol), Algemeen",Installaties,Installaties,Ongewijzigd
+647,2171,"Sluismarkering, Algemeen",Thermoplast,Thermoplast,Ongewijzigd
+647,2171,"Sluismarkering, Algemeen",Wegenverf,Wegenverf,Ongewijzigd
+648,1970,Smeedwerk,Beton,Beton,Ongewijzigd
+648,1970,Smeedwerk,Kunststof,Kunststof,Ongewijzigd
+648,1970,Smeedwerk,Staal,Staal,Ongewijzigd
+648,1970,Smeedwerk,Aluminium,Aluminium,Ongewijzigd
+648,1970,Smeedwerk,Gietijzer,Gietijzer,Ongewijzigd
+648,1970,Smeedwerk,Metaal; overig,Metaal; overig,Ongewijzigd
+649,1497,Smeersysteem,Kunststof,Kunststof,Ongewijzigd
+649,1497,Smeersysteem,Mechaniek,Mechaniek,Ongewijzigd
+649,1497,Smeersysteem,Elektrotechniek,Elektrotechniek,Ongewijzigd
+649,1497,Smeersysteem,Staal,Staal,Ongewijzigd
+649,1497,Smeersysteem,Aluminium,Aluminium,Ongewijzigd
+649,1497,Smeersysteem,Metaal; overig,Metaal; overig,Ongewijzigd
+649,1497,Smeersysteem,Koper,Koper,Ongewijzigd
+650,1712,Spar,Hout,Hout,Ongewijzigd
+651,1894,Speelhuisje,Hout,Hout,Ongewijzigd
+651,1894,Speelhuisje,Kunststof,Kunststof,Ongewijzigd
+651,1894,Speelhuisje,Staal,Staal,Ongewijzigd
+651,1894,Speelhuisje,Metaal; overig,Metaal; overig,Ongewijzigd
+652,1895,Speelweide,Kunststof,Kunststof,Ongewijzigd
+652,1895,Speelweide,Gras,Gras,Ongewijzigd
+652,1895,Speelweide,Boomschors,Boomschors,Ongewijzigd
+652,1895,Speelweide,Kunstgras,Kunstgras,Ongewijzigd
+653,1498,Spieplank,Hout,Hout,Ongewijzigd
+653,1498,Spieplank,Beton,Beton,Ongewijzigd
+654,1896,Sportgrasveld,Gras,Gras,Ongewijzigd
+654,1896,Sportgrasveld,Zand,Zand,Ongewijzigd
+654,1896,Sportgrasveld,Kunstgras,Kunstgras,Ongewijzigd
+655,1897,Springbak,Hout,Hout,Ongewijzigd
+655,1897,Springbak,Beton,Beton,Ongewijzigd
+655,1897,Springbak,Rubber,Rubber,Ongewijzigd
+655,1897,Springbak,Grind,Grind,Ongewijzigd
+655,1897,Springbak,Zand,Zand,Ongewijzigd
+656,1501,"Sproei-installatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+656,1501,"Sproei-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+657,2127,Sproeikop,Kunststof,Kunststof,Ongewijzigd
+657,2127,Sproeikop,Mechaniek,Mechaniek,Ongewijzigd
+657,2127,Sproeikop,Elektrotechniek,Elektrotechniek,Ongewijzigd
+657,2127,Sproeikop,Staal,Staal,Ongewijzigd
+657,2127,Sproeikop,Metaal; overig,Metaal; overig,Ongewijzigd
+658,1502,Spuisein,Elektrotechniek,Elektrotechniek,Ongewijzigd
+659,2003,Spuitkanon,Kunststof,Kunststof,Ongewijzigd
+659,2003,Spuitkanon,Mechaniek,Mechaniek,Ongewijzigd
+659,2003,Spuitkanon,Staal,Staal,Ongewijzigd
+659,2003,Spuitkanon,Aluminium,Aluminium,Ongewijzigd
+659,2003,Spuitkanon,Gietijzer,Gietijzer,Ongewijzigd
+659,2003,Spuitkanon,Metaal; overig,Metaal; overig,Ongewijzigd
+659,2003,Spuitkanon,Rubber,Rubber,Ongewijzigd
+659,2003,Spuitkanon,Koper,Koper,Ongewijzigd
+660,1504,Staalkabel,Mechaniek,Mechaniek,Ongewijzigd
+660,1504,Staalkabel,Staal,Staal,Ongewijzigd
+661,1898,Staalmat,Staal,Staal,Ongewijzigd
+662,2055,Stankscherm,Kunststof,Kunststof,Ongewijzigd
+662,2055,Stankscherm,Staal,Staal,Ongewijzigd
+663,1506,Startmotor,Mechaniek,Mechaniek,Ongewijzigd
+663,1506,Startmotor,Elektrotechniek,Elektrotechniek,Ongewijzigd
+664,2115,Statische menger,Kunststof,Kunststof,Ongewijzigd
+664,2115,Statische menger,Staal,Staal,Ongewijzigd
+664,2115,Statische menger,Metaal; overig,Metaal; overig,Ongewijzigd
+665,1971,Steenhoop,Steen,Steen,Ongewijzigd
+665,1971,Steenhoop,Fauna,Fauna,Ongewijzigd
+666,1708,Steilwand,Grond,Grond,Ongewijzigd
+667,1507,Stempelbuis,Staal,Staal,Ongewijzigd
+667,1507,Stempelbuis,Metaal; overig,Metaal; overig,Ongewijzigd
+668,1508,"Steunpunt, Algemeen",Hout,Hout,Ongewijzigd
+668,1508,"Steunpunt, Algemeen",Beton,Beton,Ongewijzigd
+668,1508,"Steunpunt, Algemeen",Kunststof,Kunststof,Ongewijzigd
+668,1508,"Steunpunt, Algemeen",Staal,Staal,Ongewijzigd
+668,1508,"Steunpunt, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+669,2137,Stijl,Hout,Hout,Ongewijzigd
+669,2137,Stijl,Beton,Beton,Ongewijzigd
+669,2137,Stijl,Kunststof,Kunststof,Ongewijzigd
+669,2137,Stijl,Staal,Staal,Ongewijzigd
+670,1901,Stobbenwal,Hout,Hout,Ongewijzigd
+670,1901,Stobbenwal,Fauna,Fauna,Ongewijzigd
+671,1190,Stootkussen,Hout,Hout,Ongewijzigd
+671,1190,Stootkussen,Kunststof,Kunststof,Ongewijzigd
+671,1190,Stootkussen,Rubber,Rubber,Ongewijzigd
+672,1510,Stortebed,Hout,Hout,Ongewijzigd
+672,1510,Stortebed,Beton,Beton,Ongewijzigd
+672,1510,Stortebed,Steen,Steen,Ongewijzigd
+672,1510,Stortebed,Granulaat,Granulaat,Ongewijzigd
+672,1510,Stortebed,,Stortsteen,Toegevoegd
+673,1903,Straatnaambord,Hout,Hout,Ongewijzigd
+673,1903,Straatnaambord,Kunststof,Kunststof,Ongewijzigd
+673,1903,Straatnaambord,Staal,Staal,Ongewijzigd
+673,1903,Straatnaambord,Aluminium,Aluminium,Ongewijzigd
+673,1903,Straatnaambord,Metaal; overig,Metaal; overig,Ongewijzigd
+674,1707,Strand,Grond,Grond,Ongewijzigd
+674,1707,Strand,Zand,Zand,Ongewijzigd
+675,1904,Strooiveld,Grond,Grond,Ongewijzigd
+675,1904,Strooiveld,Gras,Gras,Ongewijzigd
+676,1514,Stroombreker,Hout,Hout,Ongewijzigd
+676,1514,Stroombreker,Beton,Beton,Ongewijzigd
+676,1514,Stroombreker,Steen,Steen,Ongewijzigd
+676,1514,Stroombreker,Grond,Grond,Ongewijzigd
+677,2059,Stroomprofiel,Beton,Beton,Ongewijzigd
+677,2059,Stroomprofiel,Steen,Steen,Ongewijzigd
+677,2059,Stroomprofiel,Kunststof,Kunststof,Ongewijzigd
+677,2059,Stroomprofiel,Keramiek,Keramiek,Ongewijzigd
+678,1906,Struikroos,Beplanting,,Vervallen
+678,1906,Struikroos,,Houtige vegetatie,Toegevoegd
+679,2236,Stuifkuil,,Zand,Toegevoegd
+680,2237,Stuifscherm,,Hout,Toegevoegd
+680,2237,Stuifscherm,,Kruidachtige vegetatie,Toegevoegd
+681,1907,Stuifzand,Zand,Zand,Ongewijzigd
+682,2196,"Stuurstroomvoedingsinstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+683,1515,Stuwelement,Hout,Hout,Ongewijzigd
+683,1515,Stuwelement,Beton,Beton,Ongewijzigd
+683,1515,Stuwelement,Mechaniek,Mechaniek,Ongewijzigd
+683,1515,Stuwelement,Staal,Staal,Ongewijzigd
+684,1475,Supervisory Control and Data Acquisition (SCADA-systeem),Elektrotechniek,Elektrotechniek,Ongewijzigd
+685,2190,Switch,Elektrotechniek,Elektrotechniek,Ongewijzigd
+686,1704,Taats,Staal,Staal,Ongewijzigd
+686,1704,Taats,Gietijzer,Gietijzer,Ongewijzigd
+686,1704,Taats,Metaal; overig,Metaal; overig,Ongewijzigd
+687,2026,Tafel,Hout,Hout,Ongewijzigd
+687,2026,Tafel,Beton,Beton,Ongewijzigd
+687,2026,Tafel,Steen,Steen,Ongewijzigd
+687,2026,Tafel,Kunststof,Kunststof,Ongewijzigd
+687,2026,Tafel,Staal,Staal,Ongewijzigd
+687,2026,Tafel,Gietijzer,Gietijzer,Ongewijzigd
+687,2026,Tafel,Rubber,Rubber,Ongewijzigd
+687,2026,Tafel,Zand,Zand,Ongewijzigd
+687,2026,Tafel,Boomschors,Boomschors,Ongewijzigd
+687,2026,Tafel,Kunstgras,Kunstgras,Ongewijzigd
+688,1908,Tafeltennistafel,Hout,Hout,Ongewijzigd
+688,1908,Tafeltennistafel,Beton,Beton,Ongewijzigd
+688,1908,Tafeltennistafel,Kunststof,Kunststof,Ongewijzigd
+688,1908,Tafeltennistafel,Staal,Staal,Ongewijzigd
+688,1908,Tafeltennistafel,Metaal; overig,Metaal; overig,Ongewijzigd
+689,1516,Takel,Mechaniek,Mechaniek,Ongewijzigd
+689,1516,Takel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+690,2018,Takkenril,Hout,Hout,Ongewijzigd
+690,2018,Takkenril,Fauna,Fauna,Ongewijzigd
+691,1716,"Talud, Algemeen",Hout,Hout,Ongewijzigd
+691,1716,"Talud, Algemeen",Beton,Beton,Ongewijzigd
+691,1716,"Talud, Algemeen",Steen,Steen,Ongewijzigd
+691,1716,"Talud, Algemeen",Asfalt,Asfalt,Ongewijzigd
+691,1716,"Talud, Algemeen",Grond,Grond,Ongewijzigd
+691,1716,"Talud, Algemeen",Gras,Gras,Ongewijzigd
+691,1716,"Talud, Algemeen",Beplanting,Beplanting,Ongewijzigd
+691,1716,"Talud, Algemeen",Granulaat,Granulaat,Ongewijzigd
+692,1663,Tandbaan,Staal,Staal,Ongewijzigd
+693,1518,Tandwiel,Staal,Staal,Ongewijzigd
+694,1001,Tandwieloverbrenging (open),Mechaniek,Mechaniek,Ongewijzigd
+695,1519,"Tandwieloverbrenging, Overig",Mechaniek,Mechaniek,Ongewijzigd
+696,1520,Tank,Kunststof,Kunststof,Ongewijzigd
+696,1520,Tank,Staal,Staal,Ongewijzigd
+696,1520,Tank,Rubber,Rubber,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Beton,Beton,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Staal,Staal,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Rubber,Rubber,Ongewijzigd
+697,2116,"Tankconstructie, Algemeen",Elementen,Elementen,Ongewijzigd
+698,1521,"Telefooninstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+699,1522,Telefoontoestel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+700,1523,"Telemetrie-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+701,1909,Tennisbaan,Steen,Steen,Ongewijzigd
+701,1909,Tennisbaan,Kunststof,Kunststof,Ongewijzigd
+701,1909,Tennisbaan,Gras,Gras,Ongewijzigd
+701,1909,Tennisbaan,Grind,Grind,Ongewijzigd
+701,1909,Tennisbaan,Zand,Zand,Ongewijzigd
+701,1909,Tennisbaan,Kunstgras,Kunstgras,Ongewijzigd
+702,1910,Tenniskooi,Hout,Hout,Ongewijzigd
+702,1910,Tenniskooi,Steen,Steen,Ongewijzigd
+702,1910,Tenniskooi,Kunststof,Kunststof,Ongewijzigd
+702,1910,Tenniskooi,Metaal; overig,Metaal; overig,Ongewijzigd
+703,2128,Terugslagklep,Kunststof,Kunststof,Ongewijzigd
+703,2128,Terugslagklep,Mechaniek,Mechaniek,Ongewijzigd
+703,2128,Terugslagklep,Staal,Staal,Ongewijzigd
+703,2128,Terugslagklep,Gietijzer,Gietijzer,Ongewijzigd
+703,2128,Terugslagklep,Metaal; overig,Metaal; overig,Ongewijzigd
+703,2128,Terugslagklep,Rubber,Rubber,Ongewijzigd
+704,2182,"Toegangscontrole-installatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+704,2182,"Toegangscontrole-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+704,2182,"Toegangscontrole-installatie, Algemeen",Staal,Staal,Ongewijzigd
+705,1530,Toerenregelinstallatie,Mechaniek,Mechaniek,Ongewijzigd
+705,1530,Toerenregelinstallatie,Elektrotechniek,Elektrotechniek,Ongewijzigd
+706,1912,Toilet,Hout,Hout,Ongewijzigd
+706,1912,Toilet,Kunststof,Kunststof,Ongewijzigd
+706,1912,Toilet,Staal,Staal,Ongewijzigd
+706,1912,Toilet,Aluminium,Aluminium,Ongewijzigd
+706,1912,Toilet,Koper,Koper,Ongewijzigd
+706,1912,Toilet,Keramiek,Keramiek,Ongewijzigd
+707,1913,Toiletcabine,Hout,Hout,Ongewijzigd
+707,1913,Toiletcabine,Kunststof,Kunststof,Ongewijzigd
+707,1913,Toiletcabine,Staal,Staal,Ongewijzigd
+707,1913,Toiletcabine,Metaal; overig,Metaal; overig,Ongewijzigd
+708,1710,Ton,Kunststof,Kunststof,Ongewijzigd
+708,1710,Ton,Staal,Staal,Ongewijzigd
+709,2208,Toplaag,Beton,Beton,Ongewijzigd
+709,2208,Toplaag,Steen,Steen,Ongewijzigd
+709,2208,Toplaag,Kunststof,Kunststof,Ongewijzigd
+709,2208,Toplaag,Asfalt,Asfalt,Ongewijzigd
+709,2208,Toplaag,Grond,Grond,Ongewijzigd
+709,2208,Toplaag,Gras,Gras,Ongewijzigd
+709,2208,Toplaag,Asfalt (open),Asfalt (open),Ongewijzigd
+709,2208,Toplaag,Granulaat,Granulaat,Ongewijzigd
+709,2208,Toplaag,,Kruidachtige vegetatie,Toegevoegd
+710,1914,Touwbaan,Hout,Hout,Ongewijzigd
+710,1914,Touwbaan,Staal,Staal,Ongewijzigd
+711,1916,Touwkliminstallatie,Hout,Hout,Ongewijzigd
+711,1916,Touwkliminstallatie,Staal,Staal,Ongewijzigd
+712,1548,"Tracing, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+713,1550,Trafohuis,Beton,Beton,Ongewijzigd
+713,1550,Trafohuis,Steen,Steen,Ongewijzigd
+713,1550,Trafohuis,Kunststof,Kunststof,Ongewijzigd
+713,1550,Trafohuis,Staal,Staal,Ongewijzigd
+714,1917,Traliedeur,Staal,Staal,Ongewijzigd
+715,1549,Transformator,Elektrotechniek,Elektrotechniek,Ongewijzigd
+716,1551,Transmissie apparatuur,Elektrotechniek,Elektrotechniek,Ongewijzigd
+717,1138,"Transmissie-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+718,1552,Trap,Hout,Hout,Ongewijzigd
+718,1552,Trap,Beton,Beton,Ongewijzigd
+718,1552,Trap,Steen,Steen,Ongewijzigd
+718,1552,Trap,Kunststof,Kunststof,Ongewijzigd
+718,1552,Trap,Staal,Staal,Ongewijzigd
+718,1552,Trap,Aluminium,Aluminium,Ongewijzigd
+718,1552,Trap,Gietijzer,Gietijzer,Ongewijzigd
+718,1552,Trap,Metselwerk,Metselwerk,Ongewijzigd
+719,2141,Trapafwerking,Hout,Hout,Ongewijzigd
+719,2141,Trapafwerking,Steen,Steen,Ongewijzigd
+719,2141,Trapafwerking,Glas,Glas,Ongewijzigd
+719,2141,Trapafwerking,Kunststof,Kunststof,Ongewijzigd
+719,2141,Trapafwerking,Staal,Staal,Ongewijzigd
+719,2141,Trapafwerking,Aluminium,Aluminium,Ongewijzigd
+719,2141,Trapafwerking,Kurk,Kurk,Ongewijzigd
+719,2141,Trapafwerking,Keramiek,Keramiek,Ongewijzigd
+719,2141,Trapafwerking,Gips,Gips,Ongewijzigd
+719,2141,Trapafwerking,Tapijt,Tapijt,Ongewijzigd
+719,2141,Trapafwerking,Linoleum,Linoleum,Ongewijzigd
+720,1918,Trapveld,Gras,Gras,Ongewijzigd
+720,1918,Trapveld,Grind,Grind,Ongewijzigd
+720,1918,Trapveld,Zand,Zand,Ongewijzigd
+720,1918,Trapveld,Kunstgras,Kunstgras,Ongewijzigd
+721,1556,Trekduwstang,Staal,Staal,Ongewijzigd
+722,1557,Trekpalen,Hout,Hout,Ongewijzigd
+722,1557,Trekpalen,Beton,Beton,Ongewijzigd
+723,1558,Triangel,Kunststof,Kunststof,Ongewijzigd
+723,1558,Triangel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+723,1558,Triangel,Staal,Staal,Ongewijzigd
+724,1729,Trottoirband,Beton,Beton,Ongewijzigd
+724,1729,Trottoirband,Kunststof,Kunststof,Ongewijzigd
+725,1559,Tuidraad,Staal,Staal,Ongewijzigd
+725,1559,Tuidraad,Metaal; overig,Metaal; overig,Ongewijzigd
+726,1919,Tuinakker,Grond,Grond,Ongewijzigd
+727,1922,Tuinhuisje,Hout,Hout,Ongewijzigd
+727,1922,Tuinhuisje,Kunststof,Kunststof,Ongewijzigd
+727,1922,Tuinhuisje,Gras,Gras,Ongewijzigd
+727,1922,Tuinhuisje,Staal,Staal,Ongewijzigd
+727,1922,Tuinhuisje,Metaal; overig,Metaal; overig,Ongewijzigd
+727,1922,Tuinhuisje,Zand,Zand,Ongewijzigd
+727,1922,Tuinhuisje,Boomschors,Boomschors,Ongewijzigd
+727,1922,Tuinhuisje,Kunstgras,Kunstgras,Ongewijzigd
+728,1923,Tuinmuur,Beton,Beton,Ongewijzigd
+728,1923,Tuinmuur,Steen,Steen,Ongewijzigd
+729,1673,Turbine,Mechaniek,Mechaniek,Ongewijzigd
+729,1673,Turbine,Elektrotechniek,Elektrotechniek,Ongewijzigd
+730,2179,Tussenlaag,Betonpuin,Betonpuin,Ongewijzigd
+730,2179,Tussenlaag,Steenpuin,Steenpuin,Ongewijzigd
+731,1568,"Uithouder, Algemeen",Beton,Beton,Ongewijzigd
+731,1568,"Uithouder, Algemeen",Staal,Staal,Ongewijzigd
+732,2218,Uitmonding,,Steen,Toegevoegd
+732,2218,Uitmonding,,Houtige vegetatie,Toegevoegd
+733,2060,Uitstroombak,Beton,Beton,Ongewijzigd
+733,2060,Uitstroombak,Steen,Steen,Ongewijzigd
+733,2060,Uitstroombak,Kunststof,Kunststof,Ongewijzigd
+734,1569,Uitstroomopening,Beton,Beton,Ongewijzigd
+734,1569,Uitstroomopening,Steen,Steen,Ongewijzigd
+735,2155,Urinoir,Hout,Hout,Ongewijzigd
+735,2155,Urinoir,Kunststof,Kunststof,Ongewijzigd
+735,2155,Urinoir,Staal,Staal,Ongewijzigd
+735,2155,Urinoir,Aluminium,Aluminium,Ongewijzigd
+735,2155,Urinoir,Koper,Koper,Ongewijzigd
+735,2155,Urinoir,Keramiek,Keramiek,Ongewijzigd
+736,1925,Urnengraf (bovengronds),Beton,Beton,Ongewijzigd
+736,1925,Urnengraf (bovengronds),Steen,Steen,Ongewijzigd
+736,1925,Urnengraf (bovengronds),Kunststof,Kunststof,Ongewijzigd
+737,1570,"Vaarwegmarkering, Algemeen",Kunststof,Kunststof,Ongewijzigd
+737,1570,"Vaarwegmarkering, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+737,1570,"Vaarwegmarkering, Algemeen",Staal,Staal,Ongewijzigd
+738,1571,Valreep,Hout,Hout,Ongewijzigd
+738,1571,Valreep,Staal,Staal,Ongewijzigd
+738,1571,Valreep,Gietijzer,Gietijzer,Ongewijzigd
+738,1571,Valreep,Metaal; overig,Metaal; overig,Ongewijzigd
+739,1572,"Vangconstructie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+739,1572,"Vangconstructie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+739,1572,"Vangconstructie, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+740,1576,Veiligheidsventiel,Mechaniek,Mechaniek,Ongewijzigd
+741,1928,Veldafscheiding,Hout,Hout,Ongewijzigd
+741,1928,Veldafscheiding,Beton,Beton,Ongewijzigd
+741,1928,Veldafscheiding,Kunststof,Kunststof,Ongewijzigd
+741,1928,Veldafscheiding,Staal,Staal,Ongewijzigd
+741,1928,Veldafscheiding,Metaal; overig,Metaal; overig,Ongewijzigd
+743,1564,"Ventilatie-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+744,1578,Ventilator,Kunststof,Kunststof,Ongewijzigd
+744,1578,Ventilator,Mechaniek,Mechaniek,Ongewijzigd
+744,1578,Ventilator,Elektrotechniek,Elektrotechniek,Ongewijzigd
+745,1580,"Verankering, Algemeen",Staal,Staal,Ongewijzigd
+745,1580,"Verankering, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+745,1580,"Verankering, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+746,1581,Verbinding,Elektrotechniek,Elektrotechniek,Ongewijzigd
+747,1341,Verbindingsbrug (loopbrug),Hout,Hout,Ongewijzigd
+747,1341,Verbindingsbrug (loopbrug),Kunststof,Kunststof,Ongewijzigd
+747,1341,Verbindingsbrug (loopbrug),Staal,Staal,Ongewijzigd
+747,1341,Verbindingsbrug (loopbrug),Metaal; overig,Metaal; overig,Ongewijzigd
+748,1582,Verbrandingsmotor,Mechaniek,Mechaniek,Ongewijzigd
+748,1582,Verbrandingsmotor,Elektrotechniek,Elektrotechniek,Ongewijzigd
+749,1583,Verdeelblok,Elektrotechniek,Elektrotechniek,Ongewijzigd
+749,1583,Verdeelblok,Hydrauliek,Hydrauliek,Ongewijzigd
+749,1583,Verdeelblok,Staal,Staal,Ongewijzigd
+749,1583,Verdeelblok,Aluminium,Aluminium,Ongewijzigd
+749,1583,Verdeelblok,Gietijzer,Gietijzer,Ongewijzigd
+749,1583,Verdeelblok,Pneumatiek,Pneumatiek,Ongewijzigd
+750,1586,Verkeersbord,Hout,Hout,Ongewijzigd
+750,1586,Verkeersbord,Kunststof,Kunststof,Ongewijzigd
+750,1586,Verkeersbord,Staal,Staal,Ongewijzigd
+751,1587,"Verkeersdetectie-installatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+752,1588,Verkeersgeleidingsverlichting,Elektrotechniek,Elektrotechniek,Ongewijzigd
+753,1589,"Verkeersregelinstallatie (VRI), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+754,1598,"Verplaatsbare Vangrail installatie (VEVA), Algemeen",Kunststof,Kunststof,Ongewijzigd
+754,1598,"Verplaatsbare Vangrail installatie (VEVA), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+754,1598,"Verplaatsbare Vangrail installatie (VEVA), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+755,2117,Versnijder,Mechaniek,Mechaniek,Ongewijzigd
+755,2117,Versnijder,Staal,Staal,Ongewijzigd
+755,2117,Versnijder,Gietijzer,Gietijzer,Ongewijzigd
+755,2117,Versnijder,Metaal; overig,Metaal; overig,Ongewijzigd
+755,2117,Versnijder,Installaties,Installaties,Ongewijzigd
+756,1818,Verspringaccommodatie,Kunststof,Kunststof,Ongewijzigd
+756,1818,Verspringaccommodatie,Asfalt,Asfalt,Ongewijzigd
+756,1818,Verspringaccommodatie,Gras,Gras,Ongewijzigd
+756,1818,Verspringaccommodatie,Staal,Staal,Ongewijzigd
+756,1818,Verspringaccommodatie,Metaal; overig,Metaal; overig,Ongewijzigd
+756,1818,Verspringaccommodatie,Zand,Zand,Ongewijzigd
+757,1591,Versterker,Elektrotechniek,Elektrotechniek,Ongewijzigd
+758,1592,Verticaal (vakwerkligger),Beton,Beton,Ongewijzigd
+758,1592,Verticaal (vakwerkligger),Staal,Staal,Ongewijzigd
+758,1592,Verticaal (vakwerkligger),Gietijzer,Gietijzer,Ongewijzigd
+758,1592,Verticaal (vakwerkligger),Metaal; overig,Metaal; overig,Ongewijzigd
+759,1596,Verwarmingstoestel,Kunststof,Kunststof,Ongewijzigd
+759,1596,Verwarmingstoestel,Mechaniek,Mechaniek,Ongewijzigd
+759,1596,Verwarmingstoestel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+760,1597,Verwerkingseenheid,Mechaniek,Mechaniek,Ongewijzigd
+760,1597,Verwerkingseenheid,Elektrotechniek,Elektrotechniek,Ongewijzigd
+761,2065,Vetafscheider,Beton,Beton,Ongewijzigd
+761,2065,Vetafscheider,Kunststof,Kunststof,Ongewijzigd
+761,2065,Vetafscheider,Staal,Staal,Ongewijzigd
+762,1600,Videomatrix,Elektrotechniek,Elektrotechniek,Ongewijzigd
+763,1672,Videowall,Elektrotechniek,Elektrotechniek,Ongewijzigd
+764,1601,Vijzel,Mechaniek,Mechaniek,Ongewijzigd
+764,1601,Vijzel,Staal,Staal,Ongewijzigd
+765,1602,Vijzelgoot,Beton,Beton,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Hout,Hout,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Beton,Beton,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Kunststof,Kunststof,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Hydrauliek,Hydrauliek,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Staal,Staal,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Aluminium,Aluminium,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Rubber,Rubber,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+766,1975,"Vissluis, Algemeen",Fauna,Fauna,Ongewijzigd
+767,1930,Vistrap,Steen,Steen,Ongewijzigd
+767,1930,Vistrap,Fauna,Fauna,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Hout,Hout,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Beton,Beton,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Steen,Steen,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Kunststof,Kunststof,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Grond,Grond,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Staal,Staal,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Aluminium,Aluminium,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+768,1932,"Vleermuiskelder, Algemeen",Fauna,Fauna,Ongewijzigd
+769,1604,Vleugelwand,Hout,Hout,Ongewijzigd
+769,1604,Vleugelwand,Beton,Beton,Ongewijzigd
+769,1604,Vleugelwand,Staal,Staal,Ongewijzigd
+770,1605,Vloer,Hout,Hout,Ongewijzigd
+770,1605,Vloer,Beton,Beton,Ongewijzigd
+770,1605,Vloer,Steen,Steen,Ongewijzigd
+770,1605,Vloer,Kunststof,Kunststof,Ongewijzigd
+770,1605,Vloer,Staal,Staal,Ongewijzigd
+770,1605,Vloer,Aluminium,Aluminium,Ongewijzigd
+770,1605,Vloer,Zink,Zink,Ongewijzigd
+770,1605,Vloer,Gietijzer,Gietijzer,Ongewijzigd
+770,1605,Vloer,Metselwerk,Metselwerk,Ongewijzigd
+771,2140,Vloerafwerking,Hout,Hout,Ongewijzigd
+771,2140,Vloerafwerking,Steen,Steen,Ongewijzigd
+771,2140,Vloerafwerking,Glas,Glas,Ongewijzigd
+771,2140,Vloerafwerking,Kunststof,Kunststof,Ongewijzigd
+771,2140,Vloerafwerking,Staal,Staal,Ongewijzigd
+771,2140,Vloerafwerking,Aluminium,Aluminium,Ongewijzigd
+771,2140,Vloerafwerking,Kurk,Kurk,Ongewijzigd
+771,2140,Vloerafwerking,Keramiek,Keramiek,Ongewijzigd
+771,2140,Vloerafwerking,Gips,Gips,Ongewijzigd
+771,2140,Vloerafwerking,Linoleum,Linoleum,Ongewijzigd
+772,2023,Vlonder,Hout,Hout,Ongewijzigd
+772,2023,Vlonder,Kunststof,Kunststof,Ongewijzigd
+772,2023,Vlonder,Kunstgras,Kunstgras,Ongewijzigd
+773,1606,Vluchtdeur,Hout,Hout,Ongewijzigd
+773,1606,Vluchtdeur,Kunststof,Kunststof,Ongewijzigd
+773,1606,Vluchtdeur,Staal,Staal,Ongewijzigd
+774,1607,"Vluchthaven aanwezigheidsdetectie (VAD), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+775,1934,Vluchtstang,Staal,Staal,Ongewijzigd
+776,1608,"Vluchtweginstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+776,1608,"Vluchtweginstallatie, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+777,1609,Vluchtwegverlichting (dynamisch),Elektrotechniek,Elektrotechniek,Ongewijzigd
+778,1610,Voegconstructie,Hout,Hout,Ongewijzigd
+778,1610,Voegconstructie,Beton,Beton,Ongewijzigd
+778,1610,Voegconstructie,Steen,Steen,Ongewijzigd
+778,1610,Voegconstructie,Kunststof,Kunststof,Ongewijzigd
+779,1681,Voegloze overgang,Beton,Beton,Ongewijzigd
+779,1681,Voegloze overgang,Staal,Staal,Ongewijzigd
+779,1681,Voegloze overgang,Gietijzer,Gietijzer,Ongewijzigd
+779,1681,Voegloze overgang,Metaal; overig,Metaal; overig,Ongewijzigd
+779,1681,Voegloze overgang,Rubber,Rubber,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Beton,Beton,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Steen,Steen,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Kunststof,Kunststof,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Staal,Staal,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Aluminium,Aluminium,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Gietijzer,Gietijzer,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Metaal; overig,Metaal; overig,Ongewijzigd
+780,1611,"Voegovergang, Algemeen",Rubber,Rubber,Ongewijzigd
+781,1935,Voetbalkooi,Beton,Beton,Ongewijzigd
+781,1935,Voetbalkooi,Kunststof,Kunststof,Ongewijzigd
+781,1935,Voetbalkooi,Grond,Grond,Ongewijzigd
+781,1935,Voetbalkooi,Gras,Gras,Ongewijzigd
+781,1935,Voetbalkooi,Zand,Zand,Ongewijzigd
+782,1936,Voetbalveld,Kunststof,Kunststof,Ongewijzigd
+782,1936,Voetbalveld,Gras,Gras,Ongewijzigd
+782,1936,Voetbalveld,Zand,Zand,Ongewijzigd
+782,1936,Voetbalveld,Kunstgras,Kunstgras,Ongewijzigd
+783,1685,Voetpedaal,Kunststof,Kunststof,Ongewijzigd
+783,1685,Voetpedaal,Elektrotechniek,Elektrotechniek,Ongewijzigd
+784,1937,Volière,Beton,Beton,Ongewijzigd
+784,1937,Volière,Steen,Steen,Ongewijzigd
+784,1937,Volière,Glas,Glas,Ongewijzigd
+784,1937,Volière,Kunststof,Kunststof,Ongewijzigd
+784,1937,Volière,Grond,Grond,Ongewijzigd
+784,1937,Volière,Gras,Gras,Ongewijzigd
+784,1937,Volière,Staal,Staal,Ongewijzigd
+784,1937,Volière,Aluminium,Aluminium,Ongewijzigd
+784,1937,Volière,Metaal; overig,Metaal; overig,Ongewijzigd
+784,1937,Volière,Grind,Grind,Ongewijzigd
+784,1937,Volière,Zand,Zand,Ongewijzigd
+784,1937,Volière,Boomschors,Boomschors,Ongewijzigd
+784,1937,Volière,Fauna,Fauna,Ongewijzigd
+784,1937,Volière,Kunstgras,Kunstgras,Ongewijzigd
+785,2129,Voortstuwer,Kunststof,Kunststof,Ongewijzigd
+785,2129,Voortstuwer,Mechaniek,Mechaniek,Ongewijzigd
+785,2129,Voortstuwer,Staal,Staal,Ongewijzigd
+785,2129,Voortstuwer,Gietijzer,Gietijzer,Ongewijzigd
+785,2129,Voortstuwer,Metaal; overig,Metaal; overig,Ongewijzigd
+786,2012,Vormboom,Bomen,,Vervallen
+787,2013,Vrij uitgroeiende boom,Bomen,,Vervallen
+788,1614,Vuilvangrooster,Staal,Staal,Ongewijzigd
+788,1614,Vuilvangrooster,Gietijzer,Gietijzer,Ongewijzigd
+788,1614,Vuilvangrooster,Metaal; overig,Metaal; overig,Ongewijzigd
+789,1997,Waaiervlotdeur,Hout,Hout,Ongewijzigd
+789,1997,Waaiervlotdeur,Staal,Staal,Ongewijzigd
+790,1986,Waarschuwingslicht,Kunststof,Kunststof,Ongewijzigd
+790,1986,Waarschuwingslicht,Elektrotechniek,Elektrotechniek,Ongewijzigd
+790,1986,Waarschuwingslicht,Staal,Staal,Ongewijzigd
+791,1617,Wadi,Beton,Beton,Ongewijzigd
+791,1617,Wadi,Steen,Steen,Ongewijzigd
+791,1617,Wadi,Gras,Gras,Ongewijzigd
+791,1617,Wadi,Grind,Grind,Ongewijzigd
+791,1617,Wadi,Zand,Zand,Ongewijzigd
+791,1617,Wadi,Schelpen,Schelp,Gewijzigd
+792,1618,Wagen,Kunststof,Kunststof,Ongewijzigd
+792,1618,Wagen,Mechaniek,Mechaniek,Ongewijzigd
+792,1618,Wagen,Staal,Staal,Ongewijzigd
+793,2130,Wals,Kunststof,Kunststof,Ongewijzigd
+793,2130,Wals,Mechaniek,Mechaniek,Ongewijzigd
+793,2130,Wals,Staal,Staal,Ongewijzigd
+793,2130,Wals,Gietijzer,Gietijzer,Ongewijzigd
+793,2130,Wals,Metaal; overig,Metaal; overig,Ongewijzigd
+793,2130,Wals,Rubber,Rubber,Ongewijzigd
+794,1619,Wand,Hout,Hout,Ongewijzigd
+794,1619,Wand,Beton,Beton,Ongewijzigd
+794,1619,Wand,Steen,Steen,Ongewijzigd
+794,1619,Wand,Kunststof,Kunststof,Ongewijzigd
+794,1619,Wand,Staal,Staal,Ongewijzigd
+794,1619,Wand,Gietijzer,Gietijzer,Ongewijzigd
+794,1619,Wand,Metaal; overig,Metaal; overig,Ongewijzigd
+794,1619,Wand,Keramiek,Keramiek,Ongewijzigd
+795,2138,Wandafwerking,Hout,Hout,Ongewijzigd
+795,2138,Wandafwerking,Glas,Glas,Ongewijzigd
+795,2138,Wandafwerking,Kunststof,Kunststof,Ongewijzigd
+795,2138,Wandafwerking,Staal,Staal,Ongewijzigd
+795,2138,Wandafwerking,Aluminium,Aluminium,Ongewijzigd
+795,2138,Wandafwerking,Kurk,Kurk,Ongewijzigd
+795,2138,Wandafwerking,Keramiek,Keramiek,Ongewijzigd
+795,2138,Wandafwerking,Gips,Gips,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Kunststof,Kunststof,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Staal,Staal,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Aluminium,Aluminium,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Rubber,Rubber,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Koper,Koper,Ongewijzigd
+796,2200,"Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Installaties,Installaties,Ongewijzigd
+797,1620,Warmtewisselaar,Mechaniek,Mechaniek,Ongewijzigd
+797,1620,Warmtewisselaar,Elektrotechniek,Elektrotechniek,Ongewijzigd
+798,2156,Wastafel,Hout,Hout,Ongewijzigd
+798,2156,Wastafel,Kunststof,Kunststof,Ongewijzigd
+798,2156,Wastafel,Staal,Staal,Ongewijzigd
+798,2156,Wastafel,Aluminium,Aluminium,Ongewijzigd
+798,2156,Wastafel,Koper,Koper,Ongewijzigd
+798,2156,Wastafel,Keramiek,Keramiek,Ongewijzigd
+799,2203,"Watermistinstallatie (WMS), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+799,2203,"Watermistinstallatie (WMS), Algemeen",Pneumatiek,Pneumatiek,Ongewijzigd
+800,1940,Waterplant,Beplanting,Beplanting,Ongewijzigd
+800,1940,Waterplant,,Watervegetatie,Toegevoegd
+801,1941,Waterplant (ondergedoken),Beplanting,Beplanting,Ongewijzigd
+801,1941,Waterplant (ondergedoken),,Watervegetatie,Toegevoegd
+802,2164,"Watertapinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+802,2164,"Watertapinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+802,2164,"Watertapinstallatie, Algemeen",Aluminium,Aluminium,Ongewijzigd
+802,2164,"Watertapinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd
+802,2164,"Watertapinstallatie, Algemeen",Koper,Koper,Ongewijzigd
+803,1942,"Watervegetatie, Algemeen",Gras,,Vervallen
+804,1676,Weerhut,Hout,Hout,Ongewijzigd
+804,1676,Weerhut,Beton,Beton,Ongewijzigd
+804,1676,Weerhut,Steen,Steen,Ongewijzigd
+804,1676,Weerhut,Glas,Glas,Ongewijzigd
+804,1676,Weerhut,Kunststof,Kunststof,Ongewijzigd
+804,1676,Weerhut,Mechaniek,Mechaniek,Ongewijzigd
+804,1676,Weerhut,Elektrotechniek,Elektrotechniek,Ongewijzigd
+804,1676,Weerhut,Staal,Staal,Ongewijzigd
+805,1371,"Wegkantsysteem (WKS), Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+806,1945,Wegkruipplek,Zand,Zand,Ongewijzigd
+806,1945,Wegkruipplek,Fauna,Fauna,Ongewijzigd
+807,1623,"Wegmarkering, Algemeen",Thermoplast,Thermoplast,Ongewijzigd
+807,1623,"Wegmarkering, Algemeen",Wegenverf,Wegenverf,Ongewijzigd
+808,1946,Weide,Grond,Grond,Ongewijzigd
+808,1946,Weide,Gras,Gras,Ongewijzigd
+808,1946,Weide,Fauna,Fauna,Ongewijzigd
+809,1625,"Weigh In Motion, Algemeen",Elektrotechniek,Elektrotechniek,Ongewijzigd
+810,1948,Werpaccommodatie,Beton,Beton,Ongewijzigd
+810,1948,Werpaccommodatie,Grond,Grond,Ongewijzigd
+810,1948,Werpaccommodatie,Gras,Gras,Ongewijzigd
+811,2054,Wervelventiel,Beton,Beton,Ongewijzigd
+811,2054,Wervelventiel,Kunststof,Kunststof,Ongewijzigd
+811,2054,Wervelventiel,Staal,Staal,Ongewijzigd
+811,2054,Wervelventiel,Rubber,Rubber,Ongewijzigd
+813,2092,Wiel,Kunststof,Kunststof,Ongewijzigd
+813,2092,Wiel,Mechaniek,Mechaniek,Ongewijzigd
+813,2092,Wiel,Staal,Staal,Ongewijzigd
+813,2092,Wiel,Gietijzer,Gietijzer,Ongewijzigd
+813,2092,Wiel,Metaal; overig,Metaal; overig,Ongewijzigd
+813,2092,Wiel,Rubber,Rubber,Ongewijzigd
+814,1626,Wielstel,Mechaniek,Mechaniek,Ongewijzigd
+815,1628,Windmeter,Mechaniek,Mechaniek,Ongewijzigd
+815,1628,Windmeter,Elektrotechniek,Elektrotechniek,Ongewijzigd
+816,1949,Windsingel,Bomen,,Vervallen
+817,1630,Windverband,Beton,Beton,Ongewijzigd
+817,1630,Windverband,Staal,Staal,Ongewijzigd
+817,1630,Windverband,Gietijzer,Gietijzer,Ongewijzigd
+817,1630,Windverband,Metaal; overig,Metaal; overig,Ongewijzigd
+818,1927,Wiptoestel,Hout,Hout,Ongewijzigd
+818,1927,Wiptoestel,Kunststof,Kunststof,Ongewijzigd
+818,1927,Wiptoestel,Staal,Staal,Ongewijzigd
+818,1927,Wiptoestel,Metaal; overig,Metaal; overig,Ongewijzigd
+819,1631,Woelbak,Beton,Beton,Ongewijzigd
+819,1631,Woelbak,Steen,Steen,Ongewijzigd
+820,1632,Wrijfgording,Hout,Hout,Ongewijzigd
+820,1632,Wrijfgording,Kunststof,Kunststof,Ongewijzigd
+820,1632,Wrijfgording,Staal,Staal,Ongewijzigd
+820,1632,Wrijfgording,Gietijzer,Gietijzer,Ongewijzigd
+820,1632,Wrijfgording,Metaal; overig,Metaal; overig,Ongewijzigd
+821,1633,Wrijfschort,Hout,Hout,Ongewijzigd
+821,1633,Wrijfschort,Kunststof,Kunststof,Ongewijzigd
+821,1633,Wrijfschort,Staal,Staal,Ongewijzigd
+821,1633,Wrijfschort,Gietijzer,Gietijzer,Ongewijzigd
+821,1633,Wrijfschort,Metaal; overig,Metaal; overig,Ongewijzigd
+822,1634,Wrijfstijl,Hout,Hout,Ongewijzigd
+822,1634,Wrijfstijl,Kunststof,Kunststof,Ongewijzigd
+822,1634,Wrijfstijl,Staal,Staal,Ongewijzigd
+822,1634,Wrijfstijl,Gietijzer,Gietijzer,Ongewijzigd
+822,1634,Wrijfstijl,Metaal; overig,Metaal; overig,Ongewijzigd
+823,1635,Wrijvingswerk,Hout,Hout,Ongewijzigd
+823,1635,Wrijvingswerk,Kunststof,Kunststof,Ongewijzigd
+823,1635,Wrijvingswerk,Staal,Staal,Ongewijzigd
+823,1635,Wrijvingswerk,Gietijzer,Gietijzer,Ongewijzigd
+823,1635,Wrijvingswerk,Metaal; overig,Metaal; overig,Ongewijzigd
+824,1636,Zadel,Beton,Beton,Ongewijzigd
+824,1636,Zadel,Kunststof,Kunststof,Ongewijzigd
+824,1636,Zadel,Staal,Staal,Ongewijzigd
+825,1960,Zandbak,Beton,Beton,Ongewijzigd
+825,1960,Zandbak,Zand,Zand,Ongewijzigd
+826,1638,Zandbed,Grond,Grond,Ongewijzigd
+826,1638,Zandbed,Zand,Zand,Ongewijzigd
+827,1792,Zandbedekking,Grond,Grond,Ongewijzigd
+827,1792,Zandbedekking,Zand,Zand,Ongewijzigd
+828,1639,Zandvang,Beton,Beton,Ongewijzigd
+828,1639,Zandvang,Steen,Steen,Ongewijzigd
+828,1639,Zandvang,Staal,Staal,Ongewijzigd
+828,1639,Zandvang,Gietijzer,Gietijzer,Ongewijzigd
+828,1639,Zandvang,Metaal; overig,Metaal; overig,Ongewijzigd
+828,1639,Zandvang,Zand,Zand,Ongewijzigd
+829,1964,Zeeuwse haag,Beplanting,,Vervallen
+830,1640,Zender,Elektrotechniek,Elektrotechniek,Ongewijzigd
+831,1642,Zettingbeperkende element,Beton,Beton,Ongewijzigd
+831,1642,Zettingbeperkende element,Steen,Steen,Ongewijzigd
+832,1644,Zijschildafdichting,Kunststof,Kunststof,Ongewijzigd
+832,1644,Zijschildafdichting,Mechaniek,Mechaniek,Ongewijzigd
+832,1644,Zijschildafdichting,Rubber,Rubber,Ongewijzigd
+833,1645,"Zinker, Algemeen",Beton,Beton,Ongewijzigd
+833,1645,"Zinker, Algemeen",Kunststof,Kunststof,Ongewijzigd
+833,1645,"Zinker, Algemeen",Staal,Staal,Ongewijzigd
+834,1706,Zinkerbord,Hout,Hout,Ongewijzigd
+834,1706,Zinkerbord,Kunststof,Kunststof,Ongewijzigd
+834,1706,Zinkerbord,Staal,Staal,Ongewijzigd
+835,1646,Zinkstuk,Hout,Hout,Ongewijzigd
+835,1646,Zinkstuk,Beton,Beton,Ongewijzigd
+835,1646,Zinkstuk,Steen,Steen,Ongewijzigd
+835,1646,Zinkstuk,Kunststof,Kunststof,Ongewijzigd
+835,1646,Zinkstuk,,Stortsteen,Toegevoegd
+836,2025,Zitelement,Hout,Hout,Ongewijzigd
+836,2025,Zitelement,Beton,Beton,Ongewijzigd
+836,2025,Zitelement,Steen,Steen,Ongewijzigd
+836,2025,Zitelement,Kunststof,Kunststof,Ongewijzigd
+836,2025,Zitelement,Staal,Staal,Ongewijzigd
+836,2025,Zitelement,Aluminium,Aluminium,Ongewijzigd
+836,2025,Zitelement,Gietijzer,Gietijzer,Ongewijzigd
+836,2025,Zitelement,Metaal; overig,Metaal; overig,Ongewijzigd
+836,2025,Zitelement,Rubber,Rubber,Ongewijzigd
+836,2025,Zitelement,Kurk,Kurk,Ongewijzigd
+836,2025,Zitelement,Textiel,Textiel,Ongewijzigd
+836,2025,Zitelement,Zand,Zand,Ongewijzigd
+836,2025,Zitelement,Kunstgras,Kunstgras,Ongewijzigd
+837,1993,Zonnekap,Hout,Hout,Ongewijzigd
+837,1993,Zonnekap,Glas,Glas,Ongewijzigd
+837,1993,Zonnekap,Kunststof,Kunststof,Ongewijzigd
+837,1993,Zonnekap,Mechaniek,Mechaniek,Ongewijzigd
+837,1993,Zonnekap,Elektrotechniek,Elektrotechniek,Ongewijzigd
+837,1993,Zonnekap,Staal,Staal,Ongewijzigd
+837,1993,Zonnekap,Aluminium,Aluminium,Ongewijzigd
+837,1993,Zonnekap,Gietijzer,Gietijzer,Ongewijzigd
+837,1993,Zonnekap,Metaal; overig,Metaal; overig,Ongewijzigd
+837,1993,Zonnekap,Rubber,Rubber,Ongewijzigd
+837,1993,Zonnekap,Koper,Koper,Ongewijzigd
+837,1993,Zonnekap,Textiel,Textiel,Ongewijzigd
+837,1993,Zonnekap,Installaties,Installaties,Ongewijzigd
+838,1651,Zonnepaneel,Glas,Glas,Ongewijzigd
+838,1651,Zonnepaneel,Kunststof,Kunststof,Ongewijzigd
+838,1651,Zonnepaneel,Elektrotechniek,Elektrotechniek,Ongewijzigd
+838,1651,Zonnepaneel,Metaal; overig,Metaal; overig,Ongewijzigd
+838,1651,Zonnepaneel,Rubber,Rubber,Ongewijzigd
+839,1652,Zonwerend rooster,Staal,Staal,Ongewijzigd
+839,1652,Zonwerend rooster,Aluminium,Aluminium,Ongewijzigd
+839,1652,Zonwerend rooster,Metaal; overig,Metaal; overig,Ongewijzigd
+840,2184,"Zonweringsinstallatie, Algemeen",Kunststof,Kunststof,Ongewijzigd
+840,2184,"Zonweringsinstallatie, Algemeen",Mechaniek,Mechaniek,Ongewijzigd
+840,2184,"Zonweringsinstallatie, Algemeen",Staal,Staal,Ongewijzigd
+840,2184,"Zonweringsinstallatie, Algemeen",Rubber,Rubber,Ongewijzigd

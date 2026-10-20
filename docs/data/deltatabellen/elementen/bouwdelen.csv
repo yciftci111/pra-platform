@@ -1,0 +1,2579 @@
+Code,Element,Bouwdeel (oud),Bouwdeel (nieuw),Mutatie
+424,Aalgoot,,Goot,Toegevoegd
+424,Aalgoot,,Buisleiding,Toegevoegd
+424,Aalgoot,,Pomp,Toegevoegd
+424,Aalgoot,,Rooster,Toegevoegd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),"Aandrijving en bewegingswerk (electrohydraulisch), Algemeen","Aandrijving en bewegingswerk (electrohydraulisch), Algemeen",Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Aanslag,Aanslag,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Afdichting,Afdichting,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Afsluiter,Afsluiter,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Appendage,Appendage,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Askoppeling,Askoppeling,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Assenstelsel,Assenstelsel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Bekabeling,Bekabeling,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Buffer,Buffer,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Cilinder,Cilinder,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Contragewicht,Contragewicht,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Dieptefiltratie,Dieptefiltratie,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Draaipunt,Draaipunt,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Elektromotor,Elektromotor,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Elektrovijzel,Elektrovijzel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Evenaar,Evenaar,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Frame,Frame,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Generator,Generator,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Grendel,Grendel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Hydraulisch aggregaat,Hydraulisch aggregaat,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Kabeltrommel,Kabeltrommel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Kast,Kast,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Klep,Klep,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),,Koppeling,Toegevoegd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Buisleiding,Buisleiding,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Meetsysteem,Meetsysteem,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Pomp,Pomp,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Rail,Rail,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Rem,Rem,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Smeersysteem,Smeersysteem,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Staalkabel,Staalkabel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Tank,Tank,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Veiligheidsventiel,Veiligheidsventiel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Verdeelblok,Verdeelblok,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Wielstel,Wielstel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Beschermconstructie,Beschermconstructie,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Oliefilter,Oliefilter,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Gaffel,Gaffel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Lager,Lager,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Beschermlaag,Beschermlaag,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Wiel,Wiel,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Schakelaar,Schakelaar,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Hydromotor,Hydromotor,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Tandwieloverbrenging (open),Tandwieloverbrenging (open),Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),"Aandrijving en bewegingswerk (elektromechanisch), Algemeen","Aandrijving en bewegingswerk (elektromechanisch), Algemeen",Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Afdichting,Afdichting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Appendage,Appendage,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Assenstelsel,Assenstelsel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Bekabeling,Bekabeling,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Buffer,Buffer,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Contragewicht,Contragewicht,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Draadstang,Draadstang,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Draaipunt,Draaipunt,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Elektromotor,Elektromotor,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Elektrovijzel,Elektrovijzel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Evenaar,Evenaar,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Frame,Frame,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Generator,Generator,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Grendel,Grendel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Heugelstang,Heugelstang,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Kabelspaninrichting,Kabelspaninrichting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Kabeltrommel,Kabeltrommel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Kast,Kast,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Kettingoverbrenging,Kettingoverbrenging,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Klepketting,Klepketting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Koppeling,Koppeling,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Krukstang,Krukstang,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Meetsysteem,Meetsysteem,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Noodstop,Noodstop,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Opzetinrichting,Opzetinrichting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Pennenbaan,Pennenbaan,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Rail,Rail,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Reductiekast,Reductiekast,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Rem,Rem,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Rolbaan,Rolbaan,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Rolsleufmechanisme,Rolsleufmechanisme,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Rolwagen (roldeur),Rolwagen (roldeur),Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Rondsel,Rondsel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Schamelstel,Schamelstel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Schuifketting,Schuifketting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Smeersysteem,Smeersysteem,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Staalkabel,Staalkabel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),"Tandwieloverbrenging, Overig","Tandwieloverbrenging, Overig",Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Tank,Tank,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Toerenregelinstallatie,Toerenregelinstallatie,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Trekduwstang,Trekduwstang,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Verwarmingstoestel,Verwarmingstoestel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Vijzel,Vijzel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Wielstel,Wielstel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Zijschildafdichting,Zijschildafdichting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Giek,Giek,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Panamawiel,Panamawiel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Regelballast,Regelballast,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Tandbaan,Tandbaan,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Beschermconstructie,Beschermconstructie,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Oliefilter,Oliefilter,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Gaffel,Gaffel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Geleiding,Geleiding,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Beschermkap,Beschermkap,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Noodhandbediening,Noodhandbediening,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Lager,Lager,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Beschermlaag,Beschermlaag,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Wiel,Wiel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Schakelaar,Schakelaar,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Tandwieloverbrenging (open),Tandwieloverbrenging (open),Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),"Aandrijving en bewegingswerk (mechanisch), Algemeen","Aandrijving en bewegingswerk (mechanisch), Algemeen",Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Aanslag,Aanslag,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Afdichting,Afdichting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Assenstelsel,Assenstelsel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Bekabeling,Bekabeling,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Buffer,Buffer,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Contragewicht,Contragewicht,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Draadstang,Draadstang,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Draaipunt,Draaipunt,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Evenaar,Evenaar,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Frame,Frame,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Grendel,Grendel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Heugelstang,Heugelstang,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Kabelspaninrichting,Kabelspaninrichting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Kabeltrommel,Kabeltrommel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Kettingoverbrenging,Kettingoverbrenging,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Klepketting,Klepketting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Koppeling,Koppeling,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Krukstang,Krukstang,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Opzetinrichting,Opzetinrichting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Pennenbaan,Pennenbaan,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Rail,Rail,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Reductiekast,Reductiekast,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Rem,Rem,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Rolbaan,Rolbaan,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Rolsleufmechanisme,Rolsleufmechanisme,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Rolwagen (roldeur),Rolwagen (roldeur),Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Rondsel,Rondsel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Schamelstel,Schamelstel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Schuifketting,Schuifketting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Smeersysteem,Smeersysteem,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Staalkabel,Staalkabel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Trekduwstang,Trekduwstang,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Vijzel,Vijzel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Wielstel,Wielstel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Zijschildafdichting,Zijschildafdichting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Beschermconstructie,Beschermconstructie,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Oliefilter,Oliefilter,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Gaffel,Gaffel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Beschermkap,Beschermkap,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Beschermlaag,Beschermlaag,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Wiel,Wiel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Schakelaar,Schakelaar,Ongewijzigd
+268,Aanloopgebied,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+104,Aanrijbalk,"Aanrijbalk, Algemeen","Aanrijbalk, Algemeen",Ongewijzigd
+104,Aanrijbalk,Beschermlaag,Beschermlaag,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Aardelektrode,Aardelektrode,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,"Aarding- en bliksembeveiligingsinstallatie, Algemeen","Aarding- en bliksembeveiligingsinstallatie, Algemeen",Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Geleider,Geleider,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Kast,Kast,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Overspanningbeveiliging,Overspanningbeveiliging,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Verbinding,Verbinding,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Meetpunt,Meetpunt,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Bliksemafleider,Bliksemafleider,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Aardrail,Aardrail,Ongewijzigd
+264,Achterland,Grondlichaam,Grondlichaam,Ongewijzigd
+264,Achterland,Maaiveld,Maaiveld,Ongewijzigd
+264,Achterland,,Boom,Toegevoegd
+264,Achterland,,Gras/kruid,Toegevoegd
+264,Achterland,,Haag,Toegevoegd
+106,Afmeervoorziening,Achterbeplating fender,Achterbeplating fender,Ongewijzigd
+106,Afmeervoorziening,Bolder,Bolder,Ongewijzigd
+106,Afmeervoorziening,Contragewicht,Contragewicht,Ongewijzigd
+106,Afmeervoorziening,Stootkussen,Stootkussen,Ongewijzigd
+106,Afmeervoorziening,Haalkom,Haalkom,Ongewijzigd
+106,Afmeervoorziening,Kaapstander,Kaapstander,Ongewijzigd
+106,Afmeervoorziening,Ketting,Ketting,Ongewijzigd
+106,Afmeervoorziening,Kettingoog,Kettingoog,Ongewijzigd
+106,Afmeervoorziening,Kettingverankering,Kettingverankering,Ongewijzigd
+106,Afmeervoorziening,Ladder,Ladder,Ongewijzigd
+106,Afmeervoorziening,Verbindingsbrug (loopbrug),Verbindingsbrug (loopbrug),Ongewijzigd
+106,Afmeervoorziening,Meerpaal,Meerpaal,Ongewijzigd
+106,Afmeervoorziening,Meerstoel,Meerstoel,Ongewijzigd
+106,Afmeervoorziening,Rooster,Rooster,Ongewijzigd
+106,Afmeervoorziening,Trap,Trap,Ongewijzigd
+106,Afmeervoorziening,Valreep,Valreep,Ongewijzigd
+106,Afmeervoorziening,Wrijfgording,Wrijfgording,Ongewijzigd
+106,Afmeervoorziening,Wrijfschort,Wrijfschort,Ongewijzigd
+106,Afmeervoorziening,Wrijfstijl,Wrijfstijl,Ongewijzigd
+106,Afmeervoorziening,Meerboei,Meerboei,Ongewijzigd
+106,Afmeervoorziening,"Afmeervoorziening, Algemeen","Afmeervoorziening, Algemeen",Ongewijzigd
+106,Afmeervoorziening,Beschermlaag,Beschermlaag,Ongewijzigd
+106,Afmeervoorziening,Trapafwerking,Trapafwerking,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Detector,Detector,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Frame,Frame,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Ladder,Ladder,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Buisleiding,Buisleiding,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Reling,Reling,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Trap,Trap,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Beschermkap,Beschermkap,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Buisaansluiting,Buisaansluiting,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Beschermlaag,Beschermlaag,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Compensator,Compensator,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Filterdoek,Filterdoek,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Filtervulling,Filtervulling,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Filterhuis,Filterhuis,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Schraper,Schraper,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Roerwerk,Roerwerk,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Centrifuge,Centrifuge,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Shikanen,Shikanen,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Sproeikop,Sproeikop,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Terugslagklep,Terugslagklep,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Wals,Wals,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Appendage,Appendage,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Fundatie,Fundatie,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Individuele Behandeling van Afvalwater (IBA),Individuele Behandeling van Afvalwater (IBA),Ongewijzigd
+359,Afscheiderinstallatie (statisch),Kabeldoorvoer,Doorvoer,Gewijzigd
+359,Afscheiderinstallatie (statisch),Ladder,Ladder,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Buisleiding,Buisleiding,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Reling,Reling,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Luik,Luik,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Trap,Trap,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Wand,Wand,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Deksel,Deksel,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Onderbak,Onderbak,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Afdekplaat,Afdekplaat,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Schachtopbouw,Schachtopbouw,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Remschot,Remschot,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Buisaansluiting,Buisaansluiting,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Putrand,Putrand,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Olie- en benzineafscheider,Olie- en benzineafscheider,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Vetafscheider,Vetafscheider,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Slibafscheider,Slibafscheider,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Lamellenafscheider,Lamellenafscheider,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Beschermlaag,Beschermlaag,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Filtervulling,Filtervulling,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Filterhuis,Filterhuis,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Sproeikop,Sproeikop,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Wandafwerking,Wandafwerking,Ongewijzigd
+359,Afscheiderinstallatie (statisch),,Helofytenfilter,Toegevoegd
+306,Afscheiding,Afsluitboom,Afsluitboom,Ongewijzigd
+306,Afscheiding,Hek,Hek,Ongewijzigd
+306,Afscheiding,Paal,Paal,Ongewijzigd
+306,Afscheiding,Draad (glad/punt),Draad (glad/punt),Ongewijzigd
+306,Afscheiding,Gaas,Gaas,Ongewijzigd
+306,Afscheiding,Staalmat,Staalmat,Ongewijzigd
+306,Afscheiding,Tuinmuur,Tuinmuur,Ongewijzigd
+306,Afscheiding,Veldafscheiding,Veldafscheiding,Ongewijzigd
+306,Afscheiding,Smeedwerk,Smeedwerk,Ongewijzigd
+306,Afscheiding,Draaipoort,Draaipoort,Ongewijzigd
+306,Afscheiding,Schuifpoort,Schuifpoort,Ongewijzigd
+306,Afscheiding,Looppoort,Looppoort,Ongewijzigd
+306,Afscheiding,Beschermlaag,Beschermlaag,Ongewijzigd
+306,Afscheiding,"Afscheiding, Algemeen","Afscheiding, Algemeen",Ongewijzigd
+306,Afscheiding,,Oversteek,Toegevoegd
+428,Afslagzone,,Asfaltverharding,Toegevoegd
+428,Afslagzone,,Duinovergang,Toegevoegd
+428,Afslagzone,,Elementenverharding,Toegevoegd
+428,Afslagzone,,Grondlichaam,Toegevoegd
+428,Afslagzone,,Bekleding,Toegevoegd
+428,Afslagzone,,Embryonaal-duin,Toegevoegd
+428,Afslagzone,,Kerf,Toegevoegd
+428,Afslagzone,,Slufter,Toegevoegd
+428,Afslagzone,,Stuifkuil,Toegevoegd
+428,Afslagzone,,Stuifscherm,Toegevoegd
+107,Afsluitboominstallatie,Aandrijving,Aandrijving,Ongewijzigd
+107,Afsluitboominstallatie,"Afsluitboominstallatie, Algemeen","Afsluitboominstallatie, Algemeen",Ongewijzigd
+107,Afsluitboominstallatie,Afsluitboomverlichting,Afsluitboomverlichting,Ongewijzigd
+107,Afsluitboominstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+107,Afsluitboominstallatie,Bekabeling,Bekabeling,Ongewijzigd
+107,Afsluitboominstallatie,Afsluitboom,Afsluitboom,Ongewijzigd
+107,Afsluitboominstallatie,Detectielus,Detectielus,Ongewijzigd
+107,Afsluitboominstallatie,Kast,Kast,Ongewijzigd
+107,Afsluitboominstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+269,Ankergebied,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+110,Antivandalismevoorziening,"Antivandalismevoorziening, Algemeen","Antivandalismevoorziening, Algemeen",Ongewijzigd
+110,Antivandalismevoorziening,Fundatie,Fundatie,Ongewijzigd
+110,Antivandalismevoorziening,Hek,Hek,Ongewijzigd
+110,Antivandalismevoorziening,Beschermlaag,Beschermlaag,Ongewijzigd
+275,Asbestemming,Columbarium (urnenmuur),Columbarium (urnenmuur),Ongewijzigd
+275,Asbestemming,Strooiveld,Strooiveld,Ongewijzigd
+275,Asbestemming,Urnengraf (bovengronds),Urnengraf (bovengronds),Ongewijzigd
+275,Asbestemming,Gedenksteen,Gedenksteen,Ongewijzigd
+247,Basculekelder,Bordes,Bordes,Ongewijzigd
+247,Basculekelder,Dak,Dak,Ongewijzigd
+247,Basculekelder,Ladder,Ladder,Ongewijzigd
+247,Basculekelder,Luik,Luik,Ongewijzigd
+247,Basculekelder,Trap,Trap,Ongewijzigd
+247,Basculekelder,Vloer,Vloer,Ongewijzigd
+247,Basculekelder,Wand,Wand,Ongewijzigd
+247,Basculekelder,"Basculekelder, Algemeen","Basculekelder, Algemeen",Ongewijzigd
+247,Basculekelder,Beschermlaag,Beschermlaag,Ongewijzigd
+247,Basculekelder,Wandafwerking,Wandafwerking,Ongewijzigd
+247,Basculekelder,Vloerafwerking,Vloerafwerking,Ongewijzigd
+247,Basculekelder,Trapafwerking,Trapafwerking,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Aanstraalverlichting,Aanstraalverlichting,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Armatuur,Armatuur,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),"Bebording/bewegwijzering (statisch), Algemeen","Bebording/bewegwijzering (statisch), Algemeen",Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Bekabeling,Bekabeling,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Bevestiging,Bevestiging,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Bewegwijzeringsbord,Bewegwijzeringsbord,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Fundatie,Fundatie,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Hectometerbord,Hectometerbord,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Kast,Kast,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Mast,Mast,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),,Paal,Toegevoegd
+111,Bebording en bewegwijzering (statisch),Peilschaal,Peilschaal,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Schrikhek,Schrikhek,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Verkeersbord,Verkeersbord,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Zonnepaneel,Zonnepaneel,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Informatiebord,Informatiebord,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Straatnaambord,Straatnaambord,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Beschermlaag,Beschermlaag,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,"Bedienings- en besturingssysteem, Algemeen","Bedienings- en besturingssysteem, Algemeen",Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Kast,Kast,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Monitor,Monitor,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Noodstop,Noodstop,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Programmable Logic Controller (PLC),Programmable Logic Controller (PLC),Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Supervisory Control and Data Acquisition (SCADA-systeem),Supervisory Control and Data Acquisition (SCADA-systeem),Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Server,Server,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Local Area Network (LAN),Local Area Network (LAN),Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Switch,Switch,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,,Veldbus,Toegevoegd
+112,Bedienings- en besturingsinstallatie,,Wide Area Network (WAN),Toegevoegd
+353,Beek,Beschoeiing,Beschoeiing,Ongewijzigd
+353,Beek,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+353,Beek,Filterconstructie,Filterconstructie,Ongewijzigd
+353,Beek,Grondlichaam,Grondlichaam,Ongewijzigd
+353,Beek,,Plant,Toegevoegd
+353,Beek,,Uitmonding,Toegevoegd
+418,Begroeid terreindeel,,Boom,Toegevoegd
+418,Begroeid terreindeel,,Heester,Toegevoegd
+418,Begroeid terreindeel,,Struikroos,Toegevoegd
+418,Begroeid terreindeel,,Gras/kruid,Toegevoegd
+418,Begroeid terreindeel,,Bodembedekker,Toegevoegd
+418,Begroeid terreindeel,,Haag,Toegevoegd
+418,Begroeid terreindeel,,Plant,Toegevoegd
+418,Begroeid terreindeel,,Plasberm,Toegevoegd
+378,Beluchtingsinstallatie,Afsluiter,Afsluiter,Ongewijzigd
+378,Beluchtingsinstallatie,Frame,Frame,Ongewijzigd
+378,Beluchtingsinstallatie,Klep,Klep,Ongewijzigd
+378,Beluchtingsinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+378,Beluchtingsinstallatie,Remschot,Remschot,Ongewijzigd
+378,Beluchtingsinstallatie,"Beluchtingsinstallatie, Algemeen","Beluchtingsinstallatie, Algemeen",Ongewijzigd
+378,Beluchtingsinstallatie,Buisbeluchter,Buisbeluchter,Ongewijzigd
+378,Beluchtingsinstallatie,Compensator,Compensator,Ongewijzigd
+378,Beluchtingsinstallatie,Membraanbeluchter,Membraanbeluchter,Ongewijzigd
+378,Beluchtingsinstallatie,Plaatbeluchter,Plaatbeluchter,Ongewijzigd
+378,Beluchtingsinstallatie,Puntbeluchter,Puntbeluchter,Ongewijzigd
+378,Beluchtingsinstallatie,Rotorbeluchter,Rotorbeluchter,Ongewijzigd
+378,Beluchtingsinstallatie,Schotelbeluchter,Schotelbeluchter,Ongewijzigd
+378,Beluchtingsinstallatie,Terugslagklep,Terugslagklep,Ongewijzigd
+356,Bergbezinkbassin,Afsluiter,Afsluiter,Ongewijzigd
+356,Bergbezinkbassin,Fundatie,Fundatie,Ongewijzigd
+356,Bergbezinkbassin,Kabeldoorvoer,Doorvoer,Gewijzigd
+356,Bergbezinkbassin,Luchtkanaal,Luchtkanaal,Ongewijzigd
+356,Bergbezinkbassin,Ladder,Ladder,Ongewijzigd
+356,Bergbezinkbassin,Luik,Luik,Ongewijzigd
+356,Bergbezinkbassin,Rooster,Rooster,Ongewijzigd
+356,Bergbezinkbassin,Wand,Wand,Ongewijzigd
+356,Bergbezinkbassin,Deksel,Deksel,Ongewijzigd
+356,Bergbezinkbassin,Onderbak,Onderbak,Ongewijzigd
+356,Bergbezinkbassin,Afdekplaat,Afdekplaat,Ongewijzigd
+356,Bergbezinkbassin,Schachtopbouw,Schachtopbouw,Ongewijzigd
+356,Bergbezinkbassin,Buisaansluiting,Buisaansluiting,Ongewijzigd
+356,Bergbezinkbassin,Stankscherm,Stankscherm,Ongewijzigd
+356,Bergbezinkbassin,Putrand,Putrand,Ongewijzigd
+356,Bergbezinkbassin,Banket,Banket,Ongewijzigd
+356,Bergbezinkbassin,Stroomprofiel,Stroomprofiel,Ongewijzigd
+356,Bergbezinkbassin,Wandafwerking,Wandafwerking,Ongewijzigd
+114,Berm,"Berm, Algemeen",,Vervallen
+114,Berm,Schraalgrasland,,Vervallen
+114,Berm,,Boom,Toegevoegd
+114,Berm,,Heester,Toegevoegd
+114,Berm,,Struikroos,Toegevoegd
+114,Berm,,Gras/kruid,Toegevoegd
+114,Berm,,Bodembedekker,Toegevoegd
+114,Berm,,Haag,Toegevoegd
+114,Berm,,Plant,Toegevoegd
+425,Binnenberm,,Asfaltverharding,Toegevoegd
+425,Binnenberm,,Elementenverharding,Toegevoegd
+425,Binnenberm,,Grondlichaam,Toegevoegd
+425,Binnenberm,,Op- en afrit,Toegevoegd
+425,Binnenberm,,Opsluitband,Toegevoegd
+425,Binnenberm,,Peilschaal,Toegevoegd
+425,Binnenberm,,Sensor,Toegevoegd
+425,Binnenberm,,Boom,Toegevoegd
+425,Binnenberm,,Grindkoffer,Toegevoegd
+425,Binnenberm,,Schanskorf,Toegevoegd
+425,Binnenberm,,Bekleding,Toegevoegd
+425,Binnenberm,,Gras/kruid,Toegevoegd
+425,Binnenberm,,Haag,Toegevoegd
+425,Binnenberm,,Peilbuis,Toegevoegd
+425,Binnenberm,,Kwelscherm,Toegevoegd
+429,Binnenduin,,Asfaltverharding,Toegevoegd
+429,Binnenduin,,Duinovergang,Toegevoegd
+429,Binnenduin,,Elementenverharding,Toegevoegd
+429,Binnenduin,,Grondlichaam,Toegevoegd
+429,Binnenduin,,Bekleding,Toegevoegd
+429,Binnenduin,,Stuifkuil,Toegevoegd
+429,Binnenduin,,Stuifscherm,Toegevoegd
+260,Binnentalud,,Asfaltverharding,Toegevoegd
+260,Binnentalud,Grondlichaam,Grondlichaam,Ongewijzigd
+260,Binnentalud,Hek,Hek,Ongewijzigd
+260,Binnentalud,Op- en afrit,Op- en afrit,Ongewijzigd
+260,Binnentalud,Opsluitband,Opsluitband,Ongewijzigd
+260,Binnentalud,Trap,Trap,Ongewijzigd
+260,Binnentalud,Zinkerbord,Zinkerbord,Ongewijzigd
+260,Binnentalud,,Boom,Toegevoegd
+260,Binnentalud,,Grindkoffer,Toegevoegd
+260,Binnentalud,,Schanskorf,Toegevoegd
+260,Binnentalud,Trapafwerking,Trapafwerking,Ongewijzigd
+260,Binnentalud,Bekleding,Bekleding,Ongewijzigd
+260,Binnentalud,Bomen/houtopstanden,,Vervallen
+260,Binnentalud,,Gras/kruid,Toegevoegd
+260,Binnentalud,,Haag,Toegevoegd
+260,Binnentalud,,Oversteek,Toegevoegd
+260,Binnentalud,,Peilbuis,Toegevoegd
+260,Binnentalud,,Kwelscherm,Toegevoegd
+115,Binnenverlichting,Armatuur,Armatuur,Ongewijzigd
+115,Binnenverlichting,Bekabeling,Bekabeling,Ongewijzigd
+115,Binnenverlichting,"Binnenverlichting, Algemeen","Binnenverlichting, Algemeen",Ongewijzigd
+115,Binnenverlichting,Kast,Kast,Ongewijzigd
+115,Binnenverlichting,Sensor,Sensor,Ongewijzigd
+115,Binnenverlichting,Lichtgroepenkast,Lichtgroepenkast,Ongewijzigd
+115,Binnenverlichting,Beschermlaag,Beschermlaag,Ongewijzigd
+116,Bodem,"Bodem, Algemeen","Bodem, Algemeen",Ongewijzigd
+116,Bodem,,Stortebed,Toegevoegd
+116,Bodem,,Zinkstuk,Toegevoegd
+117,Bodembescherming,Aansluitconstructie,Aansluitconstructie,Ongewijzigd
+117,Bodembescherming,"Bodembescherming, Algemeen","Bodembescherming, Algemeen",Ongewijzigd
+117,Bodembescherming,Bodemstabilisatie,Bodemstabilisatie,Ongewijzigd
+117,Bodembescherming,Geotextiel,Geotextiel,Ongewijzigd
+117,Bodembescherming,Ontvangbed,Ontvangbed,Ongewijzigd
+117,Bodembescherming,Openfilterconstructie,Openfilterconstructie,Ongewijzigd
+117,Bodembescherming,Stortebed,Stortebed,Ongewijzigd
+117,Bodembescherming,Stroombreker,Stroombreker,Ongewijzigd
+117,Bodembescherming,Vloer,Vloer,Ongewijzigd
+117,Bodembescherming,Woelbak,Woelbak,Ongewijzigd
+117,Bodembescherming,Vloerafwerking,Vloerafwerking,Ongewijzigd
+346,Bol- en knolgewas,Bollen,,Vervallen
+276,Boom,"Boom, Algemeen",,Vervallen
+276,Boom,Boomgeleiding,,Vervallen
+276,Boom,Vormboom,,Vervallen
+276,Boom,Vrij uitgroeiende boom,,Vervallen
+276,Boom,Niet vrij uitgroeiende boom,,Vervallen
+278,Boomgroep,Bomen/houtopstanden,,Vervallen
+278,Boomgroep,Bomenlaan,,Vervallen
+278,Boomgroep,Bomenrij,,Vervallen
+278,Boomgroep,Boomweide,,Vervallen
+278,Boomgroep,Windsingel,,Vervallen
+278,Boomgroep,Hakhout,,Vervallen
+278,Boomgroep,Grienden,,Vervallen
+349,Borstwering,"Borstwering, Algemeen","Borstwering, Algemeen",Ongewijzigd
+349,Borstwering,Beschermlaag,Beschermlaag,Ongewijzigd
+118,Bovenbouwconstructie,Bolder,Bolder,Ongewijzigd
+118,Bovenbouwconstructie,Console,Console,Ongewijzigd
+118,Bovenbouwconstructie,Dek,Dek,Ongewijzigd
+118,Bovenbouwconstructie,Dekzerkprofiel,Dekzerkprofiel,Ongewijzigd
+118,Bovenbouwconstructie,Drainagebuis,Drainagebuis,Ongewijzigd
+118,Bovenbouwconstructie,Kabelgoot,Kabelgoot,Ongewijzigd
+118,Bovenbouwconstructie,Kadeput,Kadeput,Ongewijzigd
+118,Bovenbouwconstructie,Kesp,Kesp,Ongewijzigd
+118,Bovenbouwconstructie,Kraanrail,Kraanrail,Ongewijzigd
+118,Bovenbouwconstructie,Kraanrailfundering,Kraanrailfundering,Ongewijzigd
+118,Bovenbouwconstructie,Buisleiding,Buisleiding,Ongewijzigd
+118,Bovenbouwconstructie,Reling,Reling,Ongewijzigd
+118,Bovenbouwconstructie,Luik,Luik,Ongewijzigd
+118,Bovenbouwconstructie,Meetput,Meetput,Ongewijzigd
+118,Bovenbouwconstructie,Randprofiel,Randprofiel,Ongewijzigd
+118,Bovenbouwconstructie,Trafohuis,Trafohuis,Ongewijzigd
+118,Bovenbouwconstructie,Trap,Trap,Ongewijzigd
+118,Bovenbouwconstructie,Vloer,Vloer,Ongewijzigd
+118,Bovenbouwconstructie,Voegconstructie,Voegconstructie,Ongewijzigd
+118,Bovenbouwconstructie,Opvulling,Opvulling,Ongewijzigd
+118,Bovenbouwconstructie,Lijnafwatering,Lijnafwatering,Ongewijzigd
+118,Bovenbouwconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+118,Bovenbouwconstructie,Trapafwerking,Trapafwerking,Ongewijzigd
+118,Bovenbouwconstructie,Toplaag,Toplaag,Ongewijzigd
+119,Brandblusinstallatie,Afsluiter,Afsluiter,Ongewijzigd
+119,Brandblusinstallatie,Appendage,Appendage,Ongewijzigd
+119,Brandblusinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+119,Brandblusinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+119,Brandblusinstallatie,Brandblusser,Brandblusser,Ongewijzigd
+119,Brandblusinstallatie,"Brandblusinstallatie, Algemeen","Brandblusinstallatie, Algemeen",Ongewijzigd
+119,Brandblusinstallatie,Frame,Frame,Ongewijzigd
+119,Brandblusinstallatie,Kast,Kast,Ongewijzigd
+119,Brandblusinstallatie,Koppeling,Koppeling,Ongewijzigd
+119,Brandblusinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+119,Brandblusinstallatie,Pomp,Pomp,Ongewijzigd
+119,Brandblusinstallatie,Sensor,Sensor,Ongewijzigd
+119,Brandblusinstallatie,Tank,Tank,Ongewijzigd
+119,Brandblusinstallatie,Verwarmingstoestel,Verwarmingstoestel,Ongewijzigd
+119,Brandblusinstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+119,Brandblusinstallatie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+119,Brandblusinstallatie,Spuitkanon,Spuitkanon,Ongewijzigd
+119,Brandblusinstallatie,Hydrant,Hydrant,Ongewijzigd
+119,Brandblusinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+119,Brandblusinstallatie,Haspel,Haspel,Ongewijzigd
+119,Brandblusinstallatie,Sproeikop,Sproeikop,Ongewijzigd
+119,Brandblusinstallatie,Hulppostkast,Hulppostkast,Ongewijzigd
+119,Brandblusinstallatie,Leidingnetwerk,Leidingnetwerk,Ongewijzigd
+119,Brandblusinstallatie,Brandslang,Brandslang,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Bekabeling,Bekabeling,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),"Brandmeld- en ontruimingsinstallatie (BMI), Algemeen","Brandmeld- en ontruimingsinstallatie (BMI), Algemeen",Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Detector,Detector,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Kast,Kast,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Signaalgever,Signaalgever,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Handbrandmelder,Handbrandmelder,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Beschermlaag,Beschermlaag,Ongewijzigd
+426,Buitenberm,,Asfaltverharding,Toegevoegd
+426,Buitenberm,,Elementenverharding,Toegevoegd
+426,Buitenberm,,Grondlichaam,Toegevoegd
+426,Buitenberm,,Op- en afrit,Toegevoegd
+426,Buitenberm,,Opsluitband,Toegevoegd
+426,Buitenberm,,Peilschaal,Toegevoegd
+426,Buitenberm,,Sensor,Toegevoegd
+426,Buitenberm,,Boom,Toegevoegd
+426,Buitenberm,,Grindkoffer,Toegevoegd
+426,Buitenberm,,Schanskorf,Toegevoegd
+426,Buitenberm,,Bekleding,Toegevoegd
+426,Buitenberm,,Gras/kruid,Toegevoegd
+426,Buitenberm,,Haag,Toegevoegd
+426,Buitenberm,,Peilbuis,Toegevoegd
+426,Buitenberm,,Kwelscherm,Toegevoegd
+258,Buitentalud,,Asfaltverharding,Toegevoegd
+258,Buitentalud,Grondlichaam,Grondlichaam,Ongewijzigd
+258,Buitentalud,Hek,Hek,Ongewijzigd
+258,Buitentalud,Op- en afrit,Op- en afrit,Ongewijzigd
+258,Buitentalud,Opsluitband,Opsluitband,Ongewijzigd
+258,Buitentalud,Trap,Trap,Ongewijzigd
+258,Buitentalud,Zinkerbord,Zinkerbord,Ongewijzigd
+258,Buitentalud,,Boom,Toegevoegd
+258,Buitentalud,,Grindkoffer,Toegevoegd
+258,Buitentalud,,Schanskorf,Toegevoegd
+258,Buitentalud,Trapafwerking,Trapafwerking,Ongewijzigd
+258,Buitentalud,Bekleding,Bekleding,Ongewijzigd
+258,Buitentalud,Toplaag,Toplaag,Ongewijzigd
+258,Buitentalud,Bomen/houtopstanden,,Vervallen
+258,Buitentalud,,Gras/kruid,Toegevoegd
+258,Buitentalud,,Haag,Toegevoegd
+258,Buitentalud,,Oversteek,Toegevoegd
+258,Buitentalud,,Peilbuis,Toegevoegd
+258,Buitentalud,,Kwelscherm,Toegevoegd
+121,Calamiteiten Doorsteek installatie (CADO),Aandrijving,Aandrijving,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Bekabeling,Bekabeling,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),"Calamiteiten Doorsteek installatie (CADO), Algemeen","Calamiteiten Doorsteek installatie (CADO), Algemeen",Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Contragewicht,Contragewicht,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Detectielus,Detectielus,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Fundatie,Fundatie,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Geleiderail,Geleiderail,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Grendel,Grendel,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Kast,Kast,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Meetsysteem,Meetsysteem,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Beschermlaag,Beschermlaag,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Bekabeling,Bekabeling,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Versterker,Versterker,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),"Centrale Antenne Installatie (CAI), Algemeen","Centrale Antenne Installatie (CAI), Algemeen",Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Beschermlaag,Beschermlaag,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Bekabeling,Bekabeling,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),"Closed Circuit TeleVision installatie (CCTV installatie), Algemeen","Closed Circuit TeleVision installatie (CCTV installatie), Algemeen",Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Fundatie,Fundatie,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Kast,Kast,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Mast,Mast,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Monitor,Monitor,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Server,Server,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Videomatrix,Videomatrix,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Videowall,Videowall,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Beschermlaag,Beschermlaag,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Camera (vast),Camera (vast),Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Camera (beweegbaar),Camera (beweegbaar),Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Local Area Network (LAN),Local Area Network (LAN),Ongewijzigd
+123,Compressorinstallatie,Appendage,Appendage,Ongewijzigd
+123,Compressorinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+123,Compressorinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+123,Compressorinstallatie,Compressor,Compressor,Ongewijzigd
+123,Compressorinstallatie,"Compressorinstallatie, Algemeen","Compressorinstallatie, Algemeen",Ongewijzigd
+123,Compressorinstallatie,Drukvat,Drukvat,Ongewijzigd
+123,Compressorinstallatie,Elektromotor,Elektromotor,Ongewijzigd
+123,Compressorinstallatie,Frame,Frame,Ongewijzigd
+123,Compressorinstallatie,Kast,Kast,Ongewijzigd
+123,Compressorinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+123,Compressorinstallatie,Luchtdroger,Luchtdroger,Ongewijzigd
+123,Compressorinstallatie,Verbrandingsmotor,Verbrandingsmotor,Ongewijzigd
+123,Compressorinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+391,Dakconstructie,Dak,Dak,Ongewijzigd
+391,Dakconstructie,Luik,Luik,Ongewijzigd
+391,Dakconstructie,Dakafwerking,Dakafwerking,Ongewijzigd
+391,Dakconstructie,Raam,Raam,Ongewijzigd
+391,Dakconstructie,Lichtkoepel,Lichtkoepel,Ongewijzigd
+391,Dakconstructie,Lichtstraat,Lichtstraat,Ongewijzigd
+370,Dataloginstallatie,Bekabeling,Bekabeling,Ongewijzigd
+370,Dataloginstallatie,Kast,Kast,Ongewijzigd
+370,Dataloginstallatie,Opnamemedium,Opnamemedium,Ongewijzigd
+370,Dataloginstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+370,Dataloginstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+370,Dataloginstallatie,"Dataloginstallatie, Algemeen","Dataloginstallatie, Algemeen",Ongewijzigd
+126,Doorlaatkoker,Bordes,Bordes,Ongewijzigd
+126,Doorlaatkoker,"Doorlaatkoker, Algemeen","Doorlaatkoker, Algemeen",Ongewijzigd
+126,Doorlaatkoker,Drempel,Drempel,Ongewijzigd
+126,Doorlaatkoker,Fundatie,Fundatie,Ongewijzigd
+126,Doorlaatkoker,Hek,Hek,Ongewijzigd
+126,Doorlaatkoker,Instroomopening,Instroomopening,Ongewijzigd
+126,Doorlaatkoker,Reling,Reling,Ongewijzigd
+126,Doorlaatkoker,Luik,Luik,Ongewijzigd
+126,Doorlaatkoker,Rooster,Rooster,Ongewijzigd
+126,Doorlaatkoker,Schotbalksponning,Schotbalksponning,Ongewijzigd
+126,Doorlaatkoker,Uitstroomopening,Uitstroomopening,Ongewijzigd
+126,Doorlaatkoker,Woelbak,Woelbak,Ongewijzigd
+126,Doorlaatkoker,Beschermlaag,Beschermlaag,Ongewijzigd
+126,Doorlaatkoker,Bekleding,Bekleding,Ongewijzigd
+127,Drainage,Appendage,Appendage,Ongewijzigd
+127,Drainage,Drainagebuis,Drainagebuis,Ongewijzigd
+127,Drainage,,Drainmonding,Toegevoegd
+127,Drainage,Pomp,Pomp,Ongewijzigd
+127,Drainage,Grindkoffer,Grindkoffer,Ongewijzigd
+127,Drainage,,Informatiebord,Toegevoegd
+127,Drainage,Beschermlaag,Beschermlaag,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Appendage,Appendage,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Bekabeling,Bekabeling,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Compressor,Compressor,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Kast,Kast,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Tank,Tank,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),"Drukluchtschuiminstallatie (DLS), Algemeen","Drukluchtschuiminstallatie (DLS), Algemeen",Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Mixer,Mixer,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Hulppostkast,Hulppostkast,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Leidingnetwerk,Leidingnetwerk,Ongewijzigd
+128,Duin,Duinovergang,Duinovergang,Ongewijzigd
+128,Duin,Duinvoetverdediging,Duinvoetverdediging,Ongewijzigd
+128,Duin,Hek,Hek,Ongewijzigd
+128,Duin,Trap,Trap,Ongewijzigd
+128,Duin,Duinstruweel,Duinstruweel,Ongewijzigd
+128,Duin,Trapafwerking,Trapafwerking,Ongewijzigd
+128,Duin,,Embryonaal-duin,Toegevoegd
+128,Duin,,Kerf,Toegevoegd
+128,Duin,,Slufter,Toegevoegd
+128,Duin,,Stuifkuil,Toegevoegd
+128,Duin,,Stuifscherm,Toegevoegd
+430,Duinvoetverdediging,,Damwand,Toegevoegd
+430,Duinvoetverdediging,,Keermuur,Toegevoegd
+430,Duinvoetverdediging,,Bekleding,Toegevoegd
+129,Duurzame energiebron,Accu,Accu,Ongewijzigd
+129,Duurzame energiebron,Bekabeling,Bekabeling,Ongewijzigd
+129,Duurzame energiebron,Brandstofcel,Brandstofcel,Ongewijzigd
+129,Duurzame energiebron,"Duurzame energiebron, Algemeen","Duurzame energiebron, Algemeen",Ongewijzigd
+129,Duurzame energiebron,Kast,Kast,Ongewijzigd
+129,Duurzame energiebron,Zonnepaneel,Zonnepaneel,Ongewijzigd
+129,Duurzame energiebron,Turbine,Turbine,Ongewijzigd
+129,Duurzame energiebron,Beschermlaag,Beschermlaag,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Aandrijving,Aandrijving,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Aanstraalverlichting,Aanstraalverlichting,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Bekabeling,Bekabeling,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Display,Display,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,"Dynamische bewegwijzering en informatiesystemen, Algemeen","Dynamische bewegwijzering en informatiesystemen, Algemeen",Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Fundatie,Fundatie,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Kast,Kast,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Mast,Mast,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Server,Server,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Zonnepaneel,Zonnepaneel,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Beschermlaag,Beschermlaag,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Schakelaar,Schakelaar,Ongewijzigd
+208,Erf,Reling,Reling,Ongewijzigd
+208,Erf,Onverhard oppervlak,Onverhard oppervlak,Ongewijzigd
+208,Erf,Trap,Trap,Ongewijzigd
+208,Erf,Trapafwerking,Trapafwerking,Ongewijzigd
+131,Fauna uittreedplaats,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+131,Fauna uittreedplaats,Damwand (bovenwatertalud),Damwand (bovenwatertalud),Ongewijzigd
+131,Fauna uittreedplaats,Damwand (0nderwatertalud),Damwand (0nderwatertalud),Ongewijzigd
+131,Fauna uittreedplaats,Filterconstructie,Filterconstructie,Ongewijzigd
+131,Fauna uittreedplaats,Grondlichaam,Grondlichaam,Ongewijzigd
+131,Fauna uittreedplaats,Loopplank,Loopplank,Ongewijzigd
+131,Fauna uittreedplaats,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+131,Fauna uittreedplaats,Rooster,Rooster,Ongewijzigd
+131,Fauna uittreedplaats,Zinkstuk,Zinkstuk,Ongewijzigd
+131,Fauna uittreedplaats,Toplaag,Toplaag,Ongewijzigd
+281,Fauna-insprong,Grondlichaam,Grondlichaam,Ongewijzigd
+281,Fauna-insprong,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+281,Fauna-insprong,,Boom,Toegevoegd
+281,Fauna-insprong,Schanskorf,Schanskorf,Ongewijzigd
+281,Fauna-insprong,Extensief gazon,,Vervallen
+281,Fauna-insprong,,Gras/kruid,Toegevoegd
+285,Faunadekking,Hek,Hek,Ongewijzigd
+285,Faunadekking,Broedgat,Broedgat,Ongewijzigd
+285,Faunadekking,Deksel,Deksel,Ongewijzigd
+285,Faunadekking,Greppel,Greppel,Ongewijzigd
+285,Faunadekking,Paaiplaats,Paaiplaats,Ongewijzigd
+285,Faunadekking,Schanskorf,Schanskorf,Ongewijzigd
+285,Faunadekking,Schraalgrasland,Schraalgrasland,Ongewijzigd
+285,Faunadekking,Stobbenwal,Stobbenwal,Ongewijzigd
+285,Faunadekking,Wegkruipplek,Wegkruipplek,Ongewijzigd
+285,Faunadekking,Steenhoop,Steenhoop,Ongewijzigd
+285,Faunadekking,Takkenril,Takkenril,Ongewijzigd
+285,Faunadekking,Broeihoop,Broeihoop,Ongewijzigd
+285,Faunadekking,Oeverzwaluwenwand,Oeverzwaluwenwand,Ongewijzigd
+307,Faunageleiding,Beëindigingsprofiel,Beëindigingsprofiel,Ongewijzigd
+307,Faunageleiding,Dilatatievoeg,Dilatatievoeg,Ongewijzigd
+307,Faunageleiding,Frame,Frame,Ongewijzigd
+307,Faunageleiding,Grondlichaam,Grondlichaam,Ongewijzigd
+307,Faunageleiding,Hek,Hek,Ongewijzigd
+307,Faunageleiding,Buisleiding,Buisleiding,Ongewijzigd
+307,Faunageleiding,Luik,Luik,Ongewijzigd
+307,Faunageleiding,Paal,Paal,Ongewijzigd
+307,Faunageleiding,Rooster,Rooster,Ongewijzigd
+307,Faunageleiding,Afvoer,Afvoer,Ongewijzigd
+307,Faunageleiding,Draad (glad/punt),Draad (glad/punt),Ongewijzigd
+307,Faunageleiding,Faunaspiegel,Faunaspiegel,Ongewijzigd
+307,Faunageleiding,Gaas,Gaas,Ongewijzigd
+307,Faunageleiding,Koker,Koker,Ongewijzigd
+307,Faunageleiding,Loopstrook,Loopstrook,Ongewijzigd
+307,Faunageleiding,Ophangconstructie,Ophangconstructie,Ongewijzigd
+307,Faunageleiding,Roosterput,Roosterput,Ongewijzigd
+307,Faunageleiding,Schanskorf,Schanskorf,Ongewijzigd
+307,Faunageleiding,Vistrap,Vistrap,Ongewijzigd
+307,Faunageleiding,Faunawand,Faunawand,Ongewijzigd
+132,Folieconstructie,Folie,Folie,Ongewijzigd
+132,Folieconstructie,"Folieconstructie, Algemeen","Folieconstructie, Algemeen",Ongewijzigd
+133,Fundering,Balk,Balk,Ongewijzigd
+133,Fundering,Bodemstabilisatie,Bodemstabilisatie,Ongewijzigd
+133,Fundering,Caisson,Caisson,Ongewijzigd
+133,Fundering,Drukpalen,Drukpalen,Ongewijzigd
+133,Fundering,Fundatie,Fundatie,Ongewijzigd
+133,Fundering,Grondverbetering,Grondverbetering,Ongewijzigd
+133,Fundering,H-palen,H-palen,Ongewijzigd
+133,Fundering,In grond vervaardigde palen,In grond vervaardigde palen,Ongewijzigd
+133,Fundering,Kesp,Kesp,Ongewijzigd
+133,Fundering,Open buispalen,Open buispalen,Ongewijzigd
+133,Fundering,Paal,Paal,Ongewijzigd
+133,Fundering,Trekpalen,Trekpalen,Ongewijzigd
+133,Fundering,Vloer,Vloer,Ongewijzigd
+133,Fundering,Beschermlaag,Beschermlaag,Ongewijzigd
+133,Fundering,Vloerafwerking,Vloerafwerking,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Bekabeling,Bekabeling,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Detector,Detector,Ongewijzigd
+134,Gasdetectie-installatie (LEL),"Gasdetectie-installatie (LEL), Algemeen","Gasdetectie-installatie (LEL), Algemeen",Ongewijzigd
+134,Gasdetectie-installatie (LEL),Kast,Kast,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Signaalgever,Signaalgever,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Beschermlaag,Beschermlaag,Ongewijzigd
+396,Gasinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+396,Gasinstallatie,Kraan,Kraan,Ongewijzigd
+396,Gasinstallatie,"Gasinstallatie, Algemeen","Gasinstallatie, Algemeen",Ongewijzigd
+136,Geleideconstructie,Geleidebarriër,Geleidebarriër,Ongewijzigd
+136,Geleideconstructie,Geleiderail,Geleiderail,Ongewijzigd
+136,Geleideconstructie,Obstakelbeveiliger,Obstakelbeveiliger,Ongewijzigd
+136,Geleideconstructie,Paal,Paal,Ongewijzigd
+136,Geleideconstructie,Poer,Poer,Ongewijzigd
+136,Geleideconstructie,Schampstrook,Schampstrook,Ongewijzigd
+136,Geleideconstructie,Schrikhek,Schrikhek,Ongewijzigd
+136,Geleideconstructie,Trottoirband,Trottoirband,Ongewijzigd
+136,Geleideconstructie,Antiverblindingsscherm,Antiverblindingsscherm,Ongewijzigd
+136,Geleideconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+136,Geleideconstructie,,Oversteek,Toegevoegd
+405,Geleidetoren,Aanslag,Aanslag,Ongewijzigd
+405,Geleidetoren,Afdichting,Afdichting,Ongewijzigd
+405,Geleidetoren,Bordes,Bordes,Ongewijzigd
+405,Geleidetoren,Dak,Dak,Ongewijzigd
+405,Geleidetoren,Deur,Deur,Ongewijzigd
+405,Geleidetoren,Deurgeleiding,Deurgeleiding,Ongewijzigd
+405,Geleidetoren,Ladder,Ladder,Ongewijzigd
+405,Geleidetoren,Reling,Reling,Ongewijzigd
+405,Geleidetoren,Luik,Luik,Ongewijzigd
+405,Geleidetoren,Railbaan,Railbaan,Ongewijzigd
+405,Geleidetoren,Rooster,Rooster,Ongewijzigd
+405,Geleidetoren,Schotbalksponning,Schotbalksponning,Ongewijzigd
+405,Geleidetoren,Trap,Trap,Ongewijzigd
+405,Geleidetoren,Vloer,Vloer,Ongewijzigd
+405,Geleidetoren,Wand,Wand,Ongewijzigd
+405,Geleidetoren,Beschermlaag,Beschermlaag,Ongewijzigd
+405,Geleidetoren,Wandafwerking,Wandafwerking,Ongewijzigd
+405,Geleidetoren,Vloerafwerking,Vloerafwerking,Ongewijzigd
+405,Geleidetoren,Trapafwerking,Trapafwerking,Ongewijzigd
+405,Geleidetoren,Leuningafwerking,Leuningafwerking,Ongewijzigd
+405,Geleidetoren,Dakafwerking,Dakafwerking,Ongewijzigd
+405,Geleidetoren,Leuning,Leuning,Ongewijzigd
+405,Geleidetoren,"Geleidetoren, Algemeen","Geleidetoren, Algemeen",Ongewijzigd
+137,Geluidbeperkende constructie,Begroeiing,Begroeiing,Ongewijzigd
+137,Geluidbeperkende constructie,Bevestiging,Bevestiging,Ongewijzigd
+137,Geluidbeperkende constructie,Deur,Deur,Ongewijzigd
+137,Geluidbeperkende constructie,Elementenverharding,Elementenverharding,Ongewijzigd
+137,Geluidbeperkende constructie,Fundatie,Fundatie,Ongewijzigd
+137,Geluidbeperkende constructie,Grondlichaam,Grondlichaam,Ongewijzigd
+137,Geluidbeperkende constructie,"Sproei-installatie, Algemeen","Sproei-installatie, Algemeen",Ongewijzigd
+137,Geluidbeperkende constructie,Zonnepaneel,Zonnepaneel,Ongewijzigd
+137,Geluidbeperkende constructie,Klimplantconstructie,Klimplantconstructie,Ongewijzigd
+137,Geluidbeperkende constructie,Schanskorf,Schanskorf,Ongewijzigd
+137,Geluidbeperkende constructie,Paneel,Paneel,Ongewijzigd
+137,Geluidbeperkende constructie,Stijl,Stijl,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Begroeiing,Begroeiing,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Filterconstructie,Filterconstructie,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Grondlichaam,Grondlichaam,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Maaiveld,Maaiveld,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Zinkstuk,Zinkstuk,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Strand,Strand,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Steilwand,Steilwand,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Paaiplaats,Paaiplaats,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Bekleding,Bekleding,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Toplaag,Toplaag,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),,Gras/kruid,Toegevoegd
+138,Gestrekte oever (natuurvriendelijk),,Plant,Toegevoegd
+138,Gestrekte oever (natuurvriendelijk),,Uitmonding,Toegevoegd
+138,Gestrekte oever (natuurvriendelijk),,Plasberm,Toegevoegd
+139,Gestrekte oever (talud),Filterconstructie,Filterconstructie,Ongewijzigd
+139,Gestrekte oever (talud),Grondlichaam,Grondlichaam,Ongewijzigd
+139,Gestrekte oever (talud),Zinkstuk,Zinkstuk,Ongewijzigd
+139,Gestrekte oever (talud),Paaiplaats,Paaiplaats,Ongewijzigd
+139,Gestrekte oever (talud),Bekleding,Bekleding,Ongewijzigd
+139,Gestrekte oever (talud),Toplaag,Toplaag,Ongewijzigd
+139,Gestrekte oever (talud),,Uitmonding,Toegevoegd
+140,Gladheidsmeldsysteem,Bekabeling,Bekabeling,Ongewijzigd
+140,Gladheidsmeldsysteem,Detector,Detector,Ongewijzigd
+140,Gladheidsmeldsysteem,"Gladheidsmeldsysteem, Algemeen","Gladheidsmeldsysteem, Algemeen",Ongewijzigd
+140,Gladheidsmeldsysteem,Kast,Kast,Ongewijzigd
+140,Gladheidsmeldsysteem,Mast,Mast,Ongewijzigd
+140,Gladheidsmeldsysteem,Sensor,Sensor,Ongewijzigd
+140,Gladheidsmeldsysteem,Server,Server,Ongewijzigd
+140,Gladheidsmeldsysteem,Windmeter,Windmeter,Ongewijzigd
+140,Gladheidsmeldsysteem,Infraroodlamp,Infraroodlamp,Ongewijzigd
+140,Gladheidsmeldsysteem,Weerhut,Weerhut,Ongewijzigd
+140,Gladheidsmeldsysteem,Beschermlaag,Beschermlaag,Ongewijzigd
+140,Gladheidsmeldsysteem,Camera (vast),Camera (vast),Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Antenne,Antenne,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Bekabeling,Bekabeling,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Frame,Frame,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Fundatie,Fundatie,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Kast,Kast,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Mast,Mast,Ongewijzigd
+291,Graf,Grafbeplanting,Grafbeplanting,Ongewijzigd
+291,Graf,Grafsteen,Grafsteen,Ongewijzigd
+291,Graf,Zandbedekking,Zandbedekking,Ongewijzigd
+291,Graf,"Graf, Algemeen","Graf, Algemeen",Ongewijzigd
+341,Grasvegetatie,Extensief gazon,,Vervallen
+341,Grasvegetatie,Helmgras,,Vervallen
+341,Grasvegetatie,Natuurlijke grasvegetatie,,Vervallen
+341,Grasvegetatie,Ruiggras,,Vervallen
+341,Grasvegetatie,Gazon,,Vervallen
+249,Grendelinrichting,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+249,Grendelinrichting,Bekabeling,Bekabeling,Ongewijzigd
+249,Grendelinrichting,Elektromotor,Elektromotor,Ongewijzigd
+249,Grendelinrichting,Frame,Frame,Ongewijzigd
+249,Grendelinrichting,Grendel,Grendel,Ongewijzigd
+249,Grendelinrichting,Kast,Kast,Ongewijzigd
+249,Grendelinrichting,Meetsysteem,Meetsysteem,Ongewijzigd
+249,Grendelinrichting,Smeersysteem,Smeersysteem,Ongewijzigd
+249,Grendelinrichting,"Grendelinrichting, Algemeen","Grendelinrichting, Algemeen",Ongewijzigd
+249,Grendelinrichting,Beschermconstructie,Beschermconstructie,Ongewijzigd
+249,Grendelinrichting,Noodhandbediening,Noodhandbediening,Ongewijzigd
+249,Grendelinrichting,Beschermlaag,Beschermlaag,Ongewijzigd
+431,Grensprofiel,,Asfaltverharding,Toegevoegd
+431,Grensprofiel,,Duinovergang,Toegevoegd
+431,Grensprofiel,,Elementenverharding,Toegevoegd
+431,Grensprofiel,,Grondlichaam,Toegevoegd
+431,Grensprofiel,,Bekleding,Toegevoegd
+431,Grensprofiel,,Kerf,Toegevoegd
+431,Grensprofiel,,Stuifkuil,Toegevoegd
+431,Grensprofiel,,Stuifscherm,Toegevoegd
+292,Haag,Geschoren haag,,Vervallen
+292,Haag,Geschoren heestervak,,Vervallen
+292,Haag,Haagwindscherm,,Vervallen
+292,Haag,Losse haag,,Vervallen
+292,Haag,Zeeuwse haag,,Vervallen
+142,Havendam,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+142,Havendam,Filterconstructie,Filterconstructie,Ongewijzigd
+142,Havendam,Grondlichaam,Grondlichaam,Ongewijzigd
+142,Havendam,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+142,Havendam,Zinkstuk,Zinkstuk,Ongewijzigd
+142,Havendam,Toplaag,Toplaag,Ongewijzigd
+317,Heester,Bodembedekkende heester,,Vervallen
+317,Heester,Botanische rozen,,Vervallen
+317,Heester,Droge heide,,Vervallen
+317,Heester,Halfheester,,Vervallen
+317,Heester,Heesterrozen,,Vervallen
+317,Heester,Natte heide,,Vervallen
+317,Heester,Sierheester,,Vervallen
+317,Heester,"Heester, Algemeen",,Vervallen
+317,Heester,Struikrozen,,Vervallen
+143,Heftoren,Aanslag,Aanslag,Ongewijzigd
+143,Heftoren,Afdichting,Afdichting,Ongewijzigd
+143,Heftoren,Bordes,Bordes,Ongewijzigd
+143,Heftoren,Dak,Dak,Ongewijzigd
+143,Heftoren,Deur,Deur,Ongewijzigd
+143,Heftoren,Deurgeleiding,Deurgeleiding,Ongewijzigd
+143,Heftoren,"Heftoren, Algemeen","Heftoren, Algemeen",Ongewijzigd
+143,Heftoren,Ladder,Ladder,Ongewijzigd
+143,Heftoren,Reling,Reling,Ongewijzigd
+143,Heftoren,Luik,Luik,Ongewijzigd
+143,Heftoren,Railbaan,Railbaan,Ongewijzigd
+143,Heftoren,Rooster,Rooster,Ongewijzigd
+143,Heftoren,Schotbalksponning,Schotbalksponning,Ongewijzigd
+143,Heftoren,Trap,Trap,Ongewijzigd
+143,Heftoren,Vloer,Vloer,Ongewijzigd
+143,Heftoren,Wand,Wand,Ongewijzigd
+143,Heftoren,Beschermlaag,Beschermlaag,Ongewijzigd
+143,Heftoren,Wandafwerking,Wandafwerking,Ongewijzigd
+143,Heftoren,Vloerafwerking,Vloerafwerking,Ongewijzigd
+143,Heftoren,Trapafwerking,Trapafwerking,Ongewijzigd
+143,Heftoren,Leuningafwerking,Leuningafwerking,Ongewijzigd
+143,Heftoren,Leuning,Leuning,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Aansluitleiding,Aansluitleiding,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Afdichting,Afdichting,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Appendage,Appendage,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Goot,Goot,Ongewijzigd
+144,Hemelwaterafvoer (HWA),"Hemelwaterafvoer (HWA), Algemeen","Hemelwaterafvoer (HWA), Algemeen",Ongewijzigd
+144,Hemelwaterafvoer (HWA),Kolk,Kolk,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Pomp,Pomp,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Rooster,Rooster,Ongewijzigd
+146,Hijs- en hefinstallatie,,Balk,Toegevoegd
+146,Hijs- en hefinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+146,Hijs- en hefinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+146,Hijs- en hefinstallatie,Bordes,Bordes,Ongewijzigd
+146,Hijs- en hefinstallatie,Elektromotor,Elektromotor,Ongewijzigd
+146,Hijs- en hefinstallatie,Fundatie,Fundatie,Ongewijzigd
+146,Hijs- en hefinstallatie,"Hijs- en hefinstallatie, Algemeen","Hijs- en hefinstallatie, Algemeen",Ongewijzigd
+146,Hijs- en hefinstallatie,Kast,Kast,Ongewijzigd
+146,Hijs- en hefinstallatie,,Ketting,Toegevoegd
+146,Hijs- en hefinstallatie,Ladder,Ladder,Ongewijzigd
+146,Hijs- en hefinstallatie,Loopkat,Loopkat,Ongewijzigd
+146,Hijs- en hefinstallatie,Noodstop,Noodstop,Ongewijzigd
+146,Hijs- en hefinstallatie,Overlastbelastingsbeveiliging,Overlastbelastingsbeveiliging,Ongewijzigd
+146,Hijs- en hefinstallatie,Railbaan,Railbaan,Ongewijzigd
+146,Hijs- en hefinstallatie,Rem,Rem,Ongewijzigd
+146,Hijs- en hefinstallatie,Staalkabel,Staalkabel,Ongewijzigd
+146,Hijs- en hefinstallatie,Takel,Takel,Ongewijzigd
+146,Hijs- en hefinstallatie,Giek,Giek,Ongewijzigd
+146,Hijs- en hefinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+146,Hijs- en hefinstallatie,Grijper,Grijper,Ongewijzigd
+146,Hijs- en hefinstallatie,Schakelaar,Schakelaar,Ongewijzigd
+146,Hijs- en hefinstallatie,Overspanning,,Vervallen
+147,Hoofddraagconstructie,Achterplaat,Achterplaat,Ongewijzigd
+147,Hoofddraagconstructie,Anker,Anker,Ongewijzigd
+147,Hoofddraagconstructie,Balanspriem,Balanspriem,Ongewijzigd
+147,Hoofddraagconstructie,Balk,Balk,Ongewijzigd
+147,Hoofddraagconstructie,Boog,Boog,Ongewijzigd
+147,Hoofddraagconstructie,Bordes,Bordes,Ongewijzigd
+147,Hoofddraagconstructie,Console,Console,Ongewijzigd
+147,Hoofddraagconstructie,Contragewicht,Contragewicht,Ongewijzigd
+147,Hoofddraagconstructie,Dak,Dak,Ongewijzigd
+147,Hoofddraagconstructie,Deur,Deur,Ongewijzigd
+147,Hoofddraagconstructie,Diagonaal (vakwerkligger),Diagonaal (vakwerkligger),Ongewijzigd
+147,Hoofddraagconstructie,Dwarsdrager,Dwarsdrager,Ongewijzigd
+147,Hoofddraagconstructie,Hameistijl (-poort),Hameistijl (-poort),Ongewijzigd
+147,Hoofddraagconstructie,Hanger (boogbrug),Hanger (boogbrug),Ongewijzigd
+147,Hoofddraagconstructie,Hangstang,Hangstang,Ongewijzigd
+147,Hoofddraagconstructie,Knooppunt,Knooppunt,Ongewijzigd
+147,Hoofddraagconstructie,Ladder,Ladder,Ongewijzigd
+147,Hoofddraagconstructie,Langsligger,Langsligger,Ongewijzigd
+147,Hoofddraagconstructie,Reling,Reling,Ongewijzigd
+147,Hoofddraagconstructie,Luik,Luik,Ongewijzigd
+147,Hoofddraagconstructie,Paal,Paal,Ongewijzigd
+147,Hoofddraagconstructie,Pijler,Pijler,Ongewijzigd
+147,Hoofddraagconstructie,Pyloon,Pyloon,Ongewijzigd
+147,Hoofddraagconstructie,Rijdek,Rijdek,Ongewijzigd
+147,Hoofddraagconstructie,Rooster,Rooster,Ongewijzigd
+147,Hoofddraagconstructie,Tuidraad,Tuidraad,Ongewijzigd
+147,Hoofddraagconstructie,Verticaal (vakwerkligger),Verticaal (vakwerkligger),Ongewijzigd
+147,Hoofddraagconstructie,Wand,Wand,Ongewijzigd
+147,Hoofddraagconstructie,Windverband,Windverband,Ongewijzigd
+147,Hoofddraagconstructie,Wrijfgording,Wrijfgording,Ongewijzigd
+147,Hoofddraagconstructie,Kapiteel,Kapiteel,Ongewijzigd
+147,Hoofddraagconstructie,Kolom,Kolom,Ongewijzigd
+147,Hoofddraagconstructie,Plaatveld,Plaatveld,Ongewijzigd
+147,Hoofddraagconstructie,Voegloze overgang,Voegloze overgang,Ongewijzigd
+147,Hoofddraagconstructie,"Hoofddraagconstructie, Algemeen","Hoofddraagconstructie, Algemeen",Ongewijzigd
+147,Hoofddraagconstructie,Sleufopbouw,Sleufopbouw,Ongewijzigd
+147,Hoofddraagconstructie,Sleufonderbouw,Sleufonderbouw,Ongewijzigd
+147,Hoofddraagconstructie,Schacht,Schacht,Ongewijzigd
+147,Hoofddraagconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+147,Hoofddraagconstructie,Wandafwerking,Wandafwerking,Ongewijzigd
+147,Hoofddraagconstructie,Leuningafwerking,Leuningafwerking,Ongewijzigd
+147,Hoofddraagconstructie,Hamerstuk,Hamerstuk,Ongewijzigd
+147,Hoofddraagconstructie,Kist,Kist,Ongewijzigd
+147,Hoofddraagconstructie,Leuning,Leuning,Ongewijzigd
+147,Hoofddraagconstructie,Hittewerende bekleding,Hittewerende bekleding,Ongewijzigd
+147,Hoofddraagconstructie,Drijfkist,Drijfkist,Ongewijzigd
+148,Hoofddraaipunt,Draaipunt,Draaipunt,Ongewijzigd
+148,Hoofddraaipunt,Stootkussen,Stootkussen,Ongewijzigd
+148,Hoofddraaipunt,Frame,Frame,Ongewijzigd
+148,Hoofddraaipunt,"Hoofddraaipunt, Algemeen","Hoofddraaipunt, Algemeen",Ongewijzigd
+148,Hoofddraaipunt,Smeersysteem,Smeersysteem,Ongewijzigd
+148,Hoofddraaipunt,Vijzel,Vijzel,Ongewijzigd
+148,Hoofddraaipunt,Oplegblok,Oplegblok,Ongewijzigd
+148,Hoofddraaipunt,Beschermlaag,Beschermlaag,Ongewijzigd
+145,Hoog Frequent installatie (HF),Antenne,Antenne,Ongewijzigd
+145,Hoog Frequent installatie (HF),Bekabeling,Bekabeling,Ongewijzigd
+145,Hoog Frequent installatie (HF),Coaxstralers (tunnelbekabeling),Coaxstralers (tunnelbekabeling),Ongewijzigd
+145,Hoog Frequent installatie (HF),Connector,Connector,Ongewijzigd
+145,Hoog Frequent installatie (HF),Fundatie,Fundatie,Ongewijzigd
+145,Hoog Frequent installatie (HF),"Hoog Frequent installatie (HF-Installatie), Algemeen","Hoog Frequent installatie (HF-Installatie), Algemeen",Ongewijzigd
+145,Hoog Frequent installatie (HF),Kast,Kast,Ongewijzigd
+145,Hoog Frequent installatie (HF),Mast,Mast,Ongewijzigd
+145,Hoog Frequent installatie (HF),Beschermlaag,Beschermlaag,Ongewijzigd
+145,Hoog Frequent installatie (HF),,Portofoon,Toegevoegd
+149,Hoogspanningsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+149,Hoogspanningsinstallatie,"Hoogspanningsinstallatie, Algemeen","Hoogspanningsinstallatie, Algemeen",Ongewijzigd
+149,Hoogspanningsinstallatie,Hoogspanningsverdeler,Hoogspanningsverdeler,Ongewijzigd
+149,Hoogspanningsinstallatie,Kast,Kast,Ongewijzigd
+149,Hoogspanningsinstallatie,KWh-metering,KWh-metering,Ongewijzigd
+149,Hoogspanningsinstallatie,Transformator,Transformator,Ongewijzigd
+149,Hoogspanningsinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+150,Hoogtedetectie-installatie,Bekabeling,Bekabeling,Ongewijzigd
+150,Hoogtedetectie-installatie,Detectielus,Detectielus,Ongewijzigd
+150,Hoogtedetectie-installatie,Detector,Detector,Ongewijzigd
+150,Hoogtedetectie-installatie,Display,Display,Ongewijzigd
+150,Hoogtedetectie-installatie,Fundatie,Fundatie,Ongewijzigd
+150,Hoogtedetectie-installatie,"Hoogtedetectie-installatie, Algemeen","Hoogtedetectie-installatie, Algemeen",Ongewijzigd
+150,Hoogtedetectie-installatie,Kast,Kast,Ongewijzigd
+150,Hoogtedetectie-installatie,Landverkeerssein,Landverkeerssein,Ongewijzigd
+150,Hoogtedetectie-installatie,Mast,Mast,Ongewijzigd
+150,Hoogtedetectie-installatie,Triangel,Triangel,Ongewijzigd
+150,Hoogtedetectie-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+423,Hoogwatervluchtplaats,,Grondlichaam,Toegevoegd
+423,Hoogwatervluchtplaats,,Bekleding,Toegevoegd
+250,Inbraakbeveiligingsinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Detector,Detector,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Kast,Kast,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Signaalgever,Signaalgever,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,"Inbraakbeveiligingsinstallatie, Algemeen","Inbraakbeveiligingsinstallatie, Algemeen",Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+296,Infiltratievoorziening,Infiltratiekratten,Infiltratiekratten,Ongewijzigd
+296,Infiltratievoorziening,Infiltratieleiding,Infiltratieleiding,Ongewijzigd
+296,Infiltratievoorziening,Infiltratievelden,Infiltratievelden,Ongewijzigd
+296,Infiltratievoorziening,Infiltratievijvers,Infiltratievijvers,Ongewijzigd
+296,Infiltratievoorziening,Wadi,Wadi,Ongewijzigd
+296,Infiltratievoorziening,Grindkoffer,Grindkoffer,Ongewijzigd
+296,Infiltratievoorziening,Beschermlaag,Beschermlaag,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Bekabeling,Bekabeling,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),"Informatie- en Volgsysteem Scheepvaart 1990 (IVS90), Algemeen","Informatie- en Volgsysteem Scheepvaart 1990 (IVS90), Algemeen",Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Kast,Kast,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Monitor,Monitor,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Server,Server,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Beschermlaag,Beschermlaag,Ongewijzigd
+358,Inlaatvoorziening,Appendage,Appendage,Ongewijzigd
+358,Inlaatvoorziening,Goot,Goot,Ongewijzigd
+358,Inlaatvoorziening,Instroomopening,Instroomopening,Ongewijzigd
+358,Inlaatvoorziening,Kolk,Kolk,Ongewijzigd
+358,Inlaatvoorziening,Ladder,Ladder,Ongewijzigd
+358,Inlaatvoorziening,Luik,Luik,Ongewijzigd
+358,Inlaatvoorziening,Rooster,Rooster,Ongewijzigd
+358,Inlaatvoorziening,Schotbalk,Schotbalk,Ongewijzigd
+358,Inlaatvoorziening,Schotbalksponning,Schotbalksponning,Ongewijzigd
+358,Inlaatvoorziening,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+358,Inlaatvoorziening,Buisaansluiting,Buisaansluiting,Ongewijzigd
+358,Inlaatvoorziening,Stankscherm,Stankscherm,Ongewijzigd
+358,Inlaatvoorziening,Slokop,Slokop,Ongewijzigd
+358,Inlaatvoorziening,Lijnafwatering,Lijnafwatering,Ongewijzigd
+358,Inlaatvoorziening,Inlaat,Inlaat,Ongewijzigd
+358,Inlaatvoorziening,Beschermlaag,Beschermlaag,Ongewijzigd
+358,Inlaatvoorziening,Inlooptrommel,Inlooptrommel,Ongewijzigd
+152,Inspectiewagen,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+152,Inspectiewagen,Bekabeling,Bekabeling,Ongewijzigd
+152,Inspectiewagen,Elektromotor,Elektromotor,Ongewijzigd
+152,Inspectiewagen,"Inspectiewagen, Algemeen","Inspectiewagen, Algemeen",Ongewijzigd
+152,Inspectiewagen,Kast,Kast,Ongewijzigd
+152,Inspectiewagen,Ladder,Ladder,Ongewijzigd
+152,Inspectiewagen,Railbaan,Railbaan,Ongewijzigd
+152,Inspectiewagen,Reductiekast,Reductiekast,Ongewijzigd
+152,Inspectiewagen,Rem,Rem,Ongewijzigd
+152,Inspectiewagen,Staalkabel,Staalkabel,Ongewijzigd
+152,Inspectiewagen,Wagen,Wagen,Ongewijzigd
+152,Inspectiewagen,Beschermlaag,Beschermlaag,Ongewijzigd
+153,Intercominstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+153,Intercominstallatie,Bekabeling,Bekabeling,Ongewijzigd
+153,Intercominstallatie,"Intercominstallatie, Algemeen","Intercominstallatie, Algemeen",Ongewijzigd
+153,Intercominstallatie,Intercompost,Intercompost,Ongewijzigd
+153,Intercominstallatie,Kast,Kast,Ongewijzigd
+153,Intercominstallatie,Praatpaal,Praatpaal,Ongewijzigd
+153,Intercominstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+153,Intercominstallatie,Noodtelefoon,Noodtelefoon,Ongewijzigd
+153,Intercominstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+113,Kabel,"Kabel, Algemeen","Kabel, Algemeen",Ongewijzigd
+113,Kabel,Energiekabel,Energiekabel,Ongewijzigd
+113,Kabel,Glasvezelkabel,Glasvezelkabel,Ongewijzigd
+113,Kabel,Signaalkabel,Signaalkabel,Ongewijzigd
+113,Kabel,Installatiekabel,Installatiekabel,Ongewijzigd
+113,Kabel,Beschermlaag,Beschermlaag,Ongewijzigd
+155,Kabel- en leidingtunnel,Afsluiter,Afsluiter,Ongewijzigd
+155,Kabel- en leidingtunnel,Dilatatievoeg,Dilatatievoeg,Ongewijzigd
+155,Kabel- en leidingtunnel,Kabeldoorvoer,Doorvoer,Gewijzigd
+155,Kabel- en leidingtunnel,Lekdetector,Lekdetector,Ongewijzigd
+155,Kabel- en leidingtunnel,Reling,Reling,Ongewijzigd
+155,Kabel- en leidingtunnel,Markering,Markering,Ongewijzigd
+155,Kabel- en leidingtunnel,Trap,Trap,Ongewijzigd
+155,Kabel- en leidingtunnel,Vloer,Vloer,Ongewijzigd
+155,Kabel- en leidingtunnel,Wand,Wand,Ongewijzigd
+155,Kabel- en leidingtunnel,Beschermlaag,Beschermlaag,Ongewijzigd
+155,Kabel- en leidingtunnel,Monsternameapparaat,Monsternameapparaat,Ongewijzigd
+155,Kabel- en leidingtunnel,Wandafwerking,Wandafwerking,Ongewijzigd
+155,Kabel- en leidingtunnel,Trapafwerking,Trapafwerking,Ongewijzigd
+156,Kabeldraagconstructie,Appendage,Appendage,Ongewijzigd
+156,Kabeldraagconstructie,Kabeldoorvoer,Doorvoer,Gewijzigd
+156,Kabeldraagconstructie,"Kabeldraagconstructie, Algemeen","Kabeldraagconstructie, Algemeen",Ongewijzigd
+156,Kabeldraagconstructie,Kabelgoot,Kabelgoot,Ongewijzigd
+156,Kabeldraagconstructie,Kabeltender,Kabeltender,Ongewijzigd
+156,Kabeldraagconstructie,Ladderbaan,Ladderbaan,Ongewijzigd
+156,Kabeldraagconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+373,Kathodische bescherminstallatie,Bekabeling,Bekabeling,Ongewijzigd
+373,Kathodische bescherminstallatie,Gelijkrichter,Gelijkrichter,Ongewijzigd
+373,Kathodische bescherminstallatie,Kast,Kast,Ongewijzigd
+373,Kathodische bescherminstallatie,Sensor,Sensor,Ongewijzigd
+373,Kathodische bescherminstallatie,Anode,Anode,Ongewijzigd
+373,Kathodische bescherminstallatie,"Kathodische bescherminstallatie, Algemeen","Kathodische bescherminstallatie, Algemeen",Ongewijzigd
+271,Keerplaats,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+251,Kelder,Bordes,Bordes,Ongewijzigd
+251,Kelder,Ladder,Ladder,Ongewijzigd
+251,Kelder,Reling,Reling,Ongewijzigd
+251,Kelder,Luik,Luik,Ongewijzigd
+251,Kelder,Trap,Trap,Ongewijzigd
+251,Kelder,Kolom,Kolom,Ongewijzigd
+251,Kelder,"Kelder, Algemeen","Kelder, Algemeen",Ongewijzigd
+251,Kelder,Afdekplaat,Afdekplaat,Ongewijzigd
+251,Kelder,Beschermlaag,Beschermlaag,Ongewijzigd
+251,Kelder,Trapafwerking,Trapafwerking,Ongewijzigd
+157,Kerende constructie,Achterplaat,Achterplaat,Ongewijzigd
+157,Kerende constructie,Afdichting,Afdichting,Ongewijzigd
+157,Kerende constructie,Asfaltconstructie,Asfaltverharding,Gewijzigd
+157,Kerende constructie,Beschoeiing,Beschoeiing,Ongewijzigd
+157,Kerende constructie,Bevestiging,Bevestiging,Ongewijzigd
+157,Kerende constructie,Blokkenmuur,Blokkenmuur,Ongewijzigd
+157,Kerende constructie,Bolder,Bolder,Ongewijzigd
+157,Kerende constructie,Caisson,Caisson,Ongewijzigd
+157,Kerende constructie,Combiwand,Combiwand,Ongewijzigd
+157,Kerende constructie,Damwand,Damwand,Ongewijzigd
+157,Kerende constructie,Diepwand,Diepwand,Ongewijzigd
+157,Kerende constructie,Dilatatievoeg,Dilatatievoeg,Ongewijzigd
+157,Kerende constructie,Draadstang,Draadstang,Ongewijzigd
+157,Kerende constructie,Elementenverharding,Elementenverharding,Ongewijzigd
+157,Kerende constructie,Gording,Gording,Ongewijzigd
+157,Kerende constructie,Haalkom,Haalkom,Ongewijzigd
+157,Kerende constructie,Keermuur,Keermuur,Ongewijzigd
+157,Kerende constructie,Ladder,Ladder,Ongewijzigd
+157,Kerende constructie,Reling,Reling,Ongewijzigd
+157,Kerende constructie,Maaiveld,Maaiveld,Ongewijzigd
+157,Kerende constructie,Markering,Markering,Ongewijzigd
+157,Kerende constructie,Onderloopsheidscherm,Onderloopsheidscherm,Ongewijzigd
+157,Kerende constructie,Paal,Paal,Ongewijzigd
+157,Kerende constructie,Samengestelde damwand,Samengestelde damwand,Ongewijzigd
+157,Kerende constructie,Sloof,Sloof,Ongewijzigd
+157,Kerende constructie,Stempelbuis,Stempelbuis,Ongewijzigd
+157,Kerende constructie,Vleugelwand,Vleugelwand,Ongewijzigd
+157,Kerende constructie,Wand,Wand,Ongewijzigd
+157,Kerende constructie,Wrijfgording,Wrijfgording,Ongewijzigd
+157,Kerende constructie,Wrijvingswerk,Wrijvingswerk,Ongewijzigd
+157,Kerende constructie,Kolom,Kolom,Ongewijzigd
+157,Kerende constructie,Schort,Schort,Ongewijzigd
+157,Kerende constructie,Beschermlaag,Beschermlaag,Ongewijzigd
+157,Kerende constructie,Wandafwerking,Wandafwerking,Ongewijzigd
+157,Kerende constructie,Bekleding,Bekleding,Ongewijzigd
+157,Kerende constructie,Hittewerende bekleding,Hittewerende bekleding,Ongewijzigd
+205,Keringschuif,Aanslag,Aanslag,Ongewijzigd
+205,Keringschuif,Afdichting,Afdichting,Ongewijzigd
+205,Keringschuif,Bordes,Bordes,Ongewijzigd
+205,Keringschuif,Buffer,Buffer,Ongewijzigd
+205,Keringschuif,Diagonaal (vakwerkligger),Diagonaal (vakwerkligger),Ongewijzigd
+205,Keringschuif,Hefschuif,Hefschuif,Ongewijzigd
+205,Keringschuif,Juk,Juk,Ongewijzigd
+205,Keringschuif,Klep,Klep,Ongewijzigd
+205,Keringschuif,Ladder,Ladder,Ongewijzigd
+205,Keringschuif,Reling,Reling,Ongewijzigd
+205,Keringschuif,Verbindingsbrug (loopbrug),Verbindingsbrug (loopbrug),Ongewijzigd
+205,Keringschuif,Luik,Luik,Ongewijzigd
+205,Keringschuif,Onderloopsheidscherm,Onderloopsheidscherm,Ongewijzigd
+205,Keringschuif,Railbaan,Railbaan,Ongewijzigd
+205,Keringschuif,Rooster,Rooster,Ongewijzigd
+205,Keringschuif,Stuwelement,Stuwelement,Ongewijzigd
+205,Keringschuif,Vloer,Vloer,Ongewijzigd
+205,Keringschuif,Woelbak,Woelbak,Ongewijzigd
+205,Keringschuif,Har,Har,Ongewijzigd
+205,Keringschuif,Beschermlaag,Beschermlaag,Ongewijzigd
+205,Keringschuif,Vloerafwerking,Vloerafwerking,Ongewijzigd
+205,Keringschuif,Beplating,Beplating,Ongewijzigd
+205,Keringschuif,"Keringschuif, Algemeen","Keringschuif, Algemeen",Ongewijzigd
+407,Keukeninrichting,Keukenblok,Keukenblok,Ongewijzigd
+407,Keukeninrichting,Keukeninstallatie,Keukeninstallatie,Ongewijzigd
+158,Klepconstructie,Aanslag,Aanslag,Ongewijzigd
+158,Klepconstructie,Draaipunt,Draaipunt,Ongewijzigd
+158,Klepconstructie,Klep,Klep,Ongewijzigd
+158,Klepconstructie,"Klepconstructie, Algemeen","Klepconstructie, Algemeen",Ongewijzigd
+158,Klepconstructie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+158,Klepconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+299,Klim- en leiplant,Objectbegroeiing,,Vervallen
+299,Klim- en leiplant,Klimplant,,Vervallen
+299,Klim- en leiplant,Leiplant,,Vervallen
+337,Klimaatinstallatie,Appendage,Appendage,Ongewijzigd
+337,Klimaatinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+337,Klimaatinstallatie,Elektromotor,Elektromotor,Ongewijzigd
+337,Klimaatinstallatie,Luchtkanaal,Luchtkanaal,Ongewijzigd
+337,Klimaatinstallatie,Kast,Kast,Ongewijzigd
+337,Klimaatinstallatie,Ketel,Ketel,Ongewijzigd
+337,Klimaatinstallatie,Klep,Klep,Ongewijzigd
+337,Klimaatinstallatie,Koelmachine,Koelmachine,Ongewijzigd
+337,Klimaatinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+337,Klimaatinstallatie,Pomp,Pomp,Ongewijzigd
+337,Klimaatinstallatie,Sensor,Sensor,Ongewijzigd
+337,Klimaatinstallatie,Tank,Tank,Ongewijzigd
+337,Klimaatinstallatie,Veiligheidsventiel,Veiligheidsventiel,Ongewijzigd
+337,Klimaatinstallatie,Ventilator,Ventilator,Ongewijzigd
+337,Klimaatinstallatie,Verwarmingstoestel,Verwarmingstoestel,Ongewijzigd
+337,Klimaatinstallatie,Warmtewisselaar,Warmtewisselaar,Ongewijzigd
+337,Klimaatinstallatie,Rookafvoer,Rookafvoer,Ongewijzigd
+337,Klimaatinstallatie,"Klimaatinstallatie, algemeen","Klimaatinstallatie, algemeen",Ongewijzigd
+337,Klimaatinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+337,Klimaatinstallatie,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+337,Klimaatinstallatie,Bekleding,Bekleding,Ongewijzigd
+393,Kozijnwerk,Deur,Deur,Ongewijzigd
+393,Kozijnwerk,Kozijn,Kozijn,Ongewijzigd
+393,Kozijnwerk,Raam,Raam,Ongewijzigd
+393,Kozijnwerk,Beglazing,Beglazing,Ongewijzigd
+159,Krib,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+159,Krib,Filterconstructie,Filterconstructie,Ongewijzigd
+159,Krib,Grondlichaam,Grondlichaam,Ongewijzigd
+159,Krib,Kribbaken,Kribbaken,Ongewijzigd
+159,Krib,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+159,Krib,Zinkstuk,Zinkstuk,Ongewijzigd
+159,Krib,Toplaag,Toplaag,Ongewijzigd
+160,Kribvak,Begroeiing,Begroeiing,Ongewijzigd
+160,Kribvak,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+160,Kribvak,Filterconstructie,Filterconstructie,Ongewijzigd
+160,Kribvak,Grondlichaam,Grondlichaam,Ongewijzigd
+160,Kribvak,Maaiveld,Maaiveld,Ongewijzigd
+160,Kribvak,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+160,Kribvak,Zinkstuk,Zinkstuk,Ongewijzigd
+160,Kribvak,Toplaag,Toplaag,Ongewijzigd
+259,Kruin,Armatuur,Armatuur,Ongewijzigd
+259,Kruin,,Asfaltverharding,Toegevoegd
+259,Kruin,Hek,Hek,Ongewijzigd
+259,Kruin,Mast,Mast,Ongewijzigd
+259,Kruin,Opsluitband,Opsluitband,Ongewijzigd
+259,Kruin,Paal,Paal,Ongewijzigd
+259,Kruin,,Boom,Toegevoegd
+259,Kruin,,Grindkoffer,Toegevoegd
+259,Kruin,,Schanskorf,Toegevoegd
+259,Kruin,Toplaag,Toplaag,Ongewijzigd
+259,Kruin,,Gras/kruid,Toegevoegd
+259,Kruin,,Haag,Toegevoegd
+259,Kruin,,Peilbuis,Toegevoegd
+259,Kruin,,Kwelscherm,Toegevoegd
+302,Kwelder,Hek,Hek,Ongewijzigd
+302,Kwelder,Rijzendam,Rijzendam,Ongewijzigd
+427,Kwelkade,,Asfaltverharding,Toegevoegd
+427,Kwelkade,,Elementenverharding,Toegevoegd
+427,Kwelkade,,Bekleding,Toegevoegd
+162,Laagspanningsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+162,Laagspanningsinstallatie,Hoofdverdeler,Hoofdverdeler,Ongewijzigd
+162,Laagspanningsinstallatie,Kast,Kast,Ongewijzigd
+162,Laagspanningsinstallatie,KWh-metering,KWh-metering,Ongewijzigd
+162,Laagspanningsinstallatie,"Laagspanningsinstallatie, Algemeen","Laagspanningsinstallatie, Algemeen",Ongewijzigd
+162,Laagspanningsinstallatie,Onderverdeler,Onderverdeler,Ongewijzigd
+162,Laagspanningsinstallatie,Railsysteem,Railsysteem,Ongewijzigd
+162,Laagspanningsinstallatie,Lichtgroepenkast,Lichtgroepenkast,Ongewijzigd
+162,Laagspanningsinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+273,Landbouwgrond,Bouwakker,Bouwakker,Ongewijzigd
+273,Landbouwgrond,Tuinakker,Tuinakker,Ongewijzigd
+273,Landbouwgrond,Weide,Weide,Ongewijzigd
+361,Leidam,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+361,Leidam,Filterconstructie,Filterconstructie,Ongewijzigd
+361,Leidam,Grondlichaam,Grondlichaam,Ongewijzigd
+361,Leidam,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+361,Leidam,Zinkstuk,Zinkstuk,Ongewijzigd
+361,Leidam,Toplaag,Toplaag,Ongewijzigd
+163,Leiding,Aansluitleiding,Aansluitleiding,Ongewijzigd
+163,Leiding,Afsluiter,Afsluiter,Ongewijzigd
+163,Leiding,Appendage,Appendage,Ongewijzigd
+163,Leiding,Fundatie,Fundatie,Ongewijzigd
+163,Leiding,Buisleiding,Buisleiding,Ongewijzigd
+163,Leiding,"Leiding, Algemeen","Leiding, Algemeen",Ongewijzigd
+163,Leiding,Warmtewisselaar,Warmtewisselaar,Ongewijzigd
+163,Leiding,Beschermlaag,Beschermlaag,Ongewijzigd
+163,Leiding,Statische menger,Statische menger,Ongewijzigd
+360,Leikade,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+360,Leikade,Filterconstructie,Filterconstructie,Ongewijzigd
+360,Leikade,Grondlichaam,Grondlichaam,Ongewijzigd
+360,Leikade,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+360,Leikade,Zinkstuk,Zinkstuk,Ongewijzigd
+360,Leikade,Toplaag,Toplaag,Ongewijzigd
+414,Leuningconstructie,Leuningafwerking,Leuningafwerking,Ongewijzigd
+414,Leuningconstructie,Leuning,Leuning,Ongewijzigd
+165,Lift-installatie,Aandrijving,Aandrijving,Ongewijzigd
+165,Lift-installatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+165,Lift-installatie,Bekabeling,Bekabeling,Ongewijzigd
+165,Lift-installatie,Bewegingswerk,Bewegingswerk,Ongewijzigd
+165,Lift-installatie,Cilinder,Cilinder,Ongewijzigd
+165,Lift-installatie,Detector,Detector,Ongewijzigd
+165,Lift-installatie,Elektromotor,Elektromotor,Ongewijzigd
+165,Lift-installatie,Hydraulisch aggregaat,Hydraulisch aggregaat,Ongewijzigd
+165,Lift-installatie,Intercom,Intercom,Ongewijzigd
+165,Lift-installatie,Kast,Kast,Ongewijzigd
+165,Lift-installatie,Kooi,Kooi,Ongewijzigd
+165,Lift-installatie,Ladder,Ladder,Ongewijzigd
+165,Lift-installatie,"Lift-installatie, Algemeen","Lift-installatie, Algemeen",Ongewijzigd
+165,Lift-installatie,Liftdeur,Liftdeur,Ongewijzigd
+165,Lift-installatie,Luik,Luik,Ongewijzigd
+165,Lift-installatie,Noodstop,Noodstop,Ongewijzigd
+165,Lift-installatie,Rail,Rail,Ongewijzigd
+165,Lift-installatie,Staalkabel,Staalkabel,Ongewijzigd
+165,Lift-installatie,Beschermconstructie,Beschermconstructie,Ongewijzigd
+165,Lift-installatie,Geleiding,Geleiding,Ongewijzigd
+165,Lift-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+165,Lift-installatie,Bak,Bak,Ongewijzigd
+166,Loopbrug,Drempel,Drempel,Ongewijzigd
+166,Loopbrug,Dwarsdrager,Dwarsdrager,Ongewijzigd
+166,Loopbrug,Langsligger,Langsligger,Ongewijzigd
+166,Loopbrug,Reling,Reling,Ongewijzigd
+166,Loopbrug,"Loopbrug, Algemeen","Loopbrug, Algemeen",Ongewijzigd
+166,Loopbrug,Oplegpunt,Oplegpunt,Ongewijzigd
+166,Loopbrug,Paal,Paal,Ongewijzigd
+166,Loopbrug,Rooster,Rooster,Ongewijzigd
+166,Loopbrug,Trap,Trap,Ongewijzigd
+166,Loopbrug,Vloer,Vloer,Ongewijzigd
+166,Loopbrug,Wand,Wand,Ongewijzigd
+166,Loopbrug,Beschermlaag,Beschermlaag,Ongewijzigd
+166,Loopbrug,Wandafwerking,Wandafwerking,Ongewijzigd
+166,Loopbrug,Vloerafwerking,Vloerafwerking,Ongewijzigd
+166,Loopbrug,Trapafwerking,Trapafwerking,Ongewijzigd
+167,Mantelbuis,Appendage,Appendage,Ongewijzigd
+167,Mantelbuis,Buisleiding,Buisleiding,Ongewijzigd
+167,Mantelbuis,"Mantelbuis, Algemeen","Mantelbuis, Algemeen",Ongewijzigd
+167,Mantelbuis,Beschermlaag,Beschermlaag,Ongewijzigd
+168,Marifooninstallatie,Antenne,Antenne,Ongewijzigd
+168,Marifooninstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+168,Marifooninstallatie,Bekabeling,Bekabeling,Ongewijzigd
+168,Marifooninstallatie,Kast,Kast,Ongewijzigd
+168,Marifooninstallatie,Luidspreker,Luidspreker,Ongewijzigd
+168,Marifooninstallatie,"Marifooninstallatie, Algemeen","Marifooninstallatie, Algemeen",Ongewijzigd
+168,Marifooninstallatie,Mast,Mast,Ongewijzigd
+168,Marifooninstallatie,Microfoon,Microfoon,Ongewijzigd
+168,Marifooninstallatie,Opnamemedium,Opnamemedium,Ongewijzigd
+168,Marifooninstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+168,Marifooninstallatie,Zender,Zender,Ongewijzigd
+168,Marifooninstallatie,Voetpedaal,Voetpedaal,Ongewijzigd
+168,Marifooninstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+374,Meetinstallatie,Afsluiter,Afsluiter,Ongewijzigd
+374,Meetinstallatie,Appendage,Appendage,Ongewijzigd
+374,Meetinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+374,Meetinstallatie,Compressor,Compressor,Ongewijzigd
+374,Meetinstallatie,Detector,Detector,Ongewijzigd
+374,Meetinstallatie,Display,Display,Ongewijzigd
+374,Meetinstallatie,Fundatie,Fundatie,Ongewijzigd
+374,Meetinstallatie,Hydrometer,Hydrometer,Ongewijzigd
+374,Meetinstallatie,Kast,Kast,Ongewijzigd
+374,Meetinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+374,Meetinstallatie,Luchtdroger,Luchtdroger,Ongewijzigd
+374,Meetinstallatie,Mast,Mast,Ongewijzigd
+374,Meetinstallatie,Monitor,Monitor,Ongewijzigd
+374,Meetinstallatie,Sensor,Sensor,Ongewijzigd
+374,Meetinstallatie,Versterker,Versterker,Ongewijzigd
+374,Meetinstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+374,Meetinstallatie,Windmeter,Windmeter,Ongewijzigd
+374,Meetinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+374,Meetinstallatie,"Meetinstallatie, Algemeen","Meetinstallatie, Algemeen",Ongewijzigd
+374,Meetinstallatie,Mixer,Mixer,Ongewijzigd
+374,Meetinstallatie,Monsternameapparaat,Monsternameapparaat,Ongewijzigd
+380,Menginstallatie,Frame,Frame,Ongewijzigd
+380,Menginstallatie,Tank,Tank,Ongewijzigd
+380,Menginstallatie,Statische menger,Statische menger,Ongewijzigd
+380,Menginstallatie,Voortstuwer,Voortstuwer,Ongewijzigd
+304,Moerasvegetatie,Helofytenfilter,,Vervallen
+304,Moerasvegetatie,Biezenvegetatie,,Vervallen
+304,Moerasvegetatie,Moeras- en oevervegetatie,,Vervallen
+304,Moerasvegetatie,Moeraszeggevegetatie,,Vervallen
+304,Moerasvegetatie,Plasberm,,Vervallen
+304,Moerasvegetatie,Rietvegetatie,,Vervallen
+304,Moerasvegetatie,Ruige oevervegetatie,,Vervallen
+170,Nautofooninstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+170,Nautofooninstallatie,Bekabeling,Bekabeling,Ongewijzigd
+170,Nautofooninstallatie,Kast,Kast,Ongewijzigd
+170,Nautofooninstallatie,Mast,Mast,Ongewijzigd
+170,Nautofooninstallatie,Nautofoon,Nautofoon,Ongewijzigd
+170,Nautofooninstallatie,"Nautofooninstallatie, Algemeen","Nautofooninstallatie, Algemeen",Ongewijzigd
+170,Nautofooninstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+364,Nevengeul,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+364,Nevengeul,,Rivierhout,Toegevoegd
+379,Nooddouche-installatie,Afsluiter,Afsluiter,Ongewijzigd
+379,Nooddouche-installatie,Frame,Frame,Ongewijzigd
+379,Nooddouche-installatie,Buisleiding,Buisleiding,Ongewijzigd
+379,Nooddouche-installatie,Verwarmingstoestel,Verwarmingstoestel,Ongewijzigd
+379,Nooddouche-installatie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+379,Nooddouche-installatie,Beschermkap,Beschermkap,Ongewijzigd
+379,Nooddouche-installatie,Buisaansluiting,Buisaansluiting,Ongewijzigd
+379,Nooddouche-installatie,Sproeikop,Sproeikop,Ongewijzigd
+379,Nooddouche-installatie,Terugslagklep,Terugslagklep,Ongewijzigd
+171,Noodstroominstallatie (roterend),Accu,Accu,Ongewijzigd
+171,Noodstroominstallatie (roterend),Appendage,Appendage,Ongewijzigd
+171,Noodstroominstallatie (roterend),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+171,Noodstroominstallatie (roterend),Bekabeling,Bekabeling,Ongewijzigd
+171,Noodstroominstallatie (roterend),Brandstofunit,Brandstofunit,Ongewijzigd
+171,Noodstroominstallatie (roterend),Geluidsdemper,Geluidsdemper,Ongewijzigd
+171,Noodstroominstallatie (roterend),Frame,Frame,Ongewijzigd
+171,Noodstroominstallatie (roterend),Gelijkrichter,Gelijkrichter,Ongewijzigd
+171,Noodstroominstallatie (roterend),Generator,Generator,Ongewijzigd
+171,Noodstroominstallatie (roterend),Luchtinlaat,Luchtinlaat,Ongewijzigd
+171,Noodstroominstallatie (roterend),Kast,Kast,Ongewijzigd
+171,Noodstroominstallatie (roterend),Buisleiding,Buisleiding,Ongewijzigd
+171,Noodstroominstallatie (roterend),"Noodstroominstallatie (roterend), Algemeen","Noodstroominstallatie (roterend), Algemeen",Ongewijzigd
+171,Noodstroominstallatie (roterend),Startmotor,Startmotor,Ongewijzigd
+171,Noodstroominstallatie (roterend),Tank,Tank,Ongewijzigd
+171,Noodstroominstallatie (roterend),Verbrandingsmotor,Verbrandingsmotor,Ongewijzigd
+171,Noodstroominstallatie (roterend),Verwarmingstoestel,Verwarmingstoestel,Ongewijzigd
+171,Noodstroominstallatie (roterend),Warmtewisselaar,Warmtewisselaar,Ongewijzigd
+171,Noodstroominstallatie (roterend),Beschermlaag,Beschermlaag,Ongewijzigd
+171,Noodstroominstallatie (roterend),Ballastweerstand,Ballastweerstand,Ongewijzigd
+172,Noodstroominstallatie (statisch),Accu,Accu,Ongewijzigd
+172,Noodstroominstallatie (statisch),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+172,Noodstroominstallatie (statisch),Bekabeling,Bekabeling,Ongewijzigd
+172,Noodstroominstallatie (statisch),Frame,Frame,Ongewijzigd
+172,Noodstroominstallatie (statisch),Gelijkrichter,Gelijkrichter,Ongewijzigd
+172,Noodstroominstallatie (statisch),Kast,Kast,Ongewijzigd
+172,Noodstroominstallatie (statisch),"Noodstroominstallatie (statisch), Algemeen","Noodstroominstallatie (statisch), Algemeen",Ongewijzigd
+172,Noodstroominstallatie (statisch),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+172,Noodstroominstallatie (statisch),Beschermlaag,Beschermlaag,Ongewijzigd
+173,Objectverlichting,Aanstraalverlichting,Aanstraalverlichting,Ongewijzigd
+173,Objectverlichting,Armatuur,Armatuur,Ongewijzigd
+173,Objectverlichting,Bekabeling,Bekabeling,Ongewijzigd
+173,Objectverlichting,Fundatie,Fundatie,Ongewijzigd
+173,Objectverlichting,Kast,Kast,Ongewijzigd
+173,Objectverlichting,Mast,Mast,Ongewijzigd
+173,Objectverlichting,"Objectverlichting, Algemeen","Objectverlichting, Algemeen",Ongewijzigd
+173,Objectverlichting,Sensor,Sensor,Ongewijzigd
+173,Objectverlichting,Lichtgroepenkast,Lichtgroepenkast,Ongewijzigd
+173,Objectverlichting,Beschermconstructie,Beschermconstructie,Ongewijzigd
+173,Objectverlichting,Beschermlaag,Beschermlaag,Ongewijzigd
+174,Oeverbescherming,Beschoeiing,Beschoeiing,Ongewijzigd
+174,Oeverbescherming,Elementenverharding,Elementenverharding,Ongewijzigd
+174,Oeverbescherming,Bekleding,Bekleding,Ongewijzigd
+174,Oeverbescherming,,Gras/kruid,Toegevoegd
+174,Oeverbescherming,,Plant,Toegevoegd
+174,Oeverbescherming,,Schijnduiker,Toegevoegd
+175,Omroepinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+175,Omroepinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+175,Omroepinstallatie,Kast,Kast,Ongewijzigd
+175,Omroepinstallatie,Luidspreker,Luidspreker,Ongewijzigd
+175,Omroepinstallatie,Mast,Mast,Ongewijzigd
+175,Omroepinstallatie,"Omroepinstallatie, Algemeen","Omroepinstallatie, Algemeen",Ongewijzigd
+175,Omroepinstallatie,Opnamemedium,Opnamemedium,Ongewijzigd
+175,Omroepinstallatie,Versterker,Versterker,Ongewijzigd
+175,Omroepinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+333,Onbegroeid terreindeel,,Onverhard oppervlak,Toegevoegd
+333,Onbegroeid terreindeel,Strand,Strand,Ongewijzigd
+333,Onbegroeid terreindeel,Brandgang,Brandgang,Ongewijzigd
+333,Onbegroeid terreindeel,Gronddepot,Gronddepot,Ongewijzigd
+333,Onbegroeid terreindeel,Stuifzand,Stuifzand,Ongewijzigd
+333,Onbegroeid terreindeel,"Begroeiingsvrij gebied, Algemeen","Begroeiingsvrij gebied, Algemeen",Ongewijzigd
+333,Onbegroeid terreindeel,,Halfverharding,Toegevoegd
+176,Onderbouw,Folie,Folie,Ongewijzigd
+176,Onderbouw,Grondverbetering,Grondverbetering,Ongewijzigd
+176,Onderbouw,"Onderbouw, Algemeen","Onderbouw, Algemeen",Ongewijzigd
+176,Onderbouw,Ophoging,Ophoging,Ongewijzigd
+176,Onderbouw,Zandbed,Zandbed,Ongewijzigd
+176,Onderbouw,Zettingbeperkende element,Zettingbeperkende element,Ongewijzigd
+176,Onderbouw,Beschermlaag,Beschermlaag,Ongewijzigd
+177,Onderbouwconstructie,Drainagebuis,Drainagebuis,Ongewijzigd
+177,Onderbouwconstructie,Drempel,Drempel,Ongewijzigd
+177,Onderbouwconstructie,Keerelement,Keerelement,Ongewijzigd
+177,Onderbouwconstructie,Luik,Luik,Ongewijzigd
+177,Onderbouwconstructie,Paal,Paal,Ongewijzigd
+177,Onderbouwconstructie,Stempelbuis,Stempelbuis,Ongewijzigd
+177,Onderbouwconstructie,Vloer,Vloer,Ongewijzigd
+177,Onderbouwconstructie,Zadel,Zadel,Ongewijzigd
+177,Onderbouwconstructie,Kolom,Kolom,Ongewijzigd
+177,Onderbouwconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+262,Onderhoudsstrook,Grondlichaam,Grondlichaam,Ongewijzigd
+262,Onderhoudsstrook,Beschermlaag,Beschermlaag,Ongewijzigd
+262,Onderhoudsstrook,Bekleding,Bekleding,Ongewijzigd
+178,Onderhoudsvoorziening,Bordes,Bordes,Ongewijzigd
+178,Onderhoudsvoorziening,Ladder,Ladder,Ongewijzigd
+178,Onderhoudsvoorziening,Luik,Luik,Ongewijzigd
+178,Onderhoudsvoorziening,"Onderhoudsvoorziening, Algemeen","Onderhoudsvoorziening, Algemeen",Ongewijzigd
+178,Onderhoudsvoorziening,Schotbalk,Schotbalk,Ongewijzigd
+178,Onderhoudsvoorziening,Trap,Trap,Ongewijzigd
+178,Onderhoudsvoorziening,Droogzetvoorziening,Droogzetvoorziening,Ongewijzigd
+178,Onderhoudsvoorziening,Beschermlaag,Beschermlaag,Ongewijzigd
+178,Onderhoudsvoorziening,Bak,Bak,Ongewijzigd
+178,Onderhoudsvoorziening,Trapafwerking,Trapafwerking,Ongewijzigd
+179,Openbare verlichting (OV),Armatuur,Armatuur,Ongewijzigd
+179,Openbare verlichting (OV),Bekabeling,Bekabeling,Ongewijzigd
+179,Openbare verlichting (OV),Kast,Kast,Ongewijzigd
+179,Openbare verlichting (OV),Mast,Mast,Ongewijzigd
+179,Openbare verlichting (OV),"Openbare verlichting (OV), Algemeen","Openbare verlichting (OV), Algemeen",Ongewijzigd
+179,Openbare verlichting (OV),Sensor,Sensor,Ongewijzigd
+179,Openbare verlichting (OV),Server,Server,Ongewijzigd
+179,Openbare verlichting (OV),Beschermlaag,Beschermlaag,Ongewijzigd
+180,Oplegging,Drempel,Drempel,Ongewijzigd
+180,Oplegging,"Oplegging, Algemeen","Oplegging, Algemeen",Ongewijzigd
+180,Oplegging,Oplegblok,Oplegblok,Ongewijzigd
+180,Oplegging,Oplegbalk,Oplegbalk,Ongewijzigd
+180,Oplegging,Oplegstoel,Oplegstoel,Ongewijzigd
+180,Oplegging,Oplegtafel,Oplegtafel,Ongewijzigd
+180,Oplegging,Beschermlaag,Beschermlaag,Ongewijzigd
+180,Oplegging,Schokdemper,Schokdemper,Ongewijzigd
+181,Opstal,Bordes,Bordes,Ongewijzigd
+181,Opstal,Dak,Dak,Ongewijzigd
+181,Opstal,Instroomopening,Instroomopening,Ongewijzigd
+181,Opstal,Ladder,Ladder,Ongewijzigd
+181,Opstal,Reling,Reling,Ongewijzigd
+181,Opstal,Luik,Luik,Ongewijzigd
+181,Opstal,"Opstal, Algemeen","Opstal, Algemeen",Ongewijzigd
+181,Opstal,Railbaan,Railbaan,Ongewijzigd
+181,Opstal,Rooster,Rooster,Ongewijzigd
+181,Opstal,Trap,Trap,Ongewijzigd
+181,Opstal,Uitstroomopening,Uitstroomopening,Ongewijzigd
+181,Opstal,Vloer,Vloer,Ongewijzigd
+181,Opstal,Wand,Wand,Ongewijzigd
+181,Opstal,,Heester,Toegevoegd
+181,Opstal,,Tuinhuisje,Toegevoegd
+181,Opstal,Beschermlaag,Beschermlaag,Ongewijzigd
+181,Opstal,Wandafwerking,Wandafwerking,Ongewijzigd
+181,Opstal,Vloerafwerking,Vloerafwerking,Ongewijzigd
+181,Opstal,Trapafwerking,Trapafwerking,Ongewijzigd
+181,Opstal,Leuningafwerking,Leuningafwerking,Ongewijzigd
+181,Opstal,Leuning,Leuning,Ongewijzigd
+181,Opstal,Bekleding,Bekleding,Ongewijzigd
+181,Opstal,Hittewerende bekleding,Hittewerende bekleding,Ongewijzigd
+181,Opstal,Objectbegroeiing,,Vervallen
+181,Opstal,,Gras/kruid,Toegevoegd
+181,Opstal,,Haag,Toegevoegd
+181,Opstal,,Plant,Toegevoegd
+182,Over- en onderdrukinstallatie,Appendage,Appendage,Ongewijzigd
+182,Over- en onderdrukinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+182,Over- en onderdrukinstallatie,Luchtkanaal,Luchtkanaal,Ongewijzigd
+182,Over- en onderdrukinstallatie,Kast,Kast,Ongewijzigd
+182,Over- en onderdrukinstallatie,"Over- en onderdrukinstallatie, Algemeen","Over- en onderdrukinstallatie, Algemeen",Ongewijzigd
+182,Over- en onderdrukinstallatie,Sensor,Sensor,Ongewijzigd
+182,Over- en onderdrukinstallatie,Veiligheidsventiel,Veiligheidsventiel,Ongewijzigd
+182,Over- en onderdrukinstallatie,Ventilator,Ventilator,Ongewijzigd
+182,Over- en onderdrukinstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+182,Over- en onderdrukinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+182,Over- en onderdrukinstallatie,Compensator,Compensator,Ongewijzigd
+182,Over- en onderdrukinstallatie,Terugslagklep,Terugslagklep,Ongewijzigd
+183,Overgangsconstructie,Afdichting,Afdichting,Ongewijzigd
+183,Overgangsconstructie,Anker,Anker,Ongewijzigd
+183,Overgangsconstructie,Deuvel,Deuvel,Ongewijzigd
+183,Overgangsconstructie,Dilatatievoegovergang,Dilatatievoegovergang,Ongewijzigd
+183,Overgangsconstructie,Gording,Gording,Ongewijzigd
+183,Overgangsconstructie,Overgangsplaat,Overgangsplaat,Ongewijzigd
+183,Overgangsconstructie,Spieplank,Spieplank,Ongewijzigd
+183,Overgangsconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+347,Perkplant,Eén- en tweejarige perkplant,,Vervallen
+404,Perron,Elementenverharding,Elementenverharding,Ongewijzigd
+404,Perron,Grondlichaam,Grondlichaam,Ongewijzigd
+404,Perron,Wand,Wand,Ongewijzigd
+383,Persinstallatie,Aansluitleiding,Aansluitleiding,Ongewijzigd
+383,Persinstallatie,Luik,Luik,Ongewijzigd
+383,Persinstallatie,Vijzel,Vijzel,Ongewijzigd
+383,Persinstallatie,Vijzelgoot,Vijzelgoot,Ongewijzigd
+383,Persinstallatie,Koker,Koker,Ongewijzigd
+383,Persinstallatie,"Persinstallatie, Algemeen","Persinstallatie, Algemeen",Ongewijzigd
+184,Personenzoekinstallatie (PZI),Antenne,Antenne,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Bekabeling,Bekabeling,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Ontvanger,Ontvanger,Ongewijzigd
+184,Personenzoekinstallatie (PZI),"Personenzoekinstallatie (PZI), Algemeen","Personenzoekinstallatie (PZI), Algemeen",Ongewijzigd
+184,Personenzoekinstallatie (PZI),Zender,Zender,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Beschermlaag,Beschermlaag,Ongewijzigd
+265,Pipingberm,Grondlichaam,Grondlichaam,Ongewijzigd
+265,Pipingberm,Beschermlaag,Beschermlaag,Ongewijzigd
+265,Pipingberm,Toplaag,Toplaag,Ongewijzigd
+392,Plafondconstructie,Plafond,Plafond,Ongewijzigd
+392,Plafondconstructie,Plafondafwerking,Plafondafwerking,Ongewijzigd
+402,Pollerinstallatie,Aandrijving,Aandrijving,Ongewijzigd
+402,Pollerinstallatie,Armatuur,Armatuur,Ongewijzigd
+402,Pollerinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+402,Pollerinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+402,Pollerinstallatie,Detector,Detector,Ongewijzigd
+402,Pollerinstallatie,Fundatie,Fundatie,Ongewijzigd
+402,Pollerinstallatie,Mast,Mast,Ongewijzigd
+402,Pollerinstallatie,Paal,Paal,Ongewijzigd
+402,Pollerinstallatie,"Pollerinstallatie, Algemeen","Pollerinstallatie, Algemeen",Ongewijzigd
+186,Pompinstallatie,Afsluiter,Afsluiter,Ongewijzigd
+186,Pompinstallatie,Appendage,Appendage,Ongewijzigd
+186,Pompinstallatie,Balg,Balg,Ongewijzigd
+186,Pompinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+186,Pompinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+186,Pompinstallatie,Elektromotor,Elektromotor,Ongewijzigd
+186,Pompinstallatie,Frame,Frame,Ongewijzigd
+186,Pompinstallatie,Kast,Kast,Ongewijzigd
+186,Pompinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+186,Pompinstallatie,Pomp,Pomp,Ongewijzigd
+186,Pompinstallatie,"Pompinstallatie, Algemeen","Pompinstallatie, Algemeen",Ongewijzigd
+186,Pompinstallatie,Railgeleiding,Railgeleiding,Ongewijzigd
+186,Pompinstallatie,Sensor,Sensor,Ongewijzigd
+186,Pompinstallatie,Staalkabel,Staalkabel,Ongewijzigd
+186,Pompinstallatie,Tandwiel,Tandwiel,Ongewijzigd
+186,Pompinstallatie,Tank,Tank,Ongewijzigd
+186,Pompinstallatie,Verbrandingsmotor,Verbrandingsmotor,Ongewijzigd
+186,Pompinstallatie,Tandbaan,Tandbaan,Ongewijzigd
+186,Pompinstallatie,Beschermkap,Beschermkap,Ongewijzigd
+186,Pompinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+186,Pompinstallatie,Haspel,Haspel,Ongewijzigd
+186,Pompinstallatie,Filtervulling,Filtervulling,Ongewijzigd
+186,Pompinstallatie,Filterhuis,Filterhuis,Ongewijzigd
+186,Pompinstallatie,Versnijder,Versnijder,Ongewijzigd
+186,Pompinstallatie,Terugslagklep,Terugslagklep,Ongewijzigd
+186,Pompinstallatie,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+187,Pompkelder,Bordes,Bordes,Ongewijzigd
+187,Pompkelder,Kraanrail,Kraanrail,Ongewijzigd
+187,Pompkelder,Ladder,Ladder,Ongewijzigd
+187,Pompkelder,Reling,Reling,Ongewijzigd
+187,Pompkelder,Luik,Luik,Ongewijzigd
+187,Pompkelder,"Pompkelder, Algemeen","Pompkelder, Algemeen",Ongewijzigd
+187,Pompkelder,Rooster,Rooster,Ongewijzigd
+187,Pompkelder,Trap,Trap,Ongewijzigd
+187,Pompkelder,Zandvang,Zandvang,Ongewijzigd
+187,Pompkelder,Beschermlaag,Beschermlaag,Ongewijzigd
+187,Pompkelder,Trapafwerking,Trapafwerking,Ongewijzigd
+187,Pompkelder,Leuningafwerking,Leuningafwerking,Ongewijzigd
+187,Pompkelder,Leuning,Leuning,Ongewijzigd
+336,Ponton,Luik,Luik,Ongewijzigd
+336,Ponton,"Ponton, Algemeen","Ponton, Algemeen",Ongewijzigd
+336,Ponton,Beschermlaag,Beschermlaag,Ongewijzigd
+188,Portaal,Diagonaal (vakwerkligger),Diagonaal (vakwerkligger),Ongewijzigd
+188,Portaal,Fundatie,Fundatie,Ongewijzigd
+188,Portaal,Geleidende balk,Geleidende balk,Ongewijzigd
+188,Portaal,Paal,Paal,Ongewijzigd
+188,Portaal,"Portaal, Algemeen","Portaal, Algemeen",Ongewijzigd
+188,Portaal,Beschermlaag,Beschermlaag,Ongewijzigd
+188,Portaal,Stijl,Stijl,Ongewijzigd
+354,Put,Afsluiter,Afsluiter,Ongewijzigd
+354,Put,Appendage,Appendage,Ongewijzigd
+354,Put,Filterconstructie,Filterconstructie,Ongewijzigd
+354,Put,Fundatie,Fundatie,Ongewijzigd
+354,Put,Kabeldoorvoer,Doorvoer,Gewijzigd
+354,Put,Luchtkanaal,Luchtkanaal,Ongewijzigd
+354,Put,Ladder,Ladder,Ongewijzigd
+354,Put,Luik,Luik,Ongewijzigd
+354,Put,Rooster,Rooster,Ongewijzigd
+354,Put,Schotbalk,Schotbalk,Ongewijzigd
+354,Put,Schotbalksponning,Schotbalksponning,Ongewijzigd
+354,Put,Wand,Wand,Ongewijzigd
+354,Put,Deksel,Deksel,Ongewijzigd
+354,Put,Grindkoffer,Grindkoffer,Ongewijzigd
+354,Put,Onderbak,Onderbak,Ongewijzigd
+354,Put,Afdekplaat,Afdekplaat,Ongewijzigd
+354,Put,Schachtopbouw,Schachtopbouw,Ongewijzigd
+354,Put,Remschot,Remschot,Ongewijzigd
+354,Put,Buisaansluiting,Buisaansluiting,Ongewijzigd
+354,Put,Wervelventiel,Wervelventiel,Ongewijzigd
+354,Put,Stankscherm,Stankscherm,Ongewijzigd
+354,Put,Kegelstuk,Kegelstuk,Ongewijzigd
+354,Put,Putrand,Putrand,Ongewijzigd
+354,Put,Banket,Banket,Ongewijzigd
+354,Put,Stroomprofiel,Stroomprofiel,Ongewijzigd
+354,Put,Beschermlaag,Beschermlaag,Ongewijzigd
+354,Put,Wandafwerking,Wandafwerking,Ongewijzigd
+354,Put,Bekleding,Bekleding,Ongewijzigd
+189,Radarinstallatie,Antenne,Antenne,Ongewijzigd
+189,Radarinstallatie,Appendage,Appendage,Ongewijzigd
+189,Radarinstallatie,Reflector,Reflector,Ongewijzigd
+189,Radarinstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+189,Radarinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+189,Radarinstallatie,Golfpijp,Golfpijp,Ongewijzigd
+189,Radarinstallatie,Kast,Kast,Ongewijzigd
+189,Radarinstallatie,Mast,Mast,Ongewijzigd
+189,Radarinstallatie,Monitor,Monitor,Ongewijzigd
+189,Radarinstallatie,"Radarinstallatie, Algemeen","Radarinstallatie, Algemeen",Ongewijzigd
+189,Radarinstallatie,Radarscanner,Radarscanner,Ongewijzigd
+189,Radarinstallatie,Radio Direction Finding (RDF),Radio Direction Finding (RDF),Ongewijzigd
+189,Radarinstallatie,Server,Server,Ongewijzigd
+189,Radarinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+362,Reddingsmiddel,Aanstraalverlichting,Aanstraalverlichting,Ongewijzigd
+362,Reddingsmiddel,Bekabeling,Bekabeling,Ongewijzigd
+362,Reddingsmiddel,Bevestiging,Bevestiging,Ongewijzigd
+362,Reddingsmiddel,Fundatie,Fundatie,Ongewijzigd
+362,Reddingsmiddel,Kast,Kast,Ongewijzigd
+362,Reddingsmiddel,Mast,Mast,Ongewijzigd
+362,Reddingsmiddel,Paal,Paal,Ongewijzigd
+362,Reddingsmiddel,Reddingslijn,Reddingslijn,Ongewijzigd
+362,Reddingsmiddel,Reddingsvest,Reddingsvest,Ongewijzigd
+362,Reddingsmiddel,Reddingsboei,Reddingsboei,Ongewijzigd
+362,Reddingsmiddel,Beschermlaag,Beschermlaag,Ongewijzigd
+362,Reddingsmiddel,Reddingsdavit,Reddingsdavit,Ongewijzigd
+362,Reddingsmiddel,Boeienlijn,Boeienlijn,Ongewijzigd
+362,Reddingsmiddel,Olieboom,Olieboom,Ongewijzigd
+190,Remming- en geleidewerk,Achterbeplating fender,Achterbeplating fender,Ongewijzigd
+190,Remming- en geleidewerk,Bolder,Bolder,Ongewijzigd
+190,Remming- en geleidewerk,Bordes,Bordes,Ongewijzigd
+190,Remming- en geleidewerk,Buffer,Buffer,Ongewijzigd
+190,Remming- en geleidewerk,Drijfraam,Drijfraam,Ongewijzigd
+190,Remming- en geleidewerk,Stootkussen,Stootkussen,Ongewijzigd
+190,Remming- en geleidewerk,Frame,Frame,Ongewijzigd
+190,Remming- en geleidewerk,Haalkom,Haalkom,Ongewijzigd
+190,Remming- en geleidewerk,Ketting,Ketting,Ongewijzigd
+190,Remming- en geleidewerk,Ladder,Ladder,Ongewijzigd
+190,Remming- en geleidewerk,Reling,Reling,Ongewijzigd
+190,Remming- en geleidewerk,Verbindingsbrug (loopbrug),Verbindingsbrug (loopbrug),Ongewijzigd
+190,Remming- en geleidewerk,Meerpaal,Meerpaal,Ongewijzigd
+190,Remming- en geleidewerk,Meerstoel,Meerstoel,Ongewijzigd
+190,Remming- en geleidewerk,Paal,Paal,Ongewijzigd
+190,Remming- en geleidewerk,Paalbeugel,Paalbeugel,Ongewijzigd
+190,Remming- en geleidewerk,Rooster,Rooster,Ongewijzigd
+190,Remming- en geleidewerk,Trap,Trap,Ongewijzigd
+190,Remming- en geleidewerk,Wrijfgording,Wrijfgording,Ongewijzigd
+190,Remming- en geleidewerk,Wrijfschort,Wrijfschort,Ongewijzigd
+190,Remming- en geleidewerk,Wrijfstijl,Wrijfstijl,Ongewijzigd
+190,Remming- en geleidewerk,Beschermlaag,Beschermlaag,Ongewijzigd
+190,Remming- en geleidewerk,Trapafwerking,Trapafwerking,Ongewijzigd
+190,Remming- en geleidewerk,Kist,Kist,Ongewijzigd
+190,Remming- en geleidewerk,Drijfkist,Drijfkist,Ongewijzigd
+192,Roltrapinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+192,Roltrapinstallatie,Bewegingswerk,Bewegingswerk,Ongewijzigd
+192,Roltrapinstallatie,Detector,Detector,Ongewijzigd
+192,Roltrapinstallatie,Elektromotor,Elektromotor,Ongewijzigd
+192,Roltrapinstallatie,Geleider,Geleider,Ongewijzigd
+192,Roltrapinstallatie,Kast,Kast,Ongewijzigd
+192,Roltrapinstallatie,Ketting,Ketting,Ongewijzigd
+192,Roltrapinstallatie,Ladder,Ladder,Ongewijzigd
+192,Roltrapinstallatie,Leuningband,Leuningband,Ongewijzigd
+192,Roltrapinstallatie,Luik,Luik,Ongewijzigd
+192,Roltrapinstallatie,Noodstop,Noodstop,Ongewijzigd
+192,Roltrapinstallatie,Rem,Rem,Ongewijzigd
+192,Roltrapinstallatie,"Roltrapinstallatie, Algemeen","Roltrapinstallatie, Algemeen",Ongewijzigd
+192,Roltrapinstallatie,Tandwiel,Tandwiel,Ongewijzigd
+192,Roltrapinstallatie,Roltraptrede,Roltraptrede,Ongewijzigd
+192,Roltrapinstallatie,Beschermconstructie,Beschermconstructie,Ongewijzigd
+192,Roltrapinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+381,Roostergoed container,Aansluitleiding,Aansluitleiding,Ongewijzigd
+381,Roostergoed container,Luik,Luik,Ongewijzigd
+381,Roostergoed container,Vijzel,Vijzel,Ongewijzigd
+381,Roostergoed container,Vijzelgoot,Vijzelgoot,Ongewijzigd
+381,Roostergoed container,Afvalbak,Afvalbak,Ongewijzigd
+381,Roostergoed container,Koker,Koker,Ongewijzigd
+381,Roostergoed container,Beschermlaag,Beschermlaag,Ongewijzigd
+381,Roostergoed container,"Roostergoedcontainer, algemeen","Roostergoedcontainer, algemeen",Ongewijzigd
+382,Roosterreinigingsinstallatie,Aansluitleiding,Aansluitleiding,Ongewijzigd
+382,Roosterreinigingsinstallatie,Draaipunt,Draaipunt,Ongewijzigd
+382,Roosterreinigingsinstallatie,Frame,Frame,Ongewijzigd
+382,Roosterreinigingsinstallatie,Kast,Kast,Ongewijzigd
+382,Roosterreinigingsinstallatie,Ketting,Ketting,Ongewijzigd
+382,Roosterreinigingsinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+382,Roosterreinigingsinstallatie,Luik,Luik,Ongewijzigd
+382,Roosterreinigingsinstallatie,Vijzel,Vijzel,Ongewijzigd
+382,Roosterreinigingsinstallatie,Vijzelgoot,Vijzelgoot,Ongewijzigd
+382,Roosterreinigingsinstallatie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+382,Roosterreinigingsinstallatie,Beschermkap,Beschermkap,Ongewijzigd
+382,Roosterreinigingsinstallatie,"Roosterreinigingsinstallatie, Algemeen","Roosterreinigingsinstallatie, Algemeen",Ongewijzigd
+382,Roosterreinigingsinstallatie,Hark,Hark,Ongewijzigd
+382,Roosterreinigingsinstallatie,Kettingtand,Kettingtand,Ongewijzigd
+382,Roosterreinigingsinstallatie,Sproeikop,Sproeikop,Ongewijzigd
+384,Ruimerinstallatie,Afsluiter,Afsluiter,Ongewijzigd
+384,Ruimerinstallatie,Detector,Detector,Ongewijzigd
+384,Ruimerinstallatie,Klep,Klep,Ongewijzigd
+384,Ruimerinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+384,Ruimerinstallatie,Reling,Reling,Ongewijzigd
+384,Ruimerinstallatie,Oplegpunt,Oplegpunt,Ongewijzigd
+384,Ruimerinstallatie,Trap,Trap,Ongewijzigd
+384,Ruimerinstallatie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+384,Ruimerinstallatie,Ophangconstructie,Ophangconstructie,Ongewijzigd
+384,Ruimerinstallatie,Beschermkap,Beschermkap,Ongewijzigd
+384,Ruimerinstallatie,Remschot,Remschot,Ongewijzigd
+384,Ruimerinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+384,Ruimerinstallatie,Borstel,Borstel,Ongewijzigd
+384,Ruimerinstallatie,Drijflaagruimer,Drijflaagruimer,Ongewijzigd
+384,Ruimerinstallatie,"Ruimerinstallatie, algemeen","Ruimerinstallatie, algemeen",Ongewijzigd
+384,Ruimerinstallatie,Schraper,Schraper,Ongewijzigd
+384,Ruimerinstallatie,Drijflaag afvoerbak,Drijflaag afvoerbak,Ongewijzigd
+394,Sanitaire installatie,Buisleiding,Buisleiding,Ongewijzigd
+394,Sanitaire installatie,Toilet,Toilet,Ongewijzigd
+394,Sanitaire installatie,Urinoir,Urinoir,Ongewijzigd
+394,Sanitaire installatie,Wastafel,Wastafel,Ongewijzigd
+394,Sanitaire installatie,Douche,Douche,Ongewijzigd
+394,Sanitaire installatie,Bad,Bad,Ongewijzigd
+394,Sanitaire installatie,"Sanitaire installatie, Algemeen","Sanitaire installatie, Algemeen",Ongewijzigd
+193,Schampkant,Afdichting,Afdichting,Ongewijzigd
+193,Schampkant,Randelement,Randelement,Ongewijzigd
+193,Schampkant,Rooster,Rooster,Ongewijzigd
+193,Schampkant,"Schampkant, Algemeen","Schampkant, Algemeen",Ongewijzigd
+193,Schampkant,Schampstrook,Schampstrook,Ongewijzigd
+193,Schampkant,Schort,Schort,Ongewijzigd
+193,Schampkant,Beschermlaag,Beschermlaag,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Bekabeling,Bekabeling,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Detector,Detector,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Fundatie,Fundatie,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Kast,Kast,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Mast,Mast,Ongewijzigd
+194,Scheepvaartdetectie-installatie,"Scheepvaartdetectie-installatie, Algemeen","Scheepvaartdetectie-installatie, Algemeen",Ongewijzigd
+194,Scheepvaartdetectie-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+195,Scheepverkeersbeseining,Accu,Accu,Ongewijzigd
+195,Scheepverkeersbeseining,Achtergrondschild,Achtergrondschild,Ongewijzigd
+195,Scheepverkeersbeseining,Bekabeling,Bekabeling,Ongewijzigd
+195,Scheepverkeersbeseining,Fundatie,Fundatie,Ongewijzigd
+195,Scheepverkeersbeseining,Kast,Kast,Ongewijzigd
+195,Scheepverkeersbeseining,Lichtopstand,Lichtopstand,Ongewijzigd
+195,Scheepverkeersbeseining,Mast,Mast,Ongewijzigd
+195,Scheepverkeersbeseining,Scheepvaartsein,Scheepvaartsein,Ongewijzigd
+195,Scheepverkeersbeseining,"Scheepverkeersbeseining, Algemeen","Scheepverkeersbeseining, Algemeen",Ongewijzigd
+195,Scheepverkeersbeseining,Spuisein,Spuisein,Ongewijzigd
+195,Scheepverkeersbeseining,Zonnepaneel,Zonnepaneel,Ongewijzigd
+195,Scheepverkeersbeseining,Zonnekap,Zonnekap,Ongewijzigd
+195,Scheepverkeersbeseining,Beschermlaag,Beschermlaag,Ongewijzigd
+308,Schietbaan,Grondlichaam,Grondlichaam,Ongewijzigd
+308,Schietbaan,Baanzool,Baanzool,Ongewijzigd
+308,Schietbaan,Schietbord,Schietbord,Ongewijzigd
+308,Schietbaan,Doelvoorstellingsapparatuur,Doelvoorstellingsapparatuur,Ongewijzigd
+308,Schietbaan,Doorgang grondlichaam,Doorgang grondlichaam,Ongewijzigd
+308,Schietbaan,Keerwand,Keerwand,Ongewijzigd
+308,Schietbaan,Kogelvanger,Kogelvanger,Ongewijzigd
+308,Schietbaan,Markeringspaal,Markeringspaal,Ongewijzigd
+308,Schietbaan,Oefenring,Oefenring,Ongewijzigd
+308,Schietbaan,Vluchtstang,Vluchtstang,Ongewijzigd
+308,Schietbaan,Schietbaanportaal,Schietbaanportaal,Ongewijzigd
+403,Schoorsteen,Fundatie,Fundatie,Ongewijzigd
+403,Schoorsteen,Buisleiding,Buisleiding,Ongewijzigd
+403,Schoorsteen,Luik,Luik,Ongewijzigd
+403,Schoorsteen,Wand,Wand,Ongewijzigd
+403,Schoorsteen,Afdekplaat,Afdekplaat,Ongewijzigd
+403,Schoorsteen,Wandafwerking,Wandafwerking,Ongewijzigd
+196,Schuifconstructie,Aanslag,Aanslag,Ongewijzigd
+196,Schuifconstructie,Afdichting,Afdichting,Ongewijzigd
+196,Schuifconstructie,Bordes,Bordes,Ongewijzigd
+196,Schuifconstructie,Draaipunt,Draaipunt,Ongewijzigd
+196,Schuifconstructie,Schuif,Schuif,Ongewijzigd
+196,Schuifconstructie,"Schuifconstructie, Algemeen","Schuifconstructie, Algemeen",Ongewijzigd
+196,Schuifconstructie,Trap,Trap,Ongewijzigd
+196,Schuifconstructie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+196,Schuifconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+196,Schuifconstructie,Trapafwerking,Trapafwerking,Ongewijzigd
+413,Slijtlaag,"Slijtlaag, Algemeen","Slijtlaag, Algemeen",Ongewijzigd
+351,Sloot,Beschoeiing,Beschoeiing,Ongewijzigd
+351,Sloot,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+351,Sloot,Filterconstructie,Filterconstructie,Ongewijzigd
+351,Sloot,Grondlichaam,Grondlichaam,Ongewijzigd
+351,Sloot,,Plant,Toegevoegd
+351,Sloot,,Oversteek,Toegevoegd
+351,Sloot,,Uitmonding,Toegevoegd
+198,"Sluisdeur (hef, punt, rol)",Aanslag,Aanslag,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Afdichting,Afdichting,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Afsluiter,Afsluiter,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Bolder,Bolder,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Bordes,Bordes,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Contragewicht,Contragewicht,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Deurgeleiding,Deurgeleiding,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Draaipunt,Draaipunt,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Hefdeur,Hefdeur,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Ladder,Ladder,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Reling,Reling,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Luik,Luik,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Nivelleerschuif,Nivelleerschuif,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Puntdeur,Puntdeur,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Rail,Rail,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Roldeur,Roldeur,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Rooster,Rooster,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Wrijfgording,Wrijfgording,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Wrijfstijl,Wrijfstijl,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Har,Har,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Schuifgeleiding,Schuifgeleiding,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Waaiervlotdeur,Waaiervlotdeur,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol), Algemeen","Sluisdeur (hef, punt, rol), Algemeen",Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Beschermlaag,Beschermlaag,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Kist,Kist,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Drijfkist,Drijfkist,Ongewijzigd
+199,Sluishoofd,Aanslag,Aanslag,Ongewijzigd
+199,Sluishoofd,Achterloopheidscherm,Achterloopheidscherm,Ongewijzigd
+199,Sluishoofd,Bolder,Bolder,Ongewijzigd
+199,Sluishoofd,Bordes,Bordes,Ongewijzigd
+199,Sluishoofd,Dekzerkprofiel,Dekzerkprofiel,Ongewijzigd
+199,Sluishoofd,Deurgeleiding,Deurgeleiding,Ongewijzigd
+199,Sluishoofd,Deurrails,Deurrails,Ongewijzigd
+199,Sluishoofd,Dilatatievoeg,Dilatatievoeg,Ongewijzigd
+199,Sluishoofd,Drempel,Drempel,Ongewijzigd
+199,Sluishoofd,Drijfraam,Drijfraam,Ongewijzigd
+199,Sluishoofd,Geleidewerk,Geleidewerk,Ongewijzigd
+199,Sluishoofd,Haalkom,Haalkom,Ongewijzigd
+199,Sluishoofd,Ladder,Ladder,Ongewijzigd
+199,Sluishoofd,Reling,Reling,Ongewijzigd
+199,Sluishoofd,Luik,Luik,Ongewijzigd
+199,Sluishoofd,Omloopriool,Omloopriool,Ongewijzigd
+199,Sluishoofd,Onderloopsheidscherm,Onderloopsheidscherm,Ongewijzigd
+199,Sluishoofd,Rooster,Rooster,Ongewijzigd
+199,Sluishoofd,Schotbalk,Schotbalk,Ongewijzigd
+199,Sluishoofd,Schotbalksponning,Schotbalksponning,Ongewijzigd
+199,Sluishoofd,Trap,Trap,Ongewijzigd
+199,Sluishoofd,Vloer,Vloer,Ongewijzigd
+199,Sluishoofd,Wand,Wand,Ongewijzigd
+199,Sluishoofd,Wrijfgording,Wrijfgording,Ongewijzigd
+199,Sluishoofd,Wrijfstijl,Wrijfstijl,Ongewijzigd
+199,Sluishoofd,Halslager,Halslager,Ongewijzigd
+199,Sluishoofd,Taats,Taats,Ongewijzigd
+199,Sluishoofd,Halsbeugel,Halsbeugel,Ongewijzigd
+199,Sluishoofd,Beschermlaag,Beschermlaag,Ongewijzigd
+199,Sluishoofd,Wandafwerking,Wandafwerking,Ongewijzigd
+199,Sluishoofd,Vloerafwerking,Vloerafwerking,Ongewijzigd
+199,Sluishoofd,Trapafwerking,Trapafwerking,Ongewijzigd
+200,Sluiskolk,Bolder,Bolder,Ongewijzigd
+200,Sluiskolk,Bordes,Bordes,Ongewijzigd
+200,Sluiskolk,Damwand,Damwand,Ongewijzigd
+200,Sluiskolk,Dekzerkprofiel,Dekzerkprofiel,Ongewijzigd
+200,Sluiskolk,Dilatatievoeg,Dilatatievoeg,Ongewijzigd
+200,Sluiskolk,Drijvende bolder,Drijvende bolder,Ongewijzigd
+200,Sluiskolk,Haalkom,Haalkom,Ongewijzigd
+200,Sluiskolk,Ladder,Ladder,Ongewijzigd
+200,Sluiskolk,Reling,Reling,Ongewijzigd
+200,Sluiskolk,Verbindingsbrug (loopbrug),Verbindingsbrug (loopbrug),Ongewijzigd
+200,Sluiskolk,Luik,Luik,Ongewijzigd
+200,Sluiskolk,Rooster,Rooster,Ongewijzigd
+200,Sluiskolk,Schotbalksponning,Schotbalksponning,Ongewijzigd
+200,Sluiskolk,Trap,Trap,Ongewijzigd
+200,Sluiskolk,Vloer,Vloer,Ongewijzigd
+200,Sluiskolk,Wand,Wand,Ongewijzigd
+200,Sluiskolk,Wrijfgording,Wrijfgording,Ongewijzigd
+200,Sluiskolk,Wrijfstijl,Wrijfstijl,Ongewijzigd
+200,Sluiskolk,Beschermlaag,Beschermlaag,Ongewijzigd
+200,Sluiskolk,Wandafwerking,Wandafwerking,Ongewijzigd
+200,Sluiskolk,Vloerafwerking,Vloerafwerking,Ongewijzigd
+200,Sluiskolk,Trapafwerking,Trapafwerking,Ongewijzigd
+398,Sluismarkering,"Sluismarkering, Algemeen","Sluismarkering, Algemeen",Ongewijzigd
+345,Speeltoestel,Combinatietoestel,Combinatietoestel,Ongewijzigd
+345,Speeltoestel,Draaitoestel,Draaitoestel,Ongewijzigd
+345,Speeltoestel,Fantasietoestel,Fantasietoestel,Ongewijzigd
+345,Speeltoestel,Glijbaan,Glijbaan,Ongewijzigd
+345,Speeltoestel,Kinderspeelplaats,Kinderspeelplaats,Ongewijzigd
+345,Speeltoestel,Klimtoestel,Klimtoestel,Ongewijzigd
+345,Speeltoestel,Ondergrond speelvoorziening,Ondergrond speelvoorziening,Ongewijzigd
+345,Speeltoestel,Schommel,Schommel,Ongewijzigd
+345,Speeltoestel,Skatebaan,Skatebaan,Ongewijzigd
+345,Speeltoestel,Skateramp,Skateramp,Ongewijzigd
+345,Speeltoestel,Skatetoestel,Skatetoestel,Ongewijzigd
+345,Speeltoestel,Speelhuisje,Speelhuisje,Ongewijzigd
+345,Speeltoestel,Wiptoestel,Wiptoestel,Ongewijzigd
+345,Speeltoestel,Zandbak,Zandbak,Ongewijzigd
+345,Speeltoestel,Beschermlaag,Beschermlaag,Ongewijzigd
+343,Sportattribuut,Backstop honk- en softbal,Backstop honk- en softbal,Ongewijzigd
+343,Sportattribuut,Ballenvanger,Ballenvanger,Ongewijzigd
+343,Sportattribuut,Basketbalpaal,Basketbalpaal,Ongewijzigd
+343,Sportattribuut,Basketbalveld,Basketbalveld,Ongewijzigd
+343,Sportattribuut,Belijning,Belijning,Ongewijzigd
+343,Sportattribuut,Doel,Doel,Ongewijzigd
+343,Sportattribuut,Dugout,Dugout,Ongewijzigd
+343,Sportattribuut,Evenwichtstoestel,Evenwichtstoestel,Ongewijzigd
+343,Sportattribuut,Hindernisbaan,Hindernisbaan,Ongewijzigd
+343,Sportattribuut,Verspringaccommodatie,Verspringaccommodatie,Ongewijzigd
+343,Sportattribuut,Ondergrond speelvoorziening,Ondergrond speelvoorziening,Ongewijzigd
+343,Sportattribuut,Pannakooi,Pannakooi,Ongewijzigd
+343,Sportattribuut,Springbak,Springbak,Ongewijzigd
+343,Sportattribuut,Staalmat,Staalmat,Ongewijzigd
+343,Sportattribuut,Tennisbaan,Tennisbaan,Ongewijzigd
+343,Sportattribuut,Tenniskooi,Tenniskooi,Ongewijzigd
+343,Sportattribuut,Touwbaan,Touwbaan,Ongewijzigd
+343,Sportattribuut,Touwkliminstallatie,Touwkliminstallatie,Ongewijzigd
+343,Sportattribuut,Voetbalkooi,Voetbalkooi,Ongewijzigd
+343,Sportattribuut,Werpaccommodatie,Werpaccommodatie,Ongewijzigd
+343,Sportattribuut,Hoogspringaccommodatie,Hoogspringaccommodatie,Ongewijzigd
+343,Sportattribuut,Fitnesstoestel,Fitnesstoestel,Ongewijzigd
+343,Sportattribuut,Beschermlaag,Beschermlaag,Ongewijzigd
+343,Sportattribuut,Net,Net,Ongewijzigd
+344,Sportveld,Atletiekbaan,Atletiekbaan,Ongewijzigd
+344,Sportveld,Beachvolleyveld,Beachvolleyveld,Ongewijzigd
+344,Sportveld,Halfverhard sportveld,Halfverhard sportveld,Ongewijzigd
+344,Sportveld,Hockeyveld,Hockeyveld,Ongewijzigd
+344,Sportveld,Honkbalveld,Honkbalveld,Ongewijzigd
+344,Sportveld,IJsbaan,IJsbaan,Ongewijzigd
+344,Sportveld,Kunststofsportveld,Kunststofsportveld,Ongewijzigd
+344,Sportveld,Omloopbaan,Omloopbaan,Ongewijzigd
+344,Sportveld,Ondergrond speelvoorziening,Ondergrond speelvoorziening,Ongewijzigd
+344,Sportveld,Speelweide,Speelweide,Ongewijzigd
+344,Sportveld,Sportgrasveld,Sportgrasveld,Ongewijzigd
+344,Sportveld,Trapveld,Trapveld,Ongewijzigd
+344,Sportveld,Voetbalveld,Voetbalveld,Ongewijzigd
+415,Sproei-installatie,Afsluiter,Afsluiter,Ongewijzigd
+415,Sproei-installatie,Appendage,Appendage,Ongewijzigd
+415,Sproei-installatie,Balg,Balg,Ongewijzigd
+415,Sproei-installatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+415,Sproei-installatie,Bekabeling,Bekabeling,Ongewijzigd
+415,Sproei-installatie,Elektromotor,Elektromotor,Ongewijzigd
+415,Sproei-installatie,Frame,Frame,Ongewijzigd
+415,Sproei-installatie,Kast,Kast,Ongewijzigd
+415,Sproei-installatie,Buisleiding,Buisleiding,Ongewijzigd
+415,Sproei-installatie,Pomp,Pomp,Ongewijzigd
+415,Sproei-installatie,Sensor,Sensor,Ongewijzigd
+415,Sproei-installatie,"Sproei-installatie, Algemeen","Sproei-installatie, Algemeen",Ongewijzigd
+415,Sproei-installatie,Tank,Tank,Ongewijzigd
+415,Sproei-installatie,Verbrandingsmotor,Verbrandingsmotor,Ongewijzigd
+415,Sproei-installatie,Beschermkap,Beschermkap,Ongewijzigd
+415,Sproei-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+415,Sproei-installatie,Haspel,Haspel,Ongewijzigd
+415,Sproei-installatie,Filtervulling,Filtervulling,Ongewijzigd
+415,Sproei-installatie,Filterhuis,Filterhuis,Ongewijzigd
+415,Sproei-installatie,Versnijder,Versnijder,Ongewijzigd
+415,Sproei-installatie,Terugslagklep,Terugslagklep,Ongewijzigd
+415,Sproei-installatie,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+261,Stabiliteitsberm,Grondlichaam,Grondlichaam,Ongewijzigd
+261,Stabiliteitsberm,Toplaag,Toplaag,Ongewijzigd
+201,Steiger,Bolder,Bolder,Ongewijzigd
+201,Steiger,Bordes,Bordes,Ongewijzigd
+201,Steiger,Drijfraam,Drijfraam,Ongewijzigd
+201,Steiger,Kesp,Kesp,Ongewijzigd
+201,Steiger,Klep,Klep,Ongewijzigd
+201,Steiger,Ladder,Ladder,Ongewijzigd
+201,Steiger,Reling,Reling,Ongewijzigd
+201,Steiger,Oplegpunt,Oplegpunt,Ongewijzigd
+201,Steiger,Paal,Paal,Ongewijzigd
+201,Steiger,Paalbeugel,Paalbeugel,Ongewijzigd
+201,Steiger,Rooster,Rooster,Ongewijzigd
+201,Steiger,Schoor,Schoor,Ongewijzigd
+201,Steiger,Wrijfgording,Wrijfgording,Ongewijzigd
+201,Steiger,Wrijfschort,Wrijfschort,Ongewijzigd
+201,Steiger,Wrijfstijl,Wrijfstijl,Ongewijzigd
+201,Steiger,Beschermlaag,Beschermlaag,Ongewijzigd
+201,Steiger,Kist,Kist,Ongewijzigd
+201,Steiger,Drijfkist,Drijfkist,Ongewijzigd
+202,Steunpunt,Balk,Balk,Ongewijzigd
+202,Steunpunt,Bolder,Bolder,Ongewijzigd
+202,Steunpunt,Diagonaal (vakwerkligger),Diagonaal (vakwerkligger),Ongewijzigd
+202,Steunpunt,Fundatie,Fundatie,Ongewijzigd
+202,Steunpunt,Geleidewerk,Geleidewerk,Ongewijzigd
+202,Steunpunt,Juk,Juk,Ongewijzigd
+202,Steunpunt,Landhoofd,Landhoofd,Ongewijzigd
+202,Steunpunt,Paal,Paal,Ongewijzigd
+202,Steunpunt,Pijler,Pijler,Ongewijzigd
+202,Steunpunt,Poer,Poer,Ongewijzigd
+202,Steunpunt,Pyloon,Pyloon,Ongewijzigd
+202,Steunpunt,"Steunpunt, Algemeen","Steunpunt, Algemeen",Ongewijzigd
+202,Steunpunt,Kapiteel,Kapiteel,Ongewijzigd
+202,Steunpunt,Kolom,Kolom,Ongewijzigd
+202,Steunpunt,Oplegblok,Oplegblok,Ongewijzigd
+202,Steunpunt,Oplegbalk,Oplegbalk,Ongewijzigd
+202,Steunpunt,Oplegtafel,Oplegtafel,Ongewijzigd
+202,Steunpunt,Geleiding,Geleiding,Ongewijzigd
+202,Steunpunt,Beschermlaag,Beschermlaag,Ongewijzigd
+350,Stortvak,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+203,Strandhoofd,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+203,Strandhoofd,Filterconstructie,Filterconstructie,Ongewijzigd
+203,Strandhoofd,Grondlichaam,Grondlichaam,Ongewijzigd
+203,Strandhoofd,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+203,Strandhoofd,Paal,Paal,Ongewijzigd
+203,Strandhoofd,Zinkstuk,Zinkstuk,Ongewijzigd
+203,Strandhoofd,Toplaag,Toplaag,Ongewijzigd
+203,Strandhoofd,,Palenrij,Toegevoegd
+204,Strekdam,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+204,Strekdam,Filterconstructie,Filterconstructie,Ongewijzigd
+204,Strekdam,Grondlichaam,Grondlichaam,Ongewijzigd
+204,Strekdam,Opsluitconstructie,Opsluitconstructie,Ongewijzigd
+204,Strekdam,Zinkstuk,Zinkstuk,Ongewijzigd
+204,Strekdam,Toplaag,Toplaag,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Accu,Accu,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Gelijkrichter,Gelijkrichter,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Kast,Kast,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Transformator,Transformator,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Schakelaar,Schakelaar,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,"Stuurstroomvoedingsinstallatie, Algemeen","Stuurstroomvoedingsinstallatie, Algemeen",Ongewijzigd
+255,Stuwhoofd,Achterloopheidscherm,Achterloopheidscherm,Ongewijzigd
+255,Stuwhoofd,Bordes,Bordes,Ongewijzigd
+255,Stuwhoofd,Damwand,Damwand,Ongewijzigd
+255,Stuwhoofd,Dekzerkprofiel,Dekzerkprofiel,Ongewijzigd
+255,Stuwhoofd,Reling,Reling,Ongewijzigd
+255,Stuwhoofd,Sloof,Sloof,Ongewijzigd
+255,Stuwhoofd,Wand,Wand,Ongewijzigd
+255,Stuwhoofd,Beschermlaag,Beschermlaag,Ongewijzigd
+255,Stuwhoofd,Wandafwerking,Wandafwerking,Ongewijzigd
+272,Talud,Elementenverharding,Elementenverharding,Ongewijzigd
+272,Talud,Trap,Trap,Ongewijzigd
+272,Talud,"Talud, Algemeen","Talud, Algemeen",Ongewijzigd
+272,Talud,Trapafwerking,Trapafwerking,Ongewijzigd
+272,Talud,Bekleding,Bekleding,Ongewijzigd
+385,Tankconstructie,Afsluiter,Afsluiter,Ongewijzigd
+385,Tankconstructie,Dak,Dak,Ongewijzigd
+385,Tankconstructie,Ladder,Ladder,Ongewijzigd
+385,Tankconstructie,Buisleiding,Buisleiding,Ongewijzigd
+385,Tankconstructie,Reling,Reling,Ongewijzigd
+385,Tankconstructie,Trap,Trap,Ongewijzigd
+385,Tankconstructie,Veiligheidsventiel,Veiligheidsventiel,Ongewijzigd
+385,Tankconstructie,Vloer,Vloer,Ongewijzigd
+385,Tankconstructie,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+385,Tankconstructie,Wand,Wand,Ongewijzigd
+385,Tankconstructie,Deksel,Deksel,Ongewijzigd
+385,Tankconstructie,Beschermkap,Beschermkap,Ongewijzigd
+385,Tankconstructie,Buisaansluiting,Buisaansluiting,Ongewijzigd
+385,Tankconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+385,Tankconstructie,Ballon,Ballon,Ongewijzigd
+385,Tankconstructie,Isolator,Isolator,Ongewijzigd
+385,Tankconstructie,Membraan,Membraan,Ongewijzigd
+385,Tankconstructie,"Tankconstructie, Algemeen","Tankconstructie, Algemeen",Ongewijzigd
+263,Teensloot,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+263,Teensloot,Drainmonding,Drainmonding,Ongewijzigd
+263,Teensloot,,Boom,Toegevoegd
+263,Teensloot,,Gras/kruid,Toegevoegd
+263,Teensloot,,Haag,Toegevoegd
+263,Teensloot,,Oversteek,Toegevoegd
+263,Teensloot,,Peilbuis,Toegevoegd
+263,Teensloot,,Kwelscherm,Toegevoegd
+206,Telefooninstallatie,Antenne,Antenne,Ongewijzigd
+206,Telefooninstallatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+206,Telefooninstallatie,Bekabeling,Bekabeling,Ongewijzigd
+206,Telefooninstallatie,Centrale,Centrale,Ongewijzigd
+206,Telefooninstallatie,Kast,Kast,Ongewijzigd
+206,Telefooninstallatie,Luidspreker,Luidspreker,Ongewijzigd
+206,Telefooninstallatie,"Telefooninstallatie, Algemeen","Telefooninstallatie, Algemeen",Ongewijzigd
+206,Telefooninstallatie,Telefoontoestel,Telefoontoestel,Ongewijzigd
+206,Telefooninstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+207,Telemetrie-installatie,Bekabeling,Bekabeling,Ongewijzigd
+207,Telemetrie-installatie,Kast,Kast,Ongewijzigd
+207,Telemetrie-installatie,Ontvanger,Ontvanger,Ongewijzigd
+207,Telemetrie-installatie,"Telemetrie-installatie, Algemeen","Telemetrie-installatie, Algemeen",Ongewijzigd
+207,Telemetrie-installatie,Zender,Zender,Ongewijzigd
+207,Telemetrie-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+319,Terreinmeubilair,Meubilair,Meubilair,Ongewijzigd
+319,Terreinmeubilair,Paal,Paal,Ongewijzigd
+319,Terreinmeubilair,Afvalbak,Afvalbak,Ongewijzigd
+319,Terreinmeubilair,Afvalcontainer,Afvalcontainer,Ongewijzigd
+319,Terreinmeubilair,Klimplantconstructie,Klimplantconstructie,Ongewijzigd
+319,Terreinmeubilair,Kunstobject,Kunstobject,Ongewijzigd
+319,Terreinmeubilair,Papierbak,Papierbak,Ongewijzigd
+319,Terreinmeubilair,Pergola,Pergola,Ongewijzigd
+319,Terreinmeubilair,Tafeltennistafel,Tafeltennistafel,Ongewijzigd
+319,Terreinmeubilair,Toilet,Toilet,Ongewijzigd
+319,Terreinmeubilair,Toiletcabine,Toiletcabine,Ongewijzigd
+319,Terreinmeubilair,Tuinhuisje,Tuinhuisje,Ongewijzigd
+319,Terreinmeubilair,Volière,Volière,Ongewijzigd
+319,Terreinmeubilair,Boombak,Boombak,Ongewijzigd
+319,Terreinmeubilair,Vlonder,Vlonder,Ongewijzigd
+319,Terreinmeubilair,Bloembak,Bloembak,Ongewijzigd
+319,Terreinmeubilair,Zitelement,Zitelement,Ongewijzigd
+319,Terreinmeubilair,Tafel,Tafel,Ongewijzigd
+319,Terreinmeubilair,Bank,Bank,Ongewijzigd
+319,Terreinmeubilair,Beschermlaag,Beschermlaag,Ongewijzigd
+319,Terreinmeubilair,Reclamezuil,Reclamezuil,Ongewijzigd
+319,Terreinmeubilair,Parkeerbeugel,Parkeerbeugel,Ongewijzigd
+400,Toegangscontrole-installatie,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+400,Toegangscontrole-installatie,Bekabeling,Bekabeling,Ongewijzigd
+400,Toegangscontrole-installatie,Detector,Detector,Ongewijzigd
+400,Toegangscontrole-installatie,Kast,Kast,Ongewijzigd
+400,Toegangscontrole-installatie,Server,Server,Ongewijzigd
+400,Toegangscontrole-installatie,Signaalgever,Signaalgever,Ongewijzigd
+400,Toegangscontrole-installatie,"Toegangscontrole-installatie, Algemeen","Toegangscontrole-installatie, Algemeen",Ongewijzigd
+400,Toegangscontrole-installatie,Kaart,Kaart,Ongewijzigd
+209,Toegangshek,Aandrijving,Aandrijving,Ongewijzigd
+209,Toegangshek,Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+209,Toegangshek,Bekabeling,Bekabeling,Ongewijzigd
+209,Toegangshek,Detectielus,Detectielus,Ongewijzigd
+209,Toegangshek,Fundatie,Fundatie,Ongewijzigd
+209,Toegangshek,Hek,Hek,Ongewijzigd
+209,Toegangshek,Kast,Kast,Ongewijzigd
+209,Toegangshek,Knelbeveiliging,Knelbeveiliging,Ongewijzigd
+209,Toegangshek,Beschermlaag,Beschermlaag,Ongewijzigd
+210,Tracing,Bekabeling,Bekabeling,Ongewijzigd
+210,Tracing,Kast,Kast,Ongewijzigd
+210,Tracing,Ketel,Ketel,Ongewijzigd
+210,Tracing,Buisleiding,Buisleiding,Ongewijzigd
+210,Tracing,"Tracing, Algemeen","Tracing, Algemeen",Ongewijzigd
+210,Tracing,Verwarmingstoestel,Verwarmingstoestel,Ongewijzigd
+210,Tracing,Beschermlaag,Beschermlaag,Ongewijzigd
+210,Tracing,Isolator,Isolator,Ongewijzigd
+211,Trambaan,Bovenleiding,Bovenleiding,Ongewijzigd
+211,Trambaan,Rails in verharding,Rails in verharding,Ongewijzigd
+211,Trambaan,Rails vrijliggend,Rails vrijliggend,Ongewijzigd
+211,Trambaan,Beschermlaag,Beschermlaag,Ongewijzigd
+124,Transmissie-installatie,Bekabeling,Bekabeling,Ongewijzigd
+124,Transmissie-installatie,"Transmissie-installatie, Algemeen","Transmissie-installatie, Algemeen",Ongewijzigd
+124,Transmissie-installatie,Glasvezelput,Glasvezelput,Ongewijzigd
+124,Transmissie-installatie,Kast,Kast,Ongewijzigd
+124,Transmissie-installatie,Buisleiding,Buisleiding,Ongewijzigd
+124,Transmissie-installatie,Transmissie apparatuur,Transmissie apparatuur,Ongewijzigd
+124,Transmissie-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+124,Transmissie-installatie,,Wide Area Network (WAN),Toegevoegd
+386,Transportinstallatie,Detector,Detector,Ongewijzigd
+386,Transportinstallatie,Frame,Frame,Ongewijzigd
+386,Transportinstallatie,Ketting,Ketting,Ongewijzigd
+386,Transportinstallatie,Wiel,Wiel,Ongewijzigd
+386,Transportinstallatie,Riem,Riem,Ongewijzigd
+386,Transportinstallatie,Wals,Wals,Ongewijzigd
+390,Trapconstructie,Trap,Trap,Ongewijzigd
+390,Trapconstructie,Trapafwerking,Trapafwerking,Ongewijzigd
+212,Tunnelbuis,Bordes,Bordes,Ongewijzigd
+212,Tunnelbuis,Dak,Dak,Ongewijzigd
+212,Tunnelbuis,Deur,Deur,Ongewijzigd
+212,Tunnelbuis,Dilatatievoeg,Dilatatievoeg,Ongewijzigd
+212,Tunnelbuis,Hek,Hek,Ongewijzigd
+212,Tunnelbuis,Luik,Luik,Ongewijzigd
+212,Tunnelbuis,Rijdek,Rijdek,Ongewijzigd
+212,Tunnelbuis,Rooster,Rooster,Ongewijzigd
+212,Tunnelbuis,Stempelbuis,Stempelbuis,Ongewijzigd
+212,Tunnelbuis,Trap,Trap,Ongewijzigd
+212,Tunnelbuis,Vloer,Vloer,Ongewijzigd
+212,Tunnelbuis,Wand,Wand,Ongewijzigd
+212,Tunnelbuis,Zonwerend rooster,Zonwerend rooster,Ongewijzigd
+212,Tunnelbuis,Koker,Koker,Ongewijzigd
+212,Tunnelbuis,Beschermlaag,Beschermlaag,Ongewijzigd
+212,Tunnelbuis,Wandafwerking,Wandafwerking,Ongewijzigd
+212,Tunnelbuis,Vloerafwerking,Vloerafwerking,Ongewijzigd
+212,Tunnelbuis,Trapafwerking,Trapafwerking,Ongewijzigd
+212,Tunnelbuis,Bekleding,Bekleding,Ongewijzigd
+212,Tunnelbuis,Hittewerende bekleding,Hittewerende bekleding,Ongewijzigd
+215,Uithouder,Diagonaal (vakwerkligger),Diagonaal (vakwerkligger),Ongewijzigd
+215,Uithouder,Geleidende balk,Geleidende balk,Ongewijzigd
+215,Uithouder,Poer,Poer,Ongewijzigd
+215,Uithouder,"Uithouder, Algemeen","Uithouder, Algemeen",Ongewijzigd
+215,Uithouder,Beschermlaag,Beschermlaag,Ongewijzigd
+357,Uitlaatvoorziening,Appendage,Appendage,Ongewijzigd
+357,Uitlaatvoorziening,Fundatie,Fundatie,Ongewijzigd
+357,Uitlaatvoorziening,Ladder,Ladder,Ongewijzigd
+357,Uitlaatvoorziening,Rooster,Rooster,Ongewijzigd
+357,Uitlaatvoorziening,Schotbalk,Schotbalk,Ongewijzigd
+357,Uitlaatvoorziening,Schotbalksponning,Schotbalksponning,Ongewijzigd
+357,Uitlaatvoorziening,Vuilvangrooster,Vuilvangrooster,Ongewijzigd
+357,Uitlaatvoorziening,Wand,Wand,Ongewijzigd
+357,Uitlaatvoorziening,Buisaansluiting,Buisaansluiting,Ongewijzigd
+357,Uitlaatvoorziening,Uitstroombak,Uitstroombak,Ongewijzigd
+357,Uitlaatvoorziening,Beschermlaag,Beschermlaag,Ongewijzigd
+357,Uitlaatvoorziening,Wandafwerking,Wandafwerking,Ongewijzigd
+267,Vaargeul,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+216,Vaarwegmarkering,Boei,Boei,Ongewijzigd
+216,Vaarwegmarkering,"Vaarwegmarkering, Algemeen","Vaarwegmarkering, Algemeen",Ongewijzigd
+216,Vaarwegmarkering,Ton,Ton,Ongewijzigd
+216,Vaarwegmarkering,Drijfbaken,Drijfbaken,Ongewijzigd
+216,Vaarwegmarkering,Spar,Spar,Ongewijzigd
+216,Vaarwegmarkering,Baken,Baken,Ongewijzigd
+216,Vaarwegmarkering,Beschermlaag,Beschermlaag,Ongewijzigd
+417,Valbeveiliging,,Bevestiging,Toegevoegd
+417,Valbeveiliging,,Staalkabel,Toegevoegd
+217,Vangconstructie,Aandrijving,Aandrijving,Ongewijzigd
+217,Vangconstructie,Arm,Arm,Ongewijzigd
+217,Vangconstructie,Reflector,Reflector,Ongewijzigd
+217,Vangconstructie,Bekabeling,Bekabeling,Ongewijzigd
+217,Vangconstructie,Bolder,Bolder,Ongewijzigd
+217,Vangconstructie,Bordes,Bordes,Ongewijzigd
+217,Vangconstructie,Cilinder,Cilinder,Ongewijzigd
+217,Vangconstructie,Diagonaal (vakwerkligger),Diagonaal (vakwerkligger),Ongewijzigd
+217,Vangconstructie,Stootkussen,Stootkussen,Ongewijzigd
+217,Vangconstructie,Kast,Kast,Ongewijzigd
+217,Vangconstructie,Pomp,Pomp,Ongewijzigd
+217,Vangconstructie,Rooster,Rooster,Ongewijzigd
+217,Vangconstructie,Staalkabel,Staalkabel,Ongewijzigd
+217,Vangconstructie,"Vangconstructie, Algemeen","Vangconstructie, Algemeen",Ongewijzigd
+217,Vangconstructie,Verticaal (vakwerkligger),Verticaal (vakwerkligger),Ongewijzigd
+217,Vangconstructie,Beschermconstructie,Beschermconstructie,Ongewijzigd
+217,Vangconstructie,Beschermlaag,Beschermlaag,Ongewijzigd
+348,Vaste plant,Kruidachtige plant,,Vervallen
+363,Ven,Beschoeiing,Beschoeiing,Ongewijzigd
+363,Ven,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+363,Ven,Gording,Gording,Ongewijzigd
+363,Ven,Grondlichaam,Grondlichaam,Ongewijzigd
+363,Ven,Toplaag,Toplaag,Ongewijzigd
+363,Ven,,Plant,Toegevoegd
+213,Ventilatie-installatie,Afsluiter,Afsluiter,Ongewijzigd
+213,Ventilatie-installatie,Bekabeling,Bekabeling,Ongewijzigd
+213,Ventilatie-installatie,Geluidsdemper,Geluidsdemper,Ongewijzigd
+213,Ventilatie-installatie,Frame,Frame,Ongewijzigd
+213,Ventilatie-installatie,Luchtkanaal,Luchtkanaal,Ongewijzigd
+213,Ventilatie-installatie,Kast,Kast,Ongewijzigd
+213,Ventilatie-installatie,"Ventilatie-installatie, Algemeen","Ventilatie-installatie, Algemeen",Ongewijzigd
+213,Ventilatie-installatie,Ventilator,Ventilator,Ongewijzigd
+213,Ventilatie-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+213,Ventilatie-installatie,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+218,Verankering,Achterplaat,Achterplaat,Ongewijzigd
+218,Verankering,Bevestiging,Bevestiging,Ongewijzigd
+218,Verankering,Draadstang,Draadstang,Ongewijzigd
+218,Verankering,"Verankering, Algemeen","Verankering, Algemeen",Ongewijzigd
+218,Verankering,Beschermlaag,Beschermlaag,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Betonverharding,Betonverharding,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Fundatie,Fundatie,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Geotextiel,Geotextiel,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Ophoging,Ophoging,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Voegloze overgang,Voegloze overgang,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Deklaag (open),Deklaag (open),Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Onderlaag,Onderlaag,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Ondergrond,Ondergrond,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Tussenlaag,Tussenlaag,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Asfaltwapening,Asfaltwapening,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Betonverharding,Betonverharding,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Fundatie,Fundatie,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Geotextiel,Geotextiel,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Ophoging,Ophoging,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Voegloze overgang,Voegloze overgang,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Deklaag (open),Deklaag (open),Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Onderlaag,Onderlaag,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Ondergrond,Ondergrond,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Tussenlaag,Tussenlaag,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Asfaltwapening,Asfaltwapening,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Betonverharding,Betonverharding,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Elementenverharding,Elementenverharding,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Fundatie,Fundatie,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Geotextiel,Geotextiel,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Ophoging,Ophoging,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Deklaag (open),Deklaag (open),Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Onderlaag,Onderlaag,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Ondergrond,Ondergrond,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Tussenlaag,Tussenlaag,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Asfaltwapening,Asfaltwapening,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Betonverharding,Betonverharding,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Elementenverharding,Elementenverharding,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Fundatie,Fundatie,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Geotextiel,Geotextiel,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Onverhard oppervlak,Onverhard oppervlak,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Ophoging,Ophoging,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Halfverharding,Halfverharding,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Deklaag (open),Deklaag (open),Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Onderlaag,Onderlaag,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Ondergrond,Ondergrond,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Tussenlaag,Tussenlaag,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Asfaltwapening,Asfaltwapening,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Betonverharding,Betonverharding,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Elementenverharding,Elementenverharding,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Fundatie,Fundatie,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Geotextiel,Geotextiel,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Onverhard oppervlak,Onverhard oppervlak,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Ophoging,Ophoging,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Halfverharding,Halfverharding,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Deklaag (open),Deklaag (open),Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Onderlaag,Onderlaag,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Ondergrond,Ondergrond,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Tussenlaag,Tussenlaag,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Asfaltwapening,Asfaltwapening,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Betonverharding,Betonverharding,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Elementenverharding,Elementenverharding,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Fundatie,Fundatie,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Geotextiel,Geotextiel,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Onverhard oppervlak,Onverhard oppervlak,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Ophoging,Ophoging,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Halfverharding,Halfverharding,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Deklaag (open),Deklaag (open),Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Onderlaag,Onderlaag,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Ondergrond,Ondergrond,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Tussenlaag,Tussenlaag,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Asfaltwapening,Asfaltwapening,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Betonverharding,Betonverharding,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Elementenverharding,Elementenverharding,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Fundatie,Fundatie,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Geotextiel,Geotextiel,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Onverhard oppervlak,Onverhard oppervlak,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Ophoging,Ophoging,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Halfverharding,Halfverharding,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Deklaag (dicht),Deklaag (dicht),Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Deklaag (open),Deklaag (open),Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Onderlaag,Onderlaag,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Funderingslaag (gebonden),Funderingslaag (gebonden),Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Funderingslaag (ongebonden),Funderingslaag (ongebonden),Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Ondergrond,Ondergrond,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Tussenlaag,Tussenlaag,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Asfaltwapening,Asfaltwapening,Ongewijzigd
+226,Verkeersdetectie-installatie,Bekabeling,Bekabeling,Ongewijzigd
+226,Verkeersdetectie-installatie,Detectielus,Detectielus,Ongewijzigd
+226,Verkeersdetectie-installatie,Detector,Detector,Ongewijzigd
+226,Verkeersdetectie-installatie,Kast,Kast,Ongewijzigd
+226,Verkeersdetectie-installatie,"Verkeersdetectie-installatie, Algemeen","Verkeersdetectie-installatie, Algemeen",Ongewijzigd
+226,Verkeersdetectie-installatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+226,Verkeersdetectie-installatie,Beschermlaag,Beschermlaag,Ongewijzigd
+226,Verkeersdetectie-installatie,Camera (vast),Camera (vast),Ongewijzigd
+399,Verkeerseiland,Elementenverharding,Elementenverharding,Ongewijzigd
+399,Verkeerseiland,Trottoirband,Trottoirband,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Bekabeling,Bekabeling,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Detectielus,Detectielus,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Drukknoppaal,Drukknoppaal,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Fundatie,Fundatie,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Kast,Kast,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Landverkeerssein,Landverkeerssein,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Mast,Mast,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),"Verkeersregelinstallatie (VRI), Algemeen","Verkeersregelinstallatie (VRI), Algemeen",Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Waarschuwingslicht,Waarschuwingslicht,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Beschermlaag,Beschermlaag,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Aandrijving,Aandrijving,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Armatuur,Armatuur,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Geleidebarriër,Geleidebarriër,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Bekabeling,Bekabeling,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Fundatie,Fundatie,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Grendel,Grendel,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Kast,Kast,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Noodstop,Noodstop,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),"Verplaatsbare Vangrail installatie (VEVA), Algemeen","Verplaatsbare Vangrail installatie (VEVA), Algemeen",Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Wielstel,Wielstel,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Beschermlaag,Beschermlaag,Ongewijzigd
+322,Vijver,Beschoeiing,Beschoeiing,Ongewijzigd
+322,Vijver,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+322,Vijver,Gording,Gording,Ongewijzigd
+322,Vijver,Grondlichaam,Grondlichaam,Ongewijzigd
+322,Vijver,Fontein,Fontein,Ongewijzigd
+322,Vijver,Toplaag,Toplaag,Ongewijzigd
+230,Vijzelinstallatie,Assenstelsel,Assenstelsel,Ongewijzigd
+230,Vijzelinstallatie,Flens,Flens,Ongewijzigd
+230,Vijzelinstallatie,Frame,Frame,Ongewijzigd
+230,Vijzelinstallatie,Vijzel,Vijzel,Ongewijzigd
+230,Vijzelinstallatie,Vijzelgoot,Vijzelgoot,Ongewijzigd
+230,Vijzelinstallatie,Lager,Lager,Ongewijzigd
+230,Vijzelinstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+266,Vispassage,Damwand,Damwand,Ongewijzigd
+266,Vispassage,Filterconstructie,Filterconstructie,Ongewijzigd
+266,Vispassage,Beschermlaag,Beschermlaag,Ongewijzigd
+266,Vispassage,Toplaag,Toplaag,Ongewijzigd
+335,Vissluis,"Vissluis, Algemeen","Vissluis, Algemeen",Ongewijzigd
+335,Vissluis,Beschermlaag,Beschermlaag,Ongewijzigd
+323,Vleermuiskelder,Deur,Deur,Ongewijzigd
+323,Vleermuiskelder,Wand,Wand,Ongewijzigd
+323,Vleermuiskelder,Faunaopening,Faunaopening,Ongewijzigd
+323,Vleermuiskelder,Traliedeur,Traliedeur,Ongewijzigd
+323,Vleermuiskelder,"Vleermuiskelder, Algemeen","Vleermuiskelder, Algemeen",Ongewijzigd
+323,Vleermuiskelder,Wegkruipplek,Wegkruipplek,Ongewijzigd
+323,Vleermuiskelder,Beschermlaag,Beschermlaag,Ongewijzigd
+323,Vleermuiskelder,Wandafwerking,Wandafwerking,Ongewijzigd
+389,Vloerconstructie,Ladder,Ladder,Ongewijzigd
+389,Vloerconstructie,Reling,Reling,Ongewijzigd
+389,Vloerconstructie,Trap,Trap,Ongewijzigd
+389,Vloerconstructie,Vloer,Vloer,Ongewijzigd
+389,Vloerconstructie,Vloerafwerking,Vloerafwerking,Ongewijzigd
+389,Vloerconstructie,Trapafwerking,Trapafwerking,Ongewijzigd
+389,Vloerconstructie,Helling,Helling,Ongewijzigd
+389,Vloerconstructie,Hellingafwerking,Hellingafwerking,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Bekabeling,Bekabeling,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Detectielus,Detectielus,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Detector,Detector,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Fundatie,Fundatie,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Kast,Kast,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Server,Server,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),"Vluchthaven aanwezigheidsdetectie (VAD), Algemeen","Vluchthaven aanwezigheidsdetectie (VAD), Algemeen",Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Beschermlaag,Beschermlaag,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Camera (vast),Camera (vast),Ongewijzigd
+232,Vluchtweginstallatie,Aanstraalverlichting,Aanstraalverlichting,Ongewijzigd
+232,Vluchtweginstallatie,Accu,Accu,Ongewijzigd
+232,Vluchtweginstallatie,Armatuur,Armatuur,Ongewijzigd
+232,Vluchtweginstallatie,Bekabeling,Bekabeling,Ongewijzigd
+232,Vluchtweginstallatie,Centrale-deurontgrendeling,Centrale-deurontgrendeling,Ongewijzigd
+232,Vluchtweginstallatie,Evacuatieverlichting,Evacuatieverlichting,Ongewijzigd
+232,Vluchtweginstallatie,Kast,Kast,Ongewijzigd
+232,Vluchtweginstallatie,Pictogram,Pictogram,Ongewijzigd
+232,Vluchtweginstallatie,Signaalgever,Signaalgever,Ongewijzigd
+232,Vluchtweginstallatie,Verkeersgeleidingsverlichting,Verkeersgeleidingsverlichting,Ongewijzigd
+232,Vluchtweginstallatie,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+232,Vluchtweginstallatie,Vluchtdeur,Vluchtdeur,Ongewijzigd
+232,Vluchtweginstallatie,"Vluchtweginstallatie, Algemeen","Vluchtweginstallatie, Algemeen",Ongewijzigd
+232,Vluchtweginstallatie,Vluchtwegverlichting (dynamisch),Vluchtwegverlichting (dynamisch),Ongewijzigd
+232,Vluchtweginstallatie,Beschermlaag,Beschermlaag,Ongewijzigd
+233,Voegovergang,Afdichtingsprofiel,Afdichtingsprofiel,Ongewijzigd
+233,Voegovergang,Beëindigingsprofiel,Beëindigingsprofiel,Ongewijzigd
+233,Voegovergang,"Voegovergang, Algemeen","Voegovergang, Algemeen",Ongewijzigd
+233,Voegovergang,Rij-ijzer,Rij-ijzer,Ongewijzigd
+233,Voegovergang,Beschermlaag,Beschermlaag,Ongewijzigd
+256,Voorland,,Asfaltverharding,Toegevoegd
+256,Voorland,Grondlichaam,Grondlichaam,Ongewijzigd
+256,Voorland,Hek,Hek,Ongewijzigd
+256,Voorland,,Boom,Toegevoegd
+256,Voorland,,Grindkoffer,Toegevoegd
+256,Voorland,,Schanskorf,Toegevoegd
+256,Voorland,Bekleding,Bekleding,Ongewijzigd
+256,Voorland,Bomen/houtopstanden,,Vervallen
+256,Voorland,,Gras/kruid,Toegevoegd
+256,Voorland,,Haag,Toegevoegd
+256,Voorland,,Peilbuis,Toegevoegd
+256,Voorland,,Kwelscherm,Toegevoegd
+257,Vooroever,Grondlichaam,Grondlichaam,Ongewijzigd
+257,Vooroever,Hek,Hek,Ongewijzigd
+257,Vooroever,,Stortebed,Toegevoegd
+257,Vooroever,Bekleding,Bekleding,Ongewijzigd
+257,Vooroever,,Rivierhout,Toegevoegd
+372,Waarschuwings- en alarmeringssysteem (WAS),Bekabeling,Bekabeling,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Bevestiging,Bevestiging,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Fundatie,Fundatie,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Kast,Kast,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Mast,Mast,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Signaalgever,Signaalgever,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Beschermlaag,Beschermlaag,Ongewijzigd
+388,Wandconstructie,Wand,Wand,Ongewijzigd
+388,Wandconstructie,Wandafwerking,Wandafwerking,Ongewijzigd
+388,Wandconstructie,Leuningafwerking,Leuningafwerking,Ongewijzigd
+388,Wandconstructie,Leuning,Leuning,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Afdichting,Afdichting,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Afsluiter,Afsluiter,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Appendage,Appendage,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Bekabeling,Bekabeling,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Buffer,Buffer,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Drukvat,Drukvat,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Frame,Frame,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Generator,Generator,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Kast,Kast,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Ketel,Ketel,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Klep,Klep,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Buisleiding,Buisleiding,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Sensor,Sensor,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Smeersysteem,Smeersysteem,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Tank,Tank,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Verbrandingsmotor,Verbrandingsmotor,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Warmtewisselaar,Warmtewisselaar,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Beschermlaag,Beschermlaag,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Filtervulling,Filtervulling,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Filterhuis,Filterhuis,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Schakelaar,Schakelaar,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),"Warmte-kracht koppelingsinstallatie (WKK), Algemeen","Warmte-kracht koppelingsinstallatie (WKK), Algemeen",Ongewijzigd
+421,Waterlichaam (oppervlaktewater),,Bodem (waterbodem),Toegevoegd
+421,Waterlichaam (oppervlaktewater),,Waterplant,Toegevoegd
+421,Waterlichaam (oppervlaktewater),,Waterplant (ondergedoken),Toegevoegd
+410,Watermistinstallatie (WMS),Appendage,Appendage,Ongewijzigd
+410,Watermistinstallatie (WMS),Bekabeling,Bekabeling,Ongewijzigd
+410,Watermistinstallatie (WMS),Compressor,Compressor,Ongewijzigd
+410,Watermistinstallatie (WMS),Kast,Kast,Ongewijzigd
+410,Watermistinstallatie (WMS),Mixer,Mixer,Ongewijzigd
+410,Watermistinstallatie (WMS),Hulppostkast,Hulppostkast,Ongewijzigd
+410,Watermistinstallatie (WMS),Leidingnetwerk,Leidingnetwerk,Ongewijzigd
+410,Watermistinstallatie (WMS),"Watermistinstallatie (WMS), Algemeen","Watermistinstallatie (WMS), Algemeen",Ongewijzigd
+395,Watertapinstallatie,Ketel,Ketel,Ongewijzigd
+395,Watertapinstallatie,Klep,Klep,Ongewijzigd
+395,Watertapinstallatie,Buisleiding,Buisleiding,Ongewijzigd
+395,Watertapinstallatie,Kraan,Kraan,Ongewijzigd
+395,Watertapinstallatie,Boiler,Boiler,Ongewijzigd
+395,Watertapinstallatie,Geiser,Geiser,Ongewijzigd
+395,Watertapinstallatie,"Watertapinstallatie, Algemeen","Watertapinstallatie, Algemeen",Ongewijzigd
+329,Watervegetatie,Waterplant (drijvend),,Vervallen
+329,Watervegetatie,Waterplant (ondergedoken),,Vervallen
+329,Watervegetatie,"Watervegetatie, Algemeen",,Vervallen
+169,Wegkantsysteem (WKS),Achtergrondschild,Achtergrondschild,Ongewijzigd
+169,Wegkantsysteem (WKS),Bedieningspaneel,Bedieningspaneel,Ongewijzigd
+169,Wegkantsysteem (WKS),Bekabeling,Bekabeling,Ongewijzigd
+169,Wegkantsysteem (WKS),Detectielus,Detectielus,Ongewijzigd
+169,Wegkantsysteem (WKS),Detector,Detector,Ongewijzigd
+169,Wegkantsysteem (WKS),Display,Display,Ongewijzigd
+169,Wegkantsysteem (WKS),Fundatie,Fundatie,Ongewijzigd
+169,Wegkantsysteem (WKS),Kast,Kast,Ongewijzigd
+169,Wegkantsysteem (WKS),Mast,Mast,Ongewijzigd
+169,Wegkantsysteem (WKS),"Wegkantsysteem (WKS), Algemeen","Wegkantsysteem (WKS), Algemeen",Ongewijzigd
+169,Wegkantsysteem (WKS),Server,Server,Ongewijzigd
+169,Wegkantsysteem (WKS),Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+169,Wegkantsysteem (WKS),Beschermlaag,Beschermlaag,Ongewijzigd
+238,Wegmarkering,"Wegmarkering, Algemeen","Wegmarkering, Algemeen",Ongewijzigd
+238,Wegmarkering,,Belijning,Toegevoegd
+239,Weigh In Motion,Bekabeling,Bekabeling,Ongewijzigd
+239,Weigh In Motion,Detectielus,Detectielus,Ongewijzigd
+239,Weigh In Motion,Detector,Detector,Ongewijzigd
+239,Weigh In Motion,Kast,Kast,Ongewijzigd
+239,Weigh In Motion,Server,Server,Ongewijzigd
+239,Weigh In Motion,Verwerkingseenheid,Verwerkingseenheid,Ongewijzigd
+239,Weigh In Motion,"Weigh In Motion, Algemeen","Weigh In Motion, Algemeen",Ongewijzigd
+239,Weigh In Motion,Infraroodlamp,Infraroodlamp,Ongewijzigd
+239,Weigh In Motion,Beschermlaag,Beschermlaag,Ongewijzigd
+239,Weigh In Motion,Camera (vast),Camera (vast),Ongewijzigd
+240,Werk-spreekverbinding,Bekabeling,Bekabeling,Ongewijzigd
+240,Werk-spreekverbinding,Kast,Kast,Ongewijzigd
+240,Werk-spreekverbinding,Luidspreker,Luidspreker,Ongewijzigd
+240,Werk-spreekverbinding,Microfoon,Microfoon,Ongewijzigd
+240,Werk-spreekverbinding,Versterker,Versterker,Ongewijzigd
+240,Werk-spreekverbinding,Beschermlaag,Beschermlaag,Ongewijzigd
+270,Wingebied,Bodem (waterbodem),Bodem (waterbodem),Ongewijzigd
+432,Zeestrand,,Elementenverharding,Toegevoegd
+432,Zeestrand,,Grondlichaam,Toegevoegd
+432,Zeestrand,,Bekleding,Toegevoegd
+432,Zeestrand,,Embryonaal-duin,Toegevoegd
+242,Zinker,Appendage,Appendage,Ongewijzigd
+242,Zinker,"Zinker, Algemeen","Zinker, Algemeen",Ongewijzigd
+401,Zonweringsinstallatie,Bekabeling,Bekabeling,Ongewijzigd
+401,Zonweringsinstallatie,Kast,Kast,Ongewijzigd
+401,Zonweringsinstallatie,Schakelaar,Schakelaar,Ongewijzigd
+401,Zonweringsinstallatie,"Zonweringsinstallatie, Algemeen","Zonweringsinstallatie, Algemeen",Ongewijzigd
+401,Zonweringsinstallatie,Rolluik,Rolluik,Ongewijzigd
+401,Zonweringsinstallatie,Scherm,Scherm,Ongewijzigd
+401,Zonweringsinstallatie,Rolgordijn,Rolgordijn,Ongewijzigd
+401,Zonweringsinstallatie,Jaloezie (lamel),Jaloezie (lamel),Ongewijzigd

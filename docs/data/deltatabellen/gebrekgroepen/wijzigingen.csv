@@ -1,0 +1,49 @@
+Gebrekgroep,Onderdeel,Oud,Nieuw,Mutatie
+Beschadiging,Gebrek,Vertrapping,,Vervallen
+Beschadiging,Gebrek,Wildschade,,Vervallen
+Beschadiging,Gebrek,Aanhechtingsmankement,,Vervallen
+Beschadiging,Gebrek,"Gesteltakken, gescheurd",,Vervallen
+Beschadiging,Gebrek,,Windworp,Toegevoegd
+Beschadiging,Gebrek,,Omgevallen,Toegevoegd
+Beschadiging,Gebrek,,"Aansluiting, onvoldoende",Toegevoegd
+Beschadiging,Gebrek,,Erosie,Toegevoegd
+Beschadiging,Gebrek,,Gaten,Toegevoegd
+Functionaliteit,Gebrek,,"Begroeiing, ongewenst",Toegevoegd
+Functionaliteit,Gebrek,,Verdwenen,Toegevoegd
+"Groei, ontwikkeling",Gebrek,"Bladkleur, afwijkend",Bladverkleuring,Gewijzigd
+"Groei, ontwikkeling",Gebrek,"Groeistoornis, kritisch",Scheutlengte-ontwikkeling,Gewijzigd
+"Groei, ontwikkeling",Gebrek,"Snoeiwond, afgrendeling onjuist",Wondreactie,Gewijzigd
+"Groei, ontwikkeling",Gebrek,"Bloeiontwikkeling, onvoldoende",Bloeiontwikkeling,Gewijzigd
+"Groei, ontwikkeling",Gebrek,"Groeihoogte onjuist, kritisch",Stamontwikkeling,Gewijzigd
+"Groei, ontwikkeling",Gebrek,"Groeistoornis, niet kritisch",,Vervallen
+"Groei, ontwikkeling",Gebrek,"Groeihoogte onjuist, niet kritisch",,Vervallen
+"Groei, ontwikkeling",Gebrek,"Takken laaghangend, niet kritisch",,Vervallen
+"Groei, ontwikkeling",Gebrek,"Kroon-stam, verhouding onjuist",,Vervallen
+"Groei, ontwikkeling",Gebrek,"Kroon-stam, verhouding afwijkend",,Vervallen
+"Groei, ontwikkeling",Gebrek,"Houtige begroeing, onderbroken",,Vervallen
+"Groei, ontwikkeling",Gebrek,Reactiehout,,Vervallen
+"Groei, ontwikkeling",Gebrek,"Zuigers, overlast",,Vervallen
+"Groei, ontwikkeling",Gebrek,Wurgwortels,,Vervallen
+"Groei, ontwikkeling",Gebrek,"Takken laaghangend, kritisch",,Vervallen
+"Groei, ontwikkeling",Gebrek,"Top, dubbel",,Vervallen
+Groen,Gebrek,"Stam, beschadigd",Houtweefselschade,Gewijzigd
+Groen,Gebrek,"Bedekkingsgraad, onvoldoende",Bedekkingsgraad,Gewijzigd
+Groen,Gebrek,"Bladontwikkeling, onjuist",Bladontwikkeling,Gewijzigd
+Groen,Gebrek,"Boomvitaliteit, vermindering",,Vervallen
+Groen,Gebrek,"Kroonontwikkeling, onevenwichtig",,Vervallen
+Groen,Gebrek,"Exotengroei, ongewenst",,Vervallen
+Groen,Gebrek,Verdroging,,Vervallen
+Groen,Gebrek,"Kroon, beschadigd",,Vervallen
+Groen,Gebrek,"Wortels, beschadigd",,Vervallen
+Groen,Gebrek,Plakoksel,,Vervallen
+Groen,Gebrek,,Groeiontwikkeling,Toegevoegd
+Groen,Gebrek,,"Afdekking, ongewenst",Toegevoegd
+Groen,Gebrek,,"Soortenrijkdom, onvoldoende",Toegevoegd
+"Orde, netheid",Gebrek,"Insectenvraat, niet kritisch",,Vervallen
+Veiligheid & Wet en regelgeving,Gebrek,"Ziekte, kritisch",,Vervallen
+Veiligheid & Wet en regelgeving,Gebrek,"Ziekte, niet kritisch",,Vervallen
+"Ziekte, aandoening",Gebrek,"Aantasting, kritisch",,Vervallen
+"Ziekte, aandoening",Gebrek,"Aantasting, niet kritisch",,Vervallen
+"Ziekte, aandoening",Gebrek,"Insectenvraat, kritisch",,Vervallen
+"Ziekte, aandoening",Gebrek,,Blauwalgontwikkeling,Toegevoegd
+"Ziekte, aandoening",Gebrek,,Aantasting,Toegevoegd

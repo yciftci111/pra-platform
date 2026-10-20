@@ -1,0 +1,17 @@
+Afkorting,Gebreksoort,Soortstatus,Naam (vorige versie),Belang,Toelichting,Toelichting (vorige versie),Gebreken (oud),Gebreken (nieuw),Toegevoegd,Vervallen,Status
+Afs,Afsterving,Nieuw,,ernstig,Gebreken die ertoe leiden dat de vegetatie versneld doodgaat.,,0,3,3,0,Nieuw
+Aft,Aftakeling,Nieuw,,serieus,Gebreken die ertoe leiden dat delen of de gehele vegetatie qua conditie sterk terugloopt.,,0,5,5,0,Nieuw
+Afw,Afwerking,Bestaand,,gering,Gebreken waardoor bouw- en installatiedeel begint te veranderen in zijn voltooiing.,,7,5,0,2,Gewijzigd
+Bk,Basiskwaliteit,Bestaand,,ernstig,Gebreken waardoor het bouw- of installatiedeel de minimale norm ondermijnt.,,12,10,1,3,Gewijzigd
+Bko,Basiskwaliteit en veroudering onderdelen,Bestaand,,serieus,"Gebreken aan onderdelen van het bouw- of installatiedeel die de functionaliteit van het bouw- of installatiedeel niet direct aantasten, bijvoorbeeld onjuiste dimensiekeuze (te groot, te klein e.d.).",,9,8,0,1,Gewijzigd
+Bks,Basiskwaliteit en veroudering subonderdelen,Bestaand,,gering,"Gebreken aan subonderdelen van het bouw- of installatiedeel die geen afbreuk doen aan het functioneren van het bouw- of installatiedeel, bijvoorbeeld onjuiste montage van subonderdelen.",,5,5,0,0,Ongewijzigd
+Cp,Constructief primair,Bestaand,,ernstig,Gebreken waardoor het bouwdeel constructief onvoldoende veilig beschikbaar is.,,22,18,3,7,Gewijzigd
+Cs,Constructief secundair,Bestaand,,serieus,Gebreken waardoor het bouw- of installatiedeel de minimale norm ondermijnt.,,24,16,1,9,Gewijzigd
+Mo,Materiaal oppervlak,Bestaand,,serieus,Gebreken aan het oppervlak van de materialen waarvan het bouw- of installatiedeel is gemaakt.,,16,10,0,6,Gewijzigd
+Mi,Materiaalintrinsiek,Bestaand,,ernstig,Gebreken die te maken hebben met degradatie van het materiaal waarvan het bouw- of installatiedeel gemaakt is.,,18,17,2,3,Gewijzigd
+Nop,Niet optimaal,Nieuw,,gering,Gebreken die aangeven dat de ontwikkeling van de vegetatie afwijkt van de normale ontwikkeling.,,0,1,1,0,Nieuw
+Ond,Onderhoud,Bestaand,,gering,"Werkzaamheden voor het op lange termijn operationeel houden van het bouw- en installatiedeel zijn niet uitgevoerd, bijvoorbeeld wettelijke keuringen ontbreken.",,7,8,2,1,Gewijzigd
+Sti,Stilstand,Nieuw,,serieus,Gebreken die aangeven dat de ontwikkeling van de vegetatie stagneert.,,0,4,4,0,Nieuw
+Verv,Verval,Bestaand,,gering,Gebreken waardoor het bouw- of installatiedeel is gedegradeerd op basis van de theoretische levensduur.,,3,3,0,0,Ongewijzigd
+Wp,Werking primair,Bestaand,,ernstig,Gebreken waardoor het bouw- of installatiedeel niet functioneert. Deze gebreken kunnen het gevolg zijn van primaire constructieve gebreken en materiaalintrinsieke gebreken.,,20,15,0,5,Gewijzigd
+Ws,Werking secundair,Bestaand,,serieus,"Gebreken waardoor het bouw- of installatiedeel niet voldoende functioneert, bijvoorbeeld voorbeelden hiervan zijn verlies van medium (installaties).",,11,10,0,1,Gewijzigd

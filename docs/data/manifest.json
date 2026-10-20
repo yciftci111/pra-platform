@@ -1,0 +1,778 @@
+{
+  "gegenereerd": "2026-10-20 03:54",
+  "tabellen": [
+    {
+      "slug": "beheerobjecten",
+      "naam": "Beheerobjecten",
+      "bestand": "Beheerobjecten_deltatabel.xlsx",
+      "grootte_kb": 239,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Beheerobjecten",
+        "slug": "beheerobjecten",
+        "csv": "beheerobjecten/beheerobjecten.csv",
+        "rijen": 64,
+        "kolommen": 14,
+        "statuskolom": "Status",
+        "mutaties": {
+          "Toegevoegd": 0,
+          "Vervallen": 0,
+          "Gewijzigd": 20,
+          "Hernoemd": 0
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Beheerobjecten",
+          "slug": "beheerobjecten",
+          "csv": "beheerobjecten/beheerobjecten.csv",
+          "rijen": 64,
+          "kolommen": 14,
+          "statuskolom": "Status",
+          "mutaties": {
+            "Toegevoegd": 0,
+            "Vervallen": 0,
+            "Gewijzigd": 20,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Elementen",
+          "slug": "elementen",
+          "csv": "beheerobjecten/elementen.csv",
+          "rijen": 2573,
+          "kolommen": 5,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 50,
+            "Vervallen": 23,
+            "Gewijzigd": 5,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Wijzigingen",
+          "slug": "wijzigingen",
+          "csv": "beheerobjecten/wijzigingen.csv",
+          "rijen": 80,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 50,
+            "Vervallen": 24,
+            "Gewijzigd": 6,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 0,
+        "Vervallen": 0,
+        "Gewijzigd": 20,
+        "Hernoemd": 0
+      },
+      "wijzigingen_totaal": 80,
+      "toelichting": {
+        "Bron": "deltatabelbeheerobjecten.pdf (29 pagina’s)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  mutatie “Toegevoegd”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  mutatie “Vervallen”",
+        "Oranje cursief": "Gewijzigd (bijv. hernoemd)  →  mutatie “Gewijzigd”",
+        "Zonder opmaak": "Ongewijzigd  →  mutatie “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Aantal beheerobjecten": "64",
+        "Beheerobjecten met wijzigingen": "20",
+        "Element-koppelingen (totaal regels)": "2573",
+        "Elementen ongewijzigd": "2495",
+        "Elementen toegevoegd": "50",
+        "Elementen vervallen": "23",
+        "Elementen gewijzigd (hernoemd)": "5",
+        "Werkdefinities gewijzigd": "2",
+        "Unieke elementnamen (nieuwe situatie)": "235",
+        "Beheerobjecten": "Eén regel per beheerobject met code, definitie, werkgroepen en tellingen per mutatie (formules).",
+        "Elementen": "Eén regel per beheerobject × element met de mutatie; filterbaar als Excel-tabel.",
+        "Wijzigingen": "Alleen de gewijzigde regels (elementen en werkdefinities).",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel beheerobjecten (objectCategorie)",
+          "Overzicht van beheerobjecten met hun elementen en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  In de bron staan ongewijzigde velden (naam, code, werkdefinitie e.d.) alleen in de kolom “Oud”; de kolom “Nieuw” is dan leeg.",
+          "•  De kolommen Afkorting, Bron, Opmerking en Omvang zijn in de bron volledig leeg. Ze staan wel in “Delta tabel”, niet in de overzichten.",
+          "•  Tekens met verkeerde codering in de bron (bijv. “gecreÃ«erd”) zijn hersteld (“gecreëerd”).",
+          "•  Werkdefinitie Kabel en leiding (AV): in de bron alleen de doorgehaalde tekst “twee regels”; de nieuwe werkdefinitie is leeg.",
+          "•  Tekst is 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    },
+    {
+      "slug": "elementen",
+      "naam": "Elementen",
+      "bestand": "Elementen_deltatabel.xlsx",
+      "grootte_kb": 490,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Elementen",
+        "slug": "elementen",
+        "csv": "elementen/elementen.csv",
+        "rijen": 245,
+        "kolommen": 18,
+        "statuskolom": "Elementstatus",
+        "mutaties": {
+          "Toegevoegd": 13,
+          "Vervallen": 10,
+          "Gewijzigd": 0,
+          "Hernoemd": 1
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Elementen",
+          "slug": "elementen",
+          "csv": "elementen/elementen.csv",
+          "rijen": 245,
+          "kolommen": 18,
+          "statuskolom": "Elementstatus",
+          "mutaties": {
+            "Toegevoegd": 13,
+            "Vervallen": 10,
+            "Gewijzigd": 0,
+            "Hernoemd": 1
+          }
+        },
+        {
+          "titel": "Beheerobjectcategorieën",
+          "slug": "beheerobjectcategorieen",
+          "csv": "elementen/beheerobjectcategorieen.csv",
+          "rijen": 2573,
+          "kolommen": 5,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 50,
+            "Vervallen": 23,
+            "Gewijzigd": 0,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Bouwdelen",
+          "slug": "bouwdelen",
+          "csv": "elementen/bouwdelen.csv",
+          "rijen": 2578,
+          "kolommen": 5,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 182,
+            "Vervallen": 55,
+            "Gewijzigd": 12,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Werkgroepen",
+          "slug": "werkgroepen",
+          "csv": "elementen/werkgroepen.csv",
+          "rijen": 900,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 43,
+            "Vervallen": 32,
+            "Gewijzigd": 36,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Wijzigingen",
+          "slug": "wijzigingen",
+          "csv": "elementen/wijzigingen.csv",
+          "rijen": 464,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 293,
+            "Vervallen": 120,
+            "Gewijzigd": 51,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 13,
+        "Vervallen": 10,
+        "Gewijzigd": 0,
+        "Hernoemd": 1
+      },
+      "wijzigingen_totaal": 464,
+      "toelichting": {
+        "Bron": "deltatabelelement.pdf (27 pagina’s)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  mutatie “Toegevoegd”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  mutatie “Vervallen”",
+        "Oranje cursief": "Gewijzigd (bijv. hernoemd)  →  mutatie “Gewijzigd”",
+        "Zonder opmaak": "Ongewijzigd  →  mutatie “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Aantal elementen (in de tabel)": "245",
+        "waarvan nieuw": "13",
+        "waarvan vervallen": "10",
+        "waarvan hernoemd": "1",
+        "Elementen met wijzigingen (totaal)": "94",
+        "Werkdefinities gewijzigd (bestaande elementen)": "2",
+        "Koppelingen beheerobjectcategorie – toegevoegd": "50",
+        "Koppelingen beheerobjectcategorie – vervallen": "23",
+        "Bouwdelen – toegevoegd": "182",
+        "Bouwdelen – vervallen": "55",
+        "Bouwdelen – gewijzigd (hernoemd)": "12",
+        "Werkgroepen/vakdisciplines – mutaties": "111",
+        "Totaal regels in tabblad Wijzigingen": "464",
+        "Elementen": "Eén regel per element: code, naam, status, werkgroepen, vakdisciplines, werkdefinitie, toelichting, afbeeldingen en tellingen (formules).",
+        "Beheerobjectcategorieën": "Eén regel per element × beheerobjectcategorie met mutatie (Excel-tabel, filterbaar).",
+        "Bouwdelen": "Eén regel per element × bouwdeel met mutatie (Excel-tabel, filterbaar).",
+        "Werkgroepen": "Lead werkgroep, extra werkgroepen en vakdisciplines per element, met mutatie.",
+        "Wijzigingen": "Alleen de gewijzigde regels (elementen, definities, koppelingen, afbeeldingen).",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel elementen (element)",
+          "Overzicht van elementen met hun koppelingen en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  In de bron staan ongewijzigde velden alleen in de kolom “Oud”; nieuwe elementen staan alleen in “Nieuw”. In de overzichten staat steeds de actuele waarde, met de vorige versie in een aparte kolom als die gewijzigd is.",
+          "•  Bij vervallen elementen tonen de overzichten de laatste (oude) gegevens, zodat zichtbaar blijft wát er vervalt.",
+          "•  De kolommen Elementgroep, Opmerking en Omvang zijn in de bron volledig leeg. Ze staan wel in “Delta tabel”, niet in de overzichten.",
+          "•  Afbeeldingen zijn in de bron blauwe hyperlinks zonder kleurcodering; de mutatie is bepaald door te vergelijken wat in Oud en Nieuw staat.",
+          "•  Tekens met verkeerde codering in de bron (bijv. “efficiÃ«nte”) zijn hersteld (“efficiënte”).",
+          "•  Enkele nieuwe werkdefinities bevatten in de bron letterlijk de code “\\r\\n”; die is verwijderd.",
+          "•  Tekst is verder 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    },
+    {
+      "slug": "bouwdelen",
+      "naam": "Bouwdelen",
+      "bestand": "Bouwdelen_deltatabel.xlsx",
+      "grootte_kb": 694,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Bouwdelen",
+        "slug": "bouwdelen",
+        "csv": "bouwdelen/bouwdelen.csv",
+        "rijen": 840,
+        "kolommen": 17,
+        "statuskolom": "Bouwdeelstatus",
+        "mutaties": {
+          "Toegevoegd": 22,
+          "Vervallen": 44,
+          "Gewijzigd": 0,
+          "Hernoemd": 7
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Bouwdelen",
+          "slug": "bouwdelen",
+          "csv": "bouwdelen/bouwdelen.csv",
+          "rijen": 840,
+          "kolommen": 17,
+          "statuskolom": "Bouwdeelstatus",
+          "mutaties": {
+            "Toegevoegd": 22,
+            "Vervallen": 44,
+            "Gewijzigd": 0,
+            "Hernoemd": 7
+          }
+        },
+        {
+          "titel": "Elementen",
+          "slug": "elementen",
+          "csv": "bouwdelen/elementen.csv",
+          "rijen": 2580,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 182,
+            "Vervallen": 57,
+            "Gewijzigd": 5,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Materialen",
+          "slug": "materialen",
+          "csv": "bouwdelen/materialen.csv",
+          "rijen": 3253,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 49,
+            "Vervallen": 92,
+            "Gewijzigd": 5,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Wijzigingen",
+          "slug": "wijzigingen",
+          "csv": "bouwdelen/wijzigingen.csv",
+          "rijen": 526,
+          "kolommen": 7,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 307,
+            "Vervallen": 193,
+            "Gewijzigd": 26,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 22,
+        "Vervallen": 44,
+        "Gewijzigd": 0,
+        "Hernoemd": 7
+      },
+      "wijzigingen_totaal": 526,
+      "toelichting": {
+        "Bron": "deltatabelbouwdeel.pdf (44 pagina’s)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  mutatie “Toegevoegd”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  mutatie “Vervallen”",
+        "Oranje cursief": "Gewijzigd (bijv. hernoemd)  →  mutatie “Gewijzigd”",
+        "Zonder opmaak": "Ongewijzigd  →  mutatie “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Bouwdelen": "Eén regel per bouwdeel: nr, code, naam, status, omschrijving, materialen, werkdefinitie, toelichting, afbeeldingen en tellingen (formules).",
+        "Elementen": "Eén regel per bouwdeel × element met mutatie (Excel-tabel, filterbaar).",
+        "Materialen": "Eén regel per bouwdeel × materiaal met mutatie (Excel-tabel, filterbaar).",
+        "Wijzigingen": "Alleen de gewijzigde regels (bouwdelen, omschrijving, definities, koppelingen, afbeeldingen).",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel bouwdelen (bouwdeel)",
+          "Overzicht van bouwdelen met hun koppelingen en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Aantal bouwdelen (regels in de tabel)",
+          "waarvan nieuw",
+          "waarvan vervallen",
+          "waarvan hernoemd",
+          "Bouwdelen met wijzigingen (totaal)",
+          "Werkdefinities gewijzigd of toegevoegd (bestaande bouwdelen)",
+          "Koppelingen element – toegevoegd",
+          "Koppelingen element – vervallen",
+          "Koppelingen element – gewijzigd (element hernoemd)",
+          "Materialen – toegevoegd",
+          "Materialen – vervallen",
+          "Materialen – gewijzigd",
+          "Totaal regels in tabblad Wijzigingen",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  In de bron staan ongewijzigde velden alleen in de kolom “Oud”; nieuwe bouwdelen staan alleen in “Nieuw”. In de overzichten staat steeds de actuele waarde, met de vorige versie in een aparte kolom als die gewijzigd is.",
+          "•  Bij vervallen bouwdelen tonen de overzichten de laatste (oude) gegevens, zodat zichtbaar blijft wát er vervalt.",
+          "•  Kolom “Nr” is het volgnummer in de delta tabel en is de unieke sleutel. De correspondentiecode is niet uniek: 1248 (Helofytenfilter – vervallen, Helofytenfilter – nieuw); 1863 (Plasberm – vervallen, Plasberm – nieuw) staan in de bron zowel als vervallen als als nieuw bouwdeel.",
+          "•  Afbeeldingen zijn in de bron blauwe hyperlinks zonder kleurcodering; de mutatie is bepaald door te vergelijken wat in Oud en Nieuw staat.",
+          "•  Tekens met verkeerde codering in de bron (bijv. “Ã«”) zijn hersteld (“ë”); letterlijke codes “\\r\\n” in teksten zijn verwijderd.",
+          "•  De kolom Omvang is in de bron volledig leeg en staat alleen in “Delta tabel”.",
+          "•  Tekst is verder 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    },
+    {
+      "slug": "gebreken",
+      "naam": "Gebreken",
+      "bestand": "Gebreken_deltatabel.xlsx",
+      "grootte_kb": 215,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Gebreken",
+        "slug": "gebreken",
+        "csv": "gebreken/gebreken.csv",
+        "rijen": 168,
+        "kolommen": 20,
+        "statuskolom": "Gebrekstatus",
+        "mutaties": {
+          "Toegevoegd": 12,
+          "Vervallen": 30,
+          "Gewijzigd": 0,
+          "Hernoemd": 8
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Gebreken",
+          "slug": "gebreken",
+          "csv": "gebreken/gebreken.csv",
+          "rijen": 168,
+          "kolommen": 20,
+          "statuskolom": "Gebrekstatus",
+          "mutaties": {
+            "Toegevoegd": 12,
+            "Vervallen": 30,
+            "Gewijzigd": 0,
+            "Hernoemd": 8
+          }
+        },
+        {
+          "titel": "Materiaalsoorten",
+          "slug": "materiaalsoorten",
+          "csv": "gebreken/materiaalsoorten.csv",
+          "rijen": 1515,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 67,
+            "Vervallen": 190,
+            "Gewijzigd": 2,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Wijzigingen",
+          "slug": "wijzigingen",
+          "csv": "gebreken/wijzigingen.csv",
+          "rijen": 399,
+          "kolommen": 7,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 147,
+            "Vervallen": 220,
+            "Gewijzigd": 32,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 12,
+        "Vervallen": 30,
+        "Gewijzigd": 0,
+        "Hernoemd": 8
+      },
+      "wijzigingen_totaal": 399,
+      "toelichting": {
+        "Bron": "delta-tabel-gebrek-.pdf (12 pagina’s)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  mutatie “Toegevoegd”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  mutatie “Vervallen”",
+        "Oranje cursief": "Gewijzigd (bijv. hernoemd)  →  mutatie “Gewijzigd”",
+        "Zonder opmaak": "Ongewijzigd  →  mutatie “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Aantal gebreken (regels in de tabel)": "168",
+        "waarvan nieuw": "12",
+        "waarvan vervallen": "30",
+        "waarvan hernoemd": "8",
+        "Gebreken met wijzigingen (totaal)": "80",
+        "Gebreksoorten gewijzigd": "10",
+        "Werkdefinities gewijzigd of toegevoegd": "13",
+        "Toelichtingen gewijzigd of toegevoegd": "2",
+        "Materiaalsoorten – toegevoegd": "67",
+        "Materiaalsoorten – vervallen": "190",
+        "Materiaalsoorten – gewijzigd": "2",
+        "Afbeeldingen – toegevoegd": "64",
+        "Totaal regels in tabblad Wijzigingen": "399",
+        "Gebreken": "Eén regel per gebrek: nr, code, naam, status, eenheid, type, gebreksoort, gebrekgroep, intensiteit, werkdefinitie, toelichting, afbeeldingen en tellingen (formules).",
+        "Materiaalsoorten": "Eén regel per gebrek × materiaalsoort met mutatie (Excel-tabel, filterbaar).",
+        "Wijzigingen": "Alleen de gewijzigde regels (gebreken, kenmerken, definities, materiaalsoorten, afbeeldingen).",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel gebreken (gebrek)",
+          "Overzicht van gebreken met hun kenmerken, materiaalsoorten en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  In deze bron staan eenheid, gebreksoort en gebrekgroep zowel in “Oud” als in “Nieuw”. In het overzicht staat de actuele waarde; een gewijzigd kenmerk is oranje gemarkeerd en de oude waarde staat in het tabblad Wijzigingen.",
+          "•  Bij vervallen gebreken tonen de overzichten de laatste (oude) gegevens, zodat zichtbaar blijft wát er vervalt.",
+          "•  Kolom “Nr” is het volgnummer in de delta tabel en is de unieke sleutel. De correspondentiecode is niet uniek: G-040 (Erosie – vervallen, Erosie – nieuw); G-120 (Aantasting – nieuw, Aantasting, kritisch – vervallen); G-126 (Gaten – vervallen, Gaten – nieuw) staan in de bron zowel als vervallen als als nieuw gebrek.",
+          "•  Afbeeldingen zijn in de bron blauwe hyperlinks zonder kleurcodering; de mutatie is bepaald door te vergelijken wat in Oud en Nieuw staat.",
+          "•  Tekens met verkeerde codering in de bron (bijv. “Ã«”) zijn hersteld (“ë”); letterlijke codes “\\r\\n” in teksten zijn verwijderd.",
+          "•  De kolom Omvang is in de bron volledig leeg en staat alleen in “Delta tabel”.",
+          "•  Tekst is verder 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    },
+    {
+      "slug": "gebreksoorten",
+      "naam": "Gebreksoorten",
+      "bestand": "Gebreksoorten_deltatabel.xlsx",
+      "grootte_kb": 32,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Gebreksoorten",
+        "slug": "gebreksoorten",
+        "csv": "gebreksoorten/gebreksoorten.csv",
+        "rijen": 16,
+        "kolommen": 12,
+        "statuskolom": "Soortstatus",
+        "mutaties": {
+          "Toegevoegd": 4,
+          "Vervallen": 0,
+          "Gewijzigd": 0,
+          "Hernoemd": 0
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Gebreksoorten",
+          "slug": "gebreksoorten",
+          "csv": "gebreksoorten/gebreksoorten.csv",
+          "rijen": 16,
+          "kolommen": 12,
+          "statuskolom": "Soortstatus",
+          "mutaties": {
+            "Toegevoegd": 4,
+            "Vervallen": 0,
+            "Gewijzigd": 0,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Gebreken",
+          "slug": "gebreken",
+          "csv": "gebreksoorten/gebreken.csv",
+          "rijen": 176,
+          "kolommen": 5,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 22,
+            "Vervallen": 38,
+            "Gewijzigd": 0,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Wijzigingen",
+          "slug": "wijzigingen",
+          "csv": "gebreksoorten/wijzigingen.csv",
+          "rijen": 64,
+          "kolommen": 6,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 26,
+            "Vervallen": 38,
+            "Gewijzigd": 0,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 4,
+        "Vervallen": 0,
+        "Gewijzigd": 0,
+        "Hernoemd": 0
+      },
+      "wijzigingen_totaal": 64,
+      "toelichting": {
+        "Bron": "delta-tabel-gebreksoort-.pdf (4 pagina’s)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  mutatie “Toegevoegd”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  mutatie “Vervallen”",
+        "Oranje cursief": "Gewijzigd (bijv. hernoemd)  →  mutatie “Gewijzigd”",
+        "Zonder opmaak": "Ongewijzigd  →  mutatie “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Aantal gebreksoorten": "16",
+        "waarvan nieuw": "4",
+        "waarvan vervallen": "0",
+        "waarvan hernoemd": "0",
+        "Gebreksoorten met wijzigingen (totaal)": "14",
+        "Koppelingen gebrek (totaal regels)": "176",
+        "Koppelingen gebrek – ongewijzigd": "116",
+        "Koppelingen gebrek – toegevoegd": "22",
+        "Koppelingen gebrek – vervallen": "38",
+        "Totaal regels in tabblad Wijzigingen": "64",
+        "Gebreksoorten": "Eén regel per gebreksoort: afkorting, naam, status, belang, toelichting en tellingen (formules).",
+        "Gebreken": "Eén regel per gebreksoort × gebrek met mutatie (Excel-tabel, filterbaar).",
+        "Wijzigingen": "Alleen de gewijzigde regels (gebreksoorten, kenmerken en koppelingen).",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel gebreksoorten (gebreksoort)",
+          "Overzicht van gebreksoorten met hun gekoppelde gebreken en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  In de bron staan ongewijzigde velden alleen in de kolom “Oud”; nieuwe gebreksoorten staan alleen in “Nieuw”. In het overzicht staat steeds de actuele waarde.",
+          "•  Er vervallen geen gebreksoorten; er komen er vier bij (Afsterving, Aftakeling, Niet optimaal en Stilstand).",
+          "•  Tekens met verkeerde codering in de bron (bijv. “Ã«”) zijn hersteld (“ë”); letterlijke codes “\\r\\n” in teksten zijn verwijderd.",
+          "•  Tekst is verder 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    },
+    {
+      "slug": "gebrekgroepen",
+      "naam": "Gebrekgroepen",
+      "bestand": "Gebrekgroepen_deltatabel.xlsx",
+      "grootte_kb": 27,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Gebrekgroepen",
+        "slug": "gebrekgroepen",
+        "csv": "gebrekgroepen/gebrekgroepen.csv",
+        "rijen": 15,
+        "kolommen": 9,
+        "statuskolom": "Groepstatus",
+        "mutaties": {
+          "Toegevoegd": 0,
+          "Vervallen": 0,
+          "Gewijzigd": 0,
+          "Hernoemd": 0
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Gebrekgroepen",
+          "slug": "gebrekgroepen",
+          "csv": "gebrekgroepen/gebrekgroepen.csv",
+          "rijen": 15,
+          "kolommen": 9,
+          "statuskolom": "Groepstatus",
+          "mutaties": {
+            "Toegevoegd": 0,
+            "Vervallen": 0,
+            "Gewijzigd": 0,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Gebreken",
+          "slug": "gebreken",
+          "csv": "gebrekgroepen/gebreken.csv",
+          "rijen": 166,
+          "kolommen": 4,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 12,
+            "Vervallen": 28,
+            "Gewijzigd": 8,
+            "Hernoemd": 0
+          }
+        },
+        {
+          "titel": "Wijzigingen",
+          "slug": "wijzigingen",
+          "csv": "gebrekgroepen/wijzigingen.csv",
+          "rijen": 48,
+          "kolommen": 5,
+          "statuskolom": "Mutatie",
+          "mutaties": {
+            "Toegevoegd": 12,
+            "Vervallen": 28,
+            "Gewijzigd": 8,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 0,
+        "Vervallen": 0,
+        "Gewijzigd": 0,
+        "Hernoemd": 0
+      },
+      "wijzigingen_totaal": 48,
+      "toelichting": {
+        "Bron": "delta-tabel-gebrekgroep-.pdf (6 pagina’s)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  mutatie “Toegevoegd”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  mutatie “Vervallen”",
+        "Oranje cursief": "Gewijzigd (gebrek hernoemd)  →  mutatie “Gewijzigd”",
+        "Zonder opmaak": "Ongewijzigd  →  mutatie “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Aantal gebrekgroepen": "15",
+        "waarvan nieuw": "0",
+        "waarvan vervallen": "0",
+        "waarvan hernoemd": "0",
+        "Gebrekgroepen met wijzigingen (totaal)": "7",
+        "Koppelingen gebrek (totaal regels)": "166",
+        "Koppelingen gebrek – ongewijzigd": "118",
+        "Koppelingen gebrek – toegevoegd": "12",
+        "Koppelingen gebrek – vervallen": "28",
+        "Koppelingen gebrek – gewijzigd (gebrek hernoemd)": "8",
+        "Totaal regels in tabblad Wijzigingen": "48",
+        "Gebrekgroepen": "Eén regel per gebrekgroep met status, de gekoppelde gebreken en tellingen (formules).",
+        "Gebreken": "Eén regel per gebrekgroep × gebrek met mutatie (Excel-tabel, filterbaar).",
+        "Wijzigingen": "Alleen de gewijzigde regels.",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel gebrekgroepen (gebrekgroep)",
+          "Overzicht van gebrekgroepen met hun gekoppelde gebreken en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  Deze tabel bevat alleen de naam van de gebrekgroep en de gekoppelde gebreken; er zijn geen andere kenmerken in de bron.",
+          "•  De gebrekgroepen zelf zijn allemaal ongewijzigd: er komen er geen bij en er vervallen er geen. Alleen de koppelingen met gebreken veranderen.",
+          "•  Oranje regels zijn gebreken die zijn hernoemd; de koppeling met de gebrekgroep blijft dan bestaan.",
+          "•  De gebrekgroep “Conservering” heeft in de bron geen gekoppelde gebreken.",
+          "•  Tekens met verkeerde codering in de bron (bijv. “Ã«”) zijn hersteld (“ë”); letterlijke codes “\\r\\n” in teksten zijn verwijderd.",
+          "•  Tekst is verder 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    },
+    {
+      "slug": "elementgroepen",
+      "naam": "Elementgroepen",
+      "bestand": "Elementgroepen_deltatabel.xlsx",
+      "grootte_kb": 12,
+      "bijgewerkt": "18-10-2026",
+      "hoofdblad": {
+        "titel": "Elementgroepen",
+        "slug": "elementgroepen",
+        "csv": "elementgroepen/elementgroepen.csv",
+        "rijen": 21,
+        "kolommen": 4,
+        "statuskolom": "Groepstatus",
+        "mutaties": {
+          "Toegevoegd": 0,
+          "Vervallen": 0,
+          "Gewijzigd": 0,
+          "Hernoemd": 0
+        }
+      },
+      "bladen": [
+        {
+          "titel": "Elementgroepen",
+          "slug": "elementgroepen",
+          "csv": "elementgroepen/elementgroepen.csv",
+          "rijen": 21,
+          "kolommen": 4,
+          "statuskolom": "Groepstatus",
+          "mutaties": {
+            "Toegevoegd": 0,
+            "Vervallen": 0,
+            "Gewijzigd": 0,
+            "Hernoemd": 0
+          }
+        }
+      ],
+      "mutaties": {
+        "Toegevoegd": 0,
+        "Vervallen": 0,
+        "Gewijzigd": 0,
+        "Hernoemd": 0
+      },
+      "wijzigingen_totaal": 0,
+      "toelichting": {
+        "Bron": "delta-tabel-elementgroep-.pdf (1 pagina)",
+        "Groen vetgedrukt": "Nieuwe waarde / nieuw gekoppeld  →  status “Nieuw”",
+        "Rood doorgehaald": "Oude waarde / niet langer gekoppeld  →  status “Vervallen”",
+        "Oranje cursief": "Gewijzigd (bijv. hernoemd)  →  status “Hernoemd”",
+        "Zonder opmaak": "Ongewijzigd  →  status “Ongewijzigd”",
+        "Gele markering": "Cel gemarkeerd in de bron (tabblad “Delta tabel”)",
+        "Aantal elementgroepen": "21",
+        "waarvan nieuw": "0",
+        "waarvan vervallen": "0",
+        "waarvan hernoemd": "0",
+        "waarvan ongewijzigd": "21",
+        "Elementgroepen": "Eén regel per elementgroep met de status (Excel-tabel, filterbaar).",
+        "Delta tabel": "Getrouwe weergave van de oorspronkelijke delta tabel (kolommen Oud / Nieuw, met opmaak).",
+        "_regels": [
+          "Delta tabel elementgroepen (elementGroep)",
+          "Overzicht van de elementgroepen en de wijzigingen (oud → nieuw), overgenomen uit de PDF.",
+          "Legenda",
+          "Samenvatting",
+          "Tabbladen",
+          "Opmerkingen bij de conversie",
+          "•  Deze delta tabel bevat alleen de kolom Naam (Oud / Nieuw); er zijn geen andere kenmerken of koppelingen in de bron.",
+          "•  In de bron is niets gewijzigd: alle 21 elementgroepen staan zonder opmaak in de kolom “Oud” en de kolom “Nieuw” is leeg. Er is daarom geen tabblad met wijzigingen.",
+          "•  In de elemententabel is de kolom Elementgroep niet gevuld; de koppeling tussen element en elementgroep staat dus niet in die bron.",
+          "•  Tekst is 1-op-1 overgenomen; eventuele type- of spelfouten uit de bron zijn niet gecorrigeerd."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+Afkorting,Gebreksoort,Onderdeel,Oud,Nieuw,Mutatie
+Afs,Afsterving,Gebreksoort,,Afsterving,Toegevoegd
+Afs,Afsterving,Gebrek,,Afsterving,Toegevoegd
+Afs,Afsterving,Gebrek,,Scheutlengte-ontwikkeling,Toegevoegd
+Afs,Afsterving,Gebrek,,Blauwalgontwikkeling,Toegevoegd
+Aft,Aftakeling,Gebreksoort,,Aftakeling,Toegevoegd
+Aft,Aftakeling,Gebrek,,Houtweefselschade,Toegevoegd
+Aft,Aftakeling,Gebrek,,Houtrot,Toegevoegd
+Aft,Aftakeling,Gebrek,,Bedekkingsgraad,Toegevoegd
+Aft,Aftakeling,Gebrek,,Groeiontwikkeling,Toegevoegd
+Aft,Aftakeling,Gebrek,,Aantasting,Toegevoegd
+Afw,Afwerking,Gebrek,"Takken laaghangend, niet kritisch",,Vervallen
+Afw,Afwerking,Gebrek,"Takken laaghangend, kritisch",,Vervallen
+Bk,Basiskwaliteit,Gebrek,"Exotengroei, ongewenst",,Vervallen
+Bk,Basiskwaliteit,Gebrek,"Houtige begroeing, onderbroken",,Vervallen
+Bk,Basiskwaliteit,Gebrek,"Bladontwikkeling, onjuist",,Vervallen
+Bk,Basiskwaliteit,Gebrek,,"Afdekking, ongewenst",Toegevoegd
+Bko,Basiskwaliteit en veroudering onderdelen,Gebrek,Vertrapping,,Vervallen
+Cp,Constructief primair,Gebrek,Aanhechtingsmankement,,Vervallen
+Cp,Constructief primair,Gebrek,"Groeistoornis, kritisch",,Vervallen
+Cp,Constructief primair,Gebrek,"Kroon-stam, verhouding onjuist",,Vervallen
+Cp,Constructief primair,Gebrek,"Insectenvraat, kritisch",,Vervallen
+Cp,Constructief primair,Gebrek,"Gesteltakken, gescheurd",,Vervallen
+Cp,Constructief primair,Gebrek,"Ziekte, kritisch",,Vervallen
+Cp,Constructief primair,Gebrek,"Zuigers, overlast",,Vervallen
+Cp,Constructief primair,Gebrek,,Windworp,Toegevoegd
+Cp,Constructief primair,Gebrek,,Omgevallen,Toegevoegd
+Cp,Constructief primair,Gebrek,,Verdwenen,Toegevoegd
+Cs,Constructief secundair,Gebrek,"Kroonontwikkeling, onevenwichtig",,Vervallen
+Cs,Constructief secundair,Gebrek,"Bladkleur, afwijkend",,Vervallen
+Cs,Constructief secundair,Gebrek,"Groeistoornis, niet kritisch",,Vervallen
+Cs,Constructief secundair,Gebrek,"Groeihoogte onjuist, niet kritisch",,Vervallen
+Cs,Constructief secundair,Gebrek,"Kroon-stam, verhouding afwijkend",,Vervallen
+Cs,Constructief secundair,Gebrek,Reactiehout,,Vervallen
+Cs,Constructief secundair,Gebrek,"Ziekte, niet kritisch",,Vervallen
+Cs,Constructief secundair,Gebrek,Wurgwortels,,Vervallen
+Cs,Constructief secundair,Gebrek,"Groeihoogte onjuist, kritisch",,Vervallen
+Cs,Constructief secundair,Gebrek,,"Aansluiting, onvoldoende",Toegevoegd
+Mo,Materiaal oppervlak,Gebrek,"Stam, beschadigd",,Vervallen
+Mo,Materiaal oppervlak,Gebrek,Wildschade,,Vervallen
+Mo,Materiaal oppervlak,Gebrek,"Aantasting, niet kritisch",,Vervallen
+Mo,Materiaal oppervlak,Gebrek,"Kroon, beschadigd",,Vervallen
+Mo,Materiaal oppervlak,Gebrek,"Wortels, beschadigd",,Vervallen
+Mo,Materiaal oppervlak,Gebrek,"Bedekkingsgraad, onvoldoende",,Vervallen
+Mi,Materiaalintrinsiek,Gebrek,Houtrot,,Vervallen
+Mi,Materiaalintrinsiek,Gebrek,Verdroging,,Vervallen
+Mi,Materiaalintrinsiek,Gebrek,"Aantasting, kritisch",,Vervallen
+Mi,Materiaalintrinsiek,Gebrek,,Erosie,Toegevoegd
+Mi,Materiaalintrinsiek,Gebrek,,Gaten,Toegevoegd
+Nop,Niet optimaal,Gebreksoort,,Niet optimaal,Toegevoegd
+Nop,Niet optimaal,Gebrek,,Bloeiontwikkeling,Toegevoegd
+Ond,Onderhoud,Gebrek,"Insectenvraat, niet kritisch",,Vervallen
+Ond,Onderhoud,Gebrek,,"Begroeiing, ongewenst",Toegevoegd
+Ond,Onderhoud,Gebrek,,"Soortenrijkdom, onvoldoende",Toegevoegd
+Sti,Stilstand,Gebreksoort,,Stilstand,Toegevoegd
+Sti,Stilstand,Gebrek,,Bladverkleuring,Toegevoegd
+Sti,Stilstand,Gebrek,,Wondreactie,Toegevoegd
+Sti,Stilstand,Gebrek,,Stamontwikkeling,Toegevoegd
+Sti,Stilstand,Gebrek,,Bladontwikkeling,Toegevoegd
+Wp,Werking primair,Gebrek,Afsterving,,Vervallen
+Wp,Werking primair,Gebrek,"Boomvitaliteit, vermindering",,Vervallen
+Wp,Werking primair,Gebrek,"Bloeiontwikkeling, onvoldoende",,Vervallen
+Wp,Werking primair,Gebrek,"Top, dubbel",,Vervallen
+Wp,Werking primair,Gebrek,Plakoksel,,Vervallen
+Ws,Werking secundair,Gebrek,"Snoeiwond, afgrendeling onjuist",,Vervallen

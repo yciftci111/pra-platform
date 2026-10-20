@@ -1,0 +1,1516 @@
+Nr,Code,Gebrek,Materiaalsoort (oud),Materiaalsoort (nieuw),Mutatie
+1,G-181,Aangroei,Hout,Hout,Ongewijzigd
+1,G-181,Aangroei,Beton,Beton,Ongewijzigd
+1,G-181,Aangroei,Steen,Steen,Ongewijzigd
+1,G-181,Aangroei,Kunststof,Kunststof,Ongewijzigd
+1,G-181,Aangroei,Asfalt,Asfalt,Ongewijzigd
+1,G-181,Aangroei,Staal,Staal,Ongewijzigd
+1,G-181,Aangroei,Aluminium,Aluminium,Ongewijzigd
+1,G-181,Aangroei,Zink,Zink,Ongewijzigd
+1,G-181,Aangroei,Gietijzer,Gietijzer,Ongewijzigd
+1,G-181,Aangroei,Metaal; overig,Metaal; overig,Ongewijzigd
+1,G-181,Aangroei,Rubber,Rubber,Ongewijzigd
+1,G-181,Aangroei,Asfalt (open),Asfalt (open),Ongewijzigd
+1,G-181,Aangroei,Keramiek,Keramiek,Ongewijzigd
+1,G-181,Aangroei,Betonpuin,Betonpuin,Ongewijzigd
+1,G-181,Aangroei,Steenpuin,Steenpuin,Ongewijzigd
+1,G-181,Aangroei,Stortsteen,Stortsteen,Ongewijzigd
+1,G-181,Aangroei,Zetsteen,Zetsteen,Ongewijzigd
+1,G-181,Aangroei,Metselwerk,Metselwerk,Ongewijzigd
+1,G-181,Aangroei,Bomen,,Vervallen
+2,G-119,Aanhechtingsmankement,Bomen,,Vervallen
+2,G-119,Aanhechtingsmankement,Fauna,,Vervallen
+3,G-198,"Aansluiting, defect",Hout,Hout,Ongewijzigd
+3,G-198,"Aansluiting, defect",Beton,Beton,Ongewijzigd
+3,G-198,"Aansluiting, defect",Steen,Steen,Ongewijzigd
+3,G-198,"Aansluiting, defect",Kunststof,Kunststof,Ongewijzigd
+3,G-198,"Aansluiting, defect",,Grond,Toegevoegd
+3,G-198,"Aansluiting, defect",Gietijzer,Gietijzer,Ongewijzigd
+3,G-198,"Aansluiting, defect",Fauna,Fauna,Ongewijzigd
+3,G-198,"Aansluiting, defect",Keramiek,Keramiek,Ongewijzigd
+3,G-198,"Aansluiting, defect",Stortsteen,Stortsteen,Ongewijzigd
+3,G-198,"Aansluiting, defect",Zetsteen,Zetsteen,Ongewijzigd
+3,G-198,"Aansluiting, defect",,Breuksteen,Toegevoegd
+4,G-136,"Aansluiting, onjuist",Hout,Hout,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Beton,Beton,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Steen,Steen,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Kunststof,Kunststof,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Gietijzer,Gietijzer,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Fauna,Fauna,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Keramiek,Keramiek,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Stortsteen,Stortsteen,Ongewijzigd
+4,G-136,"Aansluiting, onjuist",Zetsteen,Zetsteen,Ongewijzigd
+5,G-230,"Aansluiting, onvoldoende",,Hout,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Beton,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Steen,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Glas,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Kunststof,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Staal,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Metaal; overig,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",,Zand,Toegevoegd
+6,G-120,Aantasting,,Boomschors,Toegevoegd
+6,G-120,Aantasting,,Kruidachtige vegetatie,Toegevoegd
+6,G-120,Aantasting,,Houtige vegetatie,Toegevoegd
+7,G-120,"Aantasting, kritisch",Gras,,Vervallen
+7,G-120,"Aantasting, kritisch",Beplanting,,Vervallen
+7,G-120,"Aantasting, kritisch",Bomen,,Vervallen
+7,G-120,"Aantasting, kritisch",Riet,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Gras,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Beplanting,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Bomen,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Riet,,Vervallen
+9,G-028,Afbrokkelen,Beton,Beton,Ongewijzigd
+9,G-028,Afbrokkelen,Steen,Steen,Ongewijzigd
+9,G-028,Afbrokkelen,Asfalt,Asfalt,Ongewijzigd
+9,G-028,Afbrokkelen,Rubber,Rubber,Ongewijzigd
+9,G-028,Afbrokkelen,Asfalt (open),Asfalt (open),Ongewijzigd
+9,G-028,Afbrokkelen,Keramiek,Keramiek,Ongewijzigd
+9,G-028,Afbrokkelen,Stortsteen,Stortsteen,Ongewijzigd
+9,G-028,Afbrokkelen,Zetsteen,Zetsteen,Ongewijzigd
+9,G-028,Afbrokkelen,Gips,Gips,Ongewijzigd
+9,G-028,Afbrokkelen,Tapijt,Tapijt,Ongewijzigd
+9,G-028,Afbrokkelen,Linoleum,Linoleum,Ongewijzigd
+9,G-028,Afbrokkelen,Bitumen,Bitumen,Ongewijzigd
+9,G-028,Afbrokkelen,Metselwerk,Metselwerk,Ongewijzigd
+9,G-028,Afbrokkelen,Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+10,G-224,"Afdekking, ongewenst",,Kruidachtige vegetatie,Toegevoegd
+11,G-001,"Afdichting, defect",Hout,Hout,Ongewijzigd
+11,G-001,"Afdichting, defect",Beton,Beton,Ongewijzigd
+11,G-001,"Afdichting, defect",Steen,Steen,Ongewijzigd
+11,G-001,"Afdichting, defect",Glas,Glas,Ongewijzigd
+11,G-001,"Afdichting, defect",Kunststof,Kunststof,Ongewijzigd
+11,G-001,"Afdichting, defect",Asfalt,Asfalt,Ongewijzigd
+11,G-001,"Afdichting, defect",Mechaniek,Mechaniek,Ongewijzigd
+11,G-001,"Afdichting, defect",Hydrauliek,Hydrauliek,Ongewijzigd
+11,G-001,"Afdichting, defect",Staal,Staal,Ongewijzigd
+11,G-001,"Afdichting, defect",Aluminium,Aluminium,Ongewijzigd
+11,G-001,"Afdichting, defect",Zink,Zink,Ongewijzigd
+11,G-001,"Afdichting, defect",Gietijzer,Gietijzer,Ongewijzigd
+11,G-001,"Afdichting, defect",Metaal; overig,Metaal; overig,Ongewijzigd
+11,G-001,"Afdichting, defect",Rubber,Rubber,Ongewijzigd
+11,G-001,"Afdichting, defect",Asfalt (open),Asfalt (open),Ongewijzigd
+11,G-001,"Afdichting, defect",Koper,Koper,Ongewijzigd
+11,G-001,"Afdichting, defect",Kurk,Kurk,Ongewijzigd
+11,G-001,"Afdichting, defect",Keramiek,Keramiek,Ongewijzigd
+11,G-001,"Afdichting, defect",Stortsteen,Stortsteen,Ongewijzigd
+11,G-001,"Afdichting, defect",Zetsteen,Zetsteen,Ongewijzigd
+12,G-029,"Afschot, foutief",Hout,Hout,Ongewijzigd
+12,G-029,"Afschot, foutief",Beton,Beton,Ongewijzigd
+12,G-029,"Afschot, foutief",Steen,Steen,Ongewijzigd
+12,G-029,"Afschot, foutief",Kunststof,Kunststof,Ongewijzigd
+12,G-029,"Afschot, foutief",Asfalt,Asfalt,Ongewijzigd
+12,G-029,"Afschot, foutief",Grond,Grond,Ongewijzigd
+12,G-029,"Afschot, foutief",Staal,Staal,Ongewijzigd
+12,G-029,"Afschot, foutief",Aluminium,Aluminium,Ongewijzigd
+12,G-029,"Afschot, foutief",Zink,Zink,Ongewijzigd
+12,G-029,"Afschot, foutief",Gietijzer,Gietijzer,Ongewijzigd
+12,G-029,"Afschot, foutief",Metaal; overig,Metaal; overig,Ongewijzigd
+12,G-029,"Afschot, foutief",Asfalt (open),Asfalt (open),Ongewijzigd
+12,G-029,"Afschot, foutief",Koper,Koper,Ongewijzigd
+12,G-029,"Afschot, foutief",Grind,Grind,Ongewijzigd
+12,G-029,"Afschot, foutief",Zand,Zand,Ongewijzigd
+12,G-029,"Afschot, foutief",Beplanting,Beplanting,Ongewijzigd
+12,G-029,"Afschot, foutief",Fauna,Fauna,Ongewijzigd
+12,G-029,"Afschot, foutief",Keramiek,Keramiek,Ongewijzigd
+12,G-029,"Afschot, foutief",Betonpuin,Betonpuin,Ongewijzigd
+12,G-029,"Afschot, foutief",Steenpuin,Steenpuin,Ongewijzigd
+12,G-029,"Afschot, foutief",Stortsteen,Stortsteen,Ongewijzigd
+12,G-029,"Afschot, foutief",Zetsteen,Zetsteen,Ongewijzigd
+12,G-029,"Afschot, foutief",Riet,Riet,Ongewijzigd
+12,G-029,"Afschot, foutief",Schelpen,,Vervallen
+12,G-029,"Afschot, foutief",Bomen,,Vervallen
+13,G-002,Afschuiving,Grond,Grond,Ongewijzigd
+13,G-002,Afschuiving,Gras,Gras,Ongewijzigd
+13,G-002,Afschuiving,Zand,Zand,Ongewijzigd
+13,G-002,Afschuiving,Beplanting,Beplanting,Ongewijzigd
+13,G-002,Afschuiving,Riet,Riet,Ongewijzigd
+14,G-003,Afsterving,Gras,Gras,Ongewijzigd
+14,G-003,Afsterving,Beplanting,Beplanting,Ongewijzigd
+14,G-003,Afsterving,Bomen,,Vervallen
+14,G-003,Afsterving,,Kruidachtige vegetatie,Toegevoegd
+14,G-003,Afsterving,,Houtige vegetatie,Toegevoegd
+15,G-168,"Afzetting, aangehecht",Hout,Hout,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Beton,Beton,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Steen,Steen,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Glas,Glas,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Kunststof,Kunststof,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Asfalt,Asfalt,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Staal,Staal,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Aluminium,Aluminium,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Zink,Zink,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Gietijzer,Gietijzer,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Metaal; overig,Metaal; overig,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Asfalt (open),Asfalt (open),Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Keramiek,Keramiek,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Stortsteen,Stortsteen,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Zetsteen,Zetsteen,Ongewijzigd
+15,G-168,"Afzetting, aangehecht",Bomen,,Vervallen
+16,G-216,"Afzetting, bezonken",Beton,Beton,Ongewijzigd
+16,G-216,"Afzetting, bezonken",Steen,Steen,Ongewijzigd
+16,G-216,"Afzetting, bezonken",Kunststof,Kunststof,Ongewijzigd
+16,G-216,"Afzetting, bezonken",Staal,Staal,Ongewijzigd
+16,G-216,"Afzetting, bezonken",Gietijzer,Gietijzer,Ongewijzigd
+16,G-216,"Afzetting, bezonken",Keramiek,Keramiek,Ongewijzigd
+17,G-206,Bedekkingsgraad,Gras,Gras,Ongewijzigd
+17,G-206,Bedekkingsgraad,Beplanting,Beplanting,Ongewijzigd
+17,G-206,Bedekkingsgraad,Bomen,,Vervallen
+17,G-206,Bedekkingsgraad,,Kruidachtige vegetatie,Toegevoegd
+17,G-206,Bedekkingsgraad,,Houtige vegetatie,Toegevoegd
+17,G-206,Bedekkingsgraad,,Watervegetatie,Toegevoegd
+18,G-221,"Begroeiing, ongewenst",,Steen,Toegevoegd
+18,G-221,"Begroeiing, ongewenst",,Asfalt (open),Toegevoegd
+18,G-221,"Begroeiing, ongewenst",,Zetsteen,Toegevoegd
+19,G-005,"Beschermingsgraad, onvoldoende",Mechaniek,Mechaniek,Ongewijzigd
+19,G-005,"Beschermingsgraad, onvoldoende",Elektrotechniek,Elektrotechniek,Ongewijzigd
+19,G-005,"Beschermingsgraad, onvoldoende",Hydrauliek,Hydrauliek,Ongewijzigd
+20,G-057,"Beschermlaag, defect",Beton,Beton,Ongewijzigd
+20,G-057,"Beschermlaag, defect",Steen,Steen,Ongewijzigd
+20,G-057,"Beschermlaag, defect",Stortsteen,Stortsteen,Ongewijzigd
+20,G-057,"Beschermlaag, defect",Zetsteen,Zetsteen,Ongewijzigd
+21,G-199,"Bevestiging, defect",Hout,Hout,Ongewijzigd
+21,G-199,"Bevestiging, defect",Beton,Beton,Ongewijzigd
+21,G-199,"Bevestiging, defect",Steen,Steen,Ongewijzigd
+21,G-199,"Bevestiging, defect",Glas,Glas,Ongewijzigd
+21,G-199,"Bevestiging, defect",Kunststof,Kunststof,Ongewijzigd
+21,G-199,"Bevestiging, defect",Mechaniek,Mechaniek,Ongewijzigd
+21,G-199,"Bevestiging, defect",Elektrotechniek,Elektrotechniek,Ongewijzigd
+21,G-199,"Bevestiging, defect",Hydrauliek,Hydrauliek,Ongewijzigd
+21,G-199,"Bevestiging, defect",Stortsteen,Stortsteen,Ongewijzigd
+21,G-199,"Bevestiging, defect",Zetsteen,Zetsteen,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Hout,Hout,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Beton,Beton,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Steen,Steen,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Glas,Glas,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Kunststof,Kunststof,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Mechaniek,Mechaniek,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Elektrotechniek,Elektrotechniek,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Hydrauliek,Hydrauliek,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Staal,Staal,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Aluminium,Aluminium,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Zink,Zink,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Gietijzer,Gietijzer,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Metaal; overig,Metaal; overig,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Rubber,Rubber,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Fauna,Fauna,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Keramiek,Keramiek,Ongewijzigd
+22,G-065,"Bevestiging, onjuist",Zetsteen,Zetsteen,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Hout,Hout,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Kunststof,Kunststof,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Mechaniek,Mechaniek,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Elektrotechniek,Elektrotechniek,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Hydrauliek,Hydrauliek,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Staal,Staal,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Aluminium,Aluminium,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Zink,Zink,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Gietijzer,Gietijzer,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Metaal; overig,Metaal; overig,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Rubber,Rubber,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Koper,Koper,Ongewijzigd
+23,G-033,"Bevestiging, ontbreekt",Fauna,Fauna,Ongewijzigd
+24,G-169,Bezinksel,Beton,Beton,Ongewijzigd
+24,G-169,Bezinksel,Steen,Steen,Ongewijzigd
+24,G-169,Bezinksel,Kunststof,Kunststof,Ongewijzigd
+24,G-169,Bezinksel,Gietijzer,Gietijzer,Ongewijzigd
+24,G-169,Bezinksel,Keramiek,Keramiek,Ongewijzigd
+24,G-169,Bezinksel,Stortsteen,Stortsteen,Ongewijzigd
+24,G-169,Bezinksel,Zetsteen,Zetsteen,Ongewijzigd
+25,G-118,"Biotoop, afwijkend",Fauna,Fauna,Ongewijzigd
+26,G-215,Bladontwikkeling,Beplanting,Beplanting,Ongewijzigd
+26,G-215,Bladontwikkeling,Bomen,,Vervallen
+26,G-215,Bladontwikkeling,,Kruidachtige vegetatie,Toegevoegd
+26,G-215,Bladontwikkeling,,Houtige vegetatie,Toegevoegd
+27,G-122,Bladverkleuring,Gras,Gras,Ongewijzigd
+27,G-122,Bladverkleuring,Beplanting,Beplanting,Ongewijzigd
+27,G-122,Bladverkleuring,Bomen,,Vervallen
+27,G-122,Bladverkleuring,,Kruidachtige vegetatie,Toegevoegd
+27,G-122,Bladverkleuring,,Houtige vegetatie,Toegevoegd
+28,G-217,Blauwalgontwikkeling,,Watervegetatie,Toegevoegd
+29,G-141,Bloeiontwikkeling,Beplanting,Beplanting,Ongewijzigd
+29,G-141,Bloeiontwikkeling,Bomen,,Vervallen
+29,G-141,Bloeiontwikkeling,,Kruidachtige vegetatie,Toegevoegd
+29,G-141,Bloeiontwikkeling,,Houtige vegetatie,Toegevoegd
+30,G-034,"Boomvitaliteit, vermindering",Bomen,,Vervallen
+31,G-035,Boomwortelopgroei,Hout,Hout,Ongewijzigd
+31,G-035,Boomwortelopgroei,Beton,Beton,Ongewijzigd
+31,G-035,Boomwortelopgroei,Steen,Steen,Ongewijzigd
+31,G-035,Boomwortelopgroei,Kunststof,Kunststof,Ongewijzigd
+31,G-035,Boomwortelopgroei,Asfalt,Asfalt,Ongewijzigd
+31,G-035,Boomwortelopgroei,Grond,Grond,Ongewijzigd
+31,G-035,Boomwortelopgroei,Gras,Gras,Ongewijzigd
+31,G-035,Boomwortelopgroei,Metaal; overig,Metaal; overig,Ongewijzigd
+31,G-035,Boomwortelopgroei,Asfalt (open),Asfalt (open),Ongewijzigd
+31,G-035,Boomwortelopgroei,Grind,Grind,Ongewijzigd
+31,G-035,Boomwortelopgroei,Zand,Zand,Ongewijzigd
+31,G-035,Boomwortelopgroei,Boomschors,Boomschors,Ongewijzigd
+31,G-035,Boomwortelopgroei,Beplanting,Beplanting,Ongewijzigd
+31,G-035,Boomwortelopgroei,Fauna,Fauna,Ongewijzigd
+31,G-035,Boomwortelopgroei,Keramiek,Keramiek,Ongewijzigd
+31,G-035,Boomwortelopgroei,Betonpuin,Betonpuin,Ongewijzigd
+31,G-035,Boomwortelopgroei,Steenpuin,Steenpuin,Ongewijzigd
+31,G-035,Boomwortelopgroei,Stortsteen,Stortsteen,Ongewijzigd
+31,G-035,Boomwortelopgroei,Zetsteen,Zetsteen,Ongewijzigd
+31,G-035,Boomwortelopgroei,Schelpen,,Vervallen
+32,G-006,Breuk,Hout,Hout,Ongewijzigd
+32,G-006,Breuk,Beton,Beton,Ongewijzigd
+32,G-006,Breuk,Steen,Steen,Ongewijzigd
+32,G-006,Breuk,Glas,Glas,Ongewijzigd
+32,G-006,Breuk,Kunststof,Kunststof,Ongewijzigd
+32,G-006,Breuk,Mechaniek,Mechaniek,Ongewijzigd
+32,G-006,Breuk,Elektrotechniek,Elektrotechniek,Ongewijzigd
+32,G-006,Breuk,Hydrauliek,Hydrauliek,Ongewijzigd
+32,G-006,Breuk,Staal,Staal,Ongewijzigd
+32,G-006,Breuk,Aluminium,Aluminium,Ongewijzigd
+32,G-006,Breuk,Zink,Zink,Ongewijzigd
+32,G-006,Breuk,Gietijzer,Gietijzer,Ongewijzigd
+32,G-006,Breuk,Metaal; overig,Metaal; overig,Ongewijzigd
+32,G-006,Breuk,Rubber,Rubber,Ongewijzigd
+32,G-006,Breuk,Koper,Koper,Ongewijzigd
+32,G-006,Breuk,Kurk,Kurk,Ongewijzigd
+32,G-006,Breuk,Emaille,Emaille,Ongewijzigd
+32,G-006,Breuk,Fauna,Fauna,Ongewijzigd
+32,G-006,Breuk,Keramiek,Keramiek,Ongewijzigd
+32,G-006,Breuk,Stortsteen,Stortsteen,Ongewijzigd
+32,G-006,Breuk,Zetsteen,Zetsteen,Ongewijzigd
+32,G-006,Breuk,Gips,Gips,Ongewijzigd
+32,G-006,Breuk,Bitumen,Bitumen,Ongewijzigd
+32,G-006,Breuk,Riet,Riet,Ongewijzigd
+32,G-006,Breuk,Metselwerk,Metselwerk,Ongewijzigd
+32,G-006,Breuk,Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Beton,Beton,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Steen,Steen,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Kunststof,Kunststof,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Staal,Staal,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Aluminium,Aluminium,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Gietijzer,Gietijzer,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Zand,Zand,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Fauna,Fauna,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Keramiek,Keramiek,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Stortsteen,Stortsteen,Ongewijzigd
+33,G-157,"Breuk/instorting, riool",Zetsteen,Zetsteen,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Hout,Hout,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Beton,Beton,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Kunststof,Kunststof,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Mechaniek,Mechaniek,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Elektrotechniek,Elektrotechniek,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Hydrauliek,Hydrauliek,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Staal,Staal,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Aluminium,Aluminium,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Metaal; overig,Metaal; overig,Ongewijzigd
+34,G-107,"Capaciteit, verminderd",Fauna,Fauna,Ongewijzigd
+35,G-093,"Codering, onjuist",Mechaniek,Mechaniek,Ongewijzigd
+35,G-093,"Codering, onjuist",Elektrotechniek,Elektrotechniek,Ongewijzigd
+35,G-093,"Codering, onjuist",Hydrauliek,Hydrauliek,Ongewijzigd
+36,G-196,"Comfort, fietspad",Asfaltbeton,Asfaltbeton,Ongewijzigd
+36,G-196,"Comfort, fietspad",Elementen,Elementen,Ongewijzigd
+36,G-196,"Comfort, fietspad",Cementbeton,Cementbeton,Ongewijzigd
+36,G-196,"Comfort, fietspad",Halfverhard,Halfverhard,Ongewijzigd
+36,G-196,"Comfort, fietspad",Onverhard,Onverhard,Ongewijzigd
+36,G-196,"Comfort, fietspad",Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+36,G-196,"Comfort, fietspad",Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+37,G-037,"Corrosie, uniform",Mechaniek,Mechaniek,Ongewijzigd
+37,G-037,"Corrosie, uniform",Elektrotechniek,Elektrotechniek,Ongewijzigd
+37,G-037,"Corrosie, uniform",Hydrauliek,Hydrauliek,Ongewijzigd
+37,G-037,"Corrosie, uniform",Staal,Staal,Ongewijzigd
+37,G-037,"Corrosie, uniform",Aluminium,Aluminium,Ongewijzigd
+37,G-037,"Corrosie, uniform",Zink,Zink,Ongewijzigd
+37,G-037,"Corrosie, uniform",Gietijzer,Gietijzer,Ongewijzigd
+37,G-037,"Corrosie, uniform",Metaal; overig,Metaal; overig,Ongewijzigd
+37,G-037,"Corrosie, uniform",Koper,Koper,Ongewijzigd
+37,G-037,"Corrosie, uniform",Fauna,Fauna,Ongewijzigd
+38,G-130,"Dakgrind, ingezakt",Kunststof,Kunststof,Ongewijzigd
+38,G-130,"Dakgrind, ingezakt",Grind,Grind,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Hout,Hout,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Beton,Beton,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Steen,Steen,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Kunststof,Kunststof,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Asfalt,Asfalt,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Gras,Gras,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Mechaniek,Mechaniek,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Hydrauliek,Hydrauliek,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Staal,Staal,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Aluminium,Aluminium,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Zink,Zink,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Gietijzer,Gietijzer,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Metaal; overig,Metaal; overig,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Rubber,Rubber,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Koper,Koper,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Keramiek,Keramiek,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Granulaat,Granulaat,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Stortsteen,Stortsteen,Ongewijzigd
+39,G-007,"Deformatie, kritiek",Zetsteen,Zetsteen,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Hout,Hout,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Beton,Beton,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Steen,Steen,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Kunststof,Kunststof,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Asfalt,Asfalt,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Mechaniek,Mechaniek,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Hydrauliek,Hydrauliek,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Staal,Staal,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Aluminium,Aluminium,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Zink,Zink,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Gietijzer,Gietijzer,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Metaal; overig,Metaal; overig,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Rubber,Rubber,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Koper,Koper,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Keramiek,Keramiek,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Granulaat,Granulaat,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Stortsteen,Stortsteen,Ongewijzigd
+40,G-182,"Deformatie, niet kritiek",Zetsteen,Zetsteen,Ongewijzigd
+41,G-192,Delaminatie,Beton,Beton,Ongewijzigd
+41,G-192,Delaminatie,Steen,Steen,Ongewijzigd
+41,G-192,Delaminatie,Kunststof,Kunststof,Ongewijzigd
+41,G-192,Delaminatie,Asfalt,Asfalt,Ongewijzigd
+41,G-192,Delaminatie,Staal,Staal,Ongewijzigd
+41,G-192,Delaminatie,Asfalt (open),Asfalt (open),Ongewijzigd
+41,G-192,Delaminatie,Keramiek,Keramiek,Ongewijzigd
+41,G-192,Delaminatie,Stortsteen,Stortsteen,Ongewijzigd
+41,G-192,Delaminatie,Zetsteen,Zetsteen,Ongewijzigd
+42,G-194,Desintegratie,Hout,Hout,Ongewijzigd
+42,G-194,Desintegratie,Beton,Beton,Ongewijzigd
+42,G-194,Desintegratie,Steen,Steen,Ongewijzigd
+42,G-194,Desintegratie,Kunststof,Kunststof,Ongewijzigd
+42,G-194,Desintegratie,Mechaniek,Mechaniek,Ongewijzigd
+42,G-194,Desintegratie,Staal,Staal,Ongewijzigd
+42,G-194,Desintegratie,Aluminium,Aluminium,Ongewijzigd
+42,G-194,Desintegratie,Zink,Zink,Ongewijzigd
+42,G-194,Desintegratie,Gietijzer,Gietijzer,Ongewijzigd
+42,G-194,Desintegratie,Metaal; overig,Metaal; overig,Ongewijzigd
+42,G-194,Desintegratie,Keramiek,Keramiek,Ongewijzigd
+42,G-194,Desintegratie,Stortsteen,Stortsteen,Ongewijzigd
+42,G-194,Desintegratie,Zetsteen,Zetsteen,Ongewijzigd
+43,G-009,"Dichtgroei, boomopslag",Grond,Grond,Ongewijzigd
+43,G-009,"Dichtgroei, boomopslag",Gras,Gras,Ongewijzigd
+43,G-009,"Dichtgroei, boomopslag",Beplanting,Beplanting,Ongewijzigd
+43,G-009,"Dichtgroei, boomopslag",Fauna,Fauna,Ongewijzigd
+44,G-016,"Diepte, onvoldoende",Grond,Grond,Ongewijzigd
+45,G-096,"Documentatie, onjuist",Mechaniek,Mechaniek,Ongewijzigd
+45,G-096,"Documentatie, onjuist",Elektrotechniek,Elektrotechniek,Ongewijzigd
+45,G-096,"Documentatie, onjuist",Hydrauliek,Hydrauliek,Ongewijzigd
+46,G-208,"Draagkracht bodem, onvoldoende",Grond,Grond,Ongewijzigd
+46,G-208,"Draagkracht bodem, onvoldoende",Gras,Gras,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Beton,Beton,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Steen,Steen,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Kunststof,Kunststof,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Asfalt,Asfalt,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Grond,Grond,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Asfalt (open),Asfalt (open),Ongewijzigd
+47,G-038,Dwarsonvlakheid,Koper,Koper,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Grind,Grind,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Zand,Zand,Ongewijzigd
+47,G-038,Dwarsonvlakheid,,Schelp,Toegevoegd
+47,G-038,Dwarsonvlakheid,Boomschors,Boomschors,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Asfaltbeton,Asfaltbeton,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Elementen,Elementen,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Gravel,Gravel,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+47,G-038,Dwarsonvlakheid,Kunstgras,Kunstgras,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Keramiek,Keramiek,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Betonpuin,Betonpuin,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Steenpuin,Steenpuin,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Stortsteen,Stortsteen,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Zetsteen,Zetsteen,Ongewijzigd
+47,G-038,Dwarsonvlakheid,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+47,G-038,Dwarsonvlakheid,,Grasklinker,Toegevoegd
+47,G-038,Dwarsonvlakheid,,Puin,Toegevoegd
+48,G-040,Erosie,Hout,,Vervallen
+48,G-040,Erosie,Beton,,Vervallen
+48,G-040,Erosie,Steen,,Vervallen
+48,G-040,Erosie,Glas,,Vervallen
+48,G-040,Erosie,Kunststof,,Vervallen
+48,G-040,Erosie,Asfalt,,Vervallen
+48,G-040,Erosie,Grond,,Vervallen
+48,G-040,Erosie,Gras,,Vervallen
+48,G-040,Erosie,Mechaniek,,Vervallen
+48,G-040,Erosie,Elektrotechniek,,Vervallen
+48,G-040,Erosie,Hydrauliek,,Vervallen
+48,G-040,Erosie,Staal,,Vervallen
+48,G-040,Erosie,Aluminium,,Vervallen
+48,G-040,Erosie,Zink,,Vervallen
+48,G-040,Erosie,Gietijzer,,Vervallen
+48,G-040,Erosie,Metaal; overig,,Vervallen
+48,G-040,Erosie,Rubber,,Vervallen
+48,G-040,Erosie,Koper,,Vervallen
+48,G-040,Erosie,Installaties,,Vervallen
+48,G-040,Erosie,Zand,,Vervallen
+48,G-040,Erosie,Beplanting,,Vervallen
+48,G-040,Erosie,Fauna,,Vervallen
+48,G-040,Erosie,Keramiek,,Vervallen
+48,G-040,Erosie,Granulaat,,Vervallen
+48,G-040,Erosie,Betonpuin,,Vervallen
+48,G-040,Erosie,Steenpuin,,Vervallen
+48,G-040,Erosie,Stortsteen,,Vervallen
+48,G-040,Erosie,Zetsteen,,Vervallen
+49,G-040,Erosie,,Grond,Toegevoegd
+50,G-015,"Exotengroei, ongewenst",Grond,,Vervallen
+50,G-015,"Exotengroei, ongewenst",Gras,,Vervallen
+50,G-015,"Exotengroei, ongewenst",Water,,Vervallen
+50,G-015,"Exotengroei, ongewenst",Beplanting,,Vervallen
+51,G-010,"Functie, afwezig",Hout,Hout,Ongewijzigd
+51,G-010,"Functie, afwezig",Steen,Steen,Ongewijzigd
+51,G-010,"Functie, afwezig",Kunststof,Kunststof,Ongewijzigd
+51,G-010,"Functie, afwezig",Mechaniek,Mechaniek,Ongewijzigd
+51,G-010,"Functie, afwezig",Elektrotechniek,Elektrotechniek,Ongewijzigd
+51,G-010,"Functie, afwezig",Hydrauliek,Hydrauliek,Ongewijzigd
+51,G-010,"Functie, afwezig",Metaal; overig,Metaal; overig,Ongewijzigd
+51,G-010,"Functie, afwezig",Fauna,Fauna,Ongewijzigd
+51,G-010,"Functie, afwezig",Keramiek,Keramiek,Ongewijzigd
+51,G-010,"Functie, afwezig",Betonpuin,Betonpuin,Ongewijzigd
+51,G-010,"Functie, afwezig",Steenpuin,Steenpuin,Ongewijzigd
+51,G-010,"Functie, afwezig",Stortsteen,Stortsteen,Ongewijzigd
+51,G-010,"Functie, afwezig",Zetsteen,Zetsteen,Ongewijzigd
+51,G-010,"Functie, afwezig",Steenwol,Steenwol,Ongewijzigd
+51,G-010,"Functie, afwezig",Glaswol,Glaswol,Ongewijzigd
+52,G-041,"Functie, verminderd",Hout,Hout,Ongewijzigd
+52,G-041,"Functie, verminderd",Beton,Beton,Ongewijzigd
+52,G-041,"Functie, verminderd",Steen,Steen,Ongewijzigd
+52,G-041,"Functie, verminderd",Glas,Glas,Ongewijzigd
+52,G-041,"Functie, verminderd",Kunststof,Kunststof,Ongewijzigd
+52,G-041,"Functie, verminderd",Asfalt,Asfalt,Ongewijzigd
+52,G-041,"Functie, verminderd",Gras,Gras,Ongewijzigd
+52,G-041,"Functie, verminderd",Mechaniek,Mechaniek,Ongewijzigd
+52,G-041,"Functie, verminderd",Elektrotechniek,Elektrotechniek,Ongewijzigd
+52,G-041,"Functie, verminderd",Hydrauliek,Hydrauliek,Ongewijzigd
+52,G-041,"Functie, verminderd",Staal,Staal,Ongewijzigd
+52,G-041,"Functie, verminderd",Aluminium,Aluminium,Ongewijzigd
+52,G-041,"Functie, verminderd",Zink,Zink,Ongewijzigd
+52,G-041,"Functie, verminderd",Gietijzer,Gietijzer,Ongewijzigd
+52,G-041,"Functie, verminderd",Metaal; overig,Metaal; overig,Ongewijzigd
+52,G-041,"Functie, verminderd",Rubber,Rubber,Ongewijzigd
+52,G-041,"Functie, verminderd",Zetsteen,Zetsteen,Ongewijzigd
+52,G-041,"Functie, verminderd",Steenwol,Steenwol,Ongewijzigd
+52,G-041,"Functie, verminderd",Glaswol,Glaswol,Ongewijzigd
+52,G-041,"Functie, verminderd",,Breuksteen,Toegevoegd
+53,G-126,Gaten,Hout,,Vervallen
+53,G-126,Gaten,Beton,,Vervallen
+53,G-126,Gaten,Steen,,Vervallen
+53,G-126,Gaten,Glas,,Vervallen
+53,G-126,Gaten,Kunststof,,Vervallen
+53,G-126,Gaten,Asfalt,,Vervallen
+53,G-126,Gaten,Grond,,Vervallen
+53,G-126,Gaten,Gras,,Vervallen
+53,G-126,Gaten,Staal,,Vervallen
+53,G-126,Gaten,Aluminium,,Vervallen
+53,G-126,Gaten,Zink,,Vervallen
+53,G-126,Gaten,Gietijzer,,Vervallen
+53,G-126,Gaten,Metaal; overig,,Vervallen
+53,G-126,Gaten,Rubber,,Vervallen
+53,G-126,Gaten,Asfalt (open),,Vervallen
+53,G-126,Gaten,Koper,,Vervallen
+53,G-126,Gaten,Grind,,Vervallen
+53,G-126,Gaten,Zand,,Vervallen
+53,G-126,Gaten,Boomschors,,Vervallen
+53,G-126,Gaten,Bomen,,Vervallen
+53,G-126,Gaten,Fauna,,Vervallen
+53,G-126,Gaten,Kunstgras,,Vervallen
+53,G-126,Gaten,Keramiek,,Vervallen
+53,G-126,Gaten,Granulaat,,Vervallen
+53,G-126,Gaten,Betonpuin,,Vervallen
+53,G-126,Gaten,Steenpuin,,Vervallen
+53,G-126,Gaten,Zetsteen,,Vervallen
+53,G-126,Gaten,Riet,,Vervallen
+53,G-126,Gaten,Metselwerk,,Vervallen
+53,G-126,Gaten,Geëxpandeerd polystyreen (EPS),,Vervallen
+54,G-126,Gaten,,Beton,Toegevoegd
+54,G-126,Gaten,,Steen,Toegevoegd
+54,G-126,Gaten,,Grond,Toegevoegd
+54,G-126,Gaten,,Stortsteen,Toegevoegd
+54,G-126,Gaten,,Breuksteen,Toegevoegd
+55,G-148,"Gesteltakken, gescheurd",Bomen,,Vervallen
+56,G-100,Graffity,Hout,Hout,Ongewijzigd
+56,G-100,Graffity,Beton,Beton,Ongewijzigd
+56,G-100,Graffity,Steen,Steen,Ongewijzigd
+56,G-100,Graffity,Glas,Glas,Ongewijzigd
+56,G-100,Graffity,Kunststof,Kunststof,Ongewijzigd
+56,G-100,Graffity,Asfalt,Asfalt,Ongewijzigd
+56,G-100,Graffity,Staal,Staal,Ongewijzigd
+56,G-100,Graffity,Aluminium,Aluminium,Ongewijzigd
+56,G-100,Graffity,Zink,Zink,Ongewijzigd
+56,G-100,Graffity,Gietijzer,Gietijzer,Ongewijzigd
+56,G-100,Graffity,Metaal; overig,Metaal; overig,Ongewijzigd
+56,G-100,Graffity,Rubber,Rubber,Ongewijzigd
+56,G-100,Graffity,Asfalt (open),Asfalt (open),Ongewijzigd
+56,G-100,Graffity,Koper,Koper,Ongewijzigd
+56,G-100,Graffity,Emaille,Emaille,Ongewijzigd
+56,G-100,Graffity,Fauna,Fauna,Ongewijzigd
+56,G-100,Graffity,Keramiek,Keramiek,Ongewijzigd
+56,G-100,Graffity,Stortsteen,Stortsteen,Ongewijzigd
+56,G-100,Graffity,Zetsteen,Zetsteen,Ongewijzigd
+56,G-100,Graffity,Riet,Riet,Ongewijzigd
+57,G-031,"Grasmat, beschadigd",Gras,Gras,Ongewijzigd
+57,G-031,"Grasmat, beschadigd",Zand,Zand,Ongewijzigd
+58,G-129,"Groeihoogte onjuist, niet kritisch",Beplanting,,Vervallen
+58,G-129,"Groeihoogte onjuist, niet kritisch",Bomen,,Vervallen
+58,G-129,"Groeihoogte onjuist, niet kritisch",Fauna,,Vervallen
+59,G-218,Groeiontwikkeling,,Kruidachtige vegetatie,Toegevoegd
+60,G-128,"Groeistoornis, niet kritisch",Kunststof,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Gras,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Zand,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Beplanting,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Bomen,,Vervallen
+61,G-042,Groeven,Hout,Hout,Ongewijzigd
+61,G-042,Groeven,Beton,Beton,Ongewijzigd
+61,G-042,Groeven,Steen,Steen,Ongewijzigd
+61,G-042,Groeven,Glas,Glas,Ongewijzigd
+61,G-042,Groeven,Kunststof,Kunststof,Ongewijzigd
+61,G-042,Groeven,Asfalt,Asfalt,Ongewijzigd
+61,G-042,Groeven,Mechaniek,Mechaniek,Ongewijzigd
+61,G-042,Groeven,Hydrauliek,Hydrauliek,Ongewijzigd
+61,G-042,Groeven,Staal,Staal,Ongewijzigd
+61,G-042,Groeven,Aluminium,Aluminium,Ongewijzigd
+61,G-042,Groeven,Zink,Zink,Ongewijzigd
+61,G-042,Groeven,Gietijzer,Gietijzer,Ongewijzigd
+61,G-042,Groeven,Metaal; overig,Metaal; overig,Ongewijzigd
+61,G-042,Groeven,Rubber,Rubber,Ongewijzigd
+61,G-042,Groeven,Asfalt (open),Asfalt (open),Ongewijzigd
+61,G-042,Groeven,Koper,Koper,Ongewijzigd
+61,G-042,Groeven,Grind,Grind,Ongewijzigd
+61,G-042,Groeven,Kunstgras,Kunstgras,Ongewijzigd
+61,G-042,Groeven,Keramiek,Keramiek,Ongewijzigd
+61,G-042,Groeven,Stortsteen,Stortsteen,Ongewijzigd
+61,G-042,Groeven,Zetsteen,Zetsteen,Ongewijzigd
+61,G-042,Groeven,Gips,Gips,Ongewijzigd
+62,G-170,Grondindringing,Beton,Beton,Ongewijzigd
+62,G-170,Grondindringing,Steen,Steen,Ongewijzigd
+62,G-170,Grondindringing,Kunststof,Kunststof,Ongewijzigd
+62,G-170,Grondindringing,Gietijzer,Gietijzer,Ongewijzigd
+62,G-170,Grondindringing,Fauna,Fauna,Ongewijzigd
+62,G-170,Grondindringing,Keramiek,Keramiek,Ongewijzigd
+62,G-170,Grondindringing,Stortsteen,Stortsteen,Ongewijzigd
+62,G-170,Grondindringing,Zetsteen,Zetsteen,Ongewijzigd
+63,G-142,"Houtige begroeing, onderbroken",Beplanting,,Vervallen
+63,G-142,"Houtige begroeing, onderbroken",Bomen,,Vervallen
+63,G-142,"Houtige begroeing, onderbroken",Fauna,,Vervallen
+64,G-011,Houtrot,Hout,Hout,Ongewijzigd
+64,G-011,Houtrot,Fauna,Fauna,Ongewijzigd
+64,G-011,Houtrot,Riet,Riet,Ongewijzigd
+64,G-011,Houtrot,Bomen,,Vervallen
+64,G-011,Houtrot,,Houtige vegetatie,Toegevoegd
+65,G-032,Houtweefselschade,Bomen,,Vervallen
+65,G-032,Houtweefselschade,,Houtige vegetatie,Toegevoegd
+66,G-172,Infiltratie,Beton,Beton,Ongewijzigd
+66,G-172,Infiltratie,Steen,Steen,Ongewijzigd
+66,G-172,Infiltratie,Gietijzer,Gietijzer,Ongewijzigd
+66,G-172,Infiltratie,Keramiek,Keramiek,Ongewijzigd
+66,G-172,Infiltratie,Stortsteen,Stortsteen,Ongewijzigd
+66,G-172,Infiltratie,Zetsteen,Zetsteen,Ongewijzigd
+67,G-108,"Inlaat, instekend",Beton,Beton,Ongewijzigd
+67,G-108,"Inlaat, instekend",Steen,Steen,Ongewijzigd
+67,G-108,"Inlaat, instekend",Kunststof,Kunststof,Ongewijzigd
+67,G-108,"Inlaat, instekend",Gietijzer,Gietijzer,Ongewijzigd
+67,G-108,"Inlaat, instekend",Keramiek,Keramiek,Ongewijzigd
+67,G-108,"Inlaat, instekend",Stortsteen,Stortsteen,Ongewijzigd
+67,G-108,"Inlaat, instekend",Zetsteen,Zetsteen,Ongewijzigd
+68,G-144,"Insectenvraat, kritisch",Hout,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Kunststof,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Gras,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Aluminium,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Zink,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Rubber,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Koper,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Kurk,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Textiel,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Vilt,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Jute,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Beplanting,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Bomen,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Riet,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Hout,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Kunststof,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Gras,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Aluminium,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Zink,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Rubber,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Koper,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Kurk,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Textiel,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Vilt,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Jute,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Beplanting,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Bomen,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Riet,,Vervallen
+70,G-090,"Instelling, foutief",Mechaniek,Mechaniek,Ongewijzigd
+70,G-090,"Instelling, foutief",Elektrotechniek,Elektrotechniek,Ongewijzigd
+70,G-090,"Instelling, foutief",Hydrauliek,Hydrauliek,Ongewijzigd
+71,G-131,Kieren,Hout,Hout,Ongewijzigd
+71,G-131,Kieren,Beton,Beton,Ongewijzigd
+71,G-131,Kieren,Steen,Steen,Ongewijzigd
+71,G-131,Kieren,Glas,Glas,Ongewijzigd
+71,G-131,Kieren,Kunststof,Kunststof,Ongewijzigd
+71,G-131,Kieren,Staal,Staal,Ongewijzigd
+71,G-131,Kieren,Aluminium,Aluminium,Ongewijzigd
+71,G-131,Kieren,Zink,Zink,Ongewijzigd
+71,G-131,Kieren,Gietijzer,Gietijzer,Ongewijzigd
+71,G-131,Kieren,Metaal; overig,Metaal; overig,Ongewijzigd
+71,G-131,Kieren,Rubber,Rubber,Ongewijzigd
+71,G-131,Kieren,Koper,Koper,Ongewijzigd
+71,G-131,Kieren,Fauna,Fauna,Ongewijzigd
+71,G-131,Kieren,Keramiek,Keramiek,Ongewijzigd
+71,G-131,Kieren,Zetsteen,Zetsteen,Ongewijzigd
+72,G-013,"Kortsluitvastheid, onvoldoende",Elektrotechniek,Elektrotechniek,Ongewijzigd
+73,G-072,Krassen,Hout,Hout,Ongewijzigd
+73,G-072,Krassen,Beton,Beton,Ongewijzigd
+73,G-072,Krassen,Steen,Steen,Ongewijzigd
+73,G-072,Krassen,Glas,Glas,Ongewijzigd
+73,G-072,Krassen,Kunststof,Kunststof,Ongewijzigd
+73,G-072,Krassen,Mechaniek,Mechaniek,Ongewijzigd
+73,G-072,Krassen,Elektrotechniek,Elektrotechniek,Ongewijzigd
+73,G-072,Krassen,Hydrauliek,Hydrauliek,Ongewijzigd
+73,G-072,Krassen,Staal,Staal,Ongewijzigd
+73,G-072,Krassen,Aluminium,Aluminium,Ongewijzigd
+73,G-072,Krassen,Zink,Zink,Ongewijzigd
+73,G-072,Krassen,Gietijzer,Gietijzer,Ongewijzigd
+73,G-072,Krassen,Metaal; overig,Metaal; overig,Ongewijzigd
+73,G-072,Krassen,Rubber,Rubber,Ongewijzigd
+73,G-072,Krassen,Koper,Koper,Ongewijzigd
+73,G-072,Krassen,Keramiek,Keramiek,Ongewijzigd
+73,G-072,Krassen,Stortsteen,Stortsteen,Ongewijzigd
+73,G-072,Krassen,Zetsteen,Zetsteen,Ongewijzigd
+74,G-202,"Kroon, beschadigd",Beplanting,,Vervallen
+74,G-202,"Kroon, beschadigd",Bomen,,Vervallen
+75,G-140,"Kroon-stam, verhouding afwijkend",Beplanting,,Vervallen
+75,G-140,"Kroon-stam, verhouding afwijkend",Bomen,,Vervallen
+76,G-139,"Kroon-stam, verhouding onjuist",Beplanting,,Vervallen
+76,G-139,"Kroon-stam, verhouding onjuist",Bomen,,Vervallen
+77,G-073,"Kroonontwikkeling, onevenwichtig",Bomen,,Vervallen
+78,G-043,Kwelplek,Grond,Grond,Ongewijzigd
+78,G-043,Kwelplek,Grind,Grind,Ongewijzigd
+78,G-043,Kwelplek,Zand,Zand,Ongewijzigd
+79,G-044,Langsonvlakheid,Hout,Hout,Ongewijzigd
+79,G-044,Langsonvlakheid,Beton,Beton,Ongewijzigd
+79,G-044,Langsonvlakheid,Steen,Steen,Ongewijzigd
+79,G-044,Langsonvlakheid,Kunststof,Kunststof,Ongewijzigd
+79,G-044,Langsonvlakheid,Asfalt,Asfalt,Ongewijzigd
+79,G-044,Langsonvlakheid,Grond,Grond,Ongewijzigd
+79,G-044,Langsonvlakheid,Staal,Staal,Ongewijzigd
+79,G-044,Langsonvlakheid,Aluminium,Aluminium,Ongewijzigd
+79,G-044,Langsonvlakheid,Zink,Zink,Ongewijzigd
+79,G-044,Langsonvlakheid,Gietijzer,Gietijzer,Ongewijzigd
+79,G-044,Langsonvlakheid,Asfalt (open),Asfalt (open),Ongewijzigd
+79,G-044,Langsonvlakheid,Koper,Koper,Ongewijzigd
+79,G-044,Langsonvlakheid,Grind,Grind,Ongewijzigd
+79,G-044,Langsonvlakheid,Zand,Zand,Ongewijzigd
+79,G-044,Langsonvlakheid,Boomschors,Boomschors,Ongewijzigd
+79,G-044,Langsonvlakheid,Asfaltbeton,Asfaltbeton,Ongewijzigd
+79,G-044,Langsonvlakheid,Elementen,Elementen,Ongewijzigd
+79,G-044,Langsonvlakheid,Cementbeton,Cementbeton,Ongewijzigd
+79,G-044,Langsonvlakheid,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+79,G-044,Langsonvlakheid,Kunstgras,Kunstgras,Ongewijzigd
+79,G-044,Langsonvlakheid,Keramiek,Keramiek,Ongewijzigd
+79,G-044,Langsonvlakheid,Betonpuin,Betonpuin,Ongewijzigd
+79,G-044,Langsonvlakheid,Steenpuin,Steenpuin,Ongewijzigd
+79,G-044,Langsonvlakheid,Stortsteen,Stortsteen,Ongewijzigd
+79,G-044,Langsonvlakheid,Zetsteen,Zetsteen,Ongewijzigd
+79,G-044,Langsonvlakheid,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+80,G-134,"Leemgehalte, onjuist",Gras,Gras,Ongewijzigd
+81,G-163,"Lining, defect",Beton,Beton,Ongewijzigd
+81,G-163,"Lining, defect",Steen,Steen,Ongewijzigd
+81,G-163,"Lining, defect",Kunststof,Kunststof,Ongewijzigd
+81,G-163,"Lining, defect",Gietijzer,Gietijzer,Ongewijzigd
+81,G-163,"Lining, defect",Keramiek,Keramiek,Ongewijzigd
+81,G-163,"Lining, defect",Stortsteen,Stortsteen,Ongewijzigd
+81,G-163,"Lining, defect",Zetsteen,Zetsteen,Ongewijzigd
+82,G-135,Losliggend,Hout,Hout,Ongewijzigd
+82,G-135,Losliggend,Beton,Beton,Ongewijzigd
+82,G-135,Losliggend,Steen,Steen,Ongewijzigd
+82,G-135,Losliggend,Kunststof,Kunststof,Ongewijzigd
+82,G-135,Losliggend,Staal,Staal,Ongewijzigd
+82,G-135,Losliggend,Aluminium,Aluminium,Ongewijzigd
+82,G-135,Losliggend,Metaal; overig,Metaal; overig,Ongewijzigd
+82,G-135,Losliggend,Keramiek,Keramiek,Ongewijzigd
+82,G-135,Losliggend,Zetsteen,Zetsteen,Ongewijzigd
+83,G-101,"Markering, onjuist",Kunststof,Kunststof,Ongewijzigd
+83,G-101,"Markering, onjuist",Asfalt,Asfalt,Ongewijzigd
+83,G-101,"Markering, onjuist",Staal,Staal,Ongewijzigd
+83,G-101,"Markering, onjuist",Aluminium,Aluminium,Ongewijzigd
+83,G-101,"Markering, onjuist",Zink,Zink,Ongewijzigd
+83,G-101,"Markering, onjuist",Gietijzer,Gietijzer,Ongewijzigd
+83,G-101,"Markering, onjuist",Metaal; overig,Metaal; overig,Ongewijzigd
+83,G-101,"Markering, onjuist",Rubber,Rubber,Ongewijzigd
+83,G-101,"Markering, onjuist",Asfalt (open),Asfalt (open),Ongewijzigd
+83,G-101,"Markering, onjuist",Thermoplast,Thermoplast,Ongewijzigd
+83,G-101,"Markering, onjuist",Wegenverf,Wegenverf,Ongewijzigd
+84,G-166,"Materiaal, poreus",Beton,Beton,Ongewijzigd
+84,G-166,"Materiaal, poreus",Steen,Steen,Ongewijzigd
+84,G-166,"Materiaal, poreus",Kunststof,Kunststof,Ongewijzigd
+84,G-166,"Materiaal, poreus",Staal,Staal,Ongewijzigd
+84,G-166,"Materiaal, poreus",Aluminium,Aluminium,Ongewijzigd
+84,G-166,"Materiaal, poreus",Gietijzer,Gietijzer,Ongewijzigd
+84,G-166,"Materiaal, poreus",Rubber,Rubber,Ongewijzigd
+84,G-166,"Materiaal, poreus",Koper,Koper,Ongewijzigd
+84,G-166,"Materiaal, poreus",Fauna,Fauna,Ongewijzigd
+84,G-166,"Materiaal, poreus",Keramiek,Keramiek,Ongewijzigd
+84,G-166,"Materiaal, poreus",Stortsteen,Stortsteen,Ongewijzigd
+84,G-166,"Materiaal, poreus",Zetsteen,Zetsteen,Ongewijzigd
+85,G-171,Obstakels,Beton,Beton,Ongewijzigd
+85,G-171,Obstakels,Steen,Steen,Ongewijzigd
+85,G-171,Obstakels,Kunststof,Kunststof,Ongewijzigd
+85,G-171,Obstakels,Gietijzer,Gietijzer,Ongewijzigd
+85,G-171,Obstakels,Fauna,Fauna,Ongewijzigd
+85,G-171,Obstakels,Keramiek,Keramiek,Ongewijzigd
+85,G-171,Obstakels,Betonpuin,Betonpuin,Ongewijzigd
+85,G-171,Obstakels,Stortsteen,Stortsteen,Ongewijzigd
+85,G-171,Obstakels,Zetsteen,Zetsteen,Ongewijzigd
+86,G-030,Oeverafslag,Grond,Grond,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Hout,Hout,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Beton,Beton,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Steen,Steen,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Glas,Glas,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Kunststof,Kunststof,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Asfalt,Asfalt,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Mechaniek,Mechaniek,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Elektrotechniek,Elektrotechniek,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Hydrauliek,Hydrauliek,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Staal,Staal,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Aluminium,Aluminium,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Zink,Zink,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Gietijzer,Gietijzer,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Metaal; overig,Metaal; overig,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Rubber,Rubber,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Asfalt (open),Asfalt (open),Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Koper,Koper,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Kurk,Kurk,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Textiel,Textiel,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Vilt,Vilt,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Jute,Jute,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Emaille,Emaille,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Fauna,Fauna,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Keramiek,Keramiek,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Stortsteen,Stortsteen,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Zetsteen,Zetsteen,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Absorptiekorrels,Absorptiekorrels,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Steenwol,Steenwol,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Glaswol,Glaswol,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Riet,Riet,Ongewijzigd
+88,G-048,"Onderdeel, ontbreekt",Bomen,,Vervallen
+89,G-047,Oneffenheden,Hout,Hout,Ongewijzigd
+89,G-047,Oneffenheden,Beton,Beton,Ongewijzigd
+89,G-047,Oneffenheden,Steen,Steen,Ongewijzigd
+89,G-047,Oneffenheden,Kunststof,Kunststof,Ongewijzigd
+89,G-047,Oneffenheden,Asfalt,Asfalt,Ongewijzigd
+89,G-047,Oneffenheden,Grond,Grond,Ongewijzigd
+89,G-047,Oneffenheden,Gras,Gras,Ongewijzigd
+89,G-047,Oneffenheden,Staal,Staal,Ongewijzigd
+89,G-047,Oneffenheden,Aluminium,Aluminium,Ongewijzigd
+89,G-047,Oneffenheden,Zink,Zink,Ongewijzigd
+89,G-047,Oneffenheden,Gietijzer,Gietijzer,Ongewijzigd
+89,G-047,Oneffenheden,Metaal; overig,Metaal; overig,Ongewijzigd
+89,G-047,Oneffenheden,Asfalt (open),Asfalt (open),Ongewijzigd
+89,G-047,Oneffenheden,Grind,Grind,Ongewijzigd
+89,G-047,Oneffenheden,Zand,Zand,Ongewijzigd
+89,G-047,Oneffenheden,Schelpen,Schelp,Gewijzigd
+89,G-047,Oneffenheden,Boomschors,Boomschors,Ongewijzigd
+89,G-047,Oneffenheden,Asfaltbeton,Asfaltbeton,Ongewijzigd
+89,G-047,Oneffenheden,Elementen,Elementen,Ongewijzigd
+89,G-047,Oneffenheden,Cementbeton,Cementbeton,Ongewijzigd
+89,G-047,Oneffenheden,Gravel,Gravel,Ongewijzigd
+89,G-047,Oneffenheden,Halfverhard,Halfverhard,Ongewijzigd
+89,G-047,Oneffenheden,Onverhard,Onverhard,Ongewijzigd
+89,G-047,Oneffenheden,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+89,G-047,Oneffenheden,Fauna,Fauna,Ongewijzigd
+89,G-047,Oneffenheden,Kunstgras,Kunstgras,Ongewijzigd
+89,G-047,Oneffenheden,Keramiek,Keramiek,Ongewijzigd
+89,G-047,Oneffenheden,Granulaat,Granulaat,Ongewijzigd
+89,G-047,Oneffenheden,Betonpuin,Betonpuin,Ongewijzigd
+89,G-047,Oneffenheden,Steenpuin,Steenpuin,Ongewijzigd
+89,G-047,Oneffenheden,Stortsteen,Stortsteen,Ongewijzigd
+89,G-047,Oneffenheden,Zetsteen,Zetsteen,Ongewijzigd
+89,G-047,Oneffenheden,Gips,Gips,Ongewijzigd
+89,G-047,Oneffenheden,Bitumen,Bitumen,Ongewijzigd
+89,G-047,Oneffenheden,Metselwerk,Metselwerk,Ongewijzigd
+89,G-047,Oneffenheden,Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+89,G-047,Oneffenheden,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+89,G-047,Oneffenheden,Slakken,Slakken,Ongewijzigd
+89,G-047,Oneffenheden,,Grasklinker,Toegevoegd
+89,G-047,Oneffenheden,,Puin,Toegevoegd
+90,G-074,Onkruidgroei,Hout,Hout,Ongewijzigd
+90,G-074,Onkruidgroei,Beton,Beton,Ongewijzigd
+90,G-074,Onkruidgroei,Steen,Steen,Ongewijzigd
+90,G-074,Onkruidgroei,Kunststof,Kunststof,Ongewijzigd
+90,G-074,Onkruidgroei,Asfalt,Asfalt,Ongewijzigd
+90,G-074,Onkruidgroei,Grond,Grond,Ongewijzigd
+90,G-074,Onkruidgroei,Gras,Gras,Ongewijzigd
+90,G-074,Onkruidgroei,Staal,Staal,Ongewijzigd
+90,G-074,Onkruidgroei,Aluminium,Aluminium,Ongewijzigd
+90,G-074,Onkruidgroei,Zink,Zink,Ongewijzigd
+90,G-074,Onkruidgroei,Gietijzer,Gietijzer,Ongewijzigd
+90,G-074,Onkruidgroei,Metaal; overig,Metaal; overig,Ongewijzigd
+90,G-074,Onkruidgroei,Asfalt (open),Asfalt (open),Ongewijzigd
+90,G-074,Onkruidgroei,Grind,Grind,Ongewijzigd
+90,G-074,Onkruidgroei,Zand,Zand,Ongewijzigd
+90,G-074,Onkruidgroei,,Schelp,Toegevoegd
+90,G-074,Onkruidgroei,Boomschors,Boomschors,Ongewijzigd
+90,G-074,Onkruidgroei,Gravel,Gravel,Ongewijzigd
+90,G-074,Onkruidgroei,Beplanting,Beplanting,Ongewijzigd
+90,G-074,Onkruidgroei,Kunstgras,Kunstgras,Ongewijzigd
+90,G-074,Onkruidgroei,Keramiek,Keramiek,Ongewijzigd
+90,G-074,Onkruidgroei,Betonpuin,Betonpuin,Ongewijzigd
+90,G-074,Onkruidgroei,Steenpuin,Steenpuin,Ongewijzigd
+90,G-074,Onkruidgroei,Stortsteen,Stortsteen,Ongewijzigd
+90,G-074,Onkruidgroei,Zetsteen,Zetsteen,Ongewijzigd
+90,G-074,Onkruidgroei,Bomen,,Vervallen
+90,G-074,Onkruidgroei,,Grasklinker,Toegevoegd
+90,G-074,Onkruidgroei,,Puin,Toegevoegd
+90,G-074,Onkruidgroei,,Breuksteen,Toegevoegd
+91,G-049,Ontgronding,Grond,Grond,Ongewijzigd
+91,G-049,Ontgronding,Zand,Zand,Ongewijzigd
+91,G-049,Ontgronding,Fauna,Fauna,Ongewijzigd
+92,G-191,Onthechting,Hout,Hout,Ongewijzigd
+92,G-191,Onthechting,Beton,Beton,Ongewijzigd
+92,G-191,Onthechting,,Steen,Toegevoegd
+92,G-191,Onthechting,Kunststof,Kunststof,Ongewijzigd
+92,G-191,Onthechting,Asfalt,Asfalt,Ongewijzigd
+92,G-191,Onthechting,Staal,Staal,Ongewijzigd
+92,G-191,Onthechting,Rubber,Rubber,Ongewijzigd
+92,G-191,Onthechting,Asfalt (open),Asfalt (open),Ongewijzigd
+92,G-191,Onthechting,Kurk,Kurk,Ongewijzigd
+92,G-191,Onthechting,,Stortsteen,Toegevoegd
+93,G-051,Opbolling,Steen,Steen,Ongewijzigd
+93,G-051,Opbolling,Kunststof,Kunststof,Ongewijzigd
+93,G-051,Opbolling,Grond,Grond,Ongewijzigd
+93,G-051,Opbolling,Rubber,Rubber,Ongewijzigd
+93,G-051,Opbolling,Zand,Zand,Ongewijzigd
+93,G-051,Opbolling,Boomschors,Boomschors,Ongewijzigd
+93,G-051,Opbolling,Keramiek,Keramiek,Ongewijzigd
+93,G-051,Opbolling,Stortsteen,Stortsteen,Ongewijzigd
+93,G-051,Opbolling,Zetsteen,Zetsteen,Ongewijzigd
+94,G-160,Oppervlakteschade,Hout,Hout,Ongewijzigd
+94,G-160,Oppervlakteschade,Beton,Beton,Ongewijzigd
+94,G-160,Oppervlakteschade,Steen,Steen,Ongewijzigd
+94,G-160,Oppervlakteschade,Glas,Glas,Ongewijzigd
+94,G-160,Oppervlakteschade,Kunststof,Kunststof,Ongewijzigd
+94,G-160,Oppervlakteschade,Asfalt,Asfalt,Ongewijzigd
+94,G-160,Oppervlakteschade,Mechaniek,Mechaniek,Ongewijzigd
+94,G-160,Oppervlakteschade,Staal,Staal,Ongewijzigd
+94,G-160,Oppervlakteschade,Aluminium,Aluminium,Ongewijzigd
+94,G-160,Oppervlakteschade,Zink,Zink,Ongewijzigd
+94,G-160,Oppervlakteschade,Gietijzer,Gietijzer,Ongewijzigd
+94,G-160,Oppervlakteschade,Metaal; overig,Metaal; overig,Ongewijzigd
+94,G-160,Oppervlakteschade,Rubber,Rubber,Ongewijzigd
+94,G-160,Oppervlakteschade,Asfalt (open),Asfalt (open),Ongewijzigd
+94,G-160,Oppervlakteschade,Koper,Koper,Ongewijzigd
+94,G-160,Oppervlakteschade,Kurk,Kurk,Ongewijzigd
+94,G-160,Oppervlakteschade,Textiel,Textiel,Ongewijzigd
+94,G-160,Oppervlakteschade,Vilt,Vilt,Ongewijzigd
+94,G-160,Oppervlakteschade,Jute,Jute,Ongewijzigd
+94,G-160,Oppervlakteschade,Emaille,Emaille,Ongewijzigd
+94,G-160,Oppervlakteschade,Grind,Grind,Ongewijzigd
+94,G-160,Oppervlakteschade,Zand,Zand,Ongewijzigd
+94,G-160,Oppervlakteschade,Boomschors,Boomschors,Ongewijzigd
+94,G-160,Oppervlakteschade,Fauna,Fauna,Ongewijzigd
+94,G-160,Oppervlakteschade,Kunstgras,Kunstgras,Ongewijzigd
+94,G-160,Oppervlakteschade,Keramiek,Keramiek,Ongewijzigd
+94,G-160,Oppervlakteschade,Betonpuin,Betonpuin,Ongewijzigd
+94,G-160,Oppervlakteschade,Steenpuin,Steenpuin,Ongewijzigd
+94,G-160,Oppervlakteschade,Stortsteen,Stortsteen,Ongewijzigd
+94,G-160,Oppervlakteschade,Zetsteen,Zetsteen,Ongewijzigd
+94,G-160,Oppervlakteschade,Riet,Riet,Ongewijzigd
+94,G-160,Oppervlakteschade,Metselwerk,Metselwerk,Ongewijzigd
+94,G-160,Oppervlakteschade,Schelpen,,Vervallen
+95,G-091,"Organische stof, overlast",Grond,Grond,Ongewijzigd
+95,G-091,"Organische stof, overlast",Gras,Gras,Ongewijzigd
+95,G-091,"Organische stof, overlast",Keramiek,Keramiek,Ongewijzigd
+95,G-091,"Organische stof, overlast",Betonpuin,Betonpuin,Ongewijzigd
+95,G-091,"Organische stof, overlast",Steenpuin,Steenpuin,Ongewijzigd
+95,G-091,"Organische stof, overlast",Stortsteen,Stortsteen,Ongewijzigd
+96,G-210,Plakoksel,Gras,,Vervallen
+96,G-210,Plakoksel,Bomen,,Vervallen
+97,G-075,Plasvorming,Beton,Beton,Ongewijzigd
+97,G-075,Plasvorming,Steen,Steen,Ongewijzigd
+97,G-075,Plasvorming,Kunststof,Kunststof,Ongewijzigd
+97,G-075,Plasvorming,Asfalt,Asfalt,Ongewijzigd
+97,G-075,Plasvorming,Grond,Grond,Ongewijzigd
+97,G-075,Plasvorming,Gras,Gras,Ongewijzigd
+97,G-075,Plasvorming,Asfalt (open),Asfalt (open),Ongewijzigd
+97,G-075,Plasvorming,Grind,Grind,Ongewijzigd
+97,G-075,Plasvorming,Zand,Zand,Ongewijzigd
+97,G-075,Plasvorming,Boomschors,Boomschors,Ongewijzigd
+97,G-075,Plasvorming,Gravel,Gravel,Ongewijzigd
+97,G-075,Plasvorming,Beplanting,Beplanting,Ongewijzigd
+97,G-075,Plasvorming,Fauna,Fauna,Ongewijzigd
+97,G-075,Plasvorming,Kunstgras,Kunstgras,Ongewijzigd
+97,G-075,Plasvorming,Keramiek,Keramiek,Ongewijzigd
+97,G-075,Plasvorming,Betonpuin,Betonpuin,Ongewijzigd
+97,G-075,Plasvorming,Steenpuin,Steenpuin,Ongewijzigd
+97,G-075,Plasvorming,Stortsteen,Stortsteen,Ongewijzigd
+97,G-075,Plasvorming,Zetsteen,Zetsteen,Ongewijzigd
+98,G-017,Putcorrosie,Staal,Staal,Ongewijzigd
+98,G-017,Putcorrosie,Aluminium,Aluminium,Ongewijzigd
+98,G-017,Putcorrosie,Zink,Zink,Ongewijzigd
+98,G-017,Putcorrosie,Gietijzer,Gietijzer,Ongewijzigd
+98,G-017,Putcorrosie,Metaal; overig,Metaal; overig,Ongewijzigd
+99,G-055,Rafeling,Asfalt,Asfalt,Ongewijzigd
+99,G-055,Rafeling,Asfaltbeton,Asfaltbeton,Ongewijzigd
+100,G-109,Rafeling (ZOAB),Asfalt (open),Asfalt (open),Ongewijzigd
+100,G-109,Rafeling (ZOAB),Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+100,G-109,Rafeling (ZOAB),Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+101,G-117,Randschade,Beton,Beton,Ongewijzigd
+101,G-117,Randschade,Steen,Steen,Ongewijzigd
+101,G-117,Randschade,Kunststof,Kunststof,Ongewijzigd
+101,G-117,Randschade,Asfalt,Asfalt,Ongewijzigd
+101,G-117,Randschade,Asfalt (open),Asfalt (open),Ongewijzigd
+101,G-117,Randschade,Grind,Grind,Ongewijzigd
+101,G-117,Randschade,Zand,Zand,Ongewijzigd
+101,G-117,Randschade,Boomschors,Boomschors,Ongewijzigd
+101,G-117,Randschade,Asfaltbeton,Asfaltbeton,Ongewijzigd
+101,G-117,Randschade,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+101,G-117,Randschade,Keramiek,Keramiek,Ongewijzigd
+101,G-117,Randschade,Zetsteen,Zetsteen,Ongewijzigd
+101,G-117,Randschade,Metselwerk,Metselwerk,Ongewijzigd
+101,G-117,Randschade,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+101,G-117,Randschade,Schelpen,,Vervallen
+102,G-147,Reactiehout,Bomen,,Vervallen
+103,G-207,"Schade, mechanisch",Gras,Gras,Ongewijzigd
+103,G-207,"Schade, mechanisch",Beplanting,Beplanting,Ongewijzigd
+103,G-207,"Schade, mechanisch",Bomen,,Vervallen
+104,G-106,Scheefstand,Hout,Hout,Ongewijzigd
+104,G-106,Scheefstand,Beton,Beton,Ongewijzigd
+104,G-106,Scheefstand,Steen,Steen,Ongewijzigd
+104,G-106,Scheefstand,Kunststof,Kunststof,Ongewijzigd
+104,G-106,Scheefstand,Asfalt,Asfalt,Ongewijzigd
+104,G-106,Scheefstand,Mechaniek,Mechaniek,Ongewijzigd
+104,G-106,Scheefstand,Hydrauliek,Hydrauliek,Ongewijzigd
+104,G-106,Scheefstand,Staal,Staal,Ongewijzigd
+104,G-106,Scheefstand,Aluminium,Aluminium,Ongewijzigd
+104,G-106,Scheefstand,Zink,Zink,Ongewijzigd
+104,G-106,Scheefstand,Gietijzer,Gietijzer,Ongewijzigd
+104,G-106,Scheefstand,Metaal; overig,Metaal; overig,Ongewijzigd
+104,G-106,Scheefstand,Rubber,Rubber,Ongewijzigd
+104,G-106,Scheefstand,Keramiek,Keramiek,Ongewijzigd
+104,G-106,Scheefstand,Stortsteen,Stortsteen,Ongewijzigd
+104,G-106,Scheefstand,Zetsteen,Zetsteen,Ongewijzigd
+104,G-106,Scheefstand,Riet,Riet,Ongewijzigd
+104,G-106,Scheefstand,Bomen,,Vervallen
+104,G-106,Scheefstand,,Houtige vegetatie,Toegevoegd
+105,G-018,"Scheur, constructief",Hout,Hout,Ongewijzigd
+105,G-018,"Scheur, constructief",Beton,Beton,Ongewijzigd
+105,G-018,"Scheur, constructief",Steen,Steen,Ongewijzigd
+105,G-018,"Scheur, constructief",Glas,Glas,Ongewijzigd
+105,G-018,"Scheur, constructief",Kunststof,Kunststof,Ongewijzigd
+105,G-018,"Scheur, constructief",Asfalt,Asfalt,Ongewijzigd
+105,G-018,"Scheur, constructief",Grond,Grond,Ongewijzigd
+105,G-018,"Scheur, constructief",Staal,Staal,Ongewijzigd
+105,G-018,"Scheur, constructief",Aluminium,Aluminium,Ongewijzigd
+105,G-018,"Scheur, constructief",Zink,Zink,Ongewijzigd
+105,G-018,"Scheur, constructief",Gietijzer,Gietijzer,Ongewijzigd
+105,G-018,"Scheur, constructief",Metaal; overig,Metaal; overig,Ongewijzigd
+105,G-018,"Scheur, constructief",Rubber,Rubber,Ongewijzigd
+105,G-018,"Scheur, constructief",Asfalt (open),Asfalt (open),Ongewijzigd
+105,G-018,"Scheur, constructief",Koper,Koper,Ongewijzigd
+105,G-018,"Scheur, constructief",Grind,Grind,Ongewijzigd
+105,G-018,"Scheur, constructief",Zand,Zand,Ongewijzigd
+105,G-018,"Scheur, constructief",Fauna,Fauna,Ongewijzigd
+105,G-018,"Scheur, constructief",Kunstgras,Kunstgras,Ongewijzigd
+105,G-018,"Scheur, constructief",Keramiek,Keramiek,Ongewijzigd
+105,G-018,"Scheur, constructief",Stortsteen,Stortsteen,Ongewijzigd
+105,G-018,"Scheur, constructief",Zetsteen,Zetsteen,Ongewijzigd
+105,G-018,"Scheur, constructief",Metselwerk,Metselwerk,Ongewijzigd
+105,G-018,"Scheur, constructief",Bomen,,Vervallen
+106,G-056,"Scheur, niet constructief",Hout,Hout,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Beton,Beton,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Steen,Steen,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Glas,Glas,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Kunststof,Kunststof,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Asfalt,Asfalt,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Staal,Staal,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Aluminium,Aluminium,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Zink,Zink,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Gietijzer,Gietijzer,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Metaal; overig,Metaal; overig,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Rubber,Rubber,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Asfalt (open),Asfalt (open),Ongewijzigd
+106,G-056,"Scheur, niet constructief",Koper,Koper,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Kurk,Kurk,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Textiel,Textiel,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Vilt,Vilt,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Jute,Jute,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Emaille,Emaille,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Grind,Grind,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Zand,Zand,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Fauna,Fauna,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Kunstgras,Kunstgras,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Keramiek,Keramiek,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Stortsteen,Stortsteen,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Zetsteen,Zetsteen,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Riet,Riet,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Metselwerk,Metselwerk,Ongewijzigd
+106,G-056,"Scheur, niet constructief",Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+106,G-056,"Scheur, niet constructief",Bomen,,Vervallen
+107,G-179,Scheurvorming,Asfaltbeton,Asfaltbeton,Ongewijzigd
+107,G-179,Scheurvorming,Cementbeton,Cementbeton,Ongewijzigd
+107,G-179,Scheurvorming,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+107,G-179,Scheurvorming,Granulaat,Granulaat,Ongewijzigd
+107,G-179,Scheurvorming,Gips,Gips,Ongewijzigd
+107,G-179,Scheurvorming,Tapijt,Tapijt,Ongewijzigd
+107,G-179,Scheurvorming,Linoleum,Linoleum,Ongewijzigd
+107,G-179,Scheurvorming,Bitumen,Bitumen,Ongewijzigd
+107,G-179,Scheurvorming,Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+107,G-179,Scheurvorming,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+107,G-179,Scheurvorming,Slakken,Slakken,Ongewijzigd
+108,G-127,Scheutlengte-ontwikkeling,Gras,Gras,Ongewijzigd
+108,G-127,Scheutlengte-ontwikkeling,Beplanting,Beplanting,Ongewijzigd
+108,G-127,Scheutlengte-ontwikkeling,Bomen,,Vervallen
+108,G-127,Scheutlengte-ontwikkeling,,Kruidachtige vegetatie,Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,,Houtige vegetatie,Toegevoegd
+109,G-087,"Servicetermijn, ten einde",Mechaniek,Mechaniek,Ongewijzigd
+109,G-087,"Servicetermijn, ten einde",Elektrotechniek,Elektrotechniek,Ongewijzigd
+109,G-087,"Servicetermijn, ten einde",Hydrauliek,Hydrauliek,Ongewijzigd
+110,G-197,"Slijtage, mechanisch",Mechaniek,Mechaniek,Ongewijzigd
+110,G-197,"Slijtage, mechanisch",Hydrauliek,Hydrauliek,Ongewijzigd
+110,G-197,"Slijtage, mechanisch",Pneumatiek,Pneumatiek,Ongewijzigd
+111,G-211,"Slijtage, sportvelden",Gras,Gras,Ongewijzigd
+111,G-211,"Slijtage, sportvelden",Kunstgras,Kunstgras,Ongewijzigd
+112,G-050,"Smering, onvoldoende",Mechaniek,Mechaniek,Ongewijzigd
+112,G-050,"Smering, onvoldoende",Hydrauliek,Hydrauliek,Ongewijzigd
+113,G-226,"Soortenrijkdom, onvoldoende",,Kruidachtige vegetatie,Toegevoegd
+114,G-019,Spleetcorrosie,Staal,Staal,Ongewijzigd
+114,G-019,Spleetcorrosie,Aluminium,Aluminium,Ongewijzigd
+114,G-019,Spleetcorrosie,Zink,Zink,Ongewijzigd
+114,G-019,Spleetcorrosie,Gietijzer,Gietijzer,Ongewijzigd
+114,G-019,Spleetcorrosie,Metaal; overig,Metaal; overig,Ongewijzigd
+115,G-188,Spoordiepte,Halfverhard,Halfverhard,Ongewijzigd
+115,G-188,Spoordiepte,Onverhard,Onverhard,Ongewijzigd
+116,G-058,Spoorvorming,Grond,Grond,Ongewijzigd
+116,G-058,Spoorvorming,Gras,Gras,Ongewijzigd
+116,G-058,Spoorvorming,Gravel,Gravel,Ongewijzigd
+116,G-058,Spoorvorming,Beplanting,Beplanting,Ongewijzigd
+116,G-058,Spoorvorming,Fauna,Fauna,Ongewijzigd
+116,G-058,Spoorvorming,Granulaat,Granulaat,Ongewijzigd
+117,G-203,Stamontwikkeling,Beplanting,Beplanting,Ongewijzigd
+117,G-203,Stamontwikkeling,Fauna,Fauna,Ongewijzigd
+117,G-203,Stamontwikkeling,Bomen,,Vervallen
+117,G-203,Stamontwikkeling,,Houtige vegetatie,Toegevoegd
+118,G-059,Stroefheid,Hout,Hout,Ongewijzigd
+118,G-059,Stroefheid,Beton,Beton,Ongewijzigd
+118,G-059,Stroefheid,Steen,Steen,Ongewijzigd
+118,G-059,Stroefheid,Kunststof,Kunststof,Ongewijzigd
+118,G-059,Stroefheid,Asfalt,Asfalt,Ongewijzigd
+118,G-059,Stroefheid,Asfalt (open),Asfalt (open),Ongewijzigd
+118,G-059,Stroefheid,Asfaltbeton,Asfaltbeton,Ongewijzigd
+118,G-059,Stroefheid,Cementbeton,Cementbeton,Ongewijzigd
+118,G-059,Stroefheid,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+118,G-059,Stroefheid,Betonpuin,Betonpuin,Ongewijzigd
+118,G-059,Stroefheid,Steenpuin,Steenpuin,Ongewijzigd
+118,G-059,Stroefheid,Stortsteen,Stortsteen,Ongewijzigd
+118,G-059,Stroefheid,Zetsteen,Zetsteen,Ongewijzigd
+118,G-059,Stroefheid,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+119,G-205,"Takken laaghangend, kritisch",Bomen,,Vervallen
+120,G-133,"Takken laaghangend, niet kritisch",Bomen,,Vervallen
+121,G-099,"Theoretische levensduur, 100%",Hout,Hout,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Beton,Beton,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Steen,Steen,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Kunststof,Kunststof,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Asfalt,Asfalt,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Mechaniek,Mechaniek,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Elektrotechniek,Elektrotechniek,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Hydrauliek,Hydrauliek,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Staal,Staal,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Aluminium,Aluminium,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Zink,Zink,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Gietijzer,Gietijzer,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Metaal; overig,Metaal; overig,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Rubber,Rubber,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Asfalt (open),Asfalt (open),Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Keramiek,Keramiek,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Stortsteen,Stortsteen,Ongewijzigd
+121,G-099,"Theoretische levensduur, 100%",Zetsteen,Zetsteen,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Hout,Hout,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Beton,Beton,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Steen,Steen,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Kunststof,Kunststof,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Asfalt,Asfalt,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Mechaniek,Mechaniek,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Elektrotechniek,Elektrotechniek,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Hydrauliek,Hydrauliek,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Staal,Staal,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Aluminium,Aluminium,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Zink,Zink,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Gietijzer,Gietijzer,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Metaal; overig,Metaal; overig,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Rubber,Rubber,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Asfalt (open),Asfalt (open),Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Keramiek,Keramiek,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Stortsteen,Stortsteen,Ongewijzigd
+122,G-103,"Theoretische levensduur, ouder dan 75%",Zetsteen,Zetsteen,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Hout,Hout,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Beton,Beton,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Steen,Steen,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Kunststof,Kunststof,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Asfalt,Asfalt,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Mechaniek,Mechaniek,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Elektrotechniek,Elektrotechniek,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Hydrauliek,Hydrauliek,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Staal,Staal,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Aluminium,Aluminium,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Zink,Zink,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Gietijzer,Gietijzer,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Metaal; overig,Metaal; overig,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Rubber,Rubber,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Asfalt (open),Asfalt (open),Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Keramiek,Keramiek,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Stortsteen,Stortsteen,Ongewijzigd
+123,G-102,"Theoretische levensduur, tussen 50% en 75%",Zetsteen,Zetsteen,Ongewijzigd
+124,G-209,"Top, dubbel",Bomen,,Vervallen
+125,G-008,"Toplaag, dichtgeslibd",Asfalt,Asfalt,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Grond,Grond,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Gras,Gras,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Grind,Grind,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Zand,Zand,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Boomschors,Boomschors,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Beplanting,Beplanting,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Kunstgras,Kunstgras,Ongewijzigd
+125,G-008,"Toplaag, dichtgeslibd",Schelpen,,Vervallen
+126,G-053,"Trilling, overmatig",Mechaniek,Mechaniek,Ongewijzigd
+126,G-053,"Trilling, overmatig",Elektrotechniek,Elektrotechniek,Ongewijzigd
+126,G-053,"Trilling, overmatig",Hydrauliek,Hydrauliek,Ongewijzigd
+127,G-020,Uitspoeling,Beton,Beton,Ongewijzigd
+127,G-020,Uitspoeling,Steen,Steen,Ongewijzigd
+127,G-020,Uitspoeling,Grond,Grond,Ongewijzigd
+127,G-020,Uitspoeling,Grind,Grind,Ongewijzigd
+127,G-020,Uitspoeling,Zand,Zand,Ongewijzigd
+127,G-020,Uitspoeling,Gravel,Gravel,Ongewijzigd
+127,G-020,Uitspoeling,Fauna,Fauna,Ongewijzigd
+127,G-020,Uitspoeling,Keramiek,Keramiek,Ongewijzigd
+127,G-020,Uitspoeling,Betonpuin,Betonpuin,Ongewijzigd
+127,G-020,Uitspoeling,Steenpuin,Steenpuin,Ongewijzigd
+127,G-020,Uitspoeling,Stortsteen,Stortsteen,Ongewijzigd
+127,G-020,Uitspoeling,Zetsteen,Zetsteen,Ongewijzigd
+128,G-022,"Verankering, defect",Hout,Hout,Ongewijzigd
+128,G-022,"Verankering, defect",Beton,Beton,Ongewijzigd
+128,G-022,"Verankering, defect",Steen,Steen,Ongewijzigd
+128,G-022,"Verankering, defect",Kunststof,Kunststof,Ongewijzigd
+128,G-022,"Verankering, defect",Staal,Staal,Ongewijzigd
+128,G-022,"Verankering, defect",Aluminium,Aluminium,Ongewijzigd
+128,G-022,"Verankering, defect",Zink,Zink,Ongewijzigd
+128,G-022,"Verankering, defect",Gietijzer,Gietijzer,Ongewijzigd
+128,G-022,"Verankering, defect",Metaal; overig,Metaal; overig,Ongewijzigd
+128,G-022,"Verankering, defect",Fauna,Fauna,Ongewijzigd
+128,G-022,"Verankering, defect",Keramiek,Keramiek,Ongewijzigd
+128,G-022,"Verankering, defect",Stortsteen,Stortsteen,Ongewijzigd
+128,G-022,"Verankering, defect",Zetsteen,Zetsteen,Ongewijzigd
+128,G-022,"Verankering, defect",Bomen,,Vervallen
+129,G-162,"Verbinding, verplaatst",Hout,Hout,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Beton,Beton,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Steen,Steen,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Kunststof,Kunststof,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Staal,Staal,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Aluminium,Aluminium,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Zink,Zink,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Gietijzer,Gietijzer,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Metaal; overig,Metaal; overig,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Koper,Koper,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Keramiek,Keramiek,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Stortsteen,Stortsteen,Ongewijzigd
+129,G-162,"Verbinding, verplaatst",Zetsteen,Zetsteen,Ongewijzigd
+130,G-078,Verdroging,Kunststof,,Vervallen
+130,G-078,Verdroging,Grond,,Vervallen
+130,G-078,Verdroging,Gras,,Vervallen
+130,G-078,Verdroging,Zand,,Vervallen
+130,G-078,Verdroging,Beplanting,,Vervallen
+130,G-078,Verdroging,Bomen,,Vervallen
+130,G-078,Verdroging,Riet,,Vervallen
+131,G-229,Verdwenen,,Hout,Toegevoegd
+131,G-229,Verdwenen,,Beton,Toegevoegd
+131,G-229,Verdwenen,,Zand,Toegevoegd
+132,G-079,Vergrassing,Kunststof,Kunststof,Ongewijzigd
+132,G-079,Vergrassing,Grond,Grond,Ongewijzigd
+132,G-079,Vergrassing,Grind,Grind,Ongewijzigd
+132,G-079,Vergrassing,Zand,Zand,Ongewijzigd
+132,G-079,Vergrassing,Boomschors,Boomschors,Ongewijzigd
+132,G-079,Vergrassing,Beplanting,Beplanting,Ongewijzigd
+132,G-079,Vergrassing,Schelpen,,Vervallen
+133,G-023,Vergraving,Grond,Grond,Ongewijzigd
+133,G-023,Vergraving,Gras,Gras,Ongewijzigd
+133,G-023,Vergraving,Grind,Grind,Ongewijzigd
+133,G-023,Vergraving,Zand,Zand,Ongewijzigd
+133,G-023,Vergraving,Boomschors,Boomschors,Ongewijzigd
+133,G-023,Vergraving,Beplanting,Beplanting,Ongewijzigd
+133,G-023,Vergraving,Fauna,Fauna,Ongewijzigd
+133,G-023,Vergraving,Kunstgras,Kunstgras,Ongewijzigd
+133,G-023,Vergraving,Bomen,,Vervallen
+134,G-080,Verhouting,Beplanting,Beplanting,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Kunststof,Kunststof,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Asfalt,Asfalt,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Staal,Staal,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Aluminium,Aluminium,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Zink,Zink,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Gietijzer,Gietijzer,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Metaal; overig,Metaal; overig,Ongewijzigd
+135,G-105,"Verkeerstekens, onvoldoende",Asfalt (open),Asfalt (open),Ongewijzigd
+136,G-082,Verlanding,Grond,Grond,Ongewijzigd
+136,G-082,Verlanding,Zand,Zand,Ongewijzigd
+137,G-083,Vermossing,Kunststof,Kunststof,Ongewijzigd
+137,G-083,Vermossing,Grond,Grond,Ongewijzigd
+137,G-083,Vermossing,Gras,Gras,Ongewijzigd
+137,G-083,Vermossing,Grind,Grind,Ongewijzigd
+137,G-083,Vermossing,Zand,Zand,Ongewijzigd
+137,G-083,Vermossing,Boomschors,Boomschors,Ongewijzigd
+137,G-083,Vermossing,Kunstgras,Kunstgras,Ongewijzigd
+137,G-083,Vermossing,Riet,Riet,Ongewijzigd
+138,G-024,Verpoederen,Kunststof,Kunststof,Ongewijzigd
+138,G-024,Verpoederen,Rubber,Rubber,Ongewijzigd
+138,G-024,Verpoederen,Vilt,Vilt,Ongewijzigd
+138,G-024,Verpoederen,Emaille,Emaille,Ongewijzigd
+138,G-024,Verpoederen,Grind,Grind,Ongewijzigd
+139,G-213,Verpulveren,Kunststof,Kunststof,Ongewijzigd
+139,G-213,Verpulveren,Rubber,Rubber,Ongewijzigd
+139,G-213,Verpulveren,Vilt,Vilt,Ongewijzigd
+139,G-213,Verpulveren,Emaille,Emaille,Ongewijzigd
+139,G-213,Verpulveren,Grind,Grind,Ongewijzigd
+140,G-214,Verruiging,,Steen,Toegevoegd
+140,G-214,Verruiging,Gras,Gras,Ongewijzigd
+140,G-214,Verruiging,Beplanting,Beplanting,Ongewijzigd
+140,G-214,Verruiging,,Kruidachtige vegetatie,Toegevoegd
+141,G-061,"Verspreidingsweerstand, onjuist",Elektrotechniek,Elektrotechniek,Ongewijzigd
+142,G-088,Verstopping,Beton,Beton,Ongewijzigd
+142,G-088,Verstopping,Steen,Steen,Ongewijzigd
+142,G-088,Verstopping,Kunststof,Kunststof,Ongewijzigd
+142,G-088,Verstopping,Staal,Staal,Ongewijzigd
+142,G-088,Verstopping,Aluminium,Aluminium,Ongewijzigd
+142,G-088,Verstopping,Zink,Zink,Ongewijzigd
+142,G-088,Verstopping,Gietijzer,Gietijzer,Ongewijzigd
+142,G-088,Verstopping,Metaal; overig,Metaal; overig,Ongewijzigd
+142,G-088,Verstopping,Rubber,Rubber,Ongewijzigd
+142,G-088,Verstopping,Keramiek,Keramiek,Ongewijzigd
+142,G-088,Verstopping,Stortsteen,Stortsteen,Ongewijzigd
+142,G-088,Verstopping,Zetsteen,Zetsteen,Ongewijzigd
+142,G-088,Verstopping,Absorptiekorrels,Absorptiekorrels,Ongewijzigd
+143,G-062,Verstuiving,Grond,Grond,Ongewijzigd
+143,G-062,Verstuiving,Gras,Gras,Ongewijzigd
+143,G-062,Verstuiving,Zand,Zand,Ongewijzigd
+143,G-062,Verstuiving,Beplanting,Beplanting,Ongewijzigd
+144,G-052,Vertrapping,Grond,,Vervallen
+144,G-052,Vertrapping,Gras,,Vervallen
+145,G-193,Vervorming,Hout,Hout,Ongewijzigd
+145,G-193,Vervorming,Beton,Beton,Ongewijzigd
+145,G-193,Vervorming,Steen,Steen,Ongewijzigd
+145,G-193,Vervorming,Kunststof,Kunststof,Ongewijzigd
+145,G-193,Vervorming,Asfalt,Asfalt,Ongewijzigd
+145,G-193,Vervorming,Mechaniek,Mechaniek,Ongewijzigd
+145,G-193,Vervorming,Hydrauliek,Hydrauliek,Ongewijzigd
+145,G-193,Vervorming,Staal,Staal,Ongewijzigd
+145,G-193,Vervorming,Aluminium,Aluminium,Ongewijzigd
+145,G-193,Vervorming,Zink,Zink,Ongewijzigd
+145,G-193,Vervorming,Gietijzer,Gietijzer,Ongewijzigd
+145,G-193,Vervorming,Metaal; overig,Metaal; overig,Ongewijzigd
+145,G-193,Vervorming,Rubber,Rubber,Ongewijzigd
+145,G-193,Vervorming,Koper,Koper,Ongewijzigd
+145,G-193,Vervorming,Keramiek,Keramiek,Ongewijzigd
+145,G-193,Vervorming,Betonpuin,Betonpuin,Ongewijzigd
+145,G-193,Vervorming,Steenpuin,Steenpuin,Ongewijzigd
+145,G-193,Vervorming,Stortsteen,Stortsteen,Ongewijzigd
+145,G-193,Vervorming,Zetsteen,Zetsteen,Ongewijzigd
+146,G-104,Vervuiling,Hout,Hout,Ongewijzigd
+146,G-104,Vervuiling,Beton,Beton,Ongewijzigd
+146,G-104,Vervuiling,Steen,Steen,Ongewijzigd
+146,G-104,Vervuiling,Glas,Glas,Ongewijzigd
+146,G-104,Vervuiling,Kunststof,Kunststof,Ongewijzigd
+146,G-104,Vervuiling,Asfalt,Asfalt,Ongewijzigd
+146,G-104,Vervuiling,Grond,Grond,Ongewijzigd
+146,G-104,Vervuiling,Gras,Gras,Ongewijzigd
+146,G-104,Vervuiling,Mechaniek,Mechaniek,Ongewijzigd
+146,G-104,Vervuiling,Hydrauliek,Hydrauliek,Ongewijzigd
+146,G-104,Vervuiling,Staal,Staal,Ongewijzigd
+146,G-104,Vervuiling,Aluminium,Aluminium,Ongewijzigd
+146,G-104,Vervuiling,Zink,Zink,Ongewijzigd
+146,G-104,Vervuiling,Gietijzer,Gietijzer,Ongewijzigd
+146,G-104,Vervuiling,Metaal; overig,Metaal; overig,Ongewijzigd
+146,G-104,Vervuiling,Rubber,Rubber,Ongewijzigd
+146,G-104,Vervuiling,Asfalt (open),Asfalt (open),Ongewijzigd
+146,G-104,Vervuiling,Koper,Koper,Ongewijzigd
+146,G-104,Vervuiling,Water,Water,Ongewijzigd
+146,G-104,Vervuiling,Grind,Grind,Ongewijzigd
+146,G-104,Vervuiling,Zand,Zand,Ongewijzigd
+146,G-104,Vervuiling,Schelpen,Schelp,Gewijzigd
+146,G-104,Vervuiling,Boomschors,Boomschors,Ongewijzigd
+146,G-104,Vervuiling,,Asfaltbeton,Toegevoegd
+146,G-104,Vervuiling,,Cementbeton,Toegevoegd
+146,G-104,Vervuiling,Gravel,Gravel,Ongewijzigd
+146,G-104,Vervuiling,Beplanting,Beplanting,Ongewijzigd
+146,G-104,Vervuiling,Fauna,Fauna,Ongewijzigd
+146,G-104,Vervuiling,Kunstgras,Kunstgras,Ongewijzigd
+146,G-104,Vervuiling,Keramiek,Keramiek,Ongewijzigd
+146,G-104,Vervuiling,Granulaat,Granulaat,Ongewijzigd
+146,G-104,Vervuiling,Betonpuin,Betonpuin,Ongewijzigd
+146,G-104,Vervuiling,Steenpuin,Steenpuin,Ongewijzigd
+146,G-104,Vervuiling,Stortsteen,Stortsteen,Ongewijzigd
+146,G-104,Vervuiling,Zetsteen,Zetsteen,Ongewijzigd
+146,G-104,Vervuiling,Absorptiekorrels,Absorptiekorrels,Ongewijzigd
+146,G-104,Vervuiling,Riet,Riet,Ongewijzigd
+146,G-104,Vervuiling,Bomen,,Vervallen
+146,G-104,Vervuiling,,Grasklinker,Toegevoegd
+146,G-104,Vervuiling,,Puin,Toegevoegd
+147,G-063,Verweking,Hout,Hout,Ongewijzigd
+147,G-063,Verweking,Beton,Beton,Ongewijzigd
+147,G-063,Verweking,Steen,Steen,Ongewijzigd
+147,G-063,Verweking,Kunststof,Kunststof,Ongewijzigd
+147,G-063,Verweking,Grond,Grond,Ongewijzigd
+147,G-063,Verweking,Gras,Gras,Ongewijzigd
+147,G-063,Verweking,Grind,Grind,Ongewijzigd
+147,G-063,Verweking,Zand,Zand,Ongewijzigd
+147,G-063,Verweking,Boomschors,Boomschors,Ongewijzigd
+147,G-063,Verweking,Fauna,Fauna,Ongewijzigd
+147,G-063,Verweking,Keramiek,Keramiek,Ongewijzigd
+147,G-063,Verweking,Stortsteen,Stortsteen,Ongewijzigd
+147,G-063,Verweking,Zetsteen,Zetsteen,Ongewijzigd
+147,G-063,Verweking,Schelpen,,Vervallen
+148,G-110,Verwering,Hout,Hout,Ongewijzigd
+148,G-110,Verwering,Beton,Beton,Ongewijzigd
+148,G-110,Verwering,Steen,Steen,Ongewijzigd
+148,G-110,Verwering,Glas,Glas,Ongewijzigd
+148,G-110,Verwering,Kunststof,Kunststof,Ongewijzigd
+148,G-110,Verwering,Asfalt,Asfalt,Ongewijzigd
+148,G-110,Verwering,Staal,Staal,Ongewijzigd
+148,G-110,Verwering,Aluminium,Aluminium,Ongewijzigd
+148,G-110,Verwering,Zink,Zink,Ongewijzigd
+148,G-110,Verwering,Gietijzer,Gietijzer,Ongewijzigd
+148,G-110,Verwering,Metaal; overig,Metaal; overig,Ongewijzigd
+148,G-110,Verwering,Rubber,Rubber,Ongewijzigd
+148,G-110,Verwering,Koper,Koper,Ongewijzigd
+148,G-110,Verwering,Kurk,Kurk,Ongewijzigd
+148,G-110,Verwering,Textiel,Textiel,Ongewijzigd
+148,G-110,Verwering,Vilt,Vilt,Ongewijzigd
+148,G-110,Verwering,Jute,Jute,Ongewijzigd
+148,G-110,Verwering,Emaille,Emaille,Ongewijzigd
+148,G-110,Verwering,Keramiek,Keramiek,Ongewijzigd
+148,G-110,Verwering,Stortsteen,Stortsteen,Ongewijzigd
+148,G-110,Verwering,Zetsteen,Zetsteen,Ongewijzigd
+149,G-025,Verzakking,Hout,Hout,Ongewijzigd
+149,G-025,Verzakking,Beton,Beton,Ongewijzigd
+149,G-025,Verzakking,Steen,Steen,Ongewijzigd
+149,G-025,Verzakking,Kunststof,Kunststof,Ongewijzigd
+149,G-025,Verzakking,Asfalt,Asfalt,Ongewijzigd
+149,G-025,Verzakking,Grond,Grond,Ongewijzigd
+149,G-025,Verzakking,Staal,Staal,Ongewijzigd
+149,G-025,Verzakking,Gietijzer,Gietijzer,Ongewijzigd
+149,G-025,Verzakking,Metaal; overig,Metaal; overig,Ongewijzigd
+149,G-025,Verzakking,Grind,Grind,Ongewijzigd
+149,G-025,Verzakking,Zand,Zand,Ongewijzigd
+149,G-025,Verzakking,Boomschors,Boomschors,Ongewijzigd
+149,G-025,Verzakking,Gravel,Gravel,Ongewijzigd
+149,G-025,Verzakking,Kunstgras,Kunstgras,Ongewijzigd
+149,G-025,Verzakking,Keramiek,Keramiek,Ongewijzigd
+149,G-025,Verzakking,Granulaat,Granulaat,Ongewijzigd
+149,G-025,Verzakking,Betonpuin,Betonpuin,Ongewijzigd
+149,G-025,Verzakking,Steenpuin,Steenpuin,Ongewijzigd
+149,G-025,Verzakking,Stortsteen,Stortsteen,Ongewijzigd
+149,G-025,Verzakking,Zetsteen,Zetsteen,Ongewijzigd
+149,G-025,Verzakking,Riet,Riet,Ongewijzigd
+149,G-025,Verzakking,Schelpen,,Vervallen
+149,G-025,Verzakking,,Breuksteen,Toegevoegd
+150,G-111,Verzanding,Steen,Steen,Ongewijzigd
+150,G-111,Verzanding,Keramiek,Keramiek,Ongewijzigd
+150,G-111,Verzanding,Stortsteen,Stortsteen,Ongewijzigd
+150,G-111,Verzanding,Zetsteen,Zetsteen,Ongewijzigd
+151,G-150,Verzuring,Gras,Gras,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Beton,Beton,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Steen,Steen,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Kunststof,Kunststof,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Mechaniek,Mechaniek,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Hydrauliek,Hydrauliek,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Gietijzer,Gietijzer,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Water,Water,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Zand,Zand,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Keramiek,Keramiek,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Stortsteen,Stortsteen,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Zetsteen,Zetsteen,Ongewijzigd
+152,G-173,"Vloeistofpeil, onjuist",Grind,,Vervallen
+152,G-173,"Vloeistofpeil, onjuist",Schelpen,,Vervallen
+152,G-173,"Vloeistofpeil, onjuist",Bomen,,Vervallen
+153,G-112,"Voegvulling, defect",Beton,Beton,Ongewijzigd
+153,G-112,"Voegvulling, defect",Cementbeton,Cementbeton,Ongewijzigd
+153,G-112,"Voegvulling, defect",Stortsteen,Stortsteen,Ongewijzigd
+154,G-084,"Voegwijdte, onjuist",Steen,Steen,Ongewijzigd
+154,G-084,"Voegwijdte, onjuist",Asfalt,Asfalt,Ongewijzigd
+154,G-084,"Voegwijdte, onjuist",Elementen,Elementen,Ongewijzigd
+154,G-084,"Voegwijdte, onjuist",Keramiek,Keramiek,Ongewijzigd
+154,G-084,"Voegwijdte, onjuist",Stortsteen,Stortsteen,Ongewijzigd
+154,G-084,"Voegwijdte, onjuist",Zetsteen,Zetsteen,Ongewijzigd
+155,G-026,Wapeningscorrosie,Beton,Beton,Ongewijzigd
+155,G-026,Wapeningscorrosie,Staal,Staal,Ongewijzigd
+156,G-054,"Warmte-ontwikkeling, overmatig",Mechaniek,Mechaniek,Ongewijzigd
+156,G-054,"Warmte-ontwikkeling, overmatig",Elektrotechniek,Elektrotechniek,Ongewijzigd
+156,G-054,"Warmte-ontwikkeling, overmatig",Hydrauliek,Hydrauliek,Ongewijzigd
+156,G-054,"Warmte-ontwikkeling, overmatig",Steenwol,Steenwol,Ongewijzigd
+156,G-054,"Warmte-ontwikkeling, overmatig",Glaswol,Glaswol,Ongewijzigd
+157,G-027,Wellen (zandmeevoerend),Grond,Grond,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Hout,Hout,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Beton,Beton,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Steen,Steen,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Glas,Glas,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Kunststof,Kunststof,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Asfalt,Asfalt,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Mechaniek,Mechaniek,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Elektrotechniek,Elektrotechniek,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Hydrauliek,Hydrauliek,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Staal,Staal,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Aluminium,Aluminium,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Zink,Zink,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Gietijzer,Gietijzer,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Metaal; overig,Metaal; overig,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Rubber,Rubber,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Asfalt (open),Asfalt (open),Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Fauna,Fauna,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Keramiek,Keramiek,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Granulaat,Granulaat,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Betonpuin,Betonpuin,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Steenpuin,Steenpuin,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Stortsteen,Stortsteen,Ongewijzigd
+158,G-089,"Wet & regelgeving, voldoet niet",Zetsteen,Zetsteen,Ongewijzigd
+159,G-085,Wildschade,Hout,,Vervallen
+159,G-085,Wildschade,Steen,,Vervallen
+159,G-085,Wildschade,Kunststof,,Vervallen
+159,G-085,Wildschade,Grond,,Vervallen
+159,G-085,Wildschade,Grind,,Vervallen
+159,G-085,Wildschade,Zand,,Vervallen
+159,G-085,Wildschade,Schelpen,,Vervallen
+159,G-085,Wildschade,Boomschors,,Vervallen
+159,G-085,Wildschade,Keramiek,,Vervallen
+159,G-085,Wildschade,Granulaat,,Vervallen
+159,G-085,Wildschade,Stortsteen,,Vervallen
+159,G-085,Wildschade,Zetsteen,,Vervallen
+161,G-137,Wondreactie,Beplanting,Beplanting,Ongewijzigd
+161,G-137,Wondreactie,Bomen,,Vervallen
+161,G-137,Wondreactie,,Houtige vegetatie,Toegevoegd
+162,G-167,Wortelingroei,Beton,Beton,Ongewijzigd
+162,G-167,Wortelingroei,Steen,Steen,Ongewijzigd
+162,G-167,Wortelingroei,Kunststof,Kunststof,Ongewijzigd
+162,G-167,Wortelingroei,Gietijzer,Gietijzer,Ongewijzigd
+162,G-167,Wortelingroei,Keramiek,Keramiek,Ongewijzigd
+162,G-167,Wortelingroei,Steenpuin,Steenpuin,Ongewijzigd
+162,G-167,Wortelingroei,Stortsteen,Stortsteen,Ongewijzigd
+162,G-167,Wortelingroei,Zetsteen,Zetsteen,Ongewijzigd
+162,G-167,Wortelingroei,,Breuksteen,Toegevoegd
+163,G-204,"Wortels, beschadigd",Bomen,,Vervallen
+164,G-156,Wurgwortels,Bomen,,Vervallen
+165,G-086,Zetting,Beton,Beton,Ongewijzigd
+165,G-086,Zetting,Steen,Steen,Ongewijzigd
+165,G-086,Zetting,Kunststof,Kunststof,Ongewijzigd
+165,G-086,Zetting,Asfalt,Asfalt,Ongewijzigd
+165,G-086,Zetting,Grond,Grond,Ongewijzigd
+165,G-086,Zetting,Gras,Gras,Ongewijzigd
+165,G-086,Zetting,Asfalt (open),Asfalt (open),Ongewijzigd
+165,G-086,Zetting,Zand,Zand,Ongewijzigd
+165,G-086,Zetting,Boomschors,Boomschors,Ongewijzigd
+165,G-086,Zetting,Asfaltbeton,Asfaltbeton,Ongewijzigd
+165,G-086,Zetting,Elementen,Elementen,Ongewijzigd
+165,G-086,Zetting,Cementbeton,Cementbeton,Ongewijzigd
+165,G-086,Zetting,Beplanting,Beplanting,Ongewijzigd
+165,G-086,Zetting,Asfaltbeton (open),Asfaltbeton (open),Ongewijzigd
+165,G-086,Zetting,Kunstgras,Kunstgras,Ongewijzigd
+165,G-086,Zetting,Keramiek,Keramiek,Ongewijzigd
+165,G-086,Zetting,Granulaat,Granulaat,Ongewijzigd
+165,G-086,Zetting,Betonpuin,Betonpuin,Ongewijzigd
+165,G-086,Zetting,Steenpuin,Steenpuin,Ongewijzigd
+165,G-086,Zetting,Stortsteen,Stortsteen,Ongewijzigd
+165,G-086,Zetting,Zetsteen,Zetsteen,Ongewijzigd
+165,G-086,Zetting,Geëxpandeerd polystyreen (EPS),Geëxpandeerd polystyreen (EPS),Ongewijzigd
+165,G-086,Zetting,Lichtgewicht granulair materiaal,Lichtgewicht granulair materiaal,Ongewijzigd
+165,G-086,Zetting,Slakken,Slakken,Ongewijzigd
+165,G-086,Zetting,Bomen,,Vervallen
+166,G-151,"Ziekte, kritisch",Gras,,Vervallen
+166,G-151,"Ziekte, kritisch",Beplanting,,Vervallen
+166,G-151,"Ziekte, kritisch",Bomen,,Vervallen
+167,G-152,"Ziekte, niet kritisch",Gras,,Vervallen
+167,G-152,"Ziekte, niet kritisch",Beplanting,,Vervallen
+167,G-152,"Ziekte, niet kritisch",Bomen,,Vervallen
+168,G-155,"Zuigers, overlast",Bomen,,Vervallen

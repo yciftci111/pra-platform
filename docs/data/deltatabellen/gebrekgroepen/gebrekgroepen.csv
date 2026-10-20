@@ -1,0 +1,16 @@
+Gebrekgroep,Groepstatus,Naam (vorige versie),Gebreken (actueel),Gebreken (oud),Gebreken (nieuw),Toegevoegd,Vervallen,Status
+Beschadiging,Bestaand,,"Afbrokkelen, Afdichting, defect, Afschuiving, Oeverafslag, Grasmat, beschadigd, Breuk, Deformatie, kritiek, Groeven, Houtrot, Krassen, Ontgronding, Rafeling, Scheur, niet constructief, Scheur, constructief, Beschermlaag, defect, Uitspoeling, Verankering, defect, Vergraving, Verpoederen, Verzakking, Scheefstand, Rafeling (ZOAB), Verwering, Verzanding, Voegvulling, defect, Randschade, Dakgrind, ingezakt, Kieren, Losliggend, Aansluiting, onjuist, Breuk/instorting, riool, Oppervlakteschade, Verbinding, verplaatst, Lining, defect, Materiaal, poreus, Wortelingroei, Bezinksel, Grondindringing, Obstakels, Infiltratie, Scheurvorming, Deformatie, niet kritiek, Onthechting, Delaminatie, Vervorming, Desintegratie, Slijtage, mechanisch, Aansluiting, defect, Verpulveren, Verruiging, Windworp, Omgevallen, Aansluiting, onvoldoende, Erosie, Gaten",54,55,5,4,Gewijzigd
+Bevestiging,Bestaand,,"Bevestiging, onjuist, Bevestiging, ontbreekt, Bevestiging, defect",3,3,0,0,Ongewijzigd
+Codering,Bestaand,,"Codering, onjuist",1,1,0,0,Ongewijzigd
+Conservering,Bestaand,,,0,0,0,0,Ongewijzigd
+Corrosie,Bestaand,,"Corrosie, uniform, Putcorrosie, Spleetcorrosie, Wapeningscorrosie",4,4,0,0,Ongewijzigd
+Documentatie,Bestaand,,"Documentatie, onjuist",1,1,0,0,Ongewijzigd
+Functionaliteit,Bestaand,,"Beschermingsgraad, onvoldoende, Functie, verminderd, Functie, afwezig, Servicetermijn, ten einde, Instelling, foutief, Kortsluitvastheid, onvoldoende, Markering, onjuist, Onderdeel, ontbreekt, Diepte, onvoldoende, Smering, onvoldoende, Trilling, overmatig, Warmte-ontwikkeling, overmatig, Verspreidingsweerstand, onjuist, Verkeerstekens, onvoldoende, Capaciteit, verminderd, Inlaat, instekend, Vloeistofpeil, onjuist, Begroeiing, ongewenst, Verdwenen",17,19,2,0,Gewijzigd
+"Groei, ontwikkeling",Bestaand,,"Biotoop, afwijkend, Bladverkleuring, Scheutlengte-ontwikkeling, Wondreactie, Bloeiontwikkeling, Stamontwikkeling",17,6,0,11,Gewijzigd
+Groen,Bestaand,,"Afsterving, Houtweefselschade, Toplaag, dichtgeslibd, Dichtgroei, boomopslag, Vergrassing, Verhouting, Verlanding, Vermossing, Verstuiving, Bedekkingsgraad, Schade, mechanisch, Draagkracht bodem, onvoldoende, Slijtage, sportvelden, Bladontwikkeling, Groeiontwikkeling, Afdekking, ongewenst, Soortenrijkdom, onvoldoende",21,17,3,7,Gewijzigd
+"Leeftijd, veroudering",Bestaand,,"Theoretische levensduur, 100%, Theoretische levensduur, tussen 50% en 75%, Theoretische levensduur, ouder dan 75%",3,3,0,0,Ongewijzigd
+"Orde, netheid",Bestaand,,"Graffity, Onkruidgroei, Organische stof, overlast, Verstopping, Vervuiling, Afzetting, aangehecht, Aangroei, Afzetting, bezonken",9,8,0,1,Gewijzigd
+Veiligheid & Wet en regelgeving,Bestaand,,"Stroefheid, Wet & regelgeving, voldoet niet",4,2,0,2,Gewijzigd
+Vlakheid,Bestaand,,"Afschot, foutief, Boomwortelopgroei, Dwarsonvlakheid, Langsonvlakheid, Oneffenheden, Opbolling, Plasvorming, Spoorvorming, Voegwijdte, onjuist, Zetting, Spoordiepte, Comfort, fietspad",12,12,0,0,Ongewijzigd
+"Vocht, water",Bestaand,,"Kwelplek, Verweking, Wellen (zandmeevoerend)",3,3,0,0,Ongewijzigd
+"Ziekte, aandoening",Bestaand,,"Leemgehalte, onjuist, Verzuring, Blauwalgontwikkeling, Aantasting",5,4,2,3,Gewijzigd

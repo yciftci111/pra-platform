@@ -1,0 +1,2574 @@
+Code,Element,Beheerobjectcategorie (oud),Beheerobjectcategorie (nieuw),Mutatie
+424,Aalgoot,,Dam,Toegevoegd
+424,Aalgoot,,Dijk,Toegevoegd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Aanleginrichting,Aanleginrichting,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Gemaal,Gemaal,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Schutsluis,Schutsluis,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Spuisluis,Spuisluis,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Stormvloedkering,Stormvloedkering,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Stuw,Stuw,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Procesbassin,Procesbassin,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Keersluis,Keersluis,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Aanleginrichting,Aanleginrichting,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Brug (vast),Brug (vast),Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Gemaal,Gemaal,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Schutsluis,Schutsluis,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Spuisluis,Spuisluis,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Stormvloedkering,Stormvloedkering,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Stuw,Stuw,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Hevel,Hevel,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Bezinkbassin,Bezinkbassin,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Gistingstank,Gistingstank,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Opslagtank,Opslagtank,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Beluchtingstank,Beluchtingstank,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Windmolen,Windmolen,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Persleiding,Persleiding,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Keersluis,Keersluis,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Aanleginrichting,Aanleginrichting,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Gemaal,Gemaal,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Schutsluis,Schutsluis,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Spuisluis,Spuisluis,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Stormvloedkering,Stormvloedkering,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Stuw,Stuw,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Hevel,Hevel,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Procesbassin,Procesbassin,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Keersluis,Keersluis,Ongewijzigd
+268,Aanloopgebied,Aanleginrichting,Aanleginrichting,Ongewijzigd
+268,Aanloopgebied,Haven,Haven,Ongewijzigd
+268,Aanloopgebied,Kanaal,Kanaal,Ongewijzigd
+268,Aanloopgebied,Meer,Meer,Ongewijzigd
+268,Aanloopgebied,Rivier,Rivier,Ongewijzigd
+268,Aanloopgebied,Zee,Zee,Ongewijzigd
+268,Aanloopgebied,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+268,Aanloopgebied,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+104,Aanrijbalk,Aanleginrichting,Aanleginrichting,Ongewijzigd
+104,Aanrijbalk,Aquaduct,Aquaduct,Ongewijzigd
+104,Aanrijbalk,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+104,Aanrijbalk,Brug (vast),Brug (vast),Ongewijzigd
+104,Aanrijbalk,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+104,Aanrijbalk,Onderdoorgang,Onderdoorgang,Ongewijzigd
+104,Aanrijbalk,Terrein,Terrein,Ongewijzigd
+104,Aanrijbalk,Tunnel,Tunnel,Ongewijzigd
+104,Aanrijbalk,Viaduct,Viaduct,Ongewijzigd
+104,Aanrijbalk,Weg,Weg,Ongewijzigd
+104,Aanrijbalk,Hevel,Hevel,Ongewijzigd
+104,Aanrijbalk,Opslagtank,Opslagtank,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Coupure,Coupure,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Gemaal,Gemaal,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Haven,Haven,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Kade,Kade,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Park,Park,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Riolering,Riolering,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Spoorweg,Spoorweg,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Stuw,Stuw,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Terrein,Terrein,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Tunnel,Tunnel,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Viaduct,Viaduct,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Weg,Weg,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Hevel,Hevel,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Windmolen,Windmolen,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Persleiding,Persleiding,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Keersluis,Keersluis,Ongewijzigd
+264,Achterland,Dijk,Dijk,Ongewijzigd
+264,Achterland,Uiterwaard,Uiterwaard,Ongewijzigd
+106,Afmeervoorziening,Aanleginrichting,Aanleginrichting,Ongewijzigd
+106,Afmeervoorziening,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+106,Afmeervoorziening,Brug (vast),Brug (vast),Ongewijzigd
+106,Afmeervoorziening,Haven,Haven,Ongewijzigd
+106,Afmeervoorziening,Kade,Kade,Ongewijzigd
+106,Afmeervoorziening,Kanaal,Kanaal,Ongewijzigd
+106,Afmeervoorziening,Meer,Meer,Ongewijzigd
+106,Afmeervoorziening,Rivier,Rivier,Ongewijzigd
+106,Afmeervoorziening,Schutsluis,Schutsluis,Ongewijzigd
+106,Afmeervoorziening,Stuw,Stuw,Ongewijzigd
+106,Afmeervoorziening,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+106,Afmeervoorziening,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Gemaal,Gemaal,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Terrein,Terrein,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Procesbassin,Procesbassin,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Beluchtingstank,Beluchtingstank,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Gemaal,Gemaal,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Riolering,Riolering,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Terrein,Terrein,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Weg,Weg,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Procesbassin,Procesbassin,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Beluchtingstank,Beluchtingstank,Ongewijzigd
+306,Afscheiding,Aanleginrichting,Aanleginrichting,Ongewijzigd
+306,Afscheiding,Aquaduct,Aquaduct,Ongewijzigd
+306,Afscheiding,Begraafplaats,Begraafplaats,Ongewijzigd
+306,Afscheiding,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+306,Afscheiding,Dam,Dam,Ongewijzigd
+306,Afscheiding,Dijk,Dijk,Ongewijzigd
+306,Afscheiding,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+306,Afscheiding,Duingebied,Duingebied,Ongewijzigd
+306,Afscheiding,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+306,Afscheiding,Rivier,Rivier,Ongewijzigd
+306,Afscheiding,Schutsluis,Schutsluis,Ongewijzigd
+306,Afscheiding,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+306,Afscheiding,Spuisluis,Spuisluis,Ongewijzigd
+306,Afscheiding,Stormvloedkering,Stormvloedkering,Ongewijzigd
+306,Afscheiding,Stuw,Stuw,Ongewijzigd
+306,Afscheiding,Terrein,Terrein,Ongewijzigd
+306,Afscheiding,Tunnel,Tunnel,Ongewijzigd
+306,Afscheiding,Uiterwaard,Uiterwaard,Ongewijzigd
+306,Afscheiding,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+306,Afscheiding,Hevel,Hevel,Ongewijzigd
+306,Afscheiding,Windmolen,Windmolen,Ongewijzigd
+306,Afscheiding,Keersluis,Keersluis,Ongewijzigd
+428,Afslagzone,,Duingebied,Toegevoegd
+107,Afsluitboominstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+107,Afsluitboominstallatie,Aquaduct,Aquaduct,Ongewijzigd
+107,Afsluitboominstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+107,Afsluitboominstallatie,Dijk,Dijk,Ongewijzigd
+107,Afsluitboominstallatie,Haven,Haven,Ongewijzigd
+107,Afsluitboominstallatie,Kade,Kade,Ongewijzigd
+107,Afsluitboominstallatie,Natuurgebied,Natuurgebied,Ongewijzigd
+107,Afsluitboominstallatie,Park,Park,Ongewijzigd
+107,Afsluitboominstallatie,Schutsluis,Schutsluis,Ongewijzigd
+107,Afsluitboominstallatie,Spoorweg,Spoorweg,Ongewijzigd
+107,Afsluitboominstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+107,Afsluitboominstallatie,Stuw,Stuw,Ongewijzigd
+107,Afsluitboominstallatie,Terrein,Terrein,Ongewijzigd
+107,Afsluitboominstallatie,Tunnel,Tunnel,Ongewijzigd
+107,Afsluitboominstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+107,Afsluitboominstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+107,Afsluitboominstallatie,Weg,Weg,Ongewijzigd
+107,Afsluitboominstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+107,Afsluitboominstallatie,Keersluis,Keersluis,Ongewijzigd
+269,Ankergebied,Haven,Haven,Ongewijzigd
+269,Ankergebied,Kanaal,Kanaal,Ongewijzigd
+269,Ankergebied,Rivier,Rivier,Ongewijzigd
+269,Ankergebied,Zee,Zee,Ongewijzigd
+269,Ankergebied,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+269,Ankergebied,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+110,Antivandalismevoorziening,Aquaduct,Aquaduct,Ongewijzigd
+110,Antivandalismevoorziening,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+110,Antivandalismevoorziening,Brug (vast),Brug (vast),Ongewijzigd
+110,Antivandalismevoorziening,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+110,Antivandalismevoorziening,Gemaal,Gemaal,Ongewijzigd
+110,Antivandalismevoorziening,Onderdoorgang,Onderdoorgang,Ongewijzigd
+110,Antivandalismevoorziening,Open tunnelbak,Open tunnelbak,Ongewijzigd
+110,Antivandalismevoorziening,Overkluizing,Overkluizing,Ongewijzigd
+110,Antivandalismevoorziening,Viaduct,Viaduct,Ongewijzigd
+275,Asbestemming,Begraafplaats,Begraafplaats,Ongewijzigd
+247,Basculekelder,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Aanleginrichting,Aanleginrichting,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Aquaduct,Aquaduct,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Brug (vast),Brug (vast),Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Coupure,Coupure,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Dam,Dam,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Dijk,Dijk,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Duiker,Duiker,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Gemaal,Gemaal,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Grondkering,Grondkering,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Haven,Haven,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Kade,Kade,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Kanaal,Kanaal,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Meer,Meer,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Onderdoorgang,Onderdoorgang,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Open tunnelbak,Open tunnelbak,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Overkluizing,Overkluizing,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Riolering,Riolering,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Rivier,Rivier,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Schutsluis,Schutsluis,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Spoorweg,Spoorweg,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Spuisluis,Spuisluis,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Stormvloedkering,Stormvloedkering,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Stuw,Stuw,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Terrein,Terrein,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Tunnel,Tunnel,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Viaduct,Viaduct,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Weg,Weg,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Sifon,Sifon,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Hevel,Hevel,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+111,Bebording en bewegwijzering (statisch),"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Procesbassin,Procesbassin,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Bezinkbassin,Bezinkbassin,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Gistingstank,Gistingstank,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Opslagtank,Opslagtank,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Beluchtingstank,Beluchtingstank,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Windmolen,Windmolen,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Persleiding,Persleiding,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Keersluis,Keersluis,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Gemaal,Gemaal,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Riolering,Riolering,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Spoorweg,Spoorweg,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Stuw,Stuw,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Tunnel,Tunnel,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Windmolen,Windmolen,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Persleiding,Persleiding,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Keersluis,Keersluis,Ongewijzigd
+353,Beek,Begraafplaats,Begraafplaats,Ongewijzigd
+353,Beek,Bosgebied,Bosgebied,Ongewijzigd
+353,Beek,Dijk,Dijk,Ongewijzigd
+353,Beek,Duingebied,Duingebied,Ongewijzigd
+353,Beek,Landbouwgebied,Landbouwgebied,Ongewijzigd
+353,Beek,Natuurgebied,Natuurgebied,Ongewijzigd
+353,Beek,Park,Park,Ongewijzigd
+353,Beek,Terrein,Terrein,Ongewijzigd
+353,Beek,Uiterwaard,Uiterwaard,Ongewijzigd
+353,Beek,Weg,Weg,Ongewijzigd
+353,Beek,Recreatief gebied,Recreatief gebied,Ongewijzigd
+418,Begroeid terreindeel,,Bosgebied,Toegevoegd
+418,Begroeid terreindeel,,Dam,Toegevoegd
+418,Begroeid terreindeel,,Dijk,Toegevoegd
+418,Begroeid terreindeel,,Infragebonden gebouw,Toegevoegd
+418,Begroeid terreindeel,,Park,Toegevoegd
+418,Begroeid terreindeel,,Spoorweg,Toegevoegd
+418,Begroeid terreindeel,,Terrein,Toegevoegd
+418,Begroeid terreindeel,,Uiterwaard,Toegevoegd
+418,Begroeid terreindeel,,Weg,Toegevoegd
+418,Begroeid terreindeel,,Recreatief gebied,Toegevoegd
+378,Beluchtingsinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+378,Beluchtingsinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+356,Bergbezinkbassin,Riolering,Riolering,Ongewijzigd
+356,Bergbezinkbassin,Weg,Weg,Ongewijzigd
+114,Berm,Dam,Dam,Ongewijzigd
+114,Berm,Dijk,Dijk,Ongewijzigd
+114,Berm,Spoorweg,Spoorweg,Ongewijzigd
+114,Berm,Terrein,Terrein,Ongewijzigd
+114,Berm,Weg,Weg,Ongewijzigd
+425,Binnenberm,,Dam,Toegevoegd
+425,Binnenberm,,Dijk,Toegevoegd
+429,Binnenduin,,Duingebied,Toegevoegd
+260,Binnentalud,,Dam,Toegevoegd
+260,Binnentalud,Dijk,Dijk,Ongewijzigd
+115,Binnenverlichting,Aanleginrichting,Aanleginrichting,Ongewijzigd
+115,Binnenverlichting,Aquaduct,Aquaduct,Ongewijzigd
+115,Binnenverlichting,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+115,Binnenverlichting,Brug (vast),Brug (vast),Ongewijzigd
+115,Binnenverlichting,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+115,Binnenverlichting,Duiker,Duiker,Ongewijzigd
+115,Binnenverlichting,Ecoduct,Ecoduct,Ongewijzigd
+115,Binnenverlichting,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+115,Binnenverlichting,Gemaal,Gemaal,Ongewijzigd
+115,Binnenverlichting,Haven,Haven,Ongewijzigd
+115,Binnenverlichting,Onderdoorgang,Onderdoorgang,Ongewijzigd
+115,Binnenverlichting,Open tunnelbak,Open tunnelbak,Ongewijzigd
+115,Binnenverlichting,Overkluizing,Overkluizing,Ongewijzigd
+115,Binnenverlichting,Schutsluis,Schutsluis,Ongewijzigd
+115,Binnenverlichting,Spuisluis,Spuisluis,Ongewijzigd
+115,Binnenverlichting,Stormvloedkering,Stormvloedkering,Ongewijzigd
+115,Binnenverlichting,Stuw,Stuw,Ongewijzigd
+115,Binnenverlichting,Tunnel,Tunnel,Ongewijzigd
+115,Binnenverlichting,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+115,Binnenverlichting,Viaduct,Viaduct,Ongewijzigd
+115,Binnenverlichting,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+115,Binnenverlichting,Windmolen,Windmolen,Ongewijzigd
+115,Binnenverlichting,Keersluis,Keersluis,Ongewijzigd
+116,Bodem,Waterbuffer,Waterbuffer,Ongewijzigd
+116,Bodem,,Dam,Toegevoegd
+116,Bodem,,Dijk,Toegevoegd
+116,Bodem,Haven,Haven,Ongewijzigd
+116,Bodem,Kanaal,Kanaal,Ongewijzigd
+116,Bodem,Meer,Meer,Ongewijzigd
+116,Bodem,Rivier,Rivier,Ongewijzigd
+116,Bodem,Zee,Zee,Ongewijzigd
+116,Bodem,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+116,Bodem,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+117,Bodembescherming,Aanleginrichting,Aanleginrichting,Ongewijzigd
+117,Bodembescherming,Aquaduct,Aquaduct,Ongewijzigd
+117,Bodembescherming,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+117,Bodembescherming,Brug (vast),Brug (vast),Ongewijzigd
+117,Bodembescherming,Duiker,Duiker,Ongewijzigd
+117,Bodembescherming,Gemaal,Gemaal,Ongewijzigd
+117,Bodembescherming,Haven,Haven,Ongewijzigd
+117,Bodembescherming,Kade,Kade,Ongewijzigd
+117,Bodembescherming,Schutsluis,Schutsluis,Ongewijzigd
+117,Bodembescherming,Spuisluis,Spuisluis,Ongewijzigd
+117,Bodembescherming,Stormvloedkering,Stormvloedkering,Ongewijzigd
+117,Bodembescherming,Stuw,Stuw,Ongewijzigd
+117,Bodembescherming,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+117,Bodembescherming,Keersluis,Keersluis,Ongewijzigd
+346,Bol- en knolgewas,Park,,Vervallen
+276,Boom,Begraafplaats,,Vervallen
+276,Boom,Terrein,,Vervallen
+276,Boom,Uiterwaard,,Vervallen
+276,Boom,Weg,,Vervallen
+278,Boomgroep,Park,,Vervallen
+278,Boomgroep,Terrein,,Vervallen
+278,Boomgroep,Uiterwaard,,Vervallen
+278,Boomgroep,Weg,,Vervallen
+278,Boomgroep,Recreatief gebied,,Vervallen
+349,Borstwering,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+349,Borstwering,Brug (vast),Brug (vast),Ongewijzigd
+349,Borstwering,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+349,Borstwering,Gemaal,Gemaal,Ongewijzigd
+349,Borstwering,Viaduct,Viaduct,Ongewijzigd
+349,Borstwering,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+349,Borstwering,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+118,Bovenbouwconstructie,Duiker,Duiker,Ongewijzigd
+118,Bovenbouwconstructie,Haven,Haven,Ongewijzigd
+118,Bovenbouwconstructie,Kade,Kade,Ongewijzigd
+118,Bovenbouwconstructie,Sifon,Sifon,Ongewijzigd
+118,Bovenbouwconstructie,Hevel,Hevel,Ongewijzigd
+119,Brandblusinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+119,Brandblusinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+119,Brandblusinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+119,Brandblusinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+119,Brandblusinstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+119,Brandblusinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+119,Brandblusinstallatie,Gemaal,Gemaal,Ongewijzigd
+119,Brandblusinstallatie,Haven,Haven,Ongewijzigd
+119,Brandblusinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+119,Brandblusinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+119,Brandblusinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+119,Brandblusinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+119,Brandblusinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+119,Brandblusinstallatie,Stuw,Stuw,Ongewijzigd
+119,Brandblusinstallatie,Terrein,Terrein,Ongewijzigd
+119,Brandblusinstallatie,Tunnel,Tunnel,Ongewijzigd
+119,Brandblusinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+119,Brandblusinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+119,Brandblusinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+119,Brandblusinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+119,Brandblusinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+119,Brandblusinstallatie,Keersluis,Keersluis,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Aanleginrichting,Aanleginrichting,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Aquaduct,Aquaduct,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Gemaal,Gemaal,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Onderdoorgang,Onderdoorgang,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Schutsluis,Schutsluis,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Spuisluis,Spuisluis,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Stormvloedkering,Stormvloedkering,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Stuw,Stuw,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Tunnel,Tunnel,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Keersluis,Keersluis,Ongewijzigd
+426,Buitenberm,,Dam,Toegevoegd
+426,Buitenberm,,Dijk,Toegevoegd
+258,Buitentalud,Dam,Dam,Ongewijzigd
+258,Buitentalud,Dijk,Dijk,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Aquaduct,Aquaduct,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Open tunnelbak,Open tunnelbak,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Tunnel,Tunnel,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Weg,Weg,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Tunnel,Tunnel,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Aanleginrichting,Aanleginrichting,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Aquaduct,Aquaduct,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Brug (vast),Brug (vast),Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Gemaal,Gemaal,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Haven,Haven,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Kade,Kade,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Onderdoorgang,Onderdoorgang,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Open tunnelbak,Open tunnelbak,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Park,Park,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Schutsluis,Schutsluis,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Spuisluis,Spuisluis,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Stormvloedkering,Stormvloedkering,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Stuw,Stuw,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Terrein,Terrein,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Tunnel,Tunnel,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Viaduct,Viaduct,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Weg,Weg,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Keersluis,Keersluis,Ongewijzigd
+123,Compressorinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+123,Compressorinstallatie,Gemaal,Gemaal,Ongewijzigd
+123,Compressorinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+123,Compressorinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+123,Compressorinstallatie,Stuw,Stuw,Ongewijzigd
+123,Compressorinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+123,Compressorinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+123,Compressorinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+123,Compressorinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+123,Compressorinstallatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+123,Compressorinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+123,Compressorinstallatie,Keersluis,Keersluis,Ongewijzigd
+391,Dakconstructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+391,Dakconstructie,Gemaal,Gemaal,Ongewijzigd
+391,Dakconstructie,Procesbassin,Procesbassin,Ongewijzigd
+391,Dakconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+391,Dakconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+391,Dakconstructie,Gistingstank,Gistingstank,Ongewijzigd
+391,Dakconstructie,Opslagtank,Opslagtank,Ongewijzigd
+391,Dakconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+391,Dakconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+391,Dakconstructie,Windmolen,Windmolen,Ongewijzigd
+391,Dakconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+370,Dataloginstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+370,Dataloginstallatie,Aquaduct,Aquaduct,Ongewijzigd
+370,Dataloginstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+370,Dataloginstallatie,Brug (vast),Brug (vast),Ongewijzigd
+370,Dataloginstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+370,Dataloginstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+370,Dataloginstallatie,Gemaal,Gemaal,Ongewijzigd
+370,Dataloginstallatie,Haven,Haven,Ongewijzigd
+370,Dataloginstallatie,Kade,Kade,Ongewijzigd
+370,Dataloginstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+370,Dataloginstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+370,Dataloginstallatie,Park,Park,Ongewijzigd
+370,Dataloginstallatie,Schutsluis,Schutsluis,Ongewijzigd
+370,Dataloginstallatie,Spuisluis,Spuisluis,Ongewijzigd
+370,Dataloginstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+370,Dataloginstallatie,Stuw,Stuw,Ongewijzigd
+370,Dataloginstallatie,Terrein,Terrein,Ongewijzigd
+370,Dataloginstallatie,Tunnel,Tunnel,Ongewijzigd
+370,Dataloginstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+370,Dataloginstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+370,Dataloginstallatie,Viaduct,Viaduct,Ongewijzigd
+370,Dataloginstallatie,Weg,Weg,Ongewijzigd
+370,Dataloginstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+126,Doorlaatkoker,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+126,Doorlaatkoker,Duiker,Duiker,Ongewijzigd
+126,Doorlaatkoker,,Faunatunnel,Toegevoegd
+126,Doorlaatkoker,Gemaal,Gemaal,Ongewijzigd
+126,Doorlaatkoker,Spuisluis,Spuisluis,Ongewijzigd
+126,Doorlaatkoker,Stuw,Stuw,Ongewijzigd
+126,Doorlaatkoker,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+126,Doorlaatkoker,Sifon,Sifon,Ongewijzigd
+126,Doorlaatkoker,Hevel,Hevel,Ongewijzigd
+126,Doorlaatkoker,Keersluis,Keersluis,Ongewijzigd
+127,Drainage,Aanleginrichting,Aanleginrichting,Ongewijzigd
+127,Drainage,Aquaduct,Aquaduct,Ongewijzigd
+127,Drainage,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+127,Drainage,Brug (vast),Brug (vast),Ongewijzigd
+127,Drainage,,Dam,Toegevoegd
+127,Drainage,,Dijk,Toegevoegd
+127,Drainage,Duiker,Duiker,Ongewijzigd
+127,Drainage,Ecoduct,Ecoduct,Ongewijzigd
+127,Drainage,Faunatunnel,Faunatunnel,Ongewijzigd
+127,Drainage,Gemaal,Gemaal,Ongewijzigd
+127,Drainage,Kade,Kade,Ongewijzigd
+127,Drainage,Onderdoorgang,Onderdoorgang,Ongewijzigd
+127,Drainage,Open tunnelbak,Open tunnelbak,Ongewijzigd
+127,Drainage,Riolering,Riolering,Ongewijzigd
+127,Drainage,Schutsluis,Schutsluis,Ongewijzigd
+127,Drainage,Spuisluis,Spuisluis,Ongewijzigd
+127,Drainage,Stormvloedkering,Stormvloedkering,Ongewijzigd
+127,Drainage,Stuw,Stuw,Ongewijzigd
+127,Drainage,Tunnel,Tunnel,Ongewijzigd
+127,Drainage,Viaduct,Viaduct,Ongewijzigd
+127,Drainage,Weg,Weg,Ongewijzigd
+127,Drainage,Keersluis,Keersluis,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Tunnel,Tunnel,Ongewijzigd
+128,Duin,Duingebied,Duingebied,Ongewijzigd
+430,Duinvoetverdediging,,Duingebied,Toegevoegd
+129,Duurzame energiebron,Aanleginrichting,Aanleginrichting,Ongewijzigd
+129,Duurzame energiebron,Aquaduct,Aquaduct,Ongewijzigd
+129,Duurzame energiebron,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+129,Duurzame energiebron,Brug (vast),Brug (vast),Ongewijzigd
+129,Duurzame energiebron,Dijk,Dijk,Ongewijzigd
+129,Duurzame energiebron,Ecoduct,Ecoduct,Ongewijzigd
+129,Duurzame energiebron,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+129,Duurzame energiebron,Gemaal,Gemaal,Ongewijzigd
+129,Duurzame energiebron,Haven,Haven,Ongewijzigd
+129,Duurzame energiebron,Kade,Kade,Ongewijzigd
+129,Duurzame energiebron,Kanaal,Kanaal,Ongewijzigd
+129,Duurzame energiebron,Meer,Meer,Ongewijzigd
+129,Duurzame energiebron,Onderdoorgang,Onderdoorgang,Ongewijzigd
+129,Duurzame energiebron,Open tunnelbak,Open tunnelbak,Ongewijzigd
+129,Duurzame energiebron,Rivier,Rivier,Ongewijzigd
+129,Duurzame energiebron,Schutsluis,Schutsluis,Ongewijzigd
+129,Duurzame energiebron,Spuisluis,Spuisluis,Ongewijzigd
+129,Duurzame energiebron,Stormvloedkering,Stormvloedkering,Ongewijzigd
+129,Duurzame energiebron,Stuw,Stuw,Ongewijzigd
+129,Duurzame energiebron,Terrein,Terrein,Ongewijzigd
+129,Duurzame energiebron,Tunnel,Tunnel,Ongewijzigd
+129,Duurzame energiebron,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+129,Duurzame energiebron,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+129,Duurzame energiebron,Viaduct,Viaduct,Ongewijzigd
+129,Duurzame energiebron,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+129,Duurzame energiebron,Weg,Weg,Ongewijzigd
+129,Duurzame energiebron,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+129,Duurzame energiebron,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+129,Duurzame energiebron,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+129,Duurzame energiebron,Keersluis,Keersluis,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Aanleginrichting,Aanleginrichting,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Brug (vast),Brug (vast),Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Dam,Dam,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Haven,Haven,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Open tunnelbak,Open tunnelbak,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Schutsluis,Schutsluis,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Stormvloedkering,Stormvloedkering,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Terrein,Terrein,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Tunnel,Tunnel,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Weg,Weg,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Keersluis,Keersluis,Ongewijzigd
+208,Erf,Aanleginrichting,Aanleginrichting,Ongewijzigd
+208,Erf,Aquaduct,Aquaduct,Ongewijzigd
+208,Erf,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+208,Erf,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+208,Erf,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+208,Erf,Gemaal,Gemaal,Ongewijzigd
+208,Erf,Schutsluis,Schutsluis,Ongewijzigd
+208,Erf,Spuisluis,Spuisluis,Ongewijzigd
+208,Erf,Stormvloedkering,Stormvloedkering,Ongewijzigd
+208,Erf,Stuw,Stuw,Ongewijzigd
+208,Erf,Terrein,Terrein,Ongewijzigd
+208,Erf,Tunnel,Tunnel,Ongewijzigd
+208,Erf,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+208,Erf,Hevel,Hevel,Ongewijzigd
+208,Erf,Windmolen,Windmolen,Ongewijzigd
+131,Fauna uittreedplaats,Aquaduct,Aquaduct,Ongewijzigd
+131,Fauna uittreedplaats,Kanaal,Kanaal,Ongewijzigd
+131,Fauna uittreedplaats,Meer,Meer,Ongewijzigd
+131,Fauna uittreedplaats,Rivier,Rivier,Ongewijzigd
+131,Fauna uittreedplaats,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+131,Fauna uittreedplaats,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+281,Fauna-insprong,Weg,Weg,Ongewijzigd
+285,Faunadekking,Duiker,Duiker,Ongewijzigd
+285,Faunadekking,Ecoduct,Ecoduct,Ongewijzigd
+285,Faunadekking,Faunatunnel,Faunatunnel,Ongewijzigd
+285,Faunadekking,Schutsluis,Schutsluis,Ongewijzigd
+285,Faunadekking,Tunnel,Tunnel,Ongewijzigd
+285,Faunadekking,Uiterwaard,Uiterwaard,Ongewijzigd
+285,Faunadekking,Viaduct,Viaduct,Ongewijzigd
+285,Faunadekking,Weg,Weg,Ongewijzigd
+285,Faunadekking,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+285,Faunadekking,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+307,Faunageleiding,Duiker,Duiker,Ongewijzigd
+307,Faunageleiding,Faunatunnel,Faunatunnel,Ongewijzigd
+307,Faunageleiding,Weg,Weg,Ongewijzigd
+307,Faunageleiding,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+307,Faunageleiding,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+132,Folieconstructie,Aquaduct,Aquaduct,Ongewijzigd
+132,Folieconstructie,Waterbuffer,Waterbuffer,Ongewijzigd
+132,Folieconstructie,Coupure,Coupure,Ongewijzigd
+132,Folieconstructie,Haven,Haven,Ongewijzigd
+132,Folieconstructie,Kade,Kade,Ongewijzigd
+132,Folieconstructie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+132,Folieconstructie,Riolering,Riolering,Ongewijzigd
+132,Folieconstructie,Tunnel,Tunnel,Ongewijzigd
+132,Folieconstructie,Persleiding,Persleiding,Ongewijzigd
+133,Fundering,Aanleginrichting,Aanleginrichting,Ongewijzigd
+133,Fundering,Aquaduct,Aquaduct,Ongewijzigd
+133,Fundering,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+133,Fundering,Brug (vast),Brug (vast),Ongewijzigd
+133,Fundering,Duiker,Duiker,Ongewijzigd
+133,Fundering,Ecoduct,Ecoduct,Ongewijzigd
+133,Fundering,Faunatunnel,Faunatunnel,Ongewijzigd
+133,Fundering,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+133,Fundering,Gemaal,Gemaal,Ongewijzigd
+133,Fundering,Haven,Haven,Ongewijzigd
+133,Fundering,Kade,Kade,Ongewijzigd
+133,Fundering,Onderdoorgang,Onderdoorgang,Ongewijzigd
+133,Fundering,Open tunnelbak,Open tunnelbak,Ongewijzigd
+133,Fundering,Overkluizing,Overkluizing,Ongewijzigd
+133,Fundering,Riolering,Riolering,Ongewijzigd
+133,Fundering,Schutsluis,Schutsluis,Ongewijzigd
+133,Fundering,Spuisluis,Spuisluis,Ongewijzigd
+133,Fundering,Stormvloedkering,Stormvloedkering,Ongewijzigd
+133,Fundering,Stuw,Stuw,Ongewijzigd
+133,Fundering,Tunnel,Tunnel,Ongewijzigd
+133,Fundering,Viaduct,Viaduct,Ongewijzigd
+133,Fundering,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+133,Fundering,Sifon,Sifon,Ongewijzigd
+133,Fundering,Hevel,Hevel,Ongewijzigd
+133,Fundering,Procesbassin,Procesbassin,Ongewijzigd
+133,Fundering,Bezinkbassin,Bezinkbassin,Ongewijzigd
+133,Fundering,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+133,Fundering,Gistingstank,Gistingstank,Ongewijzigd
+133,Fundering,Opslagtank,Opslagtank,Ongewijzigd
+133,Fundering,Beluchtingstank,Beluchtingstank,Ongewijzigd
+133,Fundering,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+133,Fundering,Windmolen,Windmolen,Ongewijzigd
+133,Fundering,Persleiding,Persleiding,Ongewijzigd
+133,Fundering,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+133,Fundering,Keersluis,Keersluis,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Aquaduct,Aquaduct,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Gemaal,Gemaal,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Tunnel,Tunnel,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+396,Gasinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+136,Geleideconstructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+136,Geleideconstructie,Aquaduct,Aquaduct,Ongewijzigd
+136,Geleideconstructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+136,Geleideconstructie,Brug (vast),Brug (vast),Ongewijzigd
+136,Geleideconstructie,Dam,Dam,Ongewijzigd
+136,Geleideconstructie,Dijk,Dijk,Ongewijzigd
+136,Geleideconstructie,Duiker,Duiker,Ongewijzigd
+136,Geleideconstructie,Ecoduct,Ecoduct,Ongewijzigd
+136,Geleideconstructie,Grondkering,Grondkering,Ongewijzigd
+136,Geleideconstructie,Haven,Haven,Ongewijzigd
+136,Geleideconstructie,Kade,Kade,Ongewijzigd
+136,Geleideconstructie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+136,Geleideconstructie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+136,Geleideconstructie,Overkluizing,Overkluizing,Ongewijzigd
+136,Geleideconstructie,Schutsluis,Schutsluis,Ongewijzigd
+136,Geleideconstructie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+136,Geleideconstructie,Terrein,Terrein,Ongewijzigd
+136,Geleideconstructie,Tunnel,Tunnel,Ongewijzigd
+136,Geleideconstructie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+136,Geleideconstructie,Viaduct,Viaduct,Ongewijzigd
+136,Geleideconstructie,Weg,Weg,Ongewijzigd
+136,Geleideconstructie,Sifon,Sifon,Ongewijzigd
+136,Geleideconstructie,Hevel,Hevel,Ongewijzigd
+136,Geleideconstructie,Keersluis,Keersluis,Ongewijzigd
+405,Geleidetoren,Stormvloedkering,Stormvloedkering,Ongewijzigd
+405,Geleidetoren,Keersluis,Keersluis,Ongewijzigd
+137,Geluidbeperkende constructie,Aquaduct,Aquaduct,Ongewijzigd
+137,Geluidbeperkende constructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+137,Geluidbeperkende constructie,Brug (vast),Brug (vast),Ongewijzigd
+137,Geluidbeperkende constructie,Ecoduct,Ecoduct,Ongewijzigd
+137,Geluidbeperkende constructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+137,Geluidbeperkende constructie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+137,Geluidbeperkende constructie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+137,Geluidbeperkende constructie,Terrein,Terrein,Ongewijzigd
+137,Geluidbeperkende constructie,Tunnel,Tunnel,Ongewijzigd
+137,Geluidbeperkende constructie,Viaduct,Viaduct,Ongewijzigd
+137,Geluidbeperkende constructie,Weg,Weg,Ongewijzigd
+137,Geluidbeperkende constructie,Procesbassin,Procesbassin,Ongewijzigd
+137,Geluidbeperkende constructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Waterbuffer,Waterbuffer,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Dijk,Dijk,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Kanaal,Kanaal,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Meer,Meer,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Rivier,Rivier,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+139,Gestrekte oever (talud),Waterbuffer,Waterbuffer,Ongewijzigd
+139,Gestrekte oever (talud),Dam,Dam,Ongewijzigd
+139,Gestrekte oever (talud),Dijk,Dijk,Ongewijzigd
+139,Gestrekte oever (talud),Haven,Haven,Ongewijzigd
+139,Gestrekte oever (talud),Kanaal,Kanaal,Ongewijzigd
+139,Gestrekte oever (talud),Meer,Meer,Ongewijzigd
+139,Gestrekte oever (talud),Rivier,Rivier,Ongewijzigd
+139,Gestrekte oever (talud),"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+139,Gestrekte oever (talud),"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+140,Gladheidsmeldsysteem,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+140,Gladheidsmeldsysteem,Brug (vast),Brug (vast),Ongewijzigd
+140,Gladheidsmeldsysteem,Viaduct,Viaduct,Ongewijzigd
+140,Gladheidsmeldsysteem,Weg,Weg,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Aanleginrichting,Aanleginrichting,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Brug (vast),Brug (vast),Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Gemaal,Gemaal,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Schutsluis,Schutsluis,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Spuisluis,Spuisluis,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Stormvloedkering,Stormvloedkering,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Stuw,Stuw,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Terrein,Terrein,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Tunnel,Tunnel,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Windmolen,Windmolen,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+291,Graf,Begraafplaats,Begraafplaats,Ongewijzigd
+341,Grasvegetatie,Bosgebied,Bosgebied,Ongewijzigd
+341,Grasvegetatie,Dam,Dam,Ongewijzigd
+341,Grasvegetatie,Dijk,Dijk,Ongewijzigd
+341,Grasvegetatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+341,Grasvegetatie,Park,Park,Ongewijzigd
+341,Grasvegetatie,Spoorweg,Spoorweg,Ongewijzigd
+341,Grasvegetatie,Terrein,Terrein,Ongewijzigd
+341,Grasvegetatie,Weg,Weg,Ongewijzigd
+249,Grendelinrichting,Aanleginrichting,Aanleginrichting,Ongewijzigd
+249,Grendelinrichting,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+249,Grendelinrichting,Kade,Kade,Ongewijzigd
+249,Grendelinrichting,Schutsluis,Schutsluis,Ongewijzigd
+249,Grendelinrichting,Spuisluis,Spuisluis,Ongewijzigd
+249,Grendelinrichting,Stormvloedkering,Stormvloedkering,Ongewijzigd
+249,Grendelinrichting,Stuw,Stuw,Ongewijzigd
+249,Grendelinrichting,Terrein,Terrein,Ongewijzigd
+249,Grendelinrichting,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+249,Grendelinrichting,Keersluis,Keersluis,Ongewijzigd
+431,Grensprofiel,,Duingebied,Toegevoegd
+292,Haag,Weg,,Vervallen
+142,Havendam,Haven,Haven,Ongewijzigd
+142,Havendam,Zee,Zee,Ongewijzigd
+317,Heester,Park,,Vervallen
+317,Heester,Terrein,,Vervallen
+317,Heester,Weg,,Vervallen
+143,Heftoren,Aanleginrichting,Aanleginrichting,Ongewijzigd
+143,Heftoren,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+143,Heftoren,Schutsluis,Schutsluis,Ongewijzigd
+143,Heftoren,Spuisluis,Spuisluis,Ongewijzigd
+143,Heftoren,Stormvloedkering,Stormvloedkering,Ongewijzigd
+143,Heftoren,Stuw,Stuw,Ongewijzigd
+143,Heftoren,Keersluis,Keersluis,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Aanleginrichting,Aanleginrichting,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Aquaduct,Aquaduct,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+144,Hemelwaterafvoer (HWA),Brug (vast),Brug (vast),Ongewijzigd
+144,Hemelwaterafvoer (HWA),Coupure,Coupure,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Ecoduct,Ecoduct,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Gemaal,Gemaal,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Grondkering,Grondkering,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Kade,Kade,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Meer,Meer,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Onderdoorgang,Onderdoorgang,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Open tunnelbak,Open tunnelbak,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Overkluizing,Overkluizing,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Schutsluis,Schutsluis,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Spuisluis,Spuisluis,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Stormvloedkering,Stormvloedkering,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Stuw,Stuw,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Terrein,Terrein,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Tunnel,Tunnel,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Viaduct,Viaduct,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Weg,Weg,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Hevel,Hevel,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Gistingstank,Gistingstank,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Windmolen,Windmolen,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+144,Hemelwaterafvoer (HWA),Keersluis,Keersluis,Ongewijzigd
+146,Hijs- en hefinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+146,Hijs- en hefinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+146,Hijs- en hefinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+146,Hijs- en hefinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+146,Hijs- en hefinstallatie,Duiker,Duiker,Ongewijzigd
+146,Hijs- en hefinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+146,Hijs- en hefinstallatie,Gemaal,Gemaal,Ongewijzigd
+146,Hijs- en hefinstallatie,Haven,Haven,Ongewijzigd
+146,Hijs- en hefinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+146,Hijs- en hefinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+146,Hijs- en hefinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+146,Hijs- en hefinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+146,Hijs- en hefinstallatie,Stuw,Stuw,Ongewijzigd
+146,Hijs- en hefinstallatie,Terrein,Terrein,Ongewijzigd
+146,Hijs- en hefinstallatie,Tunnel,Tunnel,Ongewijzigd
+146,Hijs- en hefinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+146,Hijs- en hefinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+146,Hijs- en hefinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+146,Hijs- en hefinstallatie,Sifon,Sifon,Ongewijzigd
+146,Hijs- en hefinstallatie,Hevel,Hevel,Ongewijzigd
+146,Hijs- en hefinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+146,Hijs- en hefinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+146,Hijs- en hefinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+146,Hijs- en hefinstallatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+146,Hijs- en hefinstallatie,Windmolen,Windmolen,Ongewijzigd
+146,Hijs- en hefinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+146,Hijs- en hefinstallatie,Keersluis,Keersluis,Ongewijzigd
+147,Hoofddraagconstructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+147,Hoofddraagconstructie,Aquaduct,Aquaduct,Ongewijzigd
+147,Hoofddraagconstructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+147,Hoofddraagconstructie,Brug (vast),Brug (vast),Ongewijzigd
+147,Hoofddraagconstructie,Duiker,Duiker,Ongewijzigd
+147,Hoofddraagconstructie,Ecoduct,Ecoduct,Ongewijzigd
+147,Hoofddraagconstructie,Gemaal,Gemaal,Ongewijzigd
+147,Hoofddraagconstructie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+147,Hoofddraagconstructie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+147,Hoofddraagconstructie,Overkluizing,Overkluizing,Ongewijzigd
+147,Hoofddraagconstructie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+147,Hoofddraagconstructie,Stuw,Stuw,Ongewijzigd
+147,Hoofddraagconstructie,Tunnel,Tunnel,Ongewijzigd
+147,Hoofddraagconstructie,Viaduct,Viaduct,Ongewijzigd
+147,Hoofddraagconstructie,Sifon,Sifon,Ongewijzigd
+147,Hoofddraagconstructie,Hevel,Hevel,Ongewijzigd
+147,Hoofddraagconstructie,Windmolen,Windmolen,Ongewijzigd
+147,Hoofddraagconstructie,Keersluis,Keersluis,Ongewijzigd
+148,Hoofddraaipunt,Aanleginrichting,Aanleginrichting,Ongewijzigd
+148,Hoofddraaipunt,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+148,Hoofddraaipunt,Duiker,Duiker,Ongewijzigd
+148,Hoofddraaipunt,Gemaal,Gemaal,Ongewijzigd
+148,Hoofddraaipunt,Schutsluis,Schutsluis,Ongewijzigd
+148,Hoofddraaipunt,Spuisluis,Spuisluis,Ongewijzigd
+148,Hoofddraaipunt,Stuw,Stuw,Ongewijzigd
+148,Hoofddraaipunt,Viaduct,Viaduct,Ongewijzigd
+148,Hoofddraaipunt,Bezinkbassin,Bezinkbassin,Ongewijzigd
+148,Hoofddraaipunt,Keersluis,Keersluis,Ongewijzigd
+145,Hoog Frequent installatie (HF),Aquaduct,Aquaduct,Ongewijzigd
+145,Hoog Frequent installatie (HF),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+145,Hoog Frequent installatie (HF),Open tunnelbak,Open tunnelbak,Ongewijzigd
+145,Hoog Frequent installatie (HF),Terrein,Terrein,Ongewijzigd
+145,Hoog Frequent installatie (HF),Tunnel,Tunnel,Ongewijzigd
+145,Hoog Frequent installatie (HF),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+145,Hoog Frequent installatie (HF),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+145,Hoog Frequent installatie (HF),Weg,Weg,Ongewijzigd
+149,Hoogspanningsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+149,Hoogspanningsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+149,Hoogspanningsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+149,Hoogspanningsinstallatie,Gemaal,Gemaal,Ongewijzigd
+149,Hoogspanningsinstallatie,Haven,Haven,Ongewijzigd
+149,Hoogspanningsinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+149,Hoogspanningsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+149,Hoogspanningsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+149,Hoogspanningsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+149,Hoogspanningsinstallatie,Stuw,Stuw,Ongewijzigd
+149,Hoogspanningsinstallatie,Tunnel,Tunnel,Ongewijzigd
+149,Hoogspanningsinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+149,Hoogspanningsinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+149,Hoogspanningsinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+149,Hoogspanningsinstallatie,Keersluis,Keersluis,Ongewijzigd
+150,Hoogtedetectie-installatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+150,Hoogtedetectie-installatie,Aquaduct,Aquaduct,Ongewijzigd
+150,Hoogtedetectie-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+150,Hoogtedetectie-installatie,Brug (vast),Brug (vast),Ongewijzigd
+150,Hoogtedetectie-installatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+150,Hoogtedetectie-installatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+150,Hoogtedetectie-installatie,Terrein,Terrein,Ongewijzigd
+150,Hoogtedetectie-installatie,Tunnel,Tunnel,Ongewijzigd
+150,Hoogtedetectie-installatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+150,Hoogtedetectie-installatie,Viaduct,Viaduct,Ongewijzigd
+423,Hoogwatervluchtplaats,,Kanaal,Toegevoegd
+423,Hoogwatervluchtplaats,,Rivier,Toegevoegd
+423,Hoogwatervluchtplaats,,"Water en watergang (niet lijnvormig), overig",Toegevoegd
+423,Hoogwatervluchtplaats,,"Water en watergang (lijnvormig), overig",Toegevoegd
+250,Inbraakbeveiligingsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Gemaal,Gemaal,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Stuw,Stuw,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Tunnel,Tunnel,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Windmolen,Windmolen,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Keersluis,Keersluis,Ongewijzigd
+296,Infiltratievoorziening,Riolering,Riolering,Ongewijzigd
+296,Infiltratievoorziening,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+296,Infiltratievoorziening,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Haven,Haven,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Schutsluis,Schutsluis,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+358,Inlaatvoorziening,Riolering,Riolering,Ongewijzigd
+358,Inlaatvoorziening,Weg,Weg,Ongewijzigd
+358,Inlaatvoorziening,Bezinkbassin,Bezinkbassin,Ongewijzigd
+358,Inlaatvoorziening,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+358,Inlaatvoorziening,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+152,Inspectiewagen,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+152,Inspectiewagen,Brug (vast),Brug (vast),Ongewijzigd
+152,Inspectiewagen,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+152,Inspectiewagen,Gemaal,Gemaal,Ongewijzigd
+152,Inspectiewagen,Open tunnelbak,Open tunnelbak,Ongewijzigd
+152,Inspectiewagen,Schutsluis,Schutsluis,Ongewijzigd
+152,Inspectiewagen,Spuisluis,Spuisluis,Ongewijzigd
+152,Inspectiewagen,Stormvloedkering,Stormvloedkering,Ongewijzigd
+152,Inspectiewagen,Stuw,Stuw,Ongewijzigd
+152,Inspectiewagen,Tunnel,Tunnel,Ongewijzigd
+152,Inspectiewagen,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+152,Inspectiewagen,Keersluis,Keersluis,Ongewijzigd
+153,Intercominstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+153,Intercominstallatie,Aquaduct,Aquaduct,Ongewijzigd
+153,Intercominstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+153,Intercominstallatie,Brug (vast),Brug (vast),Ongewijzigd
+153,Intercominstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+153,Intercominstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+153,Intercominstallatie,Gemaal,Gemaal,Ongewijzigd
+153,Intercominstallatie,Haven,Haven,Ongewijzigd
+153,Intercominstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+153,Intercominstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+153,Intercominstallatie,Rivier,Rivier,Ongewijzigd
+153,Intercominstallatie,Schutsluis,Schutsluis,Ongewijzigd
+153,Intercominstallatie,Spuisluis,Spuisluis,Ongewijzigd
+153,Intercominstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+153,Intercominstallatie,Stuw,Stuw,Ongewijzigd
+153,Intercominstallatie,Terrein,Terrein,Ongewijzigd
+153,Intercominstallatie,Tunnel,Tunnel,Ongewijzigd
+153,Intercominstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+153,Intercominstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+153,Intercominstallatie,Viaduct,Viaduct,Ongewijzigd
+153,Intercominstallatie,Weg,Weg,Ongewijzigd
+153,Intercominstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+153,Intercominstallatie,Keersluis,Keersluis,Ongewijzigd
+113,Kabel,Aanleginrichting,Aanleginrichting,Ongewijzigd
+113,Kabel,Aquaduct,Aquaduct,Ongewijzigd
+113,Kabel,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+113,Kabel,Brug (vast),Brug (vast),Ongewijzigd
+113,Kabel,Dam,Dam,Ongewijzigd
+113,Kabel,Dijk,Dijk,Ongewijzigd
+113,Kabel,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+113,Kabel,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+113,Kabel,Gemaal,Gemaal,Ongewijzigd
+113,Kabel,Haven,Haven,Ongewijzigd
+113,Kabel,Kabel en leiding,Kabel en leiding,Ongewijzigd
+113,Kabel,Kade,Kade,Ongewijzigd
+113,Kabel,Onderdoorgang,Onderdoorgang,Ongewijzigd
+113,Kabel,Open tunnelbak,Open tunnelbak,Ongewijzigd
+113,Kabel,Park,Park,Ongewijzigd
+113,Kabel,Schutsluis,Schutsluis,Ongewijzigd
+113,Kabel,Spoorweg,Spoorweg,Ongewijzigd
+113,Kabel,Spuisluis,Spuisluis,Ongewijzigd
+113,Kabel,Stormvloedkering,Stormvloedkering,Ongewijzigd
+113,Kabel,Stuw,Stuw,Ongewijzigd
+113,Kabel,Terrein,Terrein,Ongewijzigd
+113,Kabel,Tunnel,Tunnel,Ongewijzigd
+113,Kabel,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+113,Kabel,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+113,Kabel,Viaduct,Viaduct,Ongewijzigd
+113,Kabel,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+113,Kabel,Weg,Weg,Ongewijzigd
+113,Kabel,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+113,Kabel,Procesbassin,Procesbassin,Ongewijzigd
+113,Kabel,Bezinkbassin,Bezinkbassin,Ongewijzigd
+113,Kabel,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+113,Kabel,Gistingstank,Gistingstank,Ongewijzigd
+113,Kabel,Opslagtank,Opslagtank,Ongewijzigd
+113,Kabel,Beluchtingstank,Beluchtingstank,Ongewijzigd
+113,Kabel,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+113,Kabel,Windmolen,Windmolen,Ongewijzigd
+113,Kabel,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+113,Kabel,Keersluis,Keersluis,Ongewijzigd
+155,Kabel- en leidingtunnel,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+155,Kabel- en leidingtunnel,Gemaal,Gemaal,Ongewijzigd
+155,Kabel- en leidingtunnel,Haven,Haven,Ongewijzigd
+155,Kabel- en leidingtunnel,Kade,Kade,Ongewijzigd
+155,Kabel- en leidingtunnel,Schutsluis,Schutsluis,Ongewijzigd
+155,Kabel- en leidingtunnel,Stuw,Stuw,Ongewijzigd
+155,Kabel- en leidingtunnel,Tunnel,Tunnel,Ongewijzigd
+155,Kabel- en leidingtunnel,Weg,Weg,Ongewijzigd
+155,Kabel- en leidingtunnel,Procesbassin,Procesbassin,Ongewijzigd
+155,Kabel- en leidingtunnel,Bezinkbassin,Bezinkbassin,Ongewijzigd
+155,Kabel- en leidingtunnel,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+155,Kabel- en leidingtunnel,Gistingstank,Gistingstank,Ongewijzigd
+155,Kabel- en leidingtunnel,Opslagtank,Opslagtank,Ongewijzigd
+155,Kabel- en leidingtunnel,Beluchtingstank,Beluchtingstank,Ongewijzigd
+155,Kabel- en leidingtunnel,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+156,Kabeldraagconstructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+156,Kabeldraagconstructie,Aquaduct,Aquaduct,Ongewijzigd
+156,Kabeldraagconstructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+156,Kabeldraagconstructie,Brug (vast),Brug (vast),Ongewijzigd
+156,Kabeldraagconstructie,Dam,Dam,Ongewijzigd
+156,Kabeldraagconstructie,Dijk,Dijk,Ongewijzigd
+156,Kabeldraagconstructie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+156,Kabeldraagconstructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+156,Kabeldraagconstructie,Gemaal,Gemaal,Ongewijzigd
+156,Kabeldraagconstructie,Haven,Haven,Ongewijzigd
+156,Kabeldraagconstructie,Kabel en leiding,Kabel en leiding,Ongewijzigd
+156,Kabeldraagconstructie,Kade,Kade,Ongewijzigd
+156,Kabeldraagconstructie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+156,Kabeldraagconstructie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+156,Kabeldraagconstructie,Park,Park,Ongewijzigd
+156,Kabeldraagconstructie,Schutsluis,Schutsluis,Ongewijzigd
+156,Kabeldraagconstructie,Spoorweg,Spoorweg,Ongewijzigd
+156,Kabeldraagconstructie,Spuisluis,Spuisluis,Ongewijzigd
+156,Kabeldraagconstructie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+156,Kabeldraagconstructie,Stuw,Stuw,Ongewijzigd
+156,Kabeldraagconstructie,Terrein,Terrein,Ongewijzigd
+156,Kabeldraagconstructie,Tunnel,Tunnel,Ongewijzigd
+156,Kabeldraagconstructie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+156,Kabeldraagconstructie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+156,Kabeldraagconstructie,Viaduct,Viaduct,Ongewijzigd
+156,Kabeldraagconstructie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+156,Kabeldraagconstructie,Weg,Weg,Ongewijzigd
+156,Kabeldraagconstructie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+156,Kabeldraagconstructie,Procesbassin,Procesbassin,Ongewijzigd
+156,Kabeldraagconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+156,Kabeldraagconstructie,Gistingstank,Gistingstank,Ongewijzigd
+156,Kabeldraagconstructie,Opslagtank,Opslagtank,Ongewijzigd
+156,Kabeldraagconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+156,Kabeldraagconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+156,Kabeldraagconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+156,Kabeldraagconstructie,Keersluis,Keersluis,Ongewijzigd
+373,Kathodische bescherminstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+373,Kathodische bescherminstallatie,Aquaduct,Aquaduct,Ongewijzigd
+373,Kathodische bescherminstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+373,Kathodische bescherminstallatie,Brug (vast),Brug (vast),Ongewijzigd
+373,Kathodische bescherminstallatie,Waterbuffer,Waterbuffer,Ongewijzigd
+373,Kathodische bescherminstallatie,Coupure,Coupure,Ongewijzigd
+373,Kathodische bescherminstallatie,Duiker,Duiker,Ongewijzigd
+373,Kathodische bescherminstallatie,Gemaal,Gemaal,Ongewijzigd
+373,Kathodische bescherminstallatie,Haven,Haven,Ongewijzigd
+373,Kathodische bescherminstallatie,Kabel en leiding,Kabel en leiding,Ongewijzigd
+373,Kathodische bescherminstallatie,Kade,Kade,Ongewijzigd
+373,Kathodische bescherminstallatie,Kanaal,Kanaal,Ongewijzigd
+373,Kathodische bescherminstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+373,Kathodische bescherminstallatie,Overkluizing,Overkluizing,Ongewijzigd
+373,Kathodische bescherminstallatie,Riolering,Riolering,Ongewijzigd
+373,Kathodische bescherminstallatie,Rivier,Rivier,Ongewijzigd
+373,Kathodische bescherminstallatie,Schutsluis,Schutsluis,Ongewijzigd
+373,Kathodische bescherminstallatie,Spuisluis,Spuisluis,Ongewijzigd
+373,Kathodische bescherminstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+373,Kathodische bescherminstallatie,Stuw,Stuw,Ongewijzigd
+373,Kathodische bescherminstallatie,Tunnel,Tunnel,Ongewijzigd
+373,Kathodische bescherminstallatie,Viaduct,Viaduct,Ongewijzigd
+373,Kathodische bescherminstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+373,Kathodische bescherminstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+373,Kathodische bescherminstallatie,Hevel,Hevel,Ongewijzigd
+373,Kathodische bescherminstallatie,Persleiding,Persleiding,Ongewijzigd
+373,Kathodische bescherminstallatie,Keersluis,Keersluis,Ongewijzigd
+271,Keerplaats,Haven,Haven,Ongewijzigd
+271,Keerplaats,Kanaal,Kanaal,Ongewijzigd
+271,Keerplaats,Meer,Meer,Ongewijzigd
+271,Keerplaats,Rivier,Rivier,Ongewijzigd
+271,Keerplaats,Zee,Zee,Ongewijzigd
+271,Keerplaats,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+271,Keerplaats,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+251,Kelder,Aanleginrichting,Aanleginrichting,Ongewijzigd
+251,Kelder,Aquaduct,Aquaduct,Ongewijzigd
+251,Kelder,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+251,Kelder,Brug (vast),Brug (vast),Ongewijzigd
+251,Kelder,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+251,Kelder,Gemaal,Gemaal,Ongewijzigd
+251,Kelder,Onderdoorgang,Onderdoorgang,Ongewijzigd
+251,Kelder,Open tunnelbak,Open tunnelbak,Ongewijzigd
+251,Kelder,Schutsluis,Schutsluis,Ongewijzigd
+251,Kelder,Spuisluis,Spuisluis,Ongewijzigd
+251,Kelder,Stormvloedkering,Stormvloedkering,Ongewijzigd
+251,Kelder,Stuw,Stuw,Ongewijzigd
+251,Kelder,Tunnel,Tunnel,Ongewijzigd
+251,Kelder,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+251,Kelder,Bezinkbassin,Bezinkbassin,Ongewijzigd
+251,Kelder,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+251,Kelder,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+251,Kelder,Windmolen,Windmolen,Ongewijzigd
+251,Kelder,Persleiding,Persleiding,Ongewijzigd
+251,Kelder,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+251,Kelder,Keersluis,Keersluis,Ongewijzigd
+157,Kerende constructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+157,Kerende constructie,Aquaduct,Aquaduct,Ongewijzigd
+157,Kerende constructie,Bosgebied,Bosgebied,Ongewijzigd
+157,Kerende constructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+157,Kerende constructie,Brug (vast),Brug (vast),Ongewijzigd
+157,Kerende constructie,Waterbuffer,Waterbuffer,Ongewijzigd
+157,Kerende constructie,Coupure,Coupure,Ongewijzigd
+157,Kerende constructie,Dam,Dam,Ongewijzigd
+157,Kerende constructie,Dijk,Dijk,Ongewijzigd
+157,Kerende constructie,Duiker,Duiker,Ongewijzigd
+157,Kerende constructie,Duingebied,Duingebied,Ongewijzigd
+157,Kerende constructie,Gemaal,Gemaal,Ongewijzigd
+157,Kerende constructie,Grondkering,Grondkering,Ongewijzigd
+157,Kerende constructie,Haven,Haven,Ongewijzigd
+157,Kerende constructie,Kade,Kade,Ongewijzigd
+157,Kerende constructie,Kanaal,Kanaal,Ongewijzigd
+157,Kerende constructie,Meer,Meer,Ongewijzigd
+157,Kerende constructie,Natuurgebied,Natuurgebied,Ongewijzigd
+157,Kerende constructie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+157,Kerende constructie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+157,Kerende constructie,Overkluizing,Overkluizing,Ongewijzigd
+157,Kerende constructie,Park,Park,Ongewijzigd
+157,Kerende constructie,Riolering,Riolering,Ongewijzigd
+157,Kerende constructie,Rivier,Rivier,Ongewijzigd
+157,Kerende constructie,Schutsluis,Schutsluis,Ongewijzigd
+157,Kerende constructie,Spuisluis,Spuisluis,Ongewijzigd
+157,Kerende constructie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+157,Kerende constructie,Stuw,Stuw,Ongewijzigd
+157,Kerende constructie,Tunnel,Tunnel,Ongewijzigd
+157,Kerende constructie,Viaduct,Viaduct,Ongewijzigd
+157,Kerende constructie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+157,Kerende constructie,Weg,Weg,Ongewijzigd
+157,Kerende constructie,Sifon,Sifon,Ongewijzigd
+157,Kerende constructie,Hevel,Hevel,Ongewijzigd
+157,Kerende constructie,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+157,Kerende constructie,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+157,Kerende constructie,Persleiding,Persleiding,Ongewijzigd
+157,Kerende constructie,Keersluis,Keersluis,Ongewijzigd
+205,Keringschuif,Stormvloedkering,Stormvloedkering,Ongewijzigd
+205,Keringschuif,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+205,Keringschuif,Hevel,Hevel,Ongewijzigd
+407,Keukeninrichting,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+158,Klepconstructie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+158,Klepconstructie,Gemaal,Gemaal,Ongewijzigd
+158,Klepconstructie,Riolering,Riolering,Ongewijzigd
+158,Klepconstructie,Spuisluis,Spuisluis,Ongewijzigd
+158,Klepconstructie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+158,Klepconstructie,Sifon,Sifon,Ongewijzigd
+158,Klepconstructie,Procesbassin,Procesbassin,Ongewijzigd
+158,Klepconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+158,Klepconstructie,Gistingstank,Gistingstank,Ongewijzigd
+158,Klepconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+158,Klepconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+158,Klepconstructie,Persleiding,Persleiding,Ongewijzigd
+158,Klepconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+158,Klepconstructie,Keersluis,Keersluis,Ongewijzigd
+299,Klim- en leiplant,Infragebonden gebouw,,Vervallen
+299,Klim- en leiplant,Park,,Vervallen
+299,Klim- en leiplant,Terrein,,Vervallen
+337,Klimaatinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+337,Klimaatinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+337,Klimaatinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+337,Klimaatinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+337,Klimaatinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+337,Klimaatinstallatie,Gemaal,Gemaal,Ongewijzigd
+337,Klimaatinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+337,Klimaatinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+337,Klimaatinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+337,Klimaatinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+337,Klimaatinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+337,Klimaatinstallatie,Stuw,Stuw,Ongewijzigd
+337,Klimaatinstallatie,Terrein,Terrein,Ongewijzigd
+337,Klimaatinstallatie,Tunnel,Tunnel,Ongewijzigd
+337,Klimaatinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+337,Klimaatinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+337,Klimaatinstallatie,Weg,Weg,Ongewijzigd
+337,Klimaatinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+337,Klimaatinstallatie,Hevel,Hevel,Ongewijzigd
+337,Klimaatinstallatie,Keersluis,Keersluis,Ongewijzigd
+393,Kozijnwerk,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+393,Kozijnwerk,Windmolen,Windmolen,Ongewijzigd
+159,Krib,Rivier,Rivier,Ongewijzigd
+160,Kribvak,Rivier,Rivier,Ongewijzigd
+259,Kruin,Dam,Dam,Ongewijzigd
+259,Kruin,Dijk,Dijk,Ongewijzigd
+302,Kwelder,Natuurgebied,Natuurgebied,Ongewijzigd
+302,Kwelder,Terrein,Terrein,Ongewijzigd
+302,Kwelder,Zee,Zee,Ongewijzigd
+427,Kwelkade,,Dam,Toegevoegd
+427,Kwelkade,,Dijk,Toegevoegd
+162,Laagspanningsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+162,Laagspanningsinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+162,Laagspanningsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+162,Laagspanningsinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+162,Laagspanningsinstallatie,Dijk,Dijk,Ongewijzigd
+162,Laagspanningsinstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+162,Laagspanningsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+162,Laagspanningsinstallatie,Gemaal,Gemaal,Ongewijzigd
+162,Laagspanningsinstallatie,Haven,Haven,Ongewijzigd
+162,Laagspanningsinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+162,Laagspanningsinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+162,Laagspanningsinstallatie,Park,Park,Ongewijzigd
+162,Laagspanningsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+162,Laagspanningsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+162,Laagspanningsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+162,Laagspanningsinstallatie,Stuw,Stuw,Ongewijzigd
+162,Laagspanningsinstallatie,Terrein,Terrein,Ongewijzigd
+162,Laagspanningsinstallatie,Tunnel,Tunnel,Ongewijzigd
+162,Laagspanningsinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+162,Laagspanningsinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+162,Laagspanningsinstallatie,Viaduct,Viaduct,Ongewijzigd
+162,Laagspanningsinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+162,Laagspanningsinstallatie,Weg,Weg,Ongewijzigd
+162,Laagspanningsinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+162,Laagspanningsinstallatie,Windmolen,Windmolen,Ongewijzigd
+162,Laagspanningsinstallatie,Keersluis,Keersluis,Ongewijzigd
+273,Landbouwgrond,Landbouwgebied,Landbouwgebied,Ongewijzigd
+361,Leidam,,Dam,Toegevoegd
+361,Leidam,,Dijk,Toegevoegd
+361,Leidam,Kanaal,Kanaal,Ongewijzigd
+361,Leidam,Meer,Meer,Ongewijzigd
+361,Leidam,Rivier,Rivier,Ongewijzigd
+361,Leidam,Zee,Zee,Ongewijzigd
+361,Leidam,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+361,Leidam,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+163,Leiding,Aanleginrichting,Aanleginrichting,Ongewijzigd
+163,Leiding,Aquaduct,Aquaduct,Ongewijzigd
+163,Leiding,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+163,Leiding,Brug (vast),Brug (vast),Ongewijzigd
+163,Leiding,Dijk,Dijk,Ongewijzigd
+163,Leiding,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+163,Leiding,Duiker,Duiker,Ongewijzigd
+163,Leiding,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+163,Leiding,Gemaal,Gemaal,Ongewijzigd
+163,Leiding,Haven,Haven,Ongewijzigd
+163,Leiding,Kabel en leiding,Kabel en leiding,Ongewijzigd
+163,Leiding,Onderdoorgang,Onderdoorgang,Ongewijzigd
+163,Leiding,Open tunnelbak,Open tunnelbak,Ongewijzigd
+163,Leiding,Park,Park,Ongewijzigd
+163,Leiding,Riolering,Riolering,Ongewijzigd
+163,Leiding,Schutsluis,Schutsluis,Ongewijzigd
+163,Leiding,Spuisluis,Spuisluis,Ongewijzigd
+163,Leiding,Stormvloedkering,Stormvloedkering,Ongewijzigd
+163,Leiding,Stuw,Stuw,Ongewijzigd
+163,Leiding,Terrein,Terrein,Ongewijzigd
+163,Leiding,Tunnel,Tunnel,Ongewijzigd
+163,Leiding,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+163,Leiding,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+163,Leiding,Viaduct,Viaduct,Ongewijzigd
+163,Leiding,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+163,Leiding,Weg,Weg,Ongewijzigd
+163,Leiding,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+163,Leiding,Procesbassin,Procesbassin,Ongewijzigd
+163,Leiding,Bezinkbassin,Bezinkbassin,Ongewijzigd
+163,Leiding,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+163,Leiding,Gistingstank,Gistingstank,Ongewijzigd
+163,Leiding,Opslagtank,Opslagtank,Ongewijzigd
+163,Leiding,Beluchtingstank,Beluchtingstank,Ongewijzigd
+163,Leiding,Persleiding,Persleiding,Ongewijzigd
+163,Leiding,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+163,Leiding,Keersluis,Keersluis,Ongewijzigd
+360,Leikade,,Dam,Toegevoegd
+360,Leikade,,Dijk,Toegevoegd
+360,Leikade,Kanaal,Kanaal,Ongewijzigd
+360,Leikade,Meer,Meer,Ongewijzigd
+360,Leikade,Rivier,Rivier,Ongewijzigd
+360,Leikade,Zee,Zee,Ongewijzigd
+360,Leikade,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+360,Leikade,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+414,Leuningconstructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+414,Leuningconstructie,Aquaduct,Aquaduct,Ongewijzigd
+414,Leuningconstructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+414,Leuningconstructie,Brug (vast),Brug (vast),Ongewijzigd
+414,Leuningconstructie,Haven,Haven,Ongewijzigd
+414,Leuningconstructie,Schutsluis,Schutsluis,Ongewijzigd
+414,Leuningconstructie,Spuisluis,Spuisluis,Ongewijzigd
+414,Leuningconstructie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+414,Leuningconstructie,Stuw,Stuw,Ongewijzigd
+414,Leuningconstructie,Tunnel,Tunnel,Ongewijzigd
+414,Leuningconstructie,Viaduct,Viaduct,Ongewijzigd
+414,Leuningconstructie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+414,Leuningconstructie,Sifon,Sifon,Ongewijzigd
+414,Leuningconstructie,Keersluis,Keersluis,Ongewijzigd
+165,Lift-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+165,Lift-installatie,Brug (vast),Brug (vast),Ongewijzigd
+165,Lift-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+165,Lift-installatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+165,Lift-installatie,Terrein,Terrein,Ongewijzigd
+165,Lift-installatie,Tunnel,Tunnel,Ongewijzigd
+165,Lift-installatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+165,Lift-installatie,Keersluis,Keersluis,Ongewijzigd
+166,Loopbrug,Aanleginrichting,Aanleginrichting,Ongewijzigd
+166,Loopbrug,Aquaduct,Aquaduct,Ongewijzigd
+166,Loopbrug,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+166,Loopbrug,Brug (vast),Brug (vast),Ongewijzigd
+166,Loopbrug,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+166,Loopbrug,Gemaal,Gemaal,Ongewijzigd
+166,Loopbrug,Onderdoorgang,Onderdoorgang,Ongewijzigd
+166,Loopbrug,Open tunnelbak,Open tunnelbak,Ongewijzigd
+166,Loopbrug,Schutsluis,Schutsluis,Ongewijzigd
+166,Loopbrug,Spoorweg,Spoorweg,Ongewijzigd
+166,Loopbrug,Stuw,Stuw,Ongewijzigd
+166,Loopbrug,Terrein,Terrein,Ongewijzigd
+166,Loopbrug,Tunnel,Tunnel,Ongewijzigd
+166,Loopbrug,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+166,Loopbrug,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+166,Loopbrug,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+166,Loopbrug,Beluchtingstank,Beluchtingstank,Ongewijzigd
+167,Mantelbuis,Aanleginrichting,Aanleginrichting,Ongewijzigd
+167,Mantelbuis,Aquaduct,Aquaduct,Ongewijzigd
+167,Mantelbuis,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+167,Mantelbuis,Brug (vast),Brug (vast),Ongewijzigd
+167,Mantelbuis,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+167,Mantelbuis,Duiker,Duiker,Ongewijzigd
+167,Mantelbuis,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+167,Mantelbuis,Gemaal,Gemaal,Ongewijzigd
+167,Mantelbuis,Haven,Haven,Ongewijzigd
+167,Mantelbuis,Kabel en leiding,Kabel en leiding,Ongewijzigd
+167,Mantelbuis,Kade,Kade,Ongewijzigd
+167,Mantelbuis,Onderdoorgang,Onderdoorgang,Ongewijzigd
+167,Mantelbuis,Open tunnelbak,Open tunnelbak,Ongewijzigd
+167,Mantelbuis,Park,Park,Ongewijzigd
+167,Mantelbuis,Schutsluis,Schutsluis,Ongewijzigd
+167,Mantelbuis,Spoorweg,Spoorweg,Ongewijzigd
+167,Mantelbuis,Spuisluis,Spuisluis,Ongewijzigd
+167,Mantelbuis,Stormvloedkering,Stormvloedkering,Ongewijzigd
+167,Mantelbuis,Stuw,Stuw,Ongewijzigd
+167,Mantelbuis,Terrein,Terrein,Ongewijzigd
+167,Mantelbuis,Tunnel,Tunnel,Ongewijzigd
+167,Mantelbuis,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+167,Mantelbuis,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+167,Mantelbuis,Viaduct,Viaduct,Ongewijzigd
+167,Mantelbuis,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+167,Mantelbuis,Weg,Weg,Ongewijzigd
+167,Mantelbuis,Procesbassin,Procesbassin,Ongewijzigd
+167,Mantelbuis,Bezinkbassin,Bezinkbassin,Ongewijzigd
+167,Mantelbuis,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+167,Mantelbuis,Gistingstank,Gistingstank,Ongewijzigd
+167,Mantelbuis,Opslagtank,Opslagtank,Ongewijzigd
+167,Mantelbuis,Beluchtingstank,Beluchtingstank,Ongewijzigd
+167,Mantelbuis,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+167,Mantelbuis,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+167,Mantelbuis,Keersluis,Keersluis,Ongewijzigd
+168,Marifooninstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+168,Marifooninstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+168,Marifooninstallatie,Brug (vast),Brug (vast),Ongewijzigd
+168,Marifooninstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+168,Marifooninstallatie,Gemaal,Gemaal,Ongewijzigd
+168,Marifooninstallatie,Schutsluis,Schutsluis,Ongewijzigd
+168,Marifooninstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+168,Marifooninstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+168,Marifooninstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+168,Marifooninstallatie,Keersluis,Keersluis,Ongewijzigd
+374,Meetinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+374,Meetinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+374,Meetinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+374,Meetinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+374,Meetinstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+374,Meetinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+374,Meetinstallatie,Gemaal,Gemaal,Ongewijzigd
+374,Meetinstallatie,Haven,Haven,Ongewijzigd
+374,Meetinstallatie,Kanaal,Kanaal,Ongewijzigd
+374,Meetinstallatie,Riolering,Riolering,Ongewijzigd
+374,Meetinstallatie,Rivier,Rivier,Ongewijzigd
+374,Meetinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+374,Meetinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+374,Meetinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+374,Meetinstallatie,Stuw,Stuw,Ongewijzigd
+374,Meetinstallatie,Tunnel,Tunnel,Ongewijzigd
+374,Meetinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+374,Meetinstallatie,Viaduct,Viaduct,Ongewijzigd
+374,Meetinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+374,Meetinstallatie,Weg,Weg,Ongewijzigd
+374,Meetinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+374,Meetinstallatie,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+374,Meetinstallatie,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+374,Meetinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+374,Meetinstallatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+374,Meetinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+374,Meetinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+374,Meetinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+374,Meetinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+374,Meetinstallatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+374,Meetinstallatie,Persleiding,Persleiding,Ongewijzigd
+374,Meetinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+374,Meetinstallatie,Keersluis,Keersluis,Ongewijzigd
+380,Menginstallatie,Procesbassin,Procesbassin,Ongewijzigd
+380,Menginstallatie,Gistingstank,Gistingstank,Ongewijzigd
+380,Menginstallatie,Opslagtank,Opslagtank,Ongewijzigd
+380,Menginstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+380,Menginstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+304,Moerasvegetatie,Terrein,,Vervallen
+170,Nautofooninstallatie,Aquaduct,Aquaduct,Ongewijzigd
+170,Nautofooninstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+170,Nautofooninstallatie,Brug (vast),Brug (vast),Ongewijzigd
+170,Nautofooninstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+170,Nautofooninstallatie,Gemaal,Gemaal,Ongewijzigd
+170,Nautofooninstallatie,Haven,Haven,Ongewijzigd
+170,Nautofooninstallatie,Schutsluis,Schutsluis,Ongewijzigd
+170,Nautofooninstallatie,Spuisluis,Spuisluis,Ongewijzigd
+170,Nautofooninstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+170,Nautofooninstallatie,Stuw,Stuw,Ongewijzigd
+170,Nautofooninstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+170,Nautofooninstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+170,Nautofooninstallatie,Keersluis,Keersluis,Ongewijzigd
+364,Nevengeul,Uiterwaard,Uiterwaard,Ongewijzigd
+379,Nooddouche-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+379,Nooddouche-installatie,Terrein,Terrein,Ongewijzigd
+379,Nooddouche-installatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+171,Noodstroominstallatie (roterend),Aanleginrichting,Aanleginrichting,Ongewijzigd
+171,Noodstroominstallatie (roterend),Aquaduct,Aquaduct,Ongewijzigd
+171,Noodstroominstallatie (roterend),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+171,Noodstroominstallatie (roterend),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+171,Noodstroominstallatie (roterend),Gemaal,Gemaal,Ongewijzigd
+171,Noodstroominstallatie (roterend),Onderdoorgang,Onderdoorgang,Ongewijzigd
+171,Noodstroominstallatie (roterend),Open tunnelbak,Open tunnelbak,Ongewijzigd
+171,Noodstroominstallatie (roterend),Schutsluis,Schutsluis,Ongewijzigd
+171,Noodstroominstallatie (roterend),Spuisluis,Spuisluis,Ongewijzigd
+171,Noodstroominstallatie (roterend),Stormvloedkering,Stormvloedkering,Ongewijzigd
+171,Noodstroominstallatie (roterend),Stuw,Stuw,Ongewijzigd
+171,Noodstroominstallatie (roterend),Terrein,Terrein,Ongewijzigd
+171,Noodstroominstallatie (roterend),Tunnel,Tunnel,Ongewijzigd
+171,Noodstroominstallatie (roterend),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+171,Noodstroominstallatie (roterend),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+171,Noodstroominstallatie (roterend),Keersluis,Keersluis,Ongewijzigd
+172,Noodstroominstallatie (statisch),Aanleginrichting,Aanleginrichting,Ongewijzigd
+172,Noodstroominstallatie (statisch),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+172,Noodstroominstallatie (statisch),Brug (vast),Brug (vast),Ongewijzigd
+172,Noodstroominstallatie (statisch),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+172,Noodstroominstallatie (statisch),Gemaal,Gemaal,Ongewijzigd
+172,Noodstroominstallatie (statisch),Open tunnelbak,Open tunnelbak,Ongewijzigd
+172,Noodstroominstallatie (statisch),Schutsluis,Schutsluis,Ongewijzigd
+172,Noodstroominstallatie (statisch),Spuisluis,Spuisluis,Ongewijzigd
+172,Noodstroominstallatie (statisch),Stormvloedkering,Stormvloedkering,Ongewijzigd
+172,Noodstroominstallatie (statisch),Stuw,Stuw,Ongewijzigd
+172,Noodstroominstallatie (statisch),Terrein,Terrein,Ongewijzigd
+172,Noodstroominstallatie (statisch),Tunnel,Tunnel,Ongewijzigd
+172,Noodstroominstallatie (statisch),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+172,Noodstroominstallatie (statisch),Weg,Weg,Ongewijzigd
+172,Noodstroominstallatie (statisch),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+172,Noodstroominstallatie (statisch),Keersluis,Keersluis,Ongewijzigd
+173,Objectverlichting,Aanleginrichting,Aanleginrichting,Ongewijzigd
+173,Objectverlichting,Aquaduct,Aquaduct,Ongewijzigd
+173,Objectverlichting,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+173,Objectverlichting,Brug (vast),Brug (vast),Ongewijzigd
+173,Objectverlichting,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+173,Objectverlichting,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+173,Objectverlichting,Gemaal,Gemaal,Ongewijzigd
+173,Objectverlichting,Haven,Haven,Ongewijzigd
+173,Objectverlichting,Kade,Kade,Ongewijzigd
+173,Objectverlichting,Onderdoorgang,Onderdoorgang,Ongewijzigd
+173,Objectverlichting,Open tunnelbak,Open tunnelbak,Ongewijzigd
+173,Objectverlichting,Schutsluis,Schutsluis,Ongewijzigd
+173,Objectverlichting,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+173,Objectverlichting,Spuisluis,Spuisluis,Ongewijzigd
+173,Objectverlichting,Stormvloedkering,Stormvloedkering,Ongewijzigd
+173,Objectverlichting,Stuw,Stuw,Ongewijzigd
+173,Objectverlichting,Terrein,Terrein,Ongewijzigd
+173,Objectverlichting,Tunnel,Tunnel,Ongewijzigd
+173,Objectverlichting,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+173,Objectverlichting,Viaduct,Viaduct,Ongewijzigd
+173,Objectverlichting,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+173,Objectverlichting,Weg,Weg,Ongewijzigd
+173,Objectverlichting,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+173,Objectverlichting,Procesbassin,Procesbassin,Ongewijzigd
+173,Objectverlichting,Bezinkbassin,Bezinkbassin,Ongewijzigd
+173,Objectverlichting,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+173,Objectverlichting,Gistingstank,Gistingstank,Ongewijzigd
+173,Objectverlichting,Opslagtank,Opslagtank,Ongewijzigd
+173,Objectverlichting,Beluchtingstank,Beluchtingstank,Ongewijzigd
+173,Objectverlichting,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+173,Objectverlichting,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+173,Objectverlichting,Keersluis,Keersluis,Ongewijzigd
+174,Oeverbescherming,Aanleginrichting,Aanleginrichting,Ongewijzigd
+174,Oeverbescherming,Aquaduct,Aquaduct,Ongewijzigd
+174,Oeverbescherming,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+174,Oeverbescherming,Brug (vast),Brug (vast),Ongewijzigd
+174,Oeverbescherming,,Dam,Toegevoegd
+174,Oeverbescherming,,Dijk,Toegevoegd
+174,Oeverbescherming,Duiker,Duiker,Ongewijzigd
+174,Oeverbescherming,Gemaal,Gemaal,Ongewijzigd
+174,Oeverbescherming,Kanaal,Kanaal,Ongewijzigd
+174,Oeverbescherming,Rivier,Rivier,Ongewijzigd
+174,Oeverbescherming,Schutsluis,Schutsluis,Ongewijzigd
+174,Oeverbescherming,Spuisluis,Spuisluis,Ongewijzigd
+174,Oeverbescherming,Stormvloedkering,Stormvloedkering,Ongewijzigd
+174,Oeverbescherming,Stuw,Stuw,Ongewijzigd
+174,Oeverbescherming,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+174,Oeverbescherming,Sifon,Sifon,Ongewijzigd
+174,Oeverbescherming,Hevel,Hevel,Ongewijzigd
+174,Oeverbescherming,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+174,Oeverbescherming,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+174,Oeverbescherming,Keersluis,Keersluis,Ongewijzigd
+175,Omroepinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+175,Omroepinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+175,Omroepinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+175,Omroepinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+175,Omroepinstallatie,Gemaal,Gemaal,Ongewijzigd
+175,Omroepinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+175,Omroepinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+175,Omroepinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+175,Omroepinstallatie,Stuw,Stuw,Ongewijzigd
+175,Omroepinstallatie,Terrein,Terrein,Ongewijzigd
+175,Omroepinstallatie,Tunnel,Tunnel,Ongewijzigd
+175,Omroepinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+175,Omroepinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+175,Omroepinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+175,Omroepinstallatie,Keersluis,Keersluis,Ongewijzigd
+333,Onbegroeid terreindeel,Bosgebied,Bosgebied,Ongewijzigd
+333,Onbegroeid terreindeel,Duingebied,Duingebied,Ongewijzigd
+333,Onbegroeid terreindeel,Landbouwgebied,Landbouwgebied,Ongewijzigd
+333,Onbegroeid terreindeel,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+333,Onbegroeid terreindeel,Terrein,Terrein,Ongewijzigd
+176,Onderbouw,Faunatunnel,Faunatunnel,Ongewijzigd
+176,Onderbouw,Onderdoorgang,Onderdoorgang,Ongewijzigd
+176,Onderbouw,Overkluizing,Overkluizing,Ongewijzigd
+177,Onderbouwconstructie,Haven,Haven,Ongewijzigd
+177,Onderbouwconstructie,Kade,Kade,Ongewijzigd
+262,Onderhoudsstrook,Dam,Dam,Ongewijzigd
+262,Onderhoudsstrook,Dijk,Dijk,Ongewijzigd
+178,Onderhoudsvoorziening,Aanleginrichting,Aanleginrichting,Ongewijzigd
+178,Onderhoudsvoorziening,Aquaduct,Aquaduct,Ongewijzigd
+178,Onderhoudsvoorziening,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+178,Onderhoudsvoorziening,Brug (vast),Brug (vast),Ongewijzigd
+178,Onderhoudsvoorziening,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+178,Onderhoudsvoorziening,Duiker,Duiker,Ongewijzigd
+178,Onderhoudsvoorziening,Gemaal,Gemaal,Ongewijzigd
+178,Onderhoudsvoorziening,Haven,Haven,Ongewijzigd
+178,Onderhoudsvoorziening,Kade,Kade,Ongewijzigd
+178,Onderhoudsvoorziening,Overkluizing,Overkluizing,Ongewijzigd
+178,Onderhoudsvoorziening,Schutsluis,Schutsluis,Ongewijzigd
+178,Onderhoudsvoorziening,Spuisluis,Spuisluis,Ongewijzigd
+178,Onderhoudsvoorziening,Stormvloedkering,Stormvloedkering,Ongewijzigd
+178,Onderhoudsvoorziening,Stuw,Stuw,Ongewijzigd
+178,Onderhoudsvoorziening,Terrein,Terrein,Ongewijzigd
+178,Onderhoudsvoorziening,Tunnel,Tunnel,Ongewijzigd
+178,Onderhoudsvoorziening,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+178,Onderhoudsvoorziening,Sifon,Sifon,Ongewijzigd
+178,Onderhoudsvoorziening,Hevel,Hevel,Ongewijzigd
+178,Onderhoudsvoorziening,Keersluis,Keersluis,Ongewijzigd
+179,Openbare verlichting (OV),Aanleginrichting,Aanleginrichting,Ongewijzigd
+179,Openbare verlichting (OV),Begraafplaats,Begraafplaats,Ongewijzigd
+179,Openbare verlichting (OV),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+179,Openbare verlichting (OV),Brug (vast),Brug (vast),Ongewijzigd
+179,Openbare verlichting (OV),Dam,Dam,Ongewijzigd
+179,Openbare verlichting (OV),Dijk,Dijk,Ongewijzigd
+179,Openbare verlichting (OV),Onderdoorgang,Onderdoorgang,Ongewijzigd
+179,Openbare verlichting (OV),Open tunnelbak,Open tunnelbak,Ongewijzigd
+179,Openbare verlichting (OV),Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+179,Openbare verlichting (OV),Terrein,Terrein,Ongewijzigd
+179,Openbare verlichting (OV),Tunnel,Tunnel,Ongewijzigd
+179,Openbare verlichting (OV),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+179,Openbare verlichting (OV),Viaduct,Viaduct,Ongewijzigd
+179,Openbare verlichting (OV),Weg,Weg,Ongewijzigd
+180,Oplegging,Aanleginrichting,Aanleginrichting,Ongewijzigd
+180,Oplegging,Aquaduct,Aquaduct,Ongewijzigd
+180,Oplegging,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+180,Oplegging,Brug (vast),Brug (vast),Ongewijzigd
+180,Oplegging,Ecoduct,Ecoduct,Ongewijzigd
+180,Oplegging,Onderdoorgang,Onderdoorgang,Ongewijzigd
+180,Oplegging,Open tunnelbak,Open tunnelbak,Ongewijzigd
+180,Oplegging,Overkluizing,Overkluizing,Ongewijzigd
+180,Oplegging,Schutsluis,Schutsluis,Ongewijzigd
+180,Oplegging,Spuisluis,Spuisluis,Ongewijzigd
+180,Oplegging,Tunnel,Tunnel,Ongewijzigd
+180,Oplegging,Viaduct,Viaduct,Ongewijzigd
+180,Oplegging,Keersluis,Keersluis,Ongewijzigd
+181,Opstal,Aanleginrichting,Aanleginrichting,Ongewijzigd
+181,Opstal,Aquaduct,Aquaduct,Ongewijzigd
+181,Opstal,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+181,Opstal,,Dam,Toegevoegd
+181,Opstal,,Dijk,Toegevoegd
+181,Opstal,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+181,Opstal,Duiker,Duiker,Ongewijzigd
+181,Opstal,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+181,Opstal,Gemaal,Gemaal,Ongewijzigd
+181,Opstal,Schutsluis,Schutsluis,Ongewijzigd
+181,Opstal,Spuisluis,Spuisluis,Ongewijzigd
+181,Opstal,Stormvloedkering,Stormvloedkering,Ongewijzigd
+181,Opstal,Stuw,Stuw,Ongewijzigd
+181,Opstal,Terrein,Terrein,Ongewijzigd
+181,Opstal,Tunnel,Tunnel,Ongewijzigd
+181,Opstal,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+181,Opstal,Sifon,Sifon,Ongewijzigd
+181,Opstal,Hevel,Hevel,Ongewijzigd
+181,Opstal,Procesbassin,Procesbassin,Ongewijzigd
+181,Opstal,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+181,Opstal,Keersluis,Keersluis,Ongewijzigd
+182,Over- en onderdrukinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+182,Over- en onderdrukinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+182,Over- en onderdrukinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+182,Over- en onderdrukinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+182,Over- en onderdrukinstallatie,Tunnel,Tunnel,Ongewijzigd
+182,Over- en onderdrukinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+182,Over- en onderdrukinstallatie,Viaduct,Viaduct,Ongewijzigd
+182,Over- en onderdrukinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+182,Over- en onderdrukinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+182,Over- en onderdrukinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+182,Over- en onderdrukinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+183,Overgangsconstructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+183,Overgangsconstructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+183,Overgangsconstructie,Brug (vast),Brug (vast),Ongewijzigd
+183,Overgangsconstructie,Haven,Haven,Ongewijzigd
+183,Overgangsconstructie,Kade,Kade,Ongewijzigd
+183,Overgangsconstructie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+183,Overgangsconstructie,Tunnel,Tunnel,Ongewijzigd
+183,Overgangsconstructie,Viaduct,Viaduct,Ongewijzigd
+347,Perkplant,Park,,Vervallen
+404,Perron,Kade,Kade,Ongewijzigd
+404,Perron,Spoorweg,Spoorweg,Ongewijzigd
+383,Persinstallatie,Gemaal,Gemaal,Ongewijzigd
+383,Persinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+383,Persinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Aanleginrichting,Aanleginrichting,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Aquaduct,Aquaduct,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+184,Personenzoekinstallatie (PZI),Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Gemaal,Gemaal,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Open tunnelbak,Open tunnelbak,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Schutsluis,Schutsluis,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Stormvloedkering,Stormvloedkering,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Tunnel,Tunnel,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Keersluis,Keersluis,Ongewijzigd
+265,Pipingberm,Dam,Dam,Ongewijzigd
+265,Pipingberm,Dijk,Dijk,Ongewijzigd
+392,Plafondconstructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+392,Plafondconstructie,Gemaal,Gemaal,Ongewijzigd
+392,Plafondconstructie,Procesbassin,Procesbassin,Ongewijzigd
+392,Plafondconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+392,Plafondconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+392,Plafondconstructie,Gistingstank,Gistingstank,Ongewijzigd
+392,Plafondconstructie,Opslagtank,Opslagtank,Ongewijzigd
+392,Plafondconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+392,Plafondconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+392,Plafondconstructie,Windmolen,Windmolen,Ongewijzigd
+392,Plafondconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+402,Pollerinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+402,Pollerinstallatie,Haven,Haven,Ongewijzigd
+402,Pollerinstallatie,Terrein,Terrein,Ongewijzigd
+402,Pollerinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+402,Pollerinstallatie,Weg,Weg,Ongewijzigd
+186,Pompinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+186,Pompinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+186,Pompinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+186,Pompinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+186,Pompinstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+186,Pompinstallatie,Ecoduct,Ecoduct,Ongewijzigd
+186,Pompinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+186,Pompinstallatie,Gemaal,Gemaal,Ongewijzigd
+186,Pompinstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+186,Pompinstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+186,Pompinstallatie,Riolering,Riolering,Ongewijzigd
+186,Pompinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+186,Pompinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+186,Pompinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+186,Pompinstallatie,Stuw,Stuw,Ongewijzigd
+186,Pompinstallatie,Terrein,Terrein,Ongewijzigd
+186,Pompinstallatie,Tunnel,Tunnel,Ongewijzigd
+186,Pompinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+186,Pompinstallatie,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+186,Pompinstallatie,Viaduct,Viaduct,Ongewijzigd
+186,Pompinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+186,Pompinstallatie,Weg,Weg,Ongewijzigd
+186,Pompinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+186,Pompinstallatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+186,Pompinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+186,Pompinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+186,Pompinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+186,Pompinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+186,Pompinstallatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+186,Pompinstallatie,Persleiding,Persleiding,Ongewijzigd
+186,Pompinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+186,Pompinstallatie,Keersluis,Keersluis,Ongewijzigd
+187,Pompkelder,Aquaduct,Aquaduct,Ongewijzigd
+187,Pompkelder,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+187,Pompkelder,Brug (vast),Brug (vast),Ongewijzigd
+187,Pompkelder,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+187,Pompkelder,Gemaal,Gemaal,Ongewijzigd
+187,Pompkelder,Onderdoorgang,Onderdoorgang,Ongewijzigd
+187,Pompkelder,Open tunnelbak,Open tunnelbak,Ongewijzigd
+187,Pompkelder,Schutsluis,Schutsluis,Ongewijzigd
+187,Pompkelder,Tunnel,Tunnel,Ongewijzigd
+187,Pompkelder,Viaduct,Viaduct,Ongewijzigd
+187,Pompkelder,Procesbassin,Procesbassin,Ongewijzigd
+187,Pompkelder,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+187,Pompkelder,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+336,Ponton,Aanleginrichting,Aanleginrichting,Ongewijzigd
+188,Portaal,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+188,Portaal,Brug (vast),Brug (vast),Ongewijzigd
+188,Portaal,Dam,Dam,Ongewijzigd
+188,Portaal,Onderdoorgang,Onderdoorgang,Ongewijzigd
+188,Portaal,Terrein,Terrein,Ongewijzigd
+188,Portaal,Tunnel,Tunnel,Ongewijzigd
+188,Portaal,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+188,Portaal,Viaduct,Viaduct,Ongewijzigd
+188,Portaal,Weg,Weg,Ongewijzigd
+354,Put,Faunatunnel,Faunatunnel,Ongewijzigd
+354,Put,Riolering,Riolering,Ongewijzigd
+354,Put,Weg,Weg,Ongewijzigd
+354,Put,Procesbassin,Procesbassin,Ongewijzigd
+354,Put,Gistingstank,Gistingstank,Ongewijzigd
+354,Put,Opslagtank,Opslagtank,Ongewijzigd
+354,Put,Beluchtingstank,Beluchtingstank,Ongewijzigd
+354,Put,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+189,Radarinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+189,Radarinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+189,Radarinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+189,Radarinstallatie,Haven,Haven,Ongewijzigd
+189,Radarinstallatie,Kanaal,Kanaal,Ongewijzigd
+189,Radarinstallatie,Rivier,Rivier,Ongewijzigd
+189,Radarinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+189,Radarinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+189,Radarinstallatie,Stuw,Stuw,Ongewijzigd
+189,Radarinstallatie,Terrein,Terrein,Ongewijzigd
+189,Radarinstallatie,Tunnel,Tunnel,Ongewijzigd
+189,Radarinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+189,Radarinstallatie,Weg,Weg,Ongewijzigd
+189,Radarinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+189,Radarinstallatie,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+189,Radarinstallatie,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+189,Radarinstallatie,Keersluis,Keersluis,Ongewijzigd
+362,Reddingsmiddel,Aanleginrichting,Aanleginrichting,Ongewijzigd
+362,Reddingsmiddel,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+362,Reddingsmiddel,Brug (vast),Brug (vast),Ongewijzigd
+362,Reddingsmiddel,Dam,Dam,Ongewijzigd
+362,Reddingsmiddel,Dijk,Dijk,Ongewijzigd
+362,Reddingsmiddel,Haven,Haven,Ongewijzigd
+362,Reddingsmiddel,Kanaal,Kanaal,Ongewijzigd
+362,Reddingsmiddel,Meer,Meer,Ongewijzigd
+362,Reddingsmiddel,Rivier,Rivier,Ongewijzigd
+362,Reddingsmiddel,Schutsluis,Schutsluis,Ongewijzigd
+362,Reddingsmiddel,Spuisluis,Spuisluis,Ongewijzigd
+362,Reddingsmiddel,Stormvloedkering,Stormvloedkering,Ongewijzigd
+362,Reddingsmiddel,Stuw,Stuw,Ongewijzigd
+362,Reddingsmiddel,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+362,Reddingsmiddel,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+362,Reddingsmiddel,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+362,Reddingsmiddel,Keersluis,Keersluis,Ongewijzigd
+190,Remming- en geleidewerk,Aanleginrichting,Aanleginrichting,Ongewijzigd
+190,Remming- en geleidewerk,Aquaduct,Aquaduct,Ongewijzigd
+190,Remming- en geleidewerk,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+190,Remming- en geleidewerk,Brug (vast),Brug (vast),Ongewijzigd
+190,Remming- en geleidewerk,Gemaal,Gemaal,Ongewijzigd
+190,Remming- en geleidewerk,Haven,Haven,Ongewijzigd
+190,Remming- en geleidewerk,Kade,Kade,Ongewijzigd
+190,Remming- en geleidewerk,Kanaal,Kanaal,Ongewijzigd
+190,Remming- en geleidewerk,Meer,Meer,Ongewijzigd
+190,Remming- en geleidewerk,Rivier,Rivier,Ongewijzigd
+190,Remming- en geleidewerk,Schutsluis,Schutsluis,Ongewijzigd
+190,Remming- en geleidewerk,Spuisluis,Spuisluis,Ongewijzigd
+190,Remming- en geleidewerk,Stormvloedkering,Stormvloedkering,Ongewijzigd
+190,Remming- en geleidewerk,Stuw,Stuw,Ongewijzigd
+190,Remming- en geleidewerk,Sifon,Sifon,Ongewijzigd
+190,Remming- en geleidewerk,Hevel,Hevel,Ongewijzigd
+190,Remming- en geleidewerk,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+190,Remming- en geleidewerk,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+190,Remming- en geleidewerk,Keersluis,Keersluis,Ongewijzigd
+192,Roltrapinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+192,Roltrapinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+192,Roltrapinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+192,Roltrapinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+192,Roltrapinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+192,Roltrapinstallatie,Terrein,Terrein,Ongewijzigd
+192,Roltrapinstallatie,Tunnel,Tunnel,Ongewijzigd
+192,Roltrapinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+192,Roltrapinstallatie,Keersluis,Keersluis,Ongewijzigd
+381,Roostergoed container,Gemaal,Gemaal,Ongewijzigd
+381,Roostergoed container,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+381,Roostergoed container,Gistingstank,Gistingstank,Ongewijzigd
+382,Roosterreinigingsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+382,Roosterreinigingsinstallatie,Aquaduct,Aquaduct,Ongewijzigd
+382,Roosterreinigingsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+382,Roosterreinigingsinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+382,Roosterreinigingsinstallatie,Duiker,Duiker,Ongewijzigd
+382,Roosterreinigingsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+382,Roosterreinigingsinstallatie,Gemaal,Gemaal,Ongewijzigd
+382,Roosterreinigingsinstallatie,Haven,Haven,Ongewijzigd
+382,Roosterreinigingsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+382,Roosterreinigingsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+382,Roosterreinigingsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+382,Roosterreinigingsinstallatie,Stuw,Stuw,Ongewijzigd
+382,Roosterreinigingsinstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+382,Roosterreinigingsinstallatie,Hevel,Hevel,Ongewijzigd
+382,Roosterreinigingsinstallatie,Keersluis,Keersluis,Ongewijzigd
+384,Ruimerinstallatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+384,Ruimerinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+384,Ruimerinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+384,Ruimerinstallatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+394,Sanitaire installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+394,Sanitaire installatie,Brug (vast),Brug (vast),Ongewijzigd
+394,Sanitaire installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+394,Sanitaire installatie,Schutsluis,Schutsluis,Ongewijzigd
+394,Sanitaire installatie,Spuisluis,Spuisluis,Ongewijzigd
+394,Sanitaire installatie,Tunnel,Tunnel,Ongewijzigd
+394,Sanitaire installatie,Keersluis,Keersluis,Ongewijzigd
+193,Schampkant,Aanleginrichting,Aanleginrichting,Ongewijzigd
+193,Schampkant,Aquaduct,Aquaduct,Ongewijzigd
+193,Schampkant,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+193,Schampkant,Brug (vast),Brug (vast),Ongewijzigd
+193,Schampkant,Coupure,Coupure,Ongewijzigd
+193,Schampkant,Duiker,Duiker,Ongewijzigd
+193,Schampkant,Onderdoorgang,Onderdoorgang,Ongewijzigd
+193,Schampkant,Open tunnelbak,Open tunnelbak,Ongewijzigd
+193,Schampkant,Overkluizing,Overkluizing,Ongewijzigd
+193,Schampkant,Schutsluis,Schutsluis,Ongewijzigd
+193,Schampkant,Spuisluis,Spuisluis,Ongewijzigd
+193,Schampkant,Tunnel,Tunnel,Ongewijzigd
+193,Schampkant,Viaduct,Viaduct,Ongewijzigd
+193,Schampkant,Sifon,Sifon,Ongewijzigd
+193,Schampkant,Hevel,Hevel,Ongewijzigd
+193,Schampkant,Keersluis,Keersluis,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Aquaduct,Aquaduct,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Gemaal,Gemaal,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Haven,Haven,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Kanaal,Kanaal,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Rivier,Rivier,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Schutsluis,Schutsluis,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Stuw,Stuw,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+194,Scheepvaartdetectie-installatie,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+194,Scheepvaartdetectie-installatie,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+194,Scheepvaartdetectie-installatie,Keersluis,Keersluis,Ongewijzigd
+195,Scheepverkeersbeseining,Aanleginrichting,Aanleginrichting,Ongewijzigd
+195,Scheepverkeersbeseining,Aquaduct,Aquaduct,Ongewijzigd
+195,Scheepverkeersbeseining,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+195,Scheepverkeersbeseining,Brug (vast),Brug (vast),Ongewijzigd
+195,Scheepverkeersbeseining,Gemaal,Gemaal,Ongewijzigd
+195,Scheepverkeersbeseining,Haven,Haven,Ongewijzigd
+195,Scheepverkeersbeseining,Kanaal,Kanaal,Ongewijzigd
+195,Scheepverkeersbeseining,Rivier,Rivier,Ongewijzigd
+195,Scheepverkeersbeseining,Schutsluis,Schutsluis,Ongewijzigd
+195,Scheepverkeersbeseining,Spuisluis,Spuisluis,Ongewijzigd
+195,Scheepverkeersbeseining,Stormvloedkering,Stormvloedkering,Ongewijzigd
+195,Scheepverkeersbeseining,Stuw,Stuw,Ongewijzigd
+195,Scheepverkeersbeseining,Tunnel,Tunnel,Ongewijzigd
+195,Scheepverkeersbeseining,Viaduct,Viaduct,Ongewijzigd
+195,Scheepverkeersbeseining,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+195,Scheepverkeersbeseining,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+195,Scheepverkeersbeseining,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+195,Scheepverkeersbeseining,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+195,Scheepverkeersbeseining,Keersluis,Keersluis,Ongewijzigd
+308,Schietbaan,Terrein,Terrein,Ongewijzigd
+403,Schoorsteen,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+403,Schoorsteen,Gemaal,Gemaal,Ongewijzigd
+196,Schuifconstructie,Duiker,Duiker,Ongewijzigd
+196,Schuifconstructie,Gemaal,Gemaal,Ongewijzigd
+196,Schuifconstructie,Riolering,Riolering,Ongewijzigd
+196,Schuifconstructie,Schutsluis,Schutsluis,Ongewijzigd
+196,Schuifconstructie,Spuisluis,Spuisluis,Ongewijzigd
+196,Schuifconstructie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+196,Schuifconstructie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+196,Schuifconstructie,Sifon,Sifon,Ongewijzigd
+196,Schuifconstructie,Hevel,Hevel,Ongewijzigd
+196,Schuifconstructie,Procesbassin,Procesbassin,Ongewijzigd
+196,Schuifconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+196,Schuifconstructie,Opslagtank,Opslagtank,Ongewijzigd
+196,Schuifconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+196,Schuifconstructie,Persleiding,Persleiding,Ongewijzigd
+196,Schuifconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+196,Schuifconstructie,Keersluis,Keersluis,Ongewijzigd
+413,Slijtlaag,Aanleginrichting,Aanleginrichting,Ongewijzigd
+413,Slijtlaag,Aquaduct,Aquaduct,Ongewijzigd
+413,Slijtlaag,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+413,Slijtlaag,Brug (vast),Brug (vast),Ongewijzigd
+413,Slijtlaag,Duiker,Duiker,Ongewijzigd
+413,Slijtlaag,Ecoduct,Ecoduct,Ongewijzigd
+413,Slijtlaag,Gemaal,Gemaal,Ongewijzigd
+413,Slijtlaag,Haven,Haven,Ongewijzigd
+413,Slijtlaag,Kade,Kade,Ongewijzigd
+413,Slijtlaag,Onderdoorgang,Onderdoorgang,Ongewijzigd
+413,Slijtlaag,Open tunnelbak,Open tunnelbak,Ongewijzigd
+413,Slijtlaag,Overkluizing,Overkluizing,Ongewijzigd
+413,Slijtlaag,Schutsluis,Schutsluis,Ongewijzigd
+413,Slijtlaag,Spuisluis,Spuisluis,Ongewijzigd
+413,Slijtlaag,Stormvloedkering,Stormvloedkering,Ongewijzigd
+413,Slijtlaag,Stuw,Stuw,Ongewijzigd
+413,Slijtlaag,Tunnel,Tunnel,Ongewijzigd
+413,Slijtlaag,Viaduct,Viaduct,Ongewijzigd
+413,Slijtlaag,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+413,Slijtlaag,Sifon,Sifon,Ongewijzigd
+413,Slijtlaag,Hevel,Hevel,Ongewijzigd
+351,Sloot,Begraafplaats,Begraafplaats,Ongewijzigd
+351,Sloot,Bosgebied,Bosgebied,Ongewijzigd
+351,Sloot,Dijk,Dijk,Ongewijzigd
+351,Sloot,Duingebied,Duingebied,Ongewijzigd
+351,Sloot,Landbouwgebied,Landbouwgebied,Ongewijzigd
+351,Sloot,Natuurgebied,Natuurgebied,Ongewijzigd
+351,Sloot,Park,Park,Ongewijzigd
+351,Sloot,Terrein,Terrein,Ongewijzigd
+351,Sloot,Uiterwaard,Uiterwaard,Ongewijzigd
+351,Sloot,Weg,Weg,Ongewijzigd
+351,Sloot,Recreatief gebied,Recreatief gebied,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Schutsluis,Schutsluis,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Spuisluis,Spuisluis,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Sifon,Sifon,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Hevel,Hevel,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Keersluis,Keersluis,Ongewijzigd
+199,Sluishoofd,Schutsluis,Schutsluis,Ongewijzigd
+199,Sluishoofd,Spuisluis,Spuisluis,Ongewijzigd
+199,Sluishoofd,Stormvloedkering,Stormvloedkering,Ongewijzigd
+199,Sluishoofd,Stuw,Stuw,Ongewijzigd
+199,Sluishoofd,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+199,Sluishoofd,Keersluis,Keersluis,Ongewijzigd
+200,Sluiskolk,Schutsluis,Schutsluis,Ongewijzigd
+200,Sluiskolk,Spuisluis,Spuisluis,Ongewijzigd
+200,Sluiskolk,Keersluis,Keersluis,Ongewijzigd
+398,Sluismarkering,Schutsluis,Schutsluis,Ongewijzigd
+398,Sluismarkering,Spuisluis,Spuisluis,Ongewijzigd
+398,Sluismarkering,Keersluis,Keersluis,Ongewijzigd
+345,Speeltoestel,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+343,Sportattribuut,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+344,Sportveld,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+415,Sproei-installatie,Aquaduct,Aquaduct,Ongewijzigd
+415,Sproei-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+415,Sproei-installatie,Brug (vast),Brug (vast),Ongewijzigd
+415,Sproei-installatie,Ecoduct,Ecoduct,Ongewijzigd
+415,Sproei-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+415,Sproei-installatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+415,Sproei-installatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+415,Sproei-installatie,Terrein,Terrein,Ongewijzigd
+415,Sproei-installatie,Tunnel,Tunnel,Ongewijzigd
+415,Sproei-installatie,Viaduct,Viaduct,Ongewijzigd
+415,Sproei-installatie,Weg,Weg,Ongewijzigd
+415,Sproei-installatie,Procesbassin,Procesbassin,Ongewijzigd
+415,Sproei-installatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+261,Stabiliteitsberm,Dam,Dam,Ongewijzigd
+261,Stabiliteitsberm,Dijk,Dijk,Ongewijzigd
+201,Steiger,Aanleginrichting,Aanleginrichting,Ongewijzigd
+201,Steiger,Aquaduct,Aquaduct,Ongewijzigd
+201,Steiger,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+201,Steiger,Brug (vast),Brug (vast),Ongewijzigd
+201,Steiger,Haven,Haven,Ongewijzigd
+201,Steiger,Kade,Kade,Ongewijzigd
+201,Steiger,Kanaal,Kanaal,Ongewijzigd
+201,Steiger,Meer,Meer,Ongewijzigd
+201,Steiger,Rivier,Rivier,Ongewijzigd
+201,Steiger,Schutsluis,Schutsluis,Ongewijzigd
+201,Steiger,Spuisluis,Spuisluis,Ongewijzigd
+201,Steiger,Stuw,Stuw,Ongewijzigd
+201,Steiger,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+201,Steiger,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+201,Steiger,Keersluis,Keersluis,Ongewijzigd
+202,Steunpunt,Aanleginrichting,Aanleginrichting,Ongewijzigd
+202,Steunpunt,Aquaduct,Aquaduct,Ongewijzigd
+202,Steunpunt,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+202,Steunpunt,Brug (vast),Brug (vast),Ongewijzigd
+202,Steunpunt,Coupure,Coupure,Ongewijzigd
+202,Steunpunt,Ecoduct,Ecoduct,Ongewijzigd
+202,Steunpunt,Onderdoorgang,Onderdoorgang,Ongewijzigd
+202,Steunpunt,Open tunnelbak,Open tunnelbak,Ongewijzigd
+202,Steunpunt,Overkluizing,Overkluizing,Ongewijzigd
+202,Steunpunt,Stormvloedkering,Stormvloedkering,Ongewijzigd
+202,Steunpunt,Viaduct,Viaduct,Ongewijzigd
+202,Steunpunt,Keersluis,Keersluis,Ongewijzigd
+350,Stortvak,Zee,Zee,Ongewijzigd
+203,Strandhoofd,Duingebied,Duingebied,Ongewijzigd
+203,Strandhoofd,Zee,Zee,Ongewijzigd
+204,Strekdam,,Dam,Toegevoegd
+204,Strekdam,,Dijk,Toegevoegd
+204,Strekdam,Kanaal,Kanaal,Ongewijzigd
+204,Strekdam,Meer,Meer,Ongewijzigd
+204,Strekdam,Rivier,Rivier,Ongewijzigd
+204,Strekdam,Zee,Zee,Ongewijzigd
+204,Strekdam,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+204,Strekdam,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Gemaal,Gemaal,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Riolering,Riolering,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Tunnel,Tunnel,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Procesbassin,Procesbassin,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Windmolen,Windmolen,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Persleiding,Persleiding,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Keersluis,Keersluis,Ongewijzigd
+255,Stuwhoofd,Spuisluis,Spuisluis,Ongewijzigd
+255,Stuwhoofd,Stuw,Stuw,Ongewijzigd
+255,Stuwhoofd,Keersluis,Keersluis,Ongewijzigd
+272,Talud,Aanleginrichting,Aanleginrichting,Ongewijzigd
+272,Talud,Aquaduct,Aquaduct,Ongewijzigd
+272,Talud,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+272,Talud,Brug (vast),Brug (vast),Ongewijzigd
+272,Talud,Duiker,Duiker,Ongewijzigd
+272,Talud,Ecoduct,Ecoduct,Ongewijzigd
+272,Talud,Faunatunnel,Faunatunnel,Ongewijzigd
+272,Talud,Gemaal,Gemaal,Ongewijzigd
+272,Talud,Kanaal,Kanaal,Ongewijzigd
+272,Talud,Meer,Meer,Ongewijzigd
+272,Talud,Onderdoorgang,Onderdoorgang,Ongewijzigd
+272,Talud,Open tunnelbak,Open tunnelbak,Ongewijzigd
+272,Talud,Overkluizing,Overkluizing,Ongewijzigd
+272,Talud,Park,Park,Ongewijzigd
+272,Talud,Schutsluis,Schutsluis,Ongewijzigd
+272,Talud,Spuisluis,Spuisluis,Ongewijzigd
+272,Talud,Stormvloedkering,Stormvloedkering,Ongewijzigd
+272,Talud,Stuw,Stuw,Ongewijzigd
+272,Talud,Terrein,Terrein,Ongewijzigd
+272,Talud,Tunnel,Tunnel,Ongewijzigd
+272,Talud,Viaduct,Viaduct,Ongewijzigd
+272,Talud,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+272,Talud,Sifon,Sifon,Ongewijzigd
+272,Talud,Hevel,Hevel,Ongewijzigd
+272,Talud,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+272,Talud,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+272,Talud,Keersluis,Keersluis,Ongewijzigd
+385,Tankconstructie,Procesbassin,Procesbassin,Ongewijzigd
+385,Tankconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+385,Tankconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+385,Tankconstructie,Opslagtank,Opslagtank,Ongewijzigd
+385,Tankconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+263,Teensloot,Dijk,Dijk,Ongewijzigd
+206,Telefooninstallatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+206,Telefooninstallatie,Aquaduct,Aquaduct,Ongewijzigd
+206,Telefooninstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+206,Telefooninstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+206,Telefooninstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+206,Telefooninstallatie,Gemaal,Gemaal,Ongewijzigd
+206,Telefooninstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+206,Telefooninstallatie,Schutsluis,Schutsluis,Ongewijzigd
+206,Telefooninstallatie,Spuisluis,Spuisluis,Ongewijzigd
+206,Telefooninstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+206,Telefooninstallatie,Stuw,Stuw,Ongewijzigd
+206,Telefooninstallatie,Tunnel,Tunnel,Ongewijzigd
+206,Telefooninstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+206,Telefooninstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+206,Telefooninstallatie,Keersluis,Keersluis,Ongewijzigd
+207,Telemetrie-installatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+207,Telemetrie-installatie,Aquaduct,Aquaduct,Ongewijzigd
+207,Telemetrie-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+207,Telemetrie-installatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+207,Telemetrie-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+207,Telemetrie-installatie,Gemaal,Gemaal,Ongewijzigd
+207,Telemetrie-installatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+207,Telemetrie-installatie,Riolering,Riolering,Ongewijzigd
+207,Telemetrie-installatie,Schutsluis,Schutsluis,Ongewijzigd
+207,Telemetrie-installatie,Spuisluis,Spuisluis,Ongewijzigd
+207,Telemetrie-installatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+207,Telemetrie-installatie,Stuw,Stuw,Ongewijzigd
+207,Telemetrie-installatie,Tunnel,Tunnel,Ongewijzigd
+207,Telemetrie-installatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+207,Telemetrie-installatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+207,Telemetrie-installatie,Persleiding,Persleiding,Ongewijzigd
+207,Telemetrie-installatie,Keersluis,Keersluis,Ongewijzigd
+319,Terreinmeubilair,Aanleginrichting,Aanleginrichting,Ongewijzigd
+319,Terreinmeubilair,Begraafplaats,Begraafplaats,Ongewijzigd
+319,Terreinmeubilair,Bosgebied,Bosgebied,Ongewijzigd
+319,Terreinmeubilair,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+319,Terreinmeubilair,Brug (vast),Brug (vast),Ongewijzigd
+319,Terreinmeubilair,,Dam,Toegevoegd
+319,Terreinmeubilair,,Dijk,Toegevoegd
+319,Terreinmeubilair,Duingebied,Duingebied,Ongewijzigd
+319,Terreinmeubilair,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+319,Terreinmeubilair,Gemaal,Gemaal,Ongewijzigd
+319,Terreinmeubilair,Haven,Haven,Ongewijzigd
+319,Terreinmeubilair,Kade,Kade,Ongewijzigd
+319,Terreinmeubilair,Kanaal,Kanaal,Ongewijzigd
+319,Terreinmeubilair,Landbouwgebied,Landbouwgebied,Ongewijzigd
+319,Terreinmeubilair,Natuurgebied,Natuurgebied,Ongewijzigd
+319,Terreinmeubilair,Onderdoorgang,Onderdoorgang,Ongewijzigd
+319,Terreinmeubilair,Open tunnelbak,Open tunnelbak,Ongewijzigd
+319,Terreinmeubilair,Park,Park,Ongewijzigd
+319,Terreinmeubilair,Rivier,Rivier,Ongewijzigd
+319,Terreinmeubilair,Schutsluis,Schutsluis,Ongewijzigd
+319,Terreinmeubilair,Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+319,Terreinmeubilair,Spuisluis,Spuisluis,Ongewijzigd
+319,Terreinmeubilair,Stormvloedkering,Stormvloedkering,Ongewijzigd
+319,Terreinmeubilair,Stuw,Stuw,Ongewijzigd
+319,Terreinmeubilair,Terrein,Terrein,Ongewijzigd
+319,Terreinmeubilair,Tunnel,Tunnel,Ongewijzigd
+319,Terreinmeubilair,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+319,Terreinmeubilair,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+319,Terreinmeubilair,Viaduct,Viaduct,Ongewijzigd
+319,Terreinmeubilair,Weg,Weg,Ongewijzigd
+319,Terreinmeubilair,Recreatief gebied,Recreatief gebied,Ongewijzigd
+319,Terreinmeubilair,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+319,Terreinmeubilair,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+319,Terreinmeubilair,Keersluis,Keersluis,Ongewijzigd
+400,Toegangscontrole-installatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+400,Toegangscontrole-installatie,Aquaduct,Aquaduct,Ongewijzigd
+400,Toegangscontrole-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+400,Toegangscontrole-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+400,Toegangscontrole-installatie,Gemaal,Gemaal,Ongewijzigd
+400,Toegangscontrole-installatie,Schutsluis,Schutsluis,Ongewijzigd
+400,Toegangscontrole-installatie,Spuisluis,Spuisluis,Ongewijzigd
+400,Toegangscontrole-installatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+400,Toegangscontrole-installatie,Stuw,Stuw,Ongewijzigd
+400,Toegangscontrole-installatie,Terrein,Terrein,Ongewijzigd
+400,Toegangscontrole-installatie,Tunnel,Tunnel,Ongewijzigd
+400,Toegangscontrole-installatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+400,Toegangscontrole-installatie,Keersluis,Keersluis,Ongewijzigd
+209,Toegangshek,Aanleginrichting,Aanleginrichting,Ongewijzigd
+209,Toegangshek,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+209,Toegangshek,Brug (vast),Brug (vast),Ongewijzigd
+209,Toegangshek,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+209,Toegangshek,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+209,Toegangshek,Gemaal,Gemaal,Ongewijzigd
+209,Toegangshek,Haven,Haven,Ongewijzigd
+209,Toegangshek,Kade,Kade,Ongewijzigd
+209,Toegangshek,Open tunnelbak,Open tunnelbak,Ongewijzigd
+209,Toegangshek,Schutsluis,Schutsluis,Ongewijzigd
+209,Toegangshek,Spoorweg,Spoorweg,Ongewijzigd
+209,Toegangshek,Spuisluis,Spuisluis,Ongewijzigd
+209,Toegangshek,Stormvloedkering,Stormvloedkering,Ongewijzigd
+209,Toegangshek,Stuw,Stuw,Ongewijzigd
+209,Toegangshek,Terrein,Terrein,Ongewijzigd
+209,Toegangshek,Tunnel,Tunnel,Ongewijzigd
+209,Toegangshek,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+209,Toegangshek,Viaduct,Viaduct,Ongewijzigd
+209,Toegangshek,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+209,Toegangshek,Weg,Weg,Ongewijzigd
+209,Toegangshek,Windmolen,Windmolen,Ongewijzigd
+209,Toegangshek,Keersluis,Keersluis,Ongewijzigd
+210,Tracing,Aanleginrichting,Aanleginrichting,Ongewijzigd
+210,Tracing,Aquaduct,Aquaduct,Ongewijzigd
+210,Tracing,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+210,Tracing,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+210,Tracing,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+210,Tracing,Gemaal,Gemaal,Ongewijzigd
+210,Tracing,Open tunnelbak,Open tunnelbak,Ongewijzigd
+210,Tracing,Schutsluis,Schutsluis,Ongewijzigd
+210,Tracing,Spuisluis,Spuisluis,Ongewijzigd
+210,Tracing,Stormvloedkering,Stormvloedkering,Ongewijzigd
+210,Tracing,Stuw,Stuw,Ongewijzigd
+210,Tracing,Tunnel,Tunnel,Ongewijzigd
+210,Tracing,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+210,Tracing,Procesbassin,Procesbassin,Ongewijzigd
+210,Tracing,Bezinkbassin,Bezinkbassin,Ongewijzigd
+210,Tracing,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+210,Tracing,Opslagtank,Opslagtank,Ongewijzigd
+210,Tracing,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+210,Tracing,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+210,Tracing,Keersluis,Keersluis,Ongewijzigd
+211,Trambaan,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+211,Trambaan,Brug (vast),Brug (vast),Ongewijzigd
+211,Trambaan,Open tunnelbak,Open tunnelbak,Ongewijzigd
+211,Trambaan,Spoorweg,Spoorweg,Ongewijzigd
+211,Trambaan,Tunnel,Tunnel,Ongewijzigd
+211,Trambaan,Viaduct,Viaduct,Ongewijzigd
+211,Trambaan,Weg,Weg,Ongewijzigd
+124,Transmissie-installatie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+124,Transmissie-installatie,Aquaduct,Aquaduct,Ongewijzigd
+124,Transmissie-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+124,Transmissie-installatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+124,Transmissie-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+124,Transmissie-installatie,Gemaal,Gemaal,Ongewijzigd
+124,Transmissie-installatie,Haven,Haven,Ongewijzigd
+124,Transmissie-installatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+124,Transmissie-installatie,Schutsluis,Schutsluis,Ongewijzigd
+124,Transmissie-installatie,Spuisluis,Spuisluis,Ongewijzigd
+124,Transmissie-installatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+124,Transmissie-installatie,Stuw,Stuw,Ongewijzigd
+124,Transmissie-installatie,Terrein,Terrein,Ongewijzigd
+124,Transmissie-installatie,Tunnel,Tunnel,Ongewijzigd
+124,Transmissie-installatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+124,Transmissie-installatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+124,Transmissie-installatie,Weg,Weg,Ongewijzigd
+124,Transmissie-installatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+124,Transmissie-installatie,Keersluis,Keersluis,Ongewijzigd
+386,Transportinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+386,Transportinstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+386,Transportinstallatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+386,Transportinstallatie,Gistingstank,Gistingstank,Ongewijzigd
+386,Transportinstallatie,Opslagtank,Opslagtank,Ongewijzigd
+390,Trapconstructie,,Dam,Toegevoegd
+390,Trapconstructie,,Dijk,Toegevoegd
+390,Trapconstructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+390,Trapconstructie,Gemaal,Gemaal,Ongewijzigd
+390,Trapconstructie,Procesbassin,Procesbassin,Ongewijzigd
+390,Trapconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+390,Trapconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+390,Trapconstructie,Gistingstank,Gistingstank,Ongewijzigd
+390,Trapconstructie,Opslagtank,Opslagtank,Ongewijzigd
+390,Trapconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+390,Trapconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+390,Trapconstructie,Windmolen,Windmolen,Ongewijzigd
+390,Trapconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+212,Tunnelbuis,Tunnel,Tunnel,Ongewijzigd
+215,Uithouder,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+215,Uithouder,Brug (vast),Brug (vast),Ongewijzigd
+215,Uithouder,Dam,Dam,Ongewijzigd
+215,Uithouder,Onderdoorgang,Onderdoorgang,Ongewijzigd
+215,Uithouder,Terrein,Terrein,Ongewijzigd
+215,Uithouder,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+215,Uithouder,Viaduct,Viaduct,Ongewijzigd
+215,Uithouder,Weg,Weg,Ongewijzigd
+357,Uitlaatvoorziening,Riolering,Riolering,Ongewijzigd
+357,Uitlaatvoorziening,Weg,Weg,Ongewijzigd
+267,Vaargeul,Haven,Haven,Ongewijzigd
+267,Vaargeul,Kanaal,Kanaal,Ongewijzigd
+267,Vaargeul,Meer,Meer,Ongewijzigd
+267,Vaargeul,Rivier,Rivier,Ongewijzigd
+267,Vaargeul,Zee,Zee,Ongewijzigd
+267,Vaargeul,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+267,Vaargeul,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+216,Vaarwegmarkering,Duingebied,Duingebied,Ongewijzigd
+216,Vaarwegmarkering,Haven,Haven,Ongewijzigd
+216,Vaarwegmarkering,Kanaal,Kanaal,Ongewijzigd
+216,Vaarwegmarkering,Meer,Meer,Ongewijzigd
+216,Vaarwegmarkering,Rivier,Rivier,Ongewijzigd
+216,Vaarwegmarkering,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+216,Vaarwegmarkering,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+417,Valbeveiliging,,Infragebonden gebouw,Toegevoegd
+217,Vangconstructie,Aanleginrichting,Aanleginrichting,Ongewijzigd
+217,Vangconstructie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+217,Vangconstructie,Gemaal,Gemaal,Ongewijzigd
+217,Vangconstructie,Haven,Haven,Ongewijzigd
+217,Vangconstructie,Schutsluis,Schutsluis,Ongewijzigd
+217,Vangconstructie,Spuisluis,Spuisluis,Ongewijzigd
+217,Vangconstructie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+217,Vangconstructie,Stuw,Stuw,Ongewijzigd
+217,Vangconstructie,Keersluis,Keersluis,Ongewijzigd
+348,Vaste plant,Park,,Vervallen
+348,Vaste plant,Uiterwaard,,Vervallen
+363,Ven,Bosgebied,Bosgebied,Ongewijzigd
+363,Ven,Duingebied,Duingebied,Ongewijzigd
+363,Ven,Natuurgebied,Natuurgebied,Ongewijzigd
+213,Ventilatie-installatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+213,Ventilatie-installatie,Gemaal,Gemaal,Ongewijzigd
+213,Ventilatie-installatie,Tunnel,Tunnel,Ongewijzigd
+213,Ventilatie-installatie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+213,Ventilatie-installatie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+213,Ventilatie-installatie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+213,Ventilatie-installatie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+213,Ventilatie-installatie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+218,Verankering,Aanleginrichting,Aanleginrichting,Ongewijzigd
+218,Verankering,Aquaduct,Aquaduct,Ongewijzigd
+218,Verankering,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+218,Verankering,Brug (vast),Brug (vast),Ongewijzigd
+218,Verankering,Duiker,Duiker,Ongewijzigd
+218,Verankering,Gemaal,Gemaal,Ongewijzigd
+218,Verankering,Grondkering,Grondkering,Ongewijzigd
+218,Verankering,Haven,Haven,Ongewijzigd
+218,Verankering,Kade,Kade,Ongewijzigd
+218,Verankering,Kanaal,Kanaal,Ongewijzigd
+218,Verankering,Meer,Meer,Ongewijzigd
+218,Verankering,Onderdoorgang,Onderdoorgang,Ongewijzigd
+218,Verankering,Open tunnelbak,Open tunnelbak,Ongewijzigd
+218,Verankering,Overkluizing,Overkluizing,Ongewijzigd
+218,Verankering,Schutsluis,Schutsluis,Ongewijzigd
+218,Verankering,Spuisluis,Spuisluis,Ongewijzigd
+218,Verankering,Stormvloedkering,Stormvloedkering,Ongewijzigd
+218,Verankering,Stuw,Stuw,Ongewijzigd
+218,Verankering,Tunnel,Tunnel,Ongewijzigd
+218,Verankering,Viaduct,Viaduct,Ongewijzigd
+218,Verankering,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+218,Verankering,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+218,Verankering,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+218,Verankering,Keersluis,Keersluis,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Aanleginrichting,Aanleginrichting,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Aquaduct,Aquaduct,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Brug (vast),Brug (vast),Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Coupure,Coupure,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Dam,Dam,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Onderdoorgang,Onderdoorgang,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Open tunnelbak,Open tunnelbak,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Overkluizing,Overkluizing,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Schutsluis,Schutsluis,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Stormvloedkering,Stormvloedkering,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Tunnel,Tunnel,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Viaduct,Viaduct,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Weg,Weg,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Keersluis,Keersluis,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Aquaduct,Aquaduct,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Brug (vast),Brug (vast),Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Coupure,Coupure,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Dam,Dam,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Dijk,Dijk,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Haven,Haven,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Kade,Kade,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Onderdoorgang,Onderdoorgang,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Open tunnelbak,Open tunnelbak,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Schutsluis,Schutsluis,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Stormvloedkering,Stormvloedkering,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Terrein,Terrein,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Tunnel,Tunnel,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Viaduct,Viaduct,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Weg,Weg,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Keersluis,Keersluis,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Brug (vast),Brug (vast),Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Coupure,Coupure,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Dam,Dam,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Dijk,Dijk,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Haven,Haven,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Kade,Kade,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Landbouwgebied,Landbouwgebied,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Onderdoorgang,Onderdoorgang,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Open tunnelbak,Open tunnelbak,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Schutsluis,Schutsluis,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Stormvloedkering,Stormvloedkering,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Terrein,Terrein,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Tunnel,Tunnel,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Viaduct,Viaduct,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Weg,Weg,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Keersluis,Keersluis,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Brug (vast),Brug (vast),Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Coupure,Coupure,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Dam,Dam,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Dijk,Dijk,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Duingebied,Duingebied,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Haven,Haven,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Kade,Kade,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Landbouwgebied,Landbouwgebied,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Onderdoorgang,Onderdoorgang,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Open tunnelbak,Open tunnelbak,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Park,Park,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Schutsluis,Schutsluis,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Stormvloedkering,Stormvloedkering,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Terrein,Terrein,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Tunnel,Tunnel,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Uiterwaard,Uiterwaard,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Viaduct,Viaduct,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Weg,Weg,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Hevel,Hevel,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Keersluis,Keersluis,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Brug (vast),Brug (vast),Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Coupure,Coupure,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Dam,Dam,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Dijk,Dijk,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Duingebied,Duingebied,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Haven,Haven,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Kade,Kade,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Landbouwgebied,Landbouwgebied,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Onderdoorgang,Onderdoorgang,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Park,Park,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Schutsluis,Schutsluis,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Stormvloedkering,Stormvloedkering,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Terrein,Terrein,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Tunnel,Tunnel,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Viaduct,Viaduct,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Weg,Weg,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Keersluis,Keersluis,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Aanleginrichting,Aanleginrichting,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Aquaduct,Aquaduct,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Begraafplaats,Begraafplaats,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Brug (vast),Brug (vast),Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Coupure,Coupure,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Dam,Dam,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Dijk,Dijk,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Duingebied,Duingebied,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Gemaal,Gemaal,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Haven,Haven,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Kade,Kade,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Landbouwgebied,Landbouwgebied,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Onderdoorgang,Onderdoorgang,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Park,Park,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Schutsluis,Schutsluis,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Sport- en spelvoorziening,Sport- en spelvoorziening,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Spuisluis,Spuisluis,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Stormvloedkering,Stormvloedkering,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Stuw,Stuw,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Terrein,Terrein,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Tunnel,Tunnel,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Viaduct,Viaduct,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Weg,Weg,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Hevel,Hevel,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Keersluis,Keersluis,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Bosgebied,Bosgebied,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Brug (vast),Brug (vast),Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Coupure,Coupure,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Dam,Dam,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Dijk,Dijk,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Duingebied,Duingebied,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Haven,Haven,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Kade,Kade,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Landbouwgebied,Landbouwgebied,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Onderdoorgang,Onderdoorgang,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Open tunnelbak,Open tunnelbak,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Park,Park,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Schutsluis,Schutsluis,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Stormvloedkering,Stormvloedkering,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Terrein,Terrein,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Tunnel,Tunnel,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Viaduct,Viaduct,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Weg,Weg,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Keersluis,Keersluis,Ongewijzigd
+226,Verkeersdetectie-installatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+226,Verkeersdetectie-installatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+226,Verkeersdetectie-installatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+226,Verkeersdetectie-installatie,Schutsluis,Schutsluis,Ongewijzigd
+226,Verkeersdetectie-installatie,Tunnel,Tunnel,Ongewijzigd
+226,Verkeersdetectie-installatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+226,Verkeersdetectie-installatie,Viaduct,Viaduct,Ongewijzigd
+226,Verkeersdetectie-installatie,Weg,Weg,Ongewijzigd
+399,Verkeerseiland,Weg,Weg,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Aanleginrichting,Aanleginrichting,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Brug (vast),Brug (vast),Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Haven,Haven,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Open tunnelbak,Open tunnelbak,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Park,Park,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Schutsluis,Schutsluis,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Stuw,Stuw,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Terrein,Terrein,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Tunnel,Tunnel,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Weg,Weg,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Open tunnelbak,Open tunnelbak,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Tunnel,Tunnel,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Weg,Weg,Ongewijzigd
+322,Vijver,Park,Park,Ongewijzigd
+322,Vijver,Riolering,Riolering,Ongewijzigd
+230,Vijzelinstallatie,Gemaal,Gemaal,Ongewijzigd
+266,Vispassage,Rivier,Rivier,Ongewijzigd
+266,Vispassage,Schutsluis,Schutsluis,Ongewijzigd
+266,Vispassage,Spuisluis,Spuisluis,Ongewijzigd
+266,Vispassage,Stormvloedkering,Stormvloedkering,Ongewijzigd
+266,Vispassage,Stuw,Stuw,Ongewijzigd
+266,Vispassage,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+266,Vispassage,Keersluis,Keersluis,Ongewijzigd
+335,Vissluis,Spuisluis,Spuisluis,Ongewijzigd
+335,Vissluis,Stuw,Stuw,Ongewijzigd
+335,Vissluis,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+335,Vissluis,Keersluis,Keersluis,Ongewijzigd
+323,Vleermuiskelder,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+323,Vleermuiskelder,Brug (vast),Brug (vast),Ongewijzigd
+323,Vleermuiskelder,Bunker,Bunker,Ongewijzigd
+389,Vloerconstructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+389,Vloerconstructie,Gemaal,Gemaal,Ongewijzigd
+389,Vloerconstructie,Procesbassin,Procesbassin,Ongewijzigd
+389,Vloerconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+389,Vloerconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+389,Vloerconstructie,Gistingstank,Gistingstank,Ongewijzigd
+389,Vloerconstructie,Opslagtank,Opslagtank,Ongewijzigd
+389,Vloerconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+389,Vloerconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+389,Vloerconstructie,Windmolen,Windmolen,Ongewijzigd
+389,Vloerconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Weg,Weg,Ongewijzigd
+232,Vluchtweginstallatie,Aquaduct,Aquaduct,Ongewijzigd
+232,Vluchtweginstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+232,Vluchtweginstallatie,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+232,Vluchtweginstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+232,Vluchtweginstallatie,Gemaal,Gemaal,Ongewijzigd
+232,Vluchtweginstallatie,Onderdoorgang,Onderdoorgang,Ongewijzigd
+232,Vluchtweginstallatie,Open tunnelbak,Open tunnelbak,Ongewijzigd
+232,Vluchtweginstallatie,Schutsluis,Schutsluis,Ongewijzigd
+232,Vluchtweginstallatie,Spuisluis,Spuisluis,Ongewijzigd
+232,Vluchtweginstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+232,Vluchtweginstallatie,Stuw,Stuw,Ongewijzigd
+232,Vluchtweginstallatie,Tunnel,Tunnel,Ongewijzigd
+232,Vluchtweginstallatie,Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+232,Vluchtweginstallatie,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+232,Vluchtweginstallatie,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+232,Vluchtweginstallatie,Windmolen,Windmolen,Ongewijzigd
+233,Voegovergang,Aanleginrichting,Aanleginrichting,Ongewijzigd
+233,Voegovergang,Aquaduct,Aquaduct,Ongewijzigd
+233,Voegovergang,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+233,Voegovergang,Brug (vast),Brug (vast),Ongewijzigd
+233,Voegovergang,Duiker,Duiker,Ongewijzigd
+233,Voegovergang,Ecoduct,Ecoduct,Ongewijzigd
+233,Voegovergang,Faunatunnel,Faunatunnel,Ongewijzigd
+233,Voegovergang,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+233,Voegovergang,Kade,Kade,Ongewijzigd
+233,Voegovergang,Onderdoorgang,Onderdoorgang,Ongewijzigd
+233,Voegovergang,Open tunnelbak,Open tunnelbak,Ongewijzigd
+233,Voegovergang,Overkluizing,Overkluizing,Ongewijzigd
+233,Voegovergang,Schutsluis,Schutsluis,Ongewijzigd
+233,Voegovergang,Spuisluis,Spuisluis,Ongewijzigd
+233,Voegovergang,Tunnel,Tunnel,Ongewijzigd
+233,Voegovergang,Viaduct,Viaduct,Ongewijzigd
+233,Voegovergang,Sifon,Sifon,Ongewijzigd
+233,Voegovergang,Hevel,Hevel,Ongewijzigd
+233,Voegovergang,Keersluis,Keersluis,Ongewijzigd
+256,Voorland,Dam,Dam,Ongewijzigd
+256,Voorland,Dijk,Dijk,Ongewijzigd
+257,Vooroever,Dam,Dam,Ongewijzigd
+257,Vooroever,Dijk,Dijk,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Terrein,Terrein,Ongewijzigd
+388,Wandconstructie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+388,Wandconstructie,Gemaal,Gemaal,Ongewijzigd
+388,Wandconstructie,Procesbassin,Procesbassin,Ongewijzigd
+388,Wandconstructie,Bezinkbassin,Bezinkbassin,Ongewijzigd
+388,Wandconstructie,Ontvangst- en verdeelwerk,Ontvangst- en verdeelwerk,Ongewijzigd
+388,Wandconstructie,Gistingstank,Gistingstank,Ongewijzigd
+388,Wandconstructie,Opslagtank,Opslagtank,Ongewijzigd
+388,Wandconstructie,Beluchtingstank,Beluchtingstank,Ongewijzigd
+388,Wandconstructie,Zandfilterbassin,Zandfilterbassin,Ongewijzigd
+388,Wandconstructie,Windmolen,Windmolen,Ongewijzigd
+388,Wandconstructie,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Gistingstank,Gistingstank,Ongewijzigd
+421,Waterlichaam (oppervlaktewater),,"Water en watergang (niet lijnvormig), overig",Toegevoegd
+421,Waterlichaam (oppervlaktewater),,"Water en watergang (lijnvormig), overig",Toegevoegd
+410,Watermistinstallatie (WMS),Tunnel,Tunnel,Ongewijzigd
+395,Watertapinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+329,Watervegetatie,"Water en watergang (niet lijnvormig), overig",,Vervallen
+329,Watervegetatie,"Water en watergang (lijnvormig), overig",,Vervallen
+169,Wegkantsysteem (WKS),Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+169,Wegkantsysteem (WKS),Brug (vast),Brug (vast),Ongewijzigd
+169,Wegkantsysteem (WKS),Onderdoorgang,Onderdoorgang,Ongewijzigd
+169,Wegkantsysteem (WKS),Open tunnelbak,Open tunnelbak,Ongewijzigd
+169,Wegkantsysteem (WKS),Tunnel,Tunnel,Ongewijzigd
+169,Wegkantsysteem (WKS),Verkeerscentrale,Verkeerscentrale,Ongewijzigd
+169,Wegkantsysteem (WKS),Weg,Weg,Ongewijzigd
+238,Wegmarkering,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+238,Wegmarkering,Brug (vast),Brug (vast),Ongewijzigd
+238,Wegmarkering,Dam,Dam,Ongewijzigd
+238,Wegmarkering,Dijk,Dijk,Ongewijzigd
+238,Wegmarkering,Haven,Haven,Ongewijzigd
+238,Wegmarkering,Kade,Kade,Ongewijzigd
+238,Wegmarkering,Landbouwgebied,Landbouwgebied,Ongewijzigd
+238,Wegmarkering,Natuurgebied,Natuurgebied,Ongewijzigd
+238,Wegmarkering,Onderdoorgang,Onderdoorgang,Ongewijzigd
+238,Wegmarkering,Open tunnelbak,Open tunnelbak,Ongewijzigd
+238,Wegmarkering,Park,Park,Ongewijzigd
+238,Wegmarkering,Rivier,Rivier,Ongewijzigd
+238,Wegmarkering,Terrein,Terrein,Ongewijzigd
+238,Wegmarkering,Tunnel,Tunnel,Ongewijzigd
+238,Wegmarkering,Verzorgingsplaats,Verzorgingsplaats,Ongewijzigd
+238,Wegmarkering,Viaduct,Viaduct,Ongewijzigd
+238,Wegmarkering,Weg,Weg,Ongewijzigd
+239,Weigh In Motion,Aanleginrichting,Aanleginrichting,Ongewijzigd
+239,Weigh In Motion,Viaduct,Viaduct,Ongewijzigd
+239,Weigh In Motion,Weg,Weg,Ongewijzigd
+240,Werk-spreekverbinding,Aanleginrichting,Aanleginrichting,Ongewijzigd
+240,Werk-spreekverbinding,Aquaduct,Aquaduct,Ongewijzigd
+240,Werk-spreekverbinding,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+240,Werk-spreekverbinding,Drinkwaterinlaat,Drinkwaterinlaat,Ongewijzigd
+240,Werk-spreekverbinding,Gemaal,Gemaal,Ongewijzigd
+240,Werk-spreekverbinding,Schutsluis,Schutsluis,Ongewijzigd
+240,Werk-spreekverbinding,Spuisluis,Spuisluis,Ongewijzigd
+240,Werk-spreekverbinding,Stormvloedkering,Stormvloedkering,Ongewijzigd
+240,Werk-spreekverbinding,Stuw,Stuw,Ongewijzigd
+240,Werk-spreekverbinding,Tunnel,Tunnel,Ongewijzigd
+240,Werk-spreekverbinding,Weg,Weg,Ongewijzigd
+240,Werk-spreekverbinding,Beheerobject Overstijgende Voorziening,Beheerobject Overstijgende Voorziening,Ongewijzigd
+240,Werk-spreekverbinding,Keersluis,Keersluis,Ongewijzigd
+270,Wingebied,Haven,Haven,Ongewijzigd
+270,Wingebied,Kanaal,Kanaal,Ongewijzigd
+270,Wingebied,Meer,Meer,Ongewijzigd
+270,Wingebied,Rivier,Rivier,Ongewijzigd
+270,Wingebied,Zee,Zee,Ongewijzigd
+270,Wingebied,"Water en watergang (niet lijnvormig), overig","Water en watergang (niet lijnvormig), overig",Ongewijzigd
+270,Wingebied,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+432,Zeestrand,,Duingebied,Toegevoegd
+242,Zinker,Aanleginrichting,Aanleginrichting,Ongewijzigd
+242,Zinker,Bosgebied,Bosgebied,Ongewijzigd
+242,Zinker,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+242,Zinker,Gemaal,Gemaal,Ongewijzigd
+242,Zinker,Haven,Haven,Ongewijzigd
+242,Zinker,Kabel en leiding,Kabel en leiding,Ongewijzigd
+242,Zinker,Kanaal,Kanaal,Ongewijzigd
+242,Zinker,Riolering,Riolering,Ongewijzigd
+242,Zinker,Rivier,Rivier,Ongewijzigd
+242,Zinker,Schutsluis,Schutsluis,Ongewijzigd
+242,Zinker,Spuisluis,Spuisluis,Ongewijzigd
+242,Zinker,Stuw,Stuw,Ongewijzigd
+242,Zinker,Waterreguleringswerk,Waterreguleringswerk,Ongewijzigd
+242,Zinker,"Water en watergang (lijnvormig), overig","Water en watergang (lijnvormig), overig",Ongewijzigd
+242,Zinker,Persleiding,Persleiding,Ongewijzigd
+242,Zinker,Keersluis,Keersluis,Ongewijzigd
+401,Zonweringsinstallatie,Brug (beweegbaar),Brug (beweegbaar),Ongewijzigd
+401,Zonweringsinstallatie,Brug (vast),Brug (vast),Ongewijzigd
+401,Zonweringsinstallatie,Infragebonden gebouw,Infragebonden gebouw,Ongewijzigd
+401,Zonweringsinstallatie,Gemaal,Gemaal,Ongewijzigd
+401,Zonweringsinstallatie,Schutsluis,Schutsluis,Ongewijzigd
+401,Zonweringsinstallatie,Spuisluis,Spuisluis,Ongewijzigd
+401,Zonweringsinstallatie,Stormvloedkering,Stormvloedkering,Ongewijzigd
+401,Zonweringsinstallatie,Tunnel,Tunnel,Ongewijzigd
+401,Zonweringsinstallatie,Keersluis,Keersluis,Ongewijzigd

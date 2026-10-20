@@ -1,0 +1,100 @@
+site_name: PRA-kennisplatform
+site_description: Prestatiegestuurde risicoanalyse, deltatabellen en rekentools op één plek.
+site_author: Beheer en onderhoud
+site_url: https://yciftci111.github.io/pra-platform/
+repo_url: https://github.com/yciftci111/pra-platform
+repo_name: pra-platform
+edit_uri: edit/main/docs/
+copyright: Bronmateriaal Rijkswaterstaat · deze site is een hulpmiddel, geen formele uitgave
+
+theme:
+  name: material
+  language: nl
+  favicon: assets/img/favicon.svg
+  logo: assets/img/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Donkere weergave
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Lichte weergave
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/decompositie.css
+extra_javascript:
+  - assets/js/deltatable.js
+  - assets/js/xlsx-mini.js
+  - assets/js/decompositie.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      title: Op deze pagina
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      base_path: ["docs"]
+      check_paths: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+      lang: nl
+
+nav:
+  - Home: index.md
+  - Decompositie: decompositie.md
+  - Deltatabellen:
+      - deltatabellen/index.md
+      - Beheerobjecten: deltatabellen/beheerobjecten.md
+      - Elementen: deltatabellen/elementen.md
+      - Bouwdelen: deltatabellen/bouwdelen.md
+      - Gebreken: deltatabellen/gebreken.md
+      - Gebreksoorten: deltatabellen/gebreksoorten.md
+      - Gebrekgroepen: deltatabellen/gebrekgroepen.md
+      - Elementgroepen: deltatabellen/elementgroepen.md
+  - Leidraad PRA:
+      - leidraad/index.md
+      - Van beleid naar onderhoud: leidraad/beleid-en-prestaties.md
+      - Risicosturing op hoofdlijnen: leidraad/risicosturing.md
+      - Kwalitatieve risicoanalyse: leidraad/kwalitatieve-ora.md
+      - Kwantitatieve risicoanalyse: leidraad/kwantitatieve-ora.md
+      - Instandhoudingsplan: leidraad/instandhoudingsplan.md
+  - Rekentools:
+      - rekentools/index.md
+      - IHCKWANT: rekentools/ihckwant.md
+  - Begrippen: begrippen.md
+  - Downloads: downloads.md

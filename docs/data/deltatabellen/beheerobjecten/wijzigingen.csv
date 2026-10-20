@@ -1,0 +1,81 @@
+Code,Beheerobject,Onderdeel,Oud,Nieuw,Mutatie
+AC,Begraafplaats,Element,Boom,,Vervallen
+AE,Bosgebied,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+AE,Bosgebied,Element,,Begroeid terreindeel,Toegevoegd
+AJ,Dam,Element,,Bodem,Toegevoegd
+AJ,Dam,Element,,Drainage,Toegevoegd
+AJ,Dam,Element,,Oeverbescherming,Toegevoegd
+AJ,Dam,Element,,Opstal,Toegevoegd
+AJ,Dam,Element,,Strekdam,Toegevoegd
+AJ,Dam,Element,,Binnentalud,Toegevoegd
+AJ,Dam,Element,,Terreinmeubilair,Toegevoegd
+AJ,Dam,Element,,Leikade,Toegevoegd
+AJ,Dam,Element,,Leidam,Toegevoegd
+AJ,Dam,Element,,Trapconstructie,Toegevoegd
+AJ,Dam,Element,,Begroeid terreindeel,Toegevoegd
+AJ,Dam,Element,,Aalgoot,Toegevoegd
+AJ,Dam,Element,,Binnenberm,Toegevoegd
+AJ,Dam,Element,,Buitenberm,Toegevoegd
+AJ,Dam,Element,,Kwelkade,Toegevoegd
+AK,Dijk,Element,,Bodem,Toegevoegd
+AK,Dijk,Element,,Drainage,Toegevoegd
+AK,Dijk,Element,,Oeverbescherming,Toegevoegd
+AK,Dijk,Element,,Opstal,Toegevoegd
+AK,Dijk,Element,,Strekdam,Toegevoegd
+AK,Dijk,Element,,Terreinmeubilair,Toegevoegd
+AK,Dijk,Element,,Leikade,Toegevoegd
+AK,Dijk,Element,,Leidam,Toegevoegd
+AK,Dijk,Element,,Trapconstructie,Toegevoegd
+AK,Dijk,Element,,Begroeid terreindeel,Toegevoegd
+AK,Dijk,Element,,Aalgoot,Toegevoegd
+AK,Dijk,Element,,Binnenberm,Toegevoegd
+AK,Dijk,Element,,Buitenberm,Toegevoegd
+AK,Dijk,Element,,Kwelkade,Toegevoegd
+AN,Duingebied,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+AN,Duingebied,Element,,Afslagzone,Toegevoegd
+AN,Duingebied,Element,,Binnenduin,Toegevoegd
+AN,Duingebied,Element,,Duinvoetverdediging,Toegevoegd
+AN,Duingebied,Element,,Grensprofiel,Toegevoegd
+AN,Duingebied,Element,,Zeestrand,Toegevoegd
+AP,Faunatunnel,Element,,Doorlaatkoker,Toegevoegd
+AQ,Infragebonden gebouw,Element,Klim- en leiplant,,Vervallen
+AQ,Infragebonden gebouw,Element,,Valbeveiliging,Toegevoegd
+AQ,Infragebonden gebouw,Element,,Begroeid terreindeel,Toegevoegd
+AV,Kabel en leiding,Werkdefinitie,twee regels,,Vervallen
+AX,Kanaal,Element,,Hoogwatervluchtplaats,Toegevoegd
+AY,Landbouwgebied,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+BG,Park,Werkdefinitie,"Openbaar terrein met een recreatieve- of naruurfunctie met in het algemeen een grote verscheidenheid aan bomen, beplantingen, gras, en kruidachtige vegetaties, waterpartijen en paden.","Openbaar terrein met een recreatieve- of natuurfunctie met in het algemeen een grote verscheidenheid aan bomen, beplantingen, gras, en kruidachtige vegetaties, waterpartijen en paden.",Gewijzigd
+BG,Park,Element,Boomgroep,,Vervallen
+BG,Park,Element,Klim- en leiplant,,Vervallen
+BG,Park,Element,Heester,,Vervallen
+BG,Park,Element,Bol- en knolgewas,,Vervallen
+BG,Park,Element,Perkplant,,Vervallen
+BG,Park,Element,Vaste plant,,Vervallen
+BG,Park,Element,,Begroeid terreindeel,Toegevoegd
+CD,Recreatief gebied,Element,Boomgroep,,Vervallen
+CD,Recreatief gebied,Element,,Begroeid terreindeel,Toegevoegd
+BI,Rivier,Element,,Hoogwatervluchtplaats,Toegevoegd
+BL,Spoorweg,Element,,Begroeid terreindeel,Toegevoegd
+BM,Sport- en spelvoorziening,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+BQ,Terrein,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+BQ,Terrein,Element,Boom,,Vervallen
+BQ,Terrein,Element,Boomgroep,,Vervallen
+BQ,Terrein,Element,Klim- en leiplant,,Vervallen
+BQ,Terrein,Element,Moerasvegetatie,,Vervallen
+BQ,Terrein,Element,Heester,,Vervallen
+BQ,Terrein,Element,,Begroeid terreindeel,Toegevoegd
+BS,Uiterwaard,Element,Boom,,Vervallen
+BS,Uiterwaard,Element,Boomgroep,,Vervallen
+BS,Uiterwaard,Element,Vaste plant,,Vervallen
+BS,Uiterwaard,Element,,Begroeid terreindeel,Toegevoegd
+CK,"Water en watergang (lijnvormig), overig",Element,Watervegetatie,,Vervallen
+CK,"Water en watergang (lijnvormig), overig",Element,,Waterlichaam (oppervlaktewater),Toegevoegd
+CK,"Water en watergang (lijnvormig), overig",Element,,Hoogwatervluchtplaats,Toegevoegd
+CJ,"Water en watergang (niet lijnvormig), overig",Element,Watervegetatie,,Vervallen
+CJ,"Water en watergang (niet lijnvormig), overig",Element,,Waterlichaam (oppervlaktewater),Toegevoegd
+CJ,"Water en watergang (niet lijnvormig), overig",Element,,Hoogwatervluchtplaats,Toegevoegd
+CA,Weg,Element,Boom,,Vervallen
+CA,Weg,Element,Boomgroep,,Vervallen
+CA,Weg,Element,Haag,,Vervallen
+CA,Weg,Element,Heester,,Vervallen
+CA,Weg,Element,,Begroeid terreindeel,Toegevoegd

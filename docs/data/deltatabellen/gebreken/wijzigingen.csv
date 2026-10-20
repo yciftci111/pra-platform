@@ -1,0 +1,400 @@
+Nr,Code,Gebrek,Onderdeel,Oud,Nieuw,Mutatie
+1,G-181,Aangroei,Materiaalsoort,Bomen,,Vervallen
+2,G-119,Aanhechtingsmankement,Gebrek,Aanhechtingsmankement,,Vervallen
+2,G-119,Aanhechtingsmankement,Materiaalsoort,Bomen,,Vervallen
+2,G-119,Aanhechtingsmankement,Materiaalsoort,Fauna,,Vervallen
+3,G-198,"Aansluiting, defect",Materiaalsoort,,Grond,Toegevoegd
+3,G-198,"Aansluiting, defect",Materiaalsoort,,Breuksteen,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Gebrek,,"Aansluiting, onvoldoende",Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Hout,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Beton,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Steen,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Glas,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Kunststof,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Staal,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Metaal; overig,Toegevoegd
+5,G-230,"Aansluiting, onvoldoende",Materiaalsoort,,Zand,Toegevoegd
+6,G-120,Aantasting,Gebrek,,Aantasting,Toegevoegd
+6,G-120,Aantasting,Materiaalsoort,,Boomschors,Toegevoegd
+6,G-120,Aantasting,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+6,G-120,Aantasting,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+7,G-120,"Aantasting, kritisch",Gebrek,"Aantasting, kritisch",,Vervallen
+7,G-120,"Aantasting, kritisch",Materiaalsoort,Gras,,Vervallen
+7,G-120,"Aantasting, kritisch",Materiaalsoort,Beplanting,,Vervallen
+7,G-120,"Aantasting, kritisch",Materiaalsoort,Bomen,,Vervallen
+7,G-120,"Aantasting, kritisch",Materiaalsoort,Riet,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Gebrek,"Aantasting, niet kritisch",,Vervallen
+8,G-121,"Aantasting, niet kritisch",Materiaalsoort,Gras,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Materiaalsoort,Beplanting,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Materiaalsoort,Bomen,,Vervallen
+8,G-121,"Aantasting, niet kritisch",Materiaalsoort,Riet,,Vervallen
+10,G-224,"Afdekking, ongewenst",Gebrek,,"Afdekking, ongewenst",Toegevoegd
+10,G-224,"Afdekking, ongewenst",Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+12,G-029,"Afschot, foutief",Materiaalsoort,Schelpen,,Vervallen
+12,G-029,"Afschot, foutief",Materiaalsoort,Bomen,,Vervallen
+14,G-003,Afsterving,Gebreksoort,Werking primair,Afsterving,Gewijzigd
+14,G-003,Afsterving,Werkdefinitie,"Afsterving is het afsterven van cellen in levend weefsel na infectie door een schimmel of andere parasiet of het omvat het begrip ?dood hout? ofwel het ook enigszins beschadigde, zieke of afstervende bomen, struiken, en/of delen daarvan.",Het ongewenst dood gaan van een groenvoorziening of delen daarvan.,Gewijzigd
+14,G-003,Afsterving,Materiaalsoort,Bomen,,Vervallen
+14,G-003,Afsterving,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+14,G-003,Afsterving,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Kruidachtigen en grassen, Beginstadium.JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Kruidachtigen en grassen, Gevorderd stadium.JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Bomen, Beginstadium.JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Bomen, Beginstadium (2).JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Bomen, Beginstadium (3).JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Bomen, Eindstadium.JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Bomen, Eindstadium (2).JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Houtachtige gewassen, Beginstadium.JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Houtachtige gewassen, Gevorderd stadium.JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Houtachtige gewassen, Gevorderd stadium (2).JPG",Toegevoegd
+14,G-003,Afsterving,Afbeelding,,"G-003 Afsterving, Houtachtige gewassen, Eindstadium.JPG",Toegevoegd
+15,G-168,"Afzetting, aangehecht",Materiaalsoort,Bomen,,Vervallen
+17,G-206,Bedekkingsgraad,Naam,"Bedekkingsgraad, onvoldoende",Bedekkingsgraad,Gewijzigd
+17,G-206,Bedekkingsgraad,Gebreksoort,Materiaal oppervlak,Aftakeling,Gewijzigd
+17,G-206,Bedekkingsgraad,Werkdefinitie,"Bedekkingsgraad, onvoldoende is de mate waarin een oppervlakte door vegetatie wordt bedenkt, wanneer dit onvoldoende is kan er bodem erosie ontstaan.",Het niet overeenkomen met de mate waarin de bodem bedekt wordt met de gewenste vegetatie die verwacht mag worden in het betreffende seizoen.,Gewijzigd
+17,G-206,Bedekkingsgraad,Toelichting,,"Voor sterkte Graszode geldt: Sterkte van het wortelstelsel in een plag grond van 0,3 m x 0,25 m x 0,1 m (l x b x h) die horizontaal handmatig uit elkaar getrokken wordt door deze omgekeerd op bijv. een schep te plaatsen. Begin: Plag blijft bij het opnemen nog net in takt, er is weinig kracht nodig om wortels uit elkaar te trekken. Gevorderd: Plag valt bij het opnemen in brokken uiteen, wortels van brok zijn met enige kracht uit elkaar te trekken. Eind: Plag valt bij het opnemen uit elkaar, er is weinig kracht nodig voor het verder uit elkaar trekken van wortels.",Toegevoegd
+17,G-206,Bedekkingsgraad,Materiaalsoort,Bomen,,Vervallen
+17,G-206,Bedekkingsgraad,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+17,G-206,Bedekkingsgraad,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+17,G-206,Bedekkingsgraad,Materiaalsoort,,Watervegetatie,Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Kruidachtigen en grassen, Beginstadium.JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Kruidachtigen en grassen, Gevorderd stadium.JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Kruidachtigen en grassen, Gevorderd stadium (2).JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Kruidachtigen en grassen, Eindstadium.JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Houtachtige gewassen, Beginstadium.JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Houtachtige gewassen, Gevorderd stadium.JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Houtachtige gewassen, Gevorderd stadium (2).JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Houtachtige gewassen, Gevorderd stadium (3).JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Houtachtige gewassen, Gevorderd stadium (4).JPG",Toegevoegd
+17,G-206,Bedekkingsgraad,Afbeelding,,"G-206 Bedekkingsgraad, Houtachtige gewassen, Gevorderd stadium (5).JPG",Toegevoegd
+18,G-221,"Begroeiing, ongewenst",Gebrek,,"Begroeiing, ongewenst",Toegevoegd
+18,G-221,"Begroeiing, ongewenst",Materiaalsoort,,Steen,Toegevoegd
+18,G-221,"Begroeiing, ongewenst",Materiaalsoort,,Asfalt (open),Toegevoegd
+18,G-221,"Begroeiing, ongewenst",Materiaalsoort,,Zetsteen,Toegevoegd
+26,G-215,Bladontwikkeling,Naam,"Bladontwikkeling, onjuist",Bladontwikkeling,Gewijzigd
+26,G-215,Bladontwikkeling,Gebreksoort,Basiskwaliteit,Stilstand,Gewijzigd
+26,G-215,Bladontwikkeling,Werkdefinitie,,"Het niet gevormd zijn van de bladeren tot de verwachte hoeveelheid, grootte en/of vorm bij de vegetatie in het betreffende seizoen.",Toegevoegd
+26,G-215,Bladontwikkeling,Materiaalsoort,Bomen,,Vervallen
+26,G-215,Bladontwikkeling,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+26,G-215,Bladontwikkeling,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"G-215 Bladontwikkeling, Bomen, Beginstadium.JPG",Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"G-215 Bladonwikkeling, Bomen, Gevorderd stadium.JPG",Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"G-215 Bladontwikkeling, Bomen, Gevorderd stadium.JPG",Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"http://nen2767- infrastructuur.nl/files/concept/thumbs/670_ __508- 50c6a2f35fec821200526cbcc67d45486aeeff df.JPGG-215 Bladontwikkeling, Bomen, Gevorderd stadium (2).JPG",Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"G-215 Bladontwikkeling, Bomen, Gevorderd stadium (3).JPG",Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"G-215 Bladontwikkeling, Bomen, Eindstadium.JPG",Toegevoegd
+26,G-215,Bladontwikkeling,Afbeelding,,"G-215 Bladontwikkeling, Houtachtige gewassen, Gevorderd stadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Naam,"Bladkleur, afwijkend",Bladverkleuring,Gewijzigd
+27,G-122,Bladverkleuring,Gebreksoort,Constructief secundair,Stilstand,Gewijzigd
+27,G-122,Bladverkleuring,Werkdefinitie,"Bladkleur, afwijkend is de toestand waarin het blad (schijfvormig orgaan) qua uiterlijke kenmerken afwijkt van de oorspronkelijke, natuurlijke kleur (weerkaatsing van het licht) overeenkomstig de tijd van het jaar.",Het niet overeenkomen met de kleur van bladeren voor de betreffende soort in een bepaald seizoen.,Gewijzigd
+27,G-122,Bladverkleuring,Materiaalsoort,Bomen,,Vervallen
+27,G-122,Bladverkleuring,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+27,G-122,Bladverkleuring,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Kruidachtigen en grassen, Beginstadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Kruidachtigen en grassen, Eindstadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Kruidachtigen en grassen, Gevorderd stadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Kruidachtigen en grassen, Gevorderd stadium (2).JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Bomen, Gevorderd stadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Bomen, Gevorderd stadium (2).JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Houtachtige gewassen, Beginstadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Houtachtige gewassen, Gevorderd stadium.JPG",Toegevoegd
+27,G-122,Bladverkleuring,Afbeelding,,"G-122 Bladverkleuring, Houtachtige gewassen, Eindstadium.JPG",Toegevoegd
+28,G-217,Blauwalgontwikkeling,Gebrek,,Blauwalgontwikkeling,Toegevoegd
+28,G-217,Blauwalgontwikkeling,Materiaalsoort,,Watervegetatie,Toegevoegd
+29,G-141,Bloeiontwikkeling,Naam,"Bloeiontwikkeling, onvoldoende",Bloeiontwikkeling,Gewijzigd
+29,G-141,Bloeiontwikkeling,Gebreksoort,Werking primair,Niet optimaal,Gewijzigd
+29,G-141,Bloeiontwikkeling,Werkdefinitie,"Bloeiontwikkeling, onvoldoende is een verandering in de mate van bloeien ofwel steeds meer of minder bloesem krijgen.",Het niet ontwikkelen van bloemen tot de verwachte hoeveelheid bij de vegetatie in het betreffende seizoen.,Gewijzigd
+29,G-141,Bloeiontwikkeling,Materiaalsoort,Bomen,,Vervallen
+29,G-141,Bloeiontwikkeling,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+29,G-141,Bloeiontwikkeling,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+29,G-141,Bloeiontwikkeling,Afbeelding,,"G-141 Bloeiontwikkeling, Houtachtige gewassen, Beginstadium.JPG",Toegevoegd
+29,G-141,Bloeiontwikkeling,Afbeelding,,"G-141 Bloeiontwikkeling, Houtachtige gewassen, Beginstadium (2).JPG",Toegevoegd
+29,G-141,Bloeiontwikkeling,Afbeelding,,"G-141 Bloeiontwikkeling, Houtachtige gewassen, Beginstadium (3).JPG",Toegevoegd
+30,G-034,"Boomvitaliteit, vermindering",Gebrek,"Boomvitaliteit, vermindering",,Vervallen
+30,G-034,"Boomvitaliteit, vermindering",Materiaalsoort,Bomen,,Vervallen
+31,G-035,Boomwortelopgroei,Materiaalsoort,Schelpen,,Vervallen
+47,G-038,Dwarsonvlakheid,Werkdefinitie,Dwarsonvlakheid is een verticale vervorming van het dwarsprofiel van de verharding.,Een verticale vervorming van het dwarsprofiel van de verharding.,Gewijzigd
+47,G-038,Dwarsonvlakheid,Materiaalsoort,,Schelp,Toegevoegd
+47,G-038,Dwarsonvlakheid,Materiaalsoort,,Grasklinker,Toegevoegd
+47,G-038,Dwarsonvlakheid,Materiaalsoort,,Puin,Toegevoegd
+48,G-040,Erosie,Gebrek,Erosie,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Hout,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Beton,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Steen,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Glas,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Kunststof,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Asfalt,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Grond,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Gras,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Mechaniek,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Elektrotechniek,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Hydrauliek,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Staal,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Aluminium,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Zink,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Gietijzer,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Metaal; overig,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Rubber,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Koper,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Installaties,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Zand,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Beplanting,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Fauna,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Keramiek,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Granulaat,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Betonpuin,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Steenpuin,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Stortsteen,,Vervallen
+48,G-040,Erosie,Materiaalsoort,Zetsteen,,Vervallen
+49,G-040,Erosie,Gebrek,,Erosie,Toegevoegd
+49,G-040,Erosie,Materiaalsoort,,Grond,Toegevoegd
+50,G-015,"Exotengroei, ongewenst",Gebrek,"Exotengroei, ongewenst",,Vervallen
+50,G-015,"Exotengroei, ongewenst",Materiaalsoort,Grond,,Vervallen
+50,G-015,"Exotengroei, ongewenst",Materiaalsoort,Gras,,Vervallen
+50,G-015,"Exotengroei, ongewenst",Materiaalsoort,Water,,Vervallen
+50,G-015,"Exotengroei, ongewenst",Materiaalsoort,Beplanting,,Vervallen
+52,G-041,"Functie, verminderd",Materiaalsoort,,Breuksteen,Toegevoegd
+53,G-126,Gaten,Gebrek,Gaten,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Hout,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Beton,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Steen,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Glas,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Kunststof,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Asfalt,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Grond,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Gras,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Staal,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Aluminium,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Zink,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Gietijzer,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Metaal; overig,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Rubber,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Asfalt (open),,Vervallen
+53,G-126,Gaten,Materiaalsoort,Koper,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Grind,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Zand,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Boomschors,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Bomen,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Fauna,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Kunstgras,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Keramiek,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Granulaat,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Betonpuin,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Steenpuin,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Zetsteen,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Riet,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Metselwerk,,Vervallen
+53,G-126,Gaten,Materiaalsoort,Geëxpandeerd polystyreen (EPS),,Vervallen
+54,G-126,Gaten,Gebrek,,Gaten,Toegevoegd
+54,G-126,Gaten,Materiaalsoort,,Beton,Toegevoegd
+54,G-126,Gaten,Materiaalsoort,,Steen,Toegevoegd
+54,G-126,Gaten,Materiaalsoort,,Grond,Toegevoegd
+54,G-126,Gaten,Materiaalsoort,,Stortsteen,Toegevoegd
+54,G-126,Gaten,Materiaalsoort,,Breuksteen,Toegevoegd
+55,G-148,"Gesteltakken, gescheurd",Gebrek,"Gesteltakken, gescheurd",,Vervallen
+55,G-148,"Gesteltakken, gescheurd",Materiaalsoort,Bomen,,Vervallen
+58,G-129,"Groeihoogte onjuist, niet kritisch",Gebrek,"Groeihoogte onjuist, niet kritisch",,Vervallen
+58,G-129,"Groeihoogte onjuist, niet kritisch",Materiaalsoort,Beplanting,,Vervallen
+58,G-129,"Groeihoogte onjuist, niet kritisch",Materiaalsoort,Bomen,,Vervallen
+58,G-129,"Groeihoogte onjuist, niet kritisch",Materiaalsoort,Fauna,,Vervallen
+59,G-218,Groeiontwikkeling,Gebrek,,Groeiontwikkeling,Toegevoegd
+59,G-218,Groeiontwikkeling,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+60,G-128,"Groeistoornis, niet kritisch",Gebrek,"Groeistoornis, niet kritisch",,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Materiaalsoort,Kunststof,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Materiaalsoort,Gras,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Materiaalsoort,Zand,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Materiaalsoort,Beplanting,,Vervallen
+60,G-128,"Groeistoornis, niet kritisch",Materiaalsoort,Bomen,,Vervallen
+63,G-142,"Houtige begroeing, onderbroken",Gebrek,"Houtige begroeing, onderbroken",,Vervallen
+63,G-142,"Houtige begroeing, onderbroken",Materiaalsoort,Beplanting,,Vervallen
+63,G-142,"Houtige begroeing, onderbroken",Materiaalsoort,Bomen,,Vervallen
+63,G-142,"Houtige begroeing, onderbroken",Materiaalsoort,Fauna,,Vervallen
+64,G-011,Houtrot,Gebreksoort,Materiaalintrinsiek,Aftakeling,Gewijzigd
+64,G-011,Houtrot,Werkdefinitie,"Houtrot is het verweren, uiteenvallen van hout onder invloed van water en lucht.","Het uiteenvallen van hout onder invloed van water, lucht en micro-organismen, voornamelijk schimmels.",Gewijzigd
+64,G-011,Houtrot,Materiaalsoort,Bomen,,Vervallen
+64,G-011,Houtrot,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+64,G-011,Houtrot,Afbeelding,,"G-011 Houtrot, Bomen, Beginstadium.JPG",Toegevoegd
+64,G-011,Houtrot,Afbeelding,,"G-011 Houtrot, Bomen, Gevorderd stadium.JPG",Toegevoegd
+65,G-032,Houtweefselschade,Naam,"Stam, beschadigd",Houtweefselschade,Gewijzigd
+65,G-032,Houtweefselschade,Gebreksoort,Materiaal oppervlak,Aftakeling,Gewijzigd
+65,G-032,Houtweefselschade,Werkdefinitie,"Stam, beschadigd is een aantasting/beschadiging van de stam (het deel van de boom tussen de wortels en de kruin) die ontstaat als gevolg van stoten, kneuzen, knellen, knippen, aanrijden, vuur, etc .","Een vervorming, kras of breuk in het materiaal onder de bast als gevolg van een mechanische spanning of belasting.",Gewijzigd
+65,G-032,Houtweefselschade,Materiaalsoort,Bomen,,Vervallen
+65,G-032,Houtweefselschade,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Beginstadium.JPG",Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Gevorderd stadium.JPG",Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Eindstadium.JPG",Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Eindstadium (2).JPG",Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Eindstadium (3).JPG",Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Eindstadium (4).JPG",Toegevoegd
+65,G-032,Houtweefselschade,Afbeelding,,"G-032 Houtweefselschade, Bomen, Eindstadium (5).JPG",Toegevoegd
+68,G-144,"Insectenvraat, kritisch",Gebrek,"Insectenvraat, kritisch",,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Hout,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Kunststof,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Gras,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Aluminium,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Zink,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Rubber,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Koper,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Kurk,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Textiel,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Vilt,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Jute,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Beplanting,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Bomen,,Vervallen
+68,G-144,"Insectenvraat, kritisch",Materiaalsoort,Riet,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Gebrek,"Insectenvraat, niet kritisch",,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Hout,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Kunststof,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Gras,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Aluminium,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Zink,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Rubber,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Koper,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Kurk,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Textiel,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Vilt,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Jute,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Beplanting,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Bomen,,Vervallen
+69,G-012,"Insectenvraat, niet kritisch",Materiaalsoort,Riet,,Vervallen
+74,G-202,"Kroon, beschadigd",Gebrek,"Kroon, beschadigd",,Vervallen
+74,G-202,"Kroon, beschadigd",Materiaalsoort,Beplanting,,Vervallen
+74,G-202,"Kroon, beschadigd",Materiaalsoort,Bomen,,Vervallen
+75,G-140,"Kroon-stam, verhouding afwijkend",Gebrek,"Kroon-stam, verhouding afwijkend",,Vervallen
+75,G-140,"Kroon-stam, verhouding afwijkend",Materiaalsoort,Beplanting,,Vervallen
+75,G-140,"Kroon-stam, verhouding afwijkend",Materiaalsoort,Bomen,,Vervallen
+76,G-139,"Kroon-stam, verhouding onjuist",Gebrek,"Kroon-stam, verhouding onjuist",,Vervallen
+76,G-139,"Kroon-stam, verhouding onjuist",Materiaalsoort,Beplanting,,Vervallen
+76,G-139,"Kroon-stam, verhouding onjuist",Materiaalsoort,Bomen,,Vervallen
+77,G-073,"Kroonontwikkeling, onevenwichtig",Gebrek,"Kroonontwikkeling, onevenwichtig",,Vervallen
+77,G-073,"Kroonontwikkeling, onevenwichtig",Materiaalsoort,Bomen,,Vervallen
+87,G-228,Omgevallen,Gebrek,,Omgevallen,Toegevoegd
+88,G-048,"Onderdeel, ontbreekt",Materiaalsoort,Bomen,,Vervallen
+89,G-047,Oneffenheden,Werkdefinitie,"Oneffenheden zijn plaatselijk voorkomende, verticale vervormingenvan de verharding met een oppervlakte van minder dan 5 m2 (bij cementbeton: met een lengte minder dan de plaatlengte).","Plaatselijk voorkomende, verticale vervormingen van de verharding met een oppervlakte van minder dan 5 m2.",Gewijzigd
+89,G-047,Oneffenheden,Materiaalsoort,Schelpen,Schelp,Gewijzigd
+89,G-047,Oneffenheden,Materiaalsoort,,Grasklinker,Toegevoegd
+89,G-047,Oneffenheden,Materiaalsoort,,Puin,Toegevoegd
+90,G-074,Onkruidgroei,Materiaalsoort,,Schelp,Toegevoegd
+90,G-074,Onkruidgroei,Materiaalsoort,Bomen,,Vervallen
+90,G-074,Onkruidgroei,Materiaalsoort,,Grasklinker,Toegevoegd
+90,G-074,Onkruidgroei,Materiaalsoort,,Puin,Toegevoegd
+90,G-074,Onkruidgroei,Materiaalsoort,,Breuksteen,Toegevoegd
+92,G-191,Onthechting,Materiaalsoort,,Steen,Toegevoegd
+92,G-191,Onthechting,Materiaalsoort,,Stortsteen,Toegevoegd
+94,G-160,Oppervlakteschade,Materiaalsoort,Schelpen,,Vervallen
+96,G-210,Plakoksel,Gebrek,Plakoksel,,Vervallen
+96,G-210,Plakoksel,Materiaalsoort,Gras,,Vervallen
+96,G-210,Plakoksel,Materiaalsoort,Bomen,,Vervallen
+101,G-117,Randschade,Materiaalsoort,Schelpen,,Vervallen
+102,G-147,Reactiehout,Gebrek,Reactiehout,,Vervallen
+102,G-147,Reactiehout,Materiaalsoort,Bomen,,Vervallen
+103,G-207,"Schade, mechanisch",Materiaalsoort,Bomen,,Vervallen
+104,G-106,Scheefstand,Materiaalsoort,Bomen,,Vervallen
+104,G-106,Scheefstand,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+105,G-018,"Scheur, constructief",Materiaalsoort,Bomen,,Vervallen
+106,G-056,"Scheur, niet constructief",Materiaalsoort,Bomen,,Vervallen
+108,G-127,Scheutlengte-ontwikkeling,Naam,"Groeistoornis, kritisch",Scheutlengte-ontwikkeling,Gewijzigd
+108,G-127,Scheutlengte-ontwikkeling,Gebreksoort,Constructief primair,Afsterving,Gewijzigd
+108,G-127,Scheutlengte-ontwikkeling,Werkdefinitie,"Groeistoornis, kritisch is een mate van verstoring in de groei van een organisme door te veel, te weinig of een verstoring in de groei wat op korte termijn tot negatieve aspecten leidt. Meestal markeert het de overgang van één bepaald gedrag naar het andere.",Het niet overeenkomen met de verwachte groei van de vegetatie.,Gewijzigd
+108,G-127,Scheutlengte-ontwikkeling,Materiaalsoort,Bomen,,Vervallen
+108,G-127,Scheutlengte-ontwikkeling,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Kruidachtigen en grassen, Gevorderd stadium.JPG",Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Kruidachtigen en grassen, Gevorderd stadium (2).JPG",Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Kruidachtigen en grassen, Gevorderd stadium (3).JPG",Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Kruidachtigen en grassen, Eindstadium.JPG",Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Kruidachtigen en grassen, Eindstadium (2).JPG",Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Houtachtige gewassen, Gevorderd stadium.JPG",Toegevoegd
+108,G-127,Scheutlengte-ontwikkeling,Afbeelding,,"G-127 Groeistoornis, Houtachtige gewassen, Gevorderd stadium (2).JPG",Toegevoegd
+113,G-226,"Soortenrijkdom, onvoldoende",Gebrek,,"Soortenrijkdom, onvoldoende",Toegevoegd
+113,G-226,"Soortenrijkdom, onvoldoende",Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+117,G-203,Stamontwikkeling,Naam,"Groeihoogte onjuist, kritisch",Stamontwikkeling,Gewijzigd
+117,G-203,Stamontwikkeling,Gebreksoort,Constructief secundair,Stilstand,Gewijzigd
+117,G-203,Stamontwikkeling,Werkdefinitie,"Groeihoogte, onjuist kritisch is de situatie waarbij de hoogte van een plant of boom niet juist is, en de gevolgen een probleem vormen.",Het niet ontwikkelen van diktegroei die van de stam verwacht mag worden.,Gewijzigd
+117,G-203,Stamontwikkeling,Materiaalsoort,Bomen,,Vervallen
+117,G-203,Stamontwikkeling,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+117,G-203,Stamontwikkeling,Afbeelding,,"G-203 Stamontwikkeling, Bomen, Beginstadium.JPG",Toegevoegd
+117,G-203,Stamontwikkeling,Afbeelding,,"G-203 Stamontwikkeling, Bomen, Gevorderd stadium.JPG",Toegevoegd
+117,G-203,Stamontwikkeling,Afbeelding,,"G-203 Stamontwikkeling, Bomen, Gevorderd stadium (2).JPG",Toegevoegd
+117,G-203,Stamontwikkeling,Afbeelding,,"G-203 Stamontwikkeling, Bomen, Eindstadium.JPG",Toegevoegd
+119,G-205,"Takken laaghangend, kritisch",Gebrek,"Takken laaghangend, kritisch",,Vervallen
+119,G-205,"Takken laaghangend, kritisch",Materiaalsoort,Bomen,,Vervallen
+120,G-133,"Takken laaghangend, niet kritisch",Gebrek,"Takken laaghangend, niet kritisch",,Vervallen
+120,G-133,"Takken laaghangend, niet kritisch",Materiaalsoort,Bomen,,Vervallen
+124,G-209,"Top, dubbel",Gebrek,"Top, dubbel",,Vervallen
+124,G-209,"Top, dubbel",Materiaalsoort,Bomen,,Vervallen
+125,G-008,"Toplaag, dichtgeslibd",Materiaalsoort,Schelpen,,Vervallen
+128,G-022,"Verankering, defect",Materiaalsoort,Bomen,,Vervallen
+130,G-078,Verdroging,Gebrek,Verdroging,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Kunststof,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Grond,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Gras,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Zand,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Beplanting,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Bomen,,Vervallen
+130,G-078,Verdroging,Materiaalsoort,Riet,,Vervallen
+131,G-229,Verdwenen,Gebrek,,Verdwenen,Toegevoegd
+131,G-229,Verdwenen,Materiaalsoort,,Hout,Toegevoegd
+131,G-229,Verdwenen,Materiaalsoort,,Beton,Toegevoegd
+131,G-229,Verdwenen,Materiaalsoort,,Zand,Toegevoegd
+132,G-079,Vergrassing,Materiaalsoort,Schelpen,,Vervallen
+133,G-023,Vergraving,Materiaalsoort,Bomen,,Vervallen
+140,G-214,Verruiging,Type,Conditioneel gebrek,Tekortkoming,Gewijzigd
+140,G-214,Verruiging,Materiaalsoort,,Steen,Toegevoegd
+140,G-214,Verruiging,Materiaalsoort,,Kruidachtige vegetatie,Toegevoegd
+144,G-052,Vertrapping,Gebrek,Vertrapping,,Vervallen
+144,G-052,Vertrapping,Materiaalsoort,Grond,,Vervallen
+144,G-052,Vertrapping,Materiaalsoort,Gras,,Vervallen
+146,G-104,Vervuiling,Werkdefinitie,,"Verontreiniging door een materiaal dat geen zuivere stof is, wordt als verontreinigd beschouwd.",Toegevoegd
+146,G-104,Vervuiling,Toelichting,,Bij dijken en dammen geldt: Vuil (drijf- of zwerfvuil) dat de bekleding kan beschadigen. Begin: smalle sporen van licht klein vuil Gevorderd: brede sporen van vuil met hier en daar kleine stukken drijfvuil Eind: brede velden met drijfvuil en / of grote voorwerpen als boomstammen,Toegevoegd
+146,G-104,Vervuiling,Materiaalsoort,Schelpen,Schelp,Gewijzigd
+146,G-104,Vervuiling,Materiaalsoort,,Asfaltbeton,Toegevoegd
+146,G-104,Vervuiling,Materiaalsoort,,Cementbeton,Toegevoegd
+146,G-104,Vervuiling,Materiaalsoort,Bomen,,Vervallen
+146,G-104,Vervuiling,Materiaalsoort,,Grasklinker,Toegevoegd
+146,G-104,Vervuiling,Materiaalsoort,,Puin,Toegevoegd
+147,G-063,Verweking,Materiaalsoort,Schelpen,,Vervallen
+149,G-025,Verzakking,Materiaalsoort,Schelpen,,Vervallen
+149,G-025,Verzakking,Materiaalsoort,,Breuksteen,Toegevoegd
+152,G-173,"Vloeistofpeil, onjuist",Materiaalsoort,Grind,,Vervallen
+152,G-173,"Vloeistofpeil, onjuist",Materiaalsoort,Schelpen,,Vervallen
+152,G-173,"Vloeistofpeil, onjuist",Materiaalsoort,Bomen,,Vervallen
+159,G-085,Wildschade,Gebrek,Wildschade,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Hout,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Steen,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Kunststof,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Grond,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Grind,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Zand,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Schelpen,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Boomschors,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Keramiek,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Granulaat,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Stortsteen,,Vervallen
+159,G-085,Wildschade,Materiaalsoort,Zetsteen,,Vervallen
+160,G-222,Windworp,Gebrek,,Windworp,Toegevoegd
+161,G-137,Wondreactie,Naam,"Snoeiwond, afgrendeling onjuist",Wondreactie,Gewijzigd
+161,G-137,Wondreactie,Gebreksoort,Werking secundair,Stilstand,Gewijzigd
+161,G-137,Wondreactie,Werkdefinitie,"Snoeiwond, afgrendeling onjuist is de situatie wanneer het oppervlak waarlangs men een tak heeft gesnoeid, (het selectieve terugsnijden van houtige planten), niet goed afsluit, de wond niet goed overgroeid.",Het niet juist overgroeien van een wond die van de vegetatie verwacht mag worden.,Gewijzigd
+161,G-137,Wondreactie,Materiaalsoort,Bomen,,Vervallen
+161,G-137,Wondreactie,Materiaalsoort,,Houtige vegetatie,Toegevoegd
+161,G-137,Wondreactie,Afbeelding,,"G-137 Wondreactie, Bomen, Beginstadium.JPG",Toegevoegd
+161,G-137,Wondreactie,Afbeelding,,"G-137 Wondreactie, Bomen, Gevorderd stadium.JPG",Toegevoegd
+161,G-137,Wondreactie,Afbeelding,,"G-137 Wondreactie, Bomen, Eindstadium.JPG",Toegevoegd
+161,G-137,Wondreactie,Afbeelding,,"G-137 Wondreactie, Bomen, Eindstadium (2).JPG",Toegevoegd
+162,G-167,Wortelingroei,Materiaalsoort,,Breuksteen,Toegevoegd
+163,G-204,"Wortels, beschadigd",Gebrek,"Wortels, beschadigd",,Vervallen
+163,G-204,"Wortels, beschadigd",Materiaalsoort,Bomen,,Vervallen
+164,G-156,Wurgwortels,Gebrek,Wurgwortels,,Vervallen
+164,G-156,Wurgwortels,Materiaalsoort,Bomen,,Vervallen
+165,G-086,Zetting,Materiaalsoort,Bomen,,Vervallen
+166,G-151,"Ziekte, kritisch",Gebrek,"Ziekte, kritisch",,Vervallen
+166,G-151,"Ziekte, kritisch",Materiaalsoort,Gras,,Vervallen
+166,G-151,"Ziekte, kritisch",Materiaalsoort,Beplanting,,Vervallen
+166,G-151,"Ziekte, kritisch",Materiaalsoort,Bomen,,Vervallen
+167,G-152,"Ziekte, niet kritisch",Gebrek,"Ziekte, niet kritisch",,Vervallen
+167,G-152,"Ziekte, niet kritisch",Materiaalsoort,Gras,,Vervallen
+167,G-152,"Ziekte, niet kritisch",Materiaalsoort,Beplanting,,Vervallen
+167,G-152,"Ziekte, niet kritisch",Materiaalsoort,Bomen,,Vervallen
+168,G-155,"Zuigers, overlast",Gebrek,"Zuigers, overlast",,Vervallen
+168,G-155,"Zuigers, overlast",Materiaalsoort,Bomen,,Vervallen

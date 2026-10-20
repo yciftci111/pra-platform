@@ -1,0 +1,2574 @@
+Code,Beheerobject,Element (oud),Element (nieuw),Mutatie
+AA,Aanleginrichting,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+AA,Aanleginrichting,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+AA,Aanleginrichting,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+AA,Aanleginrichting,Aanrijbalk,Aanrijbalk,Ongewijzigd
+AA,Aanleginrichting,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AA,Aanleginrichting,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+AA,Aanleginrichting,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AA,Aanleginrichting,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Kabel,Kabel,Ongewijzigd
+AA,Aanleginrichting,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AA,Aanleginrichting,Bodembescherming,Bodembescherming,Ongewijzigd
+AA,Aanleginrichting,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AA,Aanleginrichting,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+AA,Aanleginrichting,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AA,Aanleginrichting,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+AA,Aanleginrichting,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AA,Aanleginrichting,Drainage,Drainage,Ongewijzigd
+AA,Aanleginrichting,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AA,Aanleginrichting,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+AA,Aanleginrichting,Fundering,Fundering,Ongewijzigd
+AA,Aanleginrichting,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AA,Aanleginrichting,Heftoren,Heftoren,Ongewijzigd
+AA,Aanleginrichting,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AA,Aanleginrichting,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AA,Aanleginrichting,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AA,Aanleginrichting,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+AA,Aanleginrichting,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+AA,Aanleginrichting,Intercominstallatie,Intercominstallatie,Ongewijzigd
+AA,Aanleginrichting,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AA,Aanleginrichting,Kerende constructie,Kerende constructie,Ongewijzigd
+AA,Aanleginrichting,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Leiding,Leiding,Ongewijzigd
+AA,Aanleginrichting,Loopbrug,Loopbrug,Ongewijzigd
+AA,Aanleginrichting,Mantelbuis,Mantelbuis,Ongewijzigd
+AA,Aanleginrichting,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+AA,Aanleginrichting,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+AA,Aanleginrichting,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+AA,Aanleginrichting,Objectverlichting,Objectverlichting,Ongewijzigd
+AA,Aanleginrichting,Oeverbescherming,Oeverbescherming,Ongewijzigd
+AA,Aanleginrichting,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+AA,Aanleginrichting,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AA,Aanleginrichting,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+AA,Aanleginrichting,Oplegging,Oplegging,Ongewijzigd
+AA,Aanleginrichting,Opstal,Opstal,Ongewijzigd
+AA,Aanleginrichting,Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+AA,Aanleginrichting,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+AA,Aanleginrichting,Pompinstallatie,Pompinstallatie,Ongewijzigd
+AA,Aanleginrichting,Radarinstallatie,Radarinstallatie,Ongewijzigd
+AA,Aanleginrichting,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AA,Aanleginrichting,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+AA,Aanleginrichting,Schampkant,Schampkant,Ongewijzigd
+AA,Aanleginrichting,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AA,Aanleginrichting,Steiger,Steiger,Ongewijzigd
+AA,Aanleginrichting,Steunpunt,Steunpunt,Ongewijzigd
+AA,Aanleginrichting,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+AA,Aanleginrichting,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+AA,Aanleginrichting,Erf,Erf,Ongewijzigd
+AA,Aanleginrichting,Toegangshek,Toegangshek,Ongewijzigd
+AA,Aanleginrichting,Tracing,Tracing,Ongewijzigd
+AA,Aanleginrichting,Vangconstructie,Vangconstructie,Ongewijzigd
+AA,Aanleginrichting,Verankering,Verankering,Ongewijzigd
+AA,Aanleginrichting,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+AA,Aanleginrichting,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AA,Aanleginrichting,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+AA,Aanleginrichting,Voegovergang,Voegovergang,Ongewijzigd
+AA,Aanleginrichting,Weigh In Motion,Weigh In Motion,Ongewijzigd
+AA,Aanleginrichting,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+AA,Aanleginrichting,Zinker,Zinker,Ongewijzigd
+AA,Aanleginrichting,Grendelinrichting,Grendelinrichting,Ongewijzigd
+AA,Aanleginrichting,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Kelder,Kelder,Ongewijzigd
+AA,Aanleginrichting,Aanloopgebied,Aanloopgebied,Ongewijzigd
+AA,Aanleginrichting,Talud,Talud,Ongewijzigd
+AA,Aanleginrichting,Afscheiding,Afscheiding,Ongewijzigd
+AA,Aanleginrichting,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AA,Aanleginrichting,Ponton,Ponton,Ongewijzigd
+AA,Aanleginrichting,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+AA,Aanleginrichting,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AA,Aanleginrichting,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AA,Aanleginrichting,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AA,Aanleginrichting,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AA,Aanleginrichting,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+AA,Aanleginrichting,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+AA,Aanleginrichting,Slijtlaag,Slijtlaag,Ongewijzigd
+AA,Aanleginrichting,Leuningconstructie,Leuningconstructie,Ongewijzigd
+AA,Aanleginrichting,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+AB,Aquaduct,Aanrijbalk,Aanrijbalk,Ongewijzigd
+AB,Aquaduct,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AB,Aquaduct,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+AB,Aquaduct,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+AB,Aquaduct,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AB,Aquaduct,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+AB,Aquaduct,Kabel,Kabel,Ongewijzigd
+AB,Aquaduct,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AB,Aquaduct,Bodembescherming,Bodembescherming,Ongewijzigd
+AB,Aquaduct,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AB,Aquaduct,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+AB,Aquaduct,Calamiteiten Doorsteek installatie (CADO),Calamiteiten Doorsteek installatie (CADO),Ongewijzigd
+AB,Aquaduct,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AB,Aquaduct,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AB,Aquaduct,Drainage,Drainage,Ongewijzigd
+AB,Aquaduct,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AB,Aquaduct,Fauna uittreedplaats,Fauna uittreedplaats,Ongewijzigd
+AB,Aquaduct,Folieconstructie,Folieconstructie,Ongewijzigd
+AB,Aquaduct,Fundering,Fundering,Ongewijzigd
+AB,Aquaduct,Gasdetectie-installatie (LEL),Gasdetectie-installatie (LEL),Ongewijzigd
+AB,Aquaduct,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AB,Aquaduct,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+AB,Aquaduct,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AB,Aquaduct,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+AB,Aquaduct,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AB,Aquaduct,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AB,Aquaduct,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+AB,Aquaduct,Intercominstallatie,Intercominstallatie,Ongewijzigd
+AB,Aquaduct,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AB,Aquaduct,Kerende constructie,Kerende constructie,Ongewijzigd
+AB,Aquaduct,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AB,Aquaduct,Leiding,Leiding,Ongewijzigd
+AB,Aquaduct,Loopbrug,Loopbrug,Ongewijzigd
+AB,Aquaduct,Mantelbuis,Mantelbuis,Ongewijzigd
+AB,Aquaduct,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+AB,Aquaduct,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+AB,Aquaduct,Objectverlichting,Objectverlichting,Ongewijzigd
+AB,Aquaduct,Oeverbescherming,Oeverbescherming,Ongewijzigd
+AB,Aquaduct,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+AB,Aquaduct,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AB,Aquaduct,Oplegging,Oplegging,Ongewijzigd
+AB,Aquaduct,Opstal,Opstal,Ongewijzigd
+AB,Aquaduct,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+AB,Aquaduct,Pompinstallatie,Pompinstallatie,Ongewijzigd
+AB,Aquaduct,Pompkelder,Pompkelder,Ongewijzigd
+AB,Aquaduct,Radarinstallatie,Radarinstallatie,Ongewijzigd
+AB,Aquaduct,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AB,Aquaduct,Schampkant,Schampkant,Ongewijzigd
+AB,Aquaduct,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+AB,Aquaduct,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AB,Aquaduct,Steiger,Steiger,Ongewijzigd
+AB,Aquaduct,Steunpunt,Steunpunt,Ongewijzigd
+AB,Aquaduct,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+AB,Aquaduct,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+AB,Aquaduct,Erf,Erf,Ongewijzigd
+AB,Aquaduct,Tracing,Tracing,Ongewijzigd
+AB,Aquaduct,Verankering,Verankering,Ongewijzigd
+AB,Aquaduct,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+AB,Aquaduct,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AB,Aquaduct,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AB,Aquaduct,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+AB,Aquaduct,Voegovergang,Voegovergang,Ongewijzigd
+AB,Aquaduct,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+AB,Aquaduct,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+AB,Aquaduct,Kelder,Kelder,Ongewijzigd
+AB,Aquaduct,Talud,Talud,Ongewijzigd
+AB,Aquaduct,Afscheiding,Afscheiding,Ongewijzigd
+AB,Aquaduct,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+AB,Aquaduct,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AB,Aquaduct,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AB,Aquaduct,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AB,Aquaduct,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AB,Aquaduct,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+AB,Aquaduct,Slijtlaag,Slijtlaag,Ongewijzigd
+AB,Aquaduct,Leuningconstructie,Leuningconstructie,Ongewijzigd
+AB,Aquaduct,Sproei-installatie,Sproei-installatie,Ongewijzigd
+AC,Begraafplaats,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+AC,Begraafplaats,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AC,Begraafplaats,Asbestemming,Asbestemming,Ongewijzigd
+AC,Begraafplaats,Graf,Graf,Ongewijzigd
+AC,Begraafplaats,Afscheiding,Afscheiding,Ongewijzigd
+AC,Begraafplaats,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AC,Begraafplaats,Sloot,Sloot,Ongewijzigd
+AC,Begraafplaats,Beek,Beek,Ongewijzigd
+AC,Begraafplaats,Boom,,Vervallen
+CC,Beheerobject Overstijgende Voorziening,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Kabel,Kabel,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Gasdetectie-installatie (LEL),Gasdetectie-installatie (LEL),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Intercominstallatie,Intercominstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Leiding,Leiding,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Objectverlichting,Objectverlichting,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Radarinstallatie,Radarinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol)",Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Transportinstallatie,Transportinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Slijtlaag,Slijtlaag,Ongewijzigd
+CC,Beheerobject Overstijgende Voorziening,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+CX,Beluchtingstank,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CX,Beluchtingstank,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CX,Beluchtingstank,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CX,Beluchtingstank,Kabel,Kabel,Ongewijzigd
+CX,Beluchtingstank,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+CX,Beluchtingstank,Fundering,Fundering,Ongewijzigd
+CX,Beluchtingstank,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CX,Beluchtingstank,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CX,Beluchtingstank,Klepconstructie,Klepconstructie,Ongewijzigd
+CX,Beluchtingstank,Leiding,Leiding,Ongewijzigd
+CX,Beluchtingstank,Loopbrug,Loopbrug,Ongewijzigd
+CX,Beluchtingstank,Mantelbuis,Mantelbuis,Ongewijzigd
+CX,Beluchtingstank,Objectverlichting,Objectverlichting,Ongewijzigd
+CX,Beluchtingstank,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+CX,Beluchtingstank,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CX,Beluchtingstank,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+CX,Beluchtingstank,Put,Put,Ongewijzigd
+CX,Beluchtingstank,Afscheiderinstallatie (statisch),Afscheiderinstallatie (statisch),Ongewijzigd
+CX,Beluchtingstank,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CX,Beluchtingstank,Afscheiderinstallatie (dynamisch),Afscheiderinstallatie (dynamisch),Ongewijzigd
+CX,Beluchtingstank,Menginstallatie,Menginstallatie,Ongewijzigd
+CX,Beluchtingstank,Ruimerinstallatie,Ruimerinstallatie,Ongewijzigd
+CX,Beluchtingstank,Wandconstructie,Wandconstructie,Ongewijzigd
+CX,Beluchtingstank,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CX,Beluchtingstank,Trapconstructie,Trapconstructie,Ongewijzigd
+CX,Beluchtingstank,Dakconstructie,Dakconstructie,Ongewijzigd
+CX,Beluchtingstank,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CX,Beluchtingstank,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CS,Bezinkbassin,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CS,Bezinkbassin,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CS,Bezinkbassin,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CS,Bezinkbassin,Kabel,Kabel,Ongewijzigd
+CS,Bezinkbassin,Fundering,Fundering,Ongewijzigd
+CS,Bezinkbassin,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+CS,Bezinkbassin,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CS,Bezinkbassin,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CS,Bezinkbassin,Leiding,Leiding,Ongewijzigd
+CS,Bezinkbassin,Mantelbuis,Mantelbuis,Ongewijzigd
+CS,Bezinkbassin,Objectverlichting,Objectverlichting,Ongewijzigd
+CS,Bezinkbassin,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CS,Bezinkbassin,Tracing,Tracing,Ongewijzigd
+CS,Bezinkbassin,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+CS,Bezinkbassin,Kelder,Kelder,Ongewijzigd
+CS,Bezinkbassin,Inlaatvoorziening,Inlaatvoorziening,Ongewijzigd
+CS,Bezinkbassin,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CS,Bezinkbassin,Ruimerinstallatie,Ruimerinstallatie,Ongewijzigd
+CS,Bezinkbassin,Tankconstructie,Tankconstructie,Ongewijzigd
+CS,Bezinkbassin,Transportinstallatie,Transportinstallatie,Ongewijzigd
+CS,Bezinkbassin,Wandconstructie,Wandconstructie,Ongewijzigd
+CS,Bezinkbassin,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CS,Bezinkbassin,Trapconstructie,Trapconstructie,Ongewijzigd
+CS,Bezinkbassin,Dakconstructie,Dakconstructie,Ongewijzigd
+CS,Bezinkbassin,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CS,Bezinkbassin,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+AE,Bosgebied,Kerende constructie,Kerende constructie,Ongewijzigd
+AE,Bosgebied,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AE,Bosgebied,Zinker,Zinker,Ongewijzigd
+AE,Bosgebied,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AE,Bosgebied,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+AE,Bosgebied,Grasvegetatie,Grasvegetatie,Ongewijzigd
+AE,Bosgebied,Sloot,Sloot,Ongewijzigd
+AE,Bosgebied,Beek,Beek,Ongewijzigd
+AE,Bosgebied,Ven,Ven,Ongewijzigd
+AE,Bosgebied,,Begroeid terreindeel,Toegevoegd
+AF,Brug (beweegbaar),Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+AF,Brug (beweegbaar),Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+AF,Brug (beweegbaar),Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+AF,Brug (beweegbaar),Aanrijbalk,Aanrijbalk,Ongewijzigd
+AF,Brug (beweegbaar),Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AF,Brug (beweegbaar),Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+AF,Brug (beweegbaar),Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AF,Brug (beweegbaar),Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Kabel,Kabel,Ongewijzigd
+AF,Brug (beweegbaar),Binnenverlichting,Binnenverlichting,Ongewijzigd
+AF,Brug (beweegbaar),Bodembescherming,Bodembescherming,Ongewijzigd
+AF,Brug (beweegbaar),Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+AF,Brug (beweegbaar),Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AF,Brug (beweegbaar),Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Drainage,Drainage,Ongewijzigd
+AF,Brug (beweegbaar),Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AF,Brug (beweegbaar),Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+AF,Brug (beweegbaar),Fundering,Fundering,Ongewijzigd
+AF,Brug (beweegbaar),Geleideconstructie,Geleideconstructie,Ongewijzigd
+AF,Brug (beweegbaar),Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+AF,Brug (beweegbaar),Gladheidsmeldsysteem,Gladheidsmeldsysteem,Ongewijzigd
+AF,Brug (beweegbaar),Heftoren,Heftoren,Ongewijzigd
+AF,Brug (beweegbaar),Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AF,Brug (beweegbaar),Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AF,Brug (beweegbaar),Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+AF,Brug (beweegbaar),Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Inspectiewagen,Inspectiewagen,Ongewijzigd
+AF,Brug (beweegbaar),Intercominstallatie,Intercominstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Ongewijzigd
+AF,Brug (beweegbaar),Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AF,Brug (beweegbaar),Kerende constructie,Kerende constructie,Ongewijzigd
+AF,Brug (beweegbaar),Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Leiding,Leiding,Ongewijzigd
+AF,Brug (beweegbaar),Lift-installatie,Lift-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Loopbrug,Loopbrug,Ongewijzigd
+AF,Brug (beweegbaar),Mantelbuis,Mantelbuis,Ongewijzigd
+AF,Brug (beweegbaar),Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+AF,Brug (beweegbaar),Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+AF,Brug (beweegbaar),Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+AF,Brug (beweegbaar),Objectverlichting,Objectverlichting,Ongewijzigd
+AF,Brug (beweegbaar),Oeverbescherming,Oeverbescherming,Ongewijzigd
+AF,Brug (beweegbaar),Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AF,Brug (beweegbaar),Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+AF,Brug (beweegbaar),Oplegging,Oplegging,Ongewijzigd
+AF,Brug (beweegbaar),Opstal,Opstal,Ongewijzigd
+AF,Brug (beweegbaar),Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+AF,Brug (beweegbaar),Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+AF,Brug (beweegbaar),Pompinstallatie,Pompinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Pompkelder,Pompkelder,Ongewijzigd
+AF,Brug (beweegbaar),Portaal,Portaal,Ongewijzigd
+AF,Brug (beweegbaar),Radarinstallatie,Radarinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AF,Brug (beweegbaar),Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Schampkant,Schampkant,Ongewijzigd
+AF,Brug (beweegbaar),Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AF,Brug (beweegbaar),Steiger,Steiger,Ongewijzigd
+AF,Brug (beweegbaar),Steunpunt,Steunpunt,Ongewijzigd
+AF,Brug (beweegbaar),Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Erf,Erf,Ongewijzigd
+AF,Brug (beweegbaar),Toegangshek,Toegangshek,Ongewijzigd
+AF,Brug (beweegbaar),Tracing,Tracing,Ongewijzigd
+AF,Brug (beweegbaar),Trambaan,Trambaan,Ongewijzigd
+AF,Brug (beweegbaar),Uithouder,Uithouder,Ongewijzigd
+AF,Brug (beweegbaar),Vangconstructie,Vangconstructie,Ongewijzigd
+AF,Brug (beweegbaar),Verankering,Verankering,Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AF,Brug (beweegbaar),Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AF,Brug (beweegbaar),Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+AF,Brug (beweegbaar),Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Voegovergang,Voegovergang,Ongewijzigd
+AF,Brug (beweegbaar),Wegmarkering,Wegmarkering,Ongewijzigd
+AF,Brug (beweegbaar),Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+AF,Brug (beweegbaar),Zinker,Zinker,Ongewijzigd
+AF,Brug (beweegbaar),Basculekelder,Basculekelder,Ongewijzigd
+AF,Brug (beweegbaar),Grendelinrichting,Grendelinrichting,Ongewijzigd
+AF,Brug (beweegbaar),Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Kelder,Kelder,Ongewijzigd
+AF,Brug (beweegbaar),Talud,Talud,Ongewijzigd
+AF,Brug (beweegbaar),Afscheiding,Afscheiding,Ongewijzigd
+AF,Brug (beweegbaar),Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AF,Brug (beweegbaar),Vleermuiskelder,Vleermuiskelder,Ongewijzigd
+AF,Brug (beweegbaar),Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Borstwering,Borstwering,Ongewijzigd
+AF,Brug (beweegbaar),Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AF,Brug (beweegbaar),Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Meetinstallatie,Meetinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+AF,Brug (beweegbaar),Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+AF,Brug (beweegbaar),Slijtlaag,Slijtlaag,Ongewijzigd
+AF,Brug (beweegbaar),Leuningconstructie,Leuningconstructie,Ongewijzigd
+AF,Brug (beweegbaar),Sproei-installatie,Sproei-installatie,Ongewijzigd
+AF,Brug (beweegbaar),Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+AG,Brug (vast),Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+AG,Brug (vast),Aanrijbalk,Aanrijbalk,Ongewijzigd
+AG,Brug (vast),Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AG,Brug (vast),Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AG,Brug (vast),Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+AG,Brug (vast),Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AG,Brug (vast),Kabel,Kabel,Ongewijzigd
+AG,Brug (vast),Binnenverlichting,Binnenverlichting,Ongewijzigd
+AG,Brug (vast),Bodembescherming,Bodembescherming,Ongewijzigd
+AG,Brug (vast),Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AG,Brug (vast),Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AG,Brug (vast),Drainage,Drainage,Ongewijzigd
+AG,Brug (vast),Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AG,Brug (vast),Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+AG,Brug (vast),Fundering,Fundering,Ongewijzigd
+AG,Brug (vast),Geleideconstructie,Geleideconstructie,Ongewijzigd
+AG,Brug (vast),Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+AG,Brug (vast),Gladheidsmeldsysteem,Gladheidsmeldsysteem,Ongewijzigd
+AG,Brug (vast),Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AG,Brug (vast),Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AG,Brug (vast),Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AG,Brug (vast),Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+AG,Brug (vast),Inspectiewagen,Inspectiewagen,Ongewijzigd
+AG,Brug (vast),Intercominstallatie,Intercominstallatie,Ongewijzigd
+AG,Brug (vast),Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AG,Brug (vast),Kerende constructie,Kerende constructie,Ongewijzigd
+AG,Brug (vast),Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AG,Brug (vast),Leiding,Leiding,Ongewijzigd
+AG,Brug (vast),Lift-installatie,Lift-installatie,Ongewijzigd
+AG,Brug (vast),Loopbrug,Loopbrug,Ongewijzigd
+AG,Brug (vast),Mantelbuis,Mantelbuis,Ongewijzigd
+AG,Brug (vast),Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+AG,Brug (vast),Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+AG,Brug (vast),Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+AG,Brug (vast),Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+AG,Brug (vast),Objectverlichting,Objectverlichting,Ongewijzigd
+AG,Brug (vast),Oeverbescherming,Oeverbescherming,Ongewijzigd
+AG,Brug (vast),Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AG,Brug (vast),Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+AG,Brug (vast),Oplegging,Oplegging,Ongewijzigd
+AG,Brug (vast),Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+AG,Brug (vast),Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+AG,Brug (vast),Pompinstallatie,Pompinstallatie,Ongewijzigd
+AG,Brug (vast),Pompkelder,Pompkelder,Ongewijzigd
+AG,Brug (vast),Portaal,Portaal,Ongewijzigd
+AG,Brug (vast),Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AG,Brug (vast),Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+AG,Brug (vast),Schampkant,Schampkant,Ongewijzigd
+AG,Brug (vast),Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AG,Brug (vast),Steiger,Steiger,Ongewijzigd
+AG,Brug (vast),Steunpunt,Steunpunt,Ongewijzigd
+AG,Brug (vast),Toegangshek,Toegangshek,Ongewijzigd
+AG,Brug (vast),Trambaan,Trambaan,Ongewijzigd
+AG,Brug (vast),Uithouder,Uithouder,Ongewijzigd
+AG,Brug (vast),Verankering,Verankering,Ongewijzigd
+AG,Brug (vast),Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+AG,Brug (vast),Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AG,Brug (vast),Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AG,Brug (vast),Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AG,Brug (vast),Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AG,Brug (vast),Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AG,Brug (vast),Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AG,Brug (vast),Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+AG,Brug (vast),Voegovergang,Voegovergang,Ongewijzigd
+AG,Brug (vast),Wegmarkering,Wegmarkering,Ongewijzigd
+AG,Brug (vast),Kelder,Kelder,Ongewijzigd
+AG,Brug (vast),Talud,Talud,Ongewijzigd
+AG,Brug (vast),Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AG,Brug (vast),Vleermuiskelder,Vleermuiskelder,Ongewijzigd
+AG,Brug (vast),Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+AG,Brug (vast),Borstwering,Borstwering,Ongewijzigd
+AG,Brug (vast),Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AG,Brug (vast),Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AG,Brug (vast),Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AG,Brug (vast),Meetinstallatie,Meetinstallatie,Ongewijzigd
+AG,Brug (vast),Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AG,Brug (vast),Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+AG,Brug (vast),Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+AG,Brug (vast),Slijtlaag,Slijtlaag,Ongewijzigd
+AG,Brug (vast),Leuningconstructie,Leuningconstructie,Ongewijzigd
+AG,Brug (vast),Sproei-installatie,Sproei-installatie,Ongewijzigd
+AG,Brug (vast),Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+CF,Bunker,Vleermuiskelder,Vleermuiskelder,Ongewijzigd
+AI,Coupure,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AI,Coupure,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AI,Coupure,Folieconstructie,Folieconstructie,Ongewijzigd
+AI,Coupure,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AI,Coupure,Kerende constructie,Kerende constructie,Ongewijzigd
+AI,Coupure,Schampkant,Schampkant,Ongewijzigd
+AI,Coupure,Steunpunt,Steunpunt,Ongewijzigd
+AI,Coupure,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+AI,Coupure,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AI,Coupure,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AI,Coupure,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AI,Coupure,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AI,Coupure,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AI,Coupure,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AI,Coupure,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AJ,Dam,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AJ,Dam,Kabel,Kabel,Ongewijzigd
+AJ,Dam,Berm,Berm,Ongewijzigd
+AJ,Dam,,Bodem,Toegevoegd
+AJ,Dam,,Drainage,Toegevoegd
+AJ,Dam,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+AJ,Dam,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AJ,Dam,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+AJ,Dam,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AJ,Dam,Kerende constructie,Kerende constructie,Ongewijzigd
+AJ,Dam,,Oeverbescherming,Toegevoegd
+AJ,Dam,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+AJ,Dam,,Opstal,Toegevoegd
+AJ,Dam,Portaal,Portaal,Ongewijzigd
+AJ,Dam,,Strekdam,Toegevoegd
+AJ,Dam,Uithouder,Uithouder,Ongewijzigd
+AJ,Dam,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+AJ,Dam,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AJ,Dam,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AJ,Dam,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AJ,Dam,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AJ,Dam,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AJ,Dam,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AJ,Dam,Wegmarkering,Wegmarkering,Ongewijzigd
+AJ,Dam,Voorland,Voorland,Ongewijzigd
+AJ,Dam,Vooroever,Vooroever,Ongewijzigd
+AJ,Dam,Buitentalud,Buitentalud,Ongewijzigd
+AJ,Dam,Kruin,Kruin,Ongewijzigd
+AJ,Dam,,Binnentalud,Toegevoegd
+AJ,Dam,Stabiliteitsberm,Stabiliteitsberm,Ongewijzigd
+AJ,Dam,Onderhoudsstrook,Onderhoudsstrook,Ongewijzigd
+AJ,Dam,Pipingberm,Pipingberm,Ongewijzigd
+AJ,Dam,Afscheiding,Afscheiding,Ongewijzigd
+AJ,Dam,,Terreinmeubilair,Toegevoegd
+AJ,Dam,Grasvegetatie,Grasvegetatie,Ongewijzigd
+AJ,Dam,,Leikade,Toegevoegd
+AJ,Dam,,Leidam,Toegevoegd
+AJ,Dam,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AJ,Dam,,Trapconstructie,Toegevoegd
+AJ,Dam,,Begroeid terreindeel,Toegevoegd
+AJ,Dam,,Aalgoot,Toegevoegd
+AJ,Dam,,Binnenberm,Toegevoegd
+AJ,Dam,,Buitenberm,Toegevoegd
+AJ,Dam,,Kwelkade,Toegevoegd
+AK,Dijk,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+AK,Dijk,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AK,Dijk,Kabel,Kabel,Ongewijzigd
+AK,Dijk,Berm,Berm,Ongewijzigd
+AK,Dijk,,Bodem,Toegevoegd
+AK,Dijk,,Drainage,Toegevoegd
+AK,Dijk,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AK,Dijk,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AK,Dijk,Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+AK,Dijk,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+AK,Dijk,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AK,Dijk,Kerende constructie,Kerende constructie,Ongewijzigd
+AK,Dijk,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AK,Dijk,Leiding,Leiding,Ongewijzigd
+AK,Dijk,,Oeverbescherming,Toegevoegd
+AK,Dijk,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+AK,Dijk,,Opstal,Toegevoegd
+AK,Dijk,,Strekdam,Toegevoegd
+AK,Dijk,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AK,Dijk,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AK,Dijk,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AK,Dijk,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AK,Dijk,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AK,Dijk,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AK,Dijk,Wegmarkering,Wegmarkering,Ongewijzigd
+AK,Dijk,Voorland,Voorland,Ongewijzigd
+AK,Dijk,Vooroever,Vooroever,Ongewijzigd
+AK,Dijk,Buitentalud,Buitentalud,Ongewijzigd
+AK,Dijk,Kruin,Kruin,Ongewijzigd
+AK,Dijk,Binnentalud,Binnentalud,Ongewijzigd
+AK,Dijk,Stabiliteitsberm,Stabiliteitsberm,Ongewijzigd
+AK,Dijk,Onderhoudsstrook,Onderhoudsstrook,Ongewijzigd
+AK,Dijk,Teensloot,Teensloot,Ongewijzigd
+AK,Dijk,Achterland,Achterland,Ongewijzigd
+AK,Dijk,Pipingberm,Pipingberm,Ongewijzigd
+AK,Dijk,Afscheiding,Afscheiding,Ongewijzigd
+AK,Dijk,,Terreinmeubilair,Toegevoegd
+AK,Dijk,Grasvegetatie,Grasvegetatie,Ongewijzigd
+AK,Dijk,Sloot,Sloot,Ongewijzigd
+AK,Dijk,Beek,Beek,Ongewijzigd
+AK,Dijk,,Leikade,Toegevoegd
+AK,Dijk,,Leidam,Toegevoegd
+AK,Dijk,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AK,Dijk,,Trapconstructie,Toegevoegd
+AK,Dijk,,Begroeid terreindeel,Toegevoegd
+AK,Dijk,,Aalgoot,Toegevoegd
+AK,Dijk,,Binnenberm,Toegevoegd
+AK,Dijk,,Buitenberm,Toegevoegd
+AK,Dijk,,Kwelkade,Toegevoegd
+AL,Drinkwaterinlaat,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Kabel,Kabel,Ongewijzigd
+AL,Drinkwaterinlaat,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AL,Drinkwaterinlaat,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+AL,Drinkwaterinlaat,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AL,Drinkwaterinlaat,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AL,Drinkwaterinlaat,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+AL,Drinkwaterinlaat,Intercominstallatie,Intercominstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AL,Drinkwaterinlaat,Klepconstructie,Klepconstructie,Ongewijzigd
+AL,Drinkwaterinlaat,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Leiding,Leiding,Ongewijzigd
+AL,Drinkwaterinlaat,Mantelbuis,Mantelbuis,Ongewijzigd
+AL,Drinkwaterinlaat,Objectverlichting,Objectverlichting,Ongewijzigd
+AL,Drinkwaterinlaat,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AL,Drinkwaterinlaat,Opstal,Opstal,Ongewijzigd
+AL,Drinkwaterinlaat,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+AL,Drinkwaterinlaat,Pompinstallatie,Pompinstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+AL,Drinkwaterinlaat,Erf,Erf,Ongewijzigd
+AL,Drinkwaterinlaat,Toegangshek,Toegangshek,Ongewijzigd
+AL,Drinkwaterinlaat,Tracing,Tracing,Ongewijzigd
+AL,Drinkwaterinlaat,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AL,Drinkwaterinlaat,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+AL,Drinkwaterinlaat,Afscheiding,Afscheiding,Ongewijzigd
+AL,Drinkwaterinlaat,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AL,Drinkwaterinlaat,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AM,Duiker,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AM,Duiker,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AM,Duiker,Bodembescherming,Bodembescherming,Ongewijzigd
+AM,Duiker,Bovenbouwconstructie,Bovenbouwconstructie,Ongewijzigd
+AM,Duiker,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+AM,Duiker,Drainage,Drainage,Ongewijzigd
+AM,Duiker,Fundering,Fundering,Ongewijzigd
+AM,Duiker,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AM,Duiker,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AM,Duiker,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AM,Duiker,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+AM,Duiker,Kerende constructie,Kerende constructie,Ongewijzigd
+AM,Duiker,Leiding,Leiding,Ongewijzigd
+AM,Duiker,Mantelbuis,Mantelbuis,Ongewijzigd
+AM,Duiker,Oeverbescherming,Oeverbescherming,Ongewijzigd
+AM,Duiker,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AM,Duiker,Opstal,Opstal,Ongewijzigd
+AM,Duiker,Schampkant,Schampkant,Ongewijzigd
+AM,Duiker,Schuifconstructie,Schuifconstructie,Ongewijzigd
+AM,Duiker,Verankering,Verankering,Ongewijzigd
+AM,Duiker,Voegovergang,Voegovergang,Ongewijzigd
+AM,Duiker,Talud,Talud,Ongewijzigd
+AM,Duiker,Faunadekking,Faunadekking,Ongewijzigd
+AM,Duiker,Faunageleiding,Faunageleiding,Ongewijzigd
+AM,Duiker,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AM,Duiker,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AM,Duiker,Slijtlaag,Slijtlaag,Ongewijzigd
+AN,Duingebied,Duin,Duin,Ongewijzigd
+AN,Duingebied,Kerende constructie,Kerende constructie,Ongewijzigd
+AN,Duingebied,Strandhoofd,Strandhoofd,Ongewijzigd
+AN,Duingebied,Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+AN,Duingebied,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AN,Duingebied,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AN,Duingebied,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AN,Duingebied,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AN,Duingebied,Afscheiding,Afscheiding,Ongewijzigd
+AN,Duingebied,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AN,Duingebied,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+AN,Duingebied,Sloot,Sloot,Ongewijzigd
+AN,Duingebied,Beek,Beek,Ongewijzigd
+AN,Duingebied,Ven,Ven,Ongewijzigd
+AN,Duingebied,,Afslagzone,Toegevoegd
+AN,Duingebied,,Binnenduin,Toegevoegd
+AN,Duingebied,,Duinvoetverdediging,Toegevoegd
+AN,Duingebied,,Grensprofiel,Toegevoegd
+AN,Duingebied,,Zeestrand,Toegevoegd
+AO,Ecoduct,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AO,Ecoduct,Drainage,Drainage,Ongewijzigd
+AO,Ecoduct,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AO,Ecoduct,Fundering,Fundering,Ongewijzigd
+AO,Ecoduct,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AO,Ecoduct,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+AO,Ecoduct,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AO,Ecoduct,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AO,Ecoduct,Oplegging,Oplegging,Ongewijzigd
+AO,Ecoduct,Pompinstallatie,Pompinstallatie,Ongewijzigd
+AO,Ecoduct,Steunpunt,Steunpunt,Ongewijzigd
+AO,Ecoduct,Voegovergang,Voegovergang,Ongewijzigd
+AO,Ecoduct,Talud,Talud,Ongewijzigd
+AO,Ecoduct,Faunadekking,Faunadekking,Ongewijzigd
+AO,Ecoduct,Slijtlaag,Slijtlaag,Ongewijzigd
+AO,Ecoduct,Sproei-installatie,Sproei-installatie,Ongewijzigd
+AP,Faunatunnel,,Doorlaatkoker,Toegevoegd
+AP,Faunatunnel,Drainage,Drainage,Ongewijzigd
+AP,Faunatunnel,Fundering,Fundering,Ongewijzigd
+AP,Faunatunnel,Onderbouw,Onderbouw,Ongewijzigd
+AP,Faunatunnel,Voegovergang,Voegovergang,Ongewijzigd
+AP,Faunatunnel,Talud,Talud,Ongewijzigd
+AP,Faunatunnel,Faunadekking,Faunadekking,Ongewijzigd
+AP,Faunatunnel,Faunageleiding,Faunageleiding,Ongewijzigd
+AP,Faunatunnel,Put,Put,Ongewijzigd
+AR,Gemaal,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+AR,Gemaal,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+AR,Gemaal,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+AR,Gemaal,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AR,Gemaal,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+AR,Gemaal,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AR,Gemaal,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+AR,Gemaal,Kabel,Kabel,Ongewijzigd
+AR,Gemaal,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AR,Gemaal,Bodembescherming,Bodembescherming,Ongewijzigd
+AR,Gemaal,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AR,Gemaal,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+AR,Gemaal,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AR,Gemaal,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+AR,Gemaal,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AR,Gemaal,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+AR,Gemaal,Drainage,Drainage,Ongewijzigd
+AR,Gemaal,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AR,Gemaal,Fundering,Fundering,Ongewijzigd
+AR,Gemaal,Gasdetectie-installatie (LEL),Gasdetectie-installatie (LEL),Ongewijzigd
+AR,Gemaal,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AR,Gemaal,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AR,Gemaal,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+AR,Gemaal,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+AR,Gemaal,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+AR,Gemaal,Inspectiewagen,Inspectiewagen,Ongewijzigd
+AR,Gemaal,Intercominstallatie,Intercominstallatie,Ongewijzigd
+AR,Gemaal,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+AR,Gemaal,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AR,Gemaal,Kerende constructie,Kerende constructie,Ongewijzigd
+AR,Gemaal,Klepconstructie,Klepconstructie,Ongewijzigd
+AR,Gemaal,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AR,Gemaal,Leiding,Leiding,Ongewijzigd
+AR,Gemaal,Loopbrug,Loopbrug,Ongewijzigd
+AR,Gemaal,Mantelbuis,Mantelbuis,Ongewijzigd
+AR,Gemaal,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+AR,Gemaal,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+AR,Gemaal,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+AR,Gemaal,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+AR,Gemaal,Objectverlichting,Objectverlichting,Ongewijzigd
+AR,Gemaal,Oeverbescherming,Oeverbescherming,Ongewijzigd
+AR,Gemaal,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+AR,Gemaal,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AR,Gemaal,Opstal,Opstal,Ongewijzigd
+AR,Gemaal,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+AR,Gemaal,Pompinstallatie,Pompinstallatie,Ongewijzigd
+AR,Gemaal,Pompkelder,Pompkelder,Ongewijzigd
+AR,Gemaal,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AR,Gemaal,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+AR,Gemaal,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AR,Gemaal,Schuifconstructie,Schuifconstructie,Ongewijzigd
+AR,Gemaal,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+AR,Gemaal,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+AR,Gemaal,Erf,Erf,Ongewijzigd
+AR,Gemaal,Toegangshek,Toegangshek,Ongewijzigd
+AR,Gemaal,Tracing,Tracing,Ongewijzigd
+AR,Gemaal,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+AR,Gemaal,Vangconstructie,Vangconstructie,Ongewijzigd
+AR,Gemaal,Verankering,Verankering,Ongewijzigd
+AR,Gemaal,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AR,Gemaal,Vijzelinstallatie,Vijzelinstallatie,Ongewijzigd
+AR,Gemaal,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+AR,Gemaal,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+AR,Gemaal,Zinker,Zinker,Ongewijzigd
+AR,Gemaal,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+AR,Gemaal,Kelder,Kelder,Ongewijzigd
+AR,Gemaal,Talud,Talud,Ongewijzigd
+AR,Gemaal,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AR,Gemaal,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+AR,Gemaal,Borstwering,Borstwering,Ongewijzigd
+AR,Gemaal,Afscheiderinstallatie (statisch),Afscheiderinstallatie (statisch),Ongewijzigd
+AR,Gemaal,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AR,Gemaal,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AR,Gemaal,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AR,Gemaal,Afscheiderinstallatie (dynamisch),Afscheiderinstallatie (dynamisch),Ongewijzigd
+AR,Gemaal,Roostergoed container,Roostergoed container,Ongewijzigd
+AR,Gemaal,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AR,Gemaal,Persinstallatie,Persinstallatie,Ongewijzigd
+AR,Gemaal,Wandconstructie,Wandconstructie,Ongewijzigd
+AR,Gemaal,Vloerconstructie,Vloerconstructie,Ongewijzigd
+AR,Gemaal,Trapconstructie,Trapconstructie,Ongewijzigd
+AR,Gemaal,Dakconstructie,Dakconstructie,Ongewijzigd
+AR,Gemaal,Plafondconstructie,Plafondconstructie,Ongewijzigd
+AR,Gemaal,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+AR,Gemaal,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+AR,Gemaal,Schoorsteen,Schoorsteen,Ongewijzigd
+AR,Gemaal,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+AR,Gemaal,Slijtlaag,Slijtlaag,Ongewijzigd
+AR,Gemaal,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+CV,Gistingstank,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CV,Gistingstank,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CV,Gistingstank,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CV,Gistingstank,Kabel,Kabel,Ongewijzigd
+CV,Gistingstank,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+CV,Gistingstank,Fundering,Fundering,Ongewijzigd
+CV,Gistingstank,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+CV,Gistingstank,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CV,Gistingstank,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CV,Gistingstank,Klepconstructie,Klepconstructie,Ongewijzigd
+CV,Gistingstank,Leiding,Leiding,Ongewijzigd
+CV,Gistingstank,Mantelbuis,Mantelbuis,Ongewijzigd
+CV,Gistingstank,Objectverlichting,Objectverlichting,Ongewijzigd
+CV,Gistingstank,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+CV,Gistingstank,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CV,Gistingstank,Put,Put,Ongewijzigd
+CV,Gistingstank,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CV,Gistingstank,Menginstallatie,Menginstallatie,Ongewijzigd
+CV,Gistingstank,Roostergoed container,Roostergoed container,Ongewijzigd
+CV,Gistingstank,Persinstallatie,Persinstallatie,Ongewijzigd
+CV,Gistingstank,Transportinstallatie,Transportinstallatie,Ongewijzigd
+CV,Gistingstank,Wandconstructie,Wandconstructie,Ongewijzigd
+CV,Gistingstank,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CV,Gistingstank,Trapconstructie,Trapconstructie,Ongewijzigd
+CV,Gistingstank,Dakconstructie,Dakconstructie,Ongewijzigd
+CV,Gistingstank,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CV,Gistingstank,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CV,Gistingstank,Warmte-kracht koppelingsinstallatie (WKK),Warmte-kracht koppelingsinstallatie (WKK),Ongewijzigd
+AS,Grondkering,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AS,Grondkering,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AS,Grondkering,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AS,Grondkering,Kerende constructie,Kerende constructie,Ongewijzigd
+AS,Grondkering,Verankering,Verankering,Ongewijzigd
+AT,Haven,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AT,Haven,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AT,Haven,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+AT,Haven,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AT,Haven,Kabel,Kabel,Ongewijzigd
+AT,Haven,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AT,Haven,Bodem,Bodem,Ongewijzigd
+AT,Haven,Bodembescherming,Bodembescherming,Ongewijzigd
+AT,Haven,Bovenbouwconstructie,Bovenbouwconstructie,Ongewijzigd
+AT,Haven,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AT,Haven,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AT,Haven,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AT,Haven,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AT,Haven,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+AT,Haven,Folieconstructie,Folieconstructie,Ongewijzigd
+AT,Haven,Fundering,Fundering,Ongewijzigd
+AT,Haven,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AT,Haven,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+AT,Haven,Havendam,Havendam,Ongewijzigd
+AT,Haven,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AT,Haven,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+AT,Haven,Intercominstallatie,Intercominstallatie,Ongewijzigd
+AT,Haven,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Ongewijzigd
+AT,Haven,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+AT,Haven,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AT,Haven,Kerende constructie,Kerende constructie,Ongewijzigd
+AT,Haven,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AT,Haven,Leiding,Leiding,Ongewijzigd
+AT,Haven,Mantelbuis,Mantelbuis,Ongewijzigd
+AT,Haven,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+AT,Haven,Objectverlichting,Objectverlichting,Ongewijzigd
+AT,Haven,Onderbouwconstructie,Onderbouwconstructie,Ongewijzigd
+AT,Haven,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AT,Haven,Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+AT,Haven,Radarinstallatie,Radarinstallatie,Ongewijzigd
+AT,Haven,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AT,Haven,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+AT,Haven,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AT,Haven,Steiger,Steiger,Ongewijzigd
+AT,Haven,Toegangshek,Toegangshek,Ongewijzigd
+AT,Haven,Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+AT,Haven,Vangconstructie,Vangconstructie,Ongewijzigd
+AT,Haven,Verankering,Verankering,Ongewijzigd
+AT,Haven,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AT,Haven,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AT,Haven,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AT,Haven,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AT,Haven,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AT,Haven,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AT,Haven,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+AT,Haven,Wegmarkering,Wegmarkering,Ongewijzigd
+AT,Haven,Zinker,Zinker,Ongewijzigd
+AT,Haven,Vaargeul,Vaargeul,Ongewijzigd
+AT,Haven,Aanloopgebied,Aanloopgebied,Ongewijzigd
+AT,Haven,Ankergebied,Ankergebied,Ongewijzigd
+AT,Haven,Wingebied,Wingebied,Ongewijzigd
+AT,Haven,Keerplaats,Keerplaats,Ongewijzigd
+AT,Haven,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AT,Haven,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AT,Haven,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AT,Haven,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AT,Haven,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AT,Haven,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AT,Haven,Pollerinstallatie,Pollerinstallatie,Ongewijzigd
+AT,Haven,Slijtlaag,Slijtlaag,Ongewijzigd
+AT,Haven,Leuningconstructie,Leuningconstructie,Ongewijzigd
+CH,Hevel,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CH,Hevel,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+CH,Hevel,Aanrijbalk,Aanrijbalk,Ongewijzigd
+CH,Hevel,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CH,Hevel,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CH,Hevel,Bovenbouwconstructie,Bovenbouwconstructie,Ongewijzigd
+CH,Hevel,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+CH,Hevel,Fundering,Fundering,Ongewijzigd
+CH,Hevel,Geleideconstructie,Geleideconstructie,Ongewijzigd
+CH,Hevel,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+CH,Hevel,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+CH,Hevel,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+CH,Hevel,Kerende constructie,Kerende constructie,Ongewijzigd
+CH,Hevel,Oeverbescherming,Oeverbescherming,Ongewijzigd
+CH,Hevel,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+CH,Hevel,Opstal,Opstal,Ongewijzigd
+CH,Hevel,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+CH,Hevel,Schampkant,Schampkant,Ongewijzigd
+CH,Hevel,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CH,Hevel,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol)",Ongewijzigd
+CH,Hevel,Keringschuif,Keringschuif,Ongewijzigd
+CH,Hevel,Erf,Erf,Ongewijzigd
+CH,Hevel,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+CH,Hevel,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+CH,Hevel,Voegovergang,Voegovergang,Ongewijzigd
+CH,Hevel,Talud,Talud,Ongewijzigd
+CH,Hevel,Afscheiding,Afscheiding,Ongewijzigd
+CH,Hevel,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+CH,Hevel,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+CH,Hevel,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+CH,Hevel,Slijtlaag,Slijtlaag,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Kabel,Kabel,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Fundering,Fundering,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Klepconstructie,Klepconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Leiding,Leiding,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Mantelbuis,Mantelbuis,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Objectverlichting,Objectverlichting,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Pompinstallatie,Pompinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Pompkelder,Pompkelder,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Schuifconstructie,Schuifconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Tracing,Tracing,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Kelder,Kelder,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Put,Put,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Inlaatvoorziening,Inlaatvoorziening,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Meetinstallatie,Meetinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Beluchtingsinstallatie,Beluchtingsinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Nooddouche-installatie,Nooddouche-installatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Menginstallatie,Menginstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Ruimerinstallatie,Ruimerinstallatie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Tankconstructie,Tankconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Wandconstructie,Wandconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Vloerconstructie,Vloerconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Trapconstructie,Trapconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Dakconstructie,Dakconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Plafondconstructie,Plafondconstructie,Ongewijzigd
+DC,Individuele Behandeling van Afvalwater systeem (IBA-systeem),Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+AQ,Infragebonden gebouw,Aanrijbalk,Aanrijbalk,Ongewijzigd
+AQ,Infragebonden gebouw,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+AQ,Infragebonden gebouw,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AQ,Infragebonden gebouw,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Kabel,Kabel,Ongewijzigd
+AQ,Infragebonden gebouw,Binnenverlichting,Binnenverlichting,Ongewijzigd
+AQ,Infragebonden gebouw,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+AQ,Infragebonden gebouw,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AQ,Infragebonden gebouw,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AQ,Infragebonden gebouw,Fundering,Fundering,Ongewijzigd
+AQ,Infragebonden gebouw,Gasdetectie-installatie (LEL),Gasdetectie-installatie (LEL),Ongewijzigd
+AQ,Infragebonden gebouw,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+AQ,Infragebonden gebouw,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AQ,Infragebonden gebouw,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+AQ,Infragebonden gebouw,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Inspectiewagen,Inspectiewagen,Ongewijzigd
+AQ,Infragebonden gebouw,Intercominstallatie,Intercominstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Ongewijzigd
+AQ,Infragebonden gebouw,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+AQ,Infragebonden gebouw,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AQ,Infragebonden gebouw,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Leiding,Leiding,Ongewijzigd
+AQ,Infragebonden gebouw,Lift-installatie,Lift-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Loopbrug,Loopbrug,Ongewijzigd
+AQ,Infragebonden gebouw,Mantelbuis,Mantelbuis,Ongewijzigd
+AQ,Infragebonden gebouw,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+AQ,Infragebonden gebouw,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+AQ,Infragebonden gebouw,Objectverlichting,Objectverlichting,Ongewijzigd
+AQ,Infragebonden gebouw,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Opstal,Opstal,Ongewijzigd
+AQ,Infragebonden gebouw,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+AQ,Infragebonden gebouw,Pompinstallatie,Pompinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Pompkelder,Pompkelder,Ongewijzigd
+AQ,Infragebonden gebouw,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Erf,Erf,Ongewijzigd
+AQ,Infragebonden gebouw,Toegangshek,Toegangshek,Ongewijzigd
+AQ,Infragebonden gebouw,Tracing,Tracing,Ongewijzigd
+AQ,Infragebonden gebouw,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AQ,Infragebonden gebouw,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Voegovergang,Voegovergang,Ongewijzigd
+AQ,Infragebonden gebouw,Centrale Antenne Installatie (CAI),Centrale Antenne Installatie (CAI),Ongewijzigd
+AQ,Infragebonden gebouw,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Kelder,Kelder,Ongewijzigd
+AQ,Infragebonden gebouw,Afscheiding,Afscheiding,Ongewijzigd
+AQ,Infragebonden gebouw,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AQ,Infragebonden gebouw,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Grasvegetatie,Grasvegetatie,Ongewijzigd
+AQ,Infragebonden gebouw,Borstwering,Borstwering,Ongewijzigd
+AQ,Infragebonden gebouw,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Waarschuwings- en alarmeringssysteem (WAS),Waarschuwings- en alarmeringssysteem (WAS),Ongewijzigd
+AQ,Infragebonden gebouw,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Nooddouche-installatie,Nooddouche-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Transportinstallatie,Transportinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Wandconstructie,Wandconstructie,Ongewijzigd
+AQ,Infragebonden gebouw,Vloerconstructie,Vloerconstructie,Ongewijzigd
+AQ,Infragebonden gebouw,Trapconstructie,Trapconstructie,Ongewijzigd
+AQ,Infragebonden gebouw,Dakconstructie,Dakconstructie,Ongewijzigd
+AQ,Infragebonden gebouw,Plafondconstructie,Plafondconstructie,Ongewijzigd
+AQ,Infragebonden gebouw,Kozijnwerk,Kozijnwerk,Ongewijzigd
+AQ,Infragebonden gebouw,Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Watertapinstallatie,Watertapinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Gasinstallatie,Gasinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Pollerinstallatie,Pollerinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Schoorsteen,Schoorsteen,Ongewijzigd
+AQ,Infragebonden gebouw,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+AQ,Infragebonden gebouw,Keukeninrichting,Keukeninrichting,Ongewijzigd
+AQ,Infragebonden gebouw,Warmte-kracht koppelingsinstallatie (WKK),Warmte-kracht koppelingsinstallatie (WKK),Ongewijzigd
+AQ,Infragebonden gebouw,Sproei-installatie,Sproei-installatie,Ongewijzigd
+AQ,Infragebonden gebouw,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+AQ,Infragebonden gebouw,Klim- en leiplant,,Vervallen
+AQ,Infragebonden gebouw,,Valbeveiliging,Toegevoegd
+AQ,Infragebonden gebouw,,Begroeid terreindeel,Toegevoegd
+AV,Kabel en leiding,Kabel,Kabel,Ongewijzigd
+AV,Kabel en leiding,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AV,Kabel en leiding,Leiding,Leiding,Ongewijzigd
+AV,Kabel en leiding,Mantelbuis,Mantelbuis,Ongewijzigd
+AV,Kabel en leiding,Zinker,Zinker,Ongewijzigd
+AV,Kabel en leiding,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AW,Kade,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+AW,Kade,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AW,Kade,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+AW,Kade,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AW,Kade,Kabel,Kabel,Ongewijzigd
+AW,Kade,Bodembescherming,Bodembescherming,Ongewijzigd
+AW,Kade,Bovenbouwconstructie,Bovenbouwconstructie,Ongewijzigd
+AW,Kade,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+AW,Kade,Drainage,Drainage,Ongewijzigd
+AW,Kade,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AW,Kade,Folieconstructie,Folieconstructie,Ongewijzigd
+AW,Kade,Fundering,Fundering,Ongewijzigd
+AW,Kade,Geleideconstructie,Geleideconstructie,Ongewijzigd
+AW,Kade,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AW,Kade,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+AW,Kade,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+AW,Kade,Kerende constructie,Kerende constructie,Ongewijzigd
+AW,Kade,Mantelbuis,Mantelbuis,Ongewijzigd
+AW,Kade,Objectverlichting,Objectverlichting,Ongewijzigd
+AW,Kade,Onderbouwconstructie,Onderbouwconstructie,Ongewijzigd
+AW,Kade,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+AW,Kade,Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+AW,Kade,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AW,Kade,Steiger,Steiger,Ongewijzigd
+AW,Kade,Toegangshek,Toegangshek,Ongewijzigd
+AW,Kade,Verankering,Verankering,Ongewijzigd
+AW,Kade,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+AW,Kade,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AW,Kade,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AW,Kade,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AW,Kade,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AW,Kade,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AW,Kade,Voegovergang,Voegovergang,Ongewijzigd
+AW,Kade,Wegmarkering,Wegmarkering,Ongewijzigd
+AW,Kade,Grendelinrichting,Grendelinrichting,Ongewijzigd
+AW,Kade,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AW,Kade,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+AW,Kade,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AW,Kade,Perron,Perron,Ongewijzigd
+AW,Kade,Slijtlaag,Slijtlaag,Ongewijzigd
+AX,Kanaal,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AX,Kanaal,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AX,Kanaal,Bodem,Bodem,Ongewijzigd
+AX,Kanaal,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AX,Kanaal,Fauna uittreedplaats,Fauna uittreedplaats,Ongewijzigd
+AX,Kanaal,Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+AX,Kanaal,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+AX,Kanaal,Kerende constructie,Kerende constructie,Ongewijzigd
+AX,Kanaal,Oeverbescherming,Oeverbescherming,Ongewijzigd
+AX,Kanaal,Radarinstallatie,Radarinstallatie,Ongewijzigd
+AX,Kanaal,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AX,Kanaal,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+AX,Kanaal,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+AX,Kanaal,Steiger,Steiger,Ongewijzigd
+AX,Kanaal,Strekdam,Strekdam,Ongewijzigd
+AX,Kanaal,Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+AX,Kanaal,Verankering,Verankering,Ongewijzigd
+AX,Kanaal,Zinker,Zinker,Ongewijzigd
+AX,Kanaal,Vaargeul,Vaargeul,Ongewijzigd
+AX,Kanaal,Aanloopgebied,Aanloopgebied,Ongewijzigd
+AX,Kanaal,Ankergebied,Ankergebied,Ongewijzigd
+AX,Kanaal,Wingebied,Wingebied,Ongewijzigd
+AX,Kanaal,Keerplaats,Keerplaats,Ongewijzigd
+AX,Kanaal,Talud,Talud,Ongewijzigd
+AX,Kanaal,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AX,Kanaal,Leikade,Leikade,Ongewijzigd
+AX,Kanaal,Leidam,Leidam,Ongewijzigd
+AX,Kanaal,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+AX,Kanaal,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+AX,Kanaal,Meetinstallatie,Meetinstallatie,Ongewijzigd
+AX,Kanaal,,Hoogwatervluchtplaats,Toegevoegd
+DD,Keersluis,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+DD,Keersluis,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+DD,Keersluis,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+DD,Keersluis,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+DD,Keersluis,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+DD,Keersluis,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+DD,Keersluis,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+DD,Keersluis,Kabel,Kabel,Ongewijzigd
+DD,Keersluis,Binnenverlichting,Binnenverlichting,Ongewijzigd
+DD,Keersluis,Bodembescherming,Bodembescherming,Ongewijzigd
+DD,Keersluis,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+DD,Keersluis,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+DD,Keersluis,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+DD,Keersluis,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+DD,Keersluis,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+DD,Keersluis,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+DD,Keersluis,Drainage,Drainage,Ongewijzigd
+DD,Keersluis,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+DD,Keersluis,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+DD,Keersluis,Fundering,Fundering,Ongewijzigd
+DD,Keersluis,Geleideconstructie,Geleideconstructie,Ongewijzigd
+DD,Keersluis,Heftoren,Heftoren,Ongewijzigd
+DD,Keersluis,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+DD,Keersluis,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+DD,Keersluis,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+DD,Keersluis,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+DD,Keersluis,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+DD,Keersluis,Inspectiewagen,Inspectiewagen,Ongewijzigd
+DD,Keersluis,Intercominstallatie,Intercominstallatie,Ongewijzigd
+DD,Keersluis,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+DD,Keersluis,Kerende constructie,Kerende constructie,Ongewijzigd
+DD,Keersluis,Klepconstructie,Klepconstructie,Ongewijzigd
+DD,Keersluis,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+DD,Keersluis,Leiding,Leiding,Ongewijzigd
+DD,Keersluis,Lift-installatie,Lift-installatie,Ongewijzigd
+DD,Keersluis,Mantelbuis,Mantelbuis,Ongewijzigd
+DD,Keersluis,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+DD,Keersluis,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+DD,Keersluis,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+DD,Keersluis,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+DD,Keersluis,Objectverlichting,Objectverlichting,Ongewijzigd
+DD,Keersluis,Oeverbescherming,Oeverbescherming,Ongewijzigd
+DD,Keersluis,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+DD,Keersluis,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+DD,Keersluis,Oplegging,Oplegging,Ongewijzigd
+DD,Keersluis,Opstal,Opstal,Ongewijzigd
+DD,Keersluis,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+DD,Keersluis,Pompinstallatie,Pompinstallatie,Ongewijzigd
+DD,Keersluis,Radarinstallatie,Radarinstallatie,Ongewijzigd
+DD,Keersluis,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+DD,Keersluis,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+DD,Keersluis,Schampkant,Schampkant,Ongewijzigd
+DD,Keersluis,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+DD,Keersluis,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+DD,Keersluis,Schuifconstructie,Schuifconstructie,Ongewijzigd
+DD,Keersluis,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol)",Ongewijzigd
+DD,Keersluis,Sluishoofd,Sluishoofd,Ongewijzigd
+DD,Keersluis,Sluiskolk,Sluiskolk,Ongewijzigd
+DD,Keersluis,Steiger,Steiger,Ongewijzigd
+DD,Keersluis,Steunpunt,Steunpunt,Ongewijzigd
+DD,Keersluis,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+DD,Keersluis,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+DD,Keersluis,Toegangshek,Toegangshek,Ongewijzigd
+DD,Keersluis,Tracing,Tracing,Ongewijzigd
+DD,Keersluis,Vangconstructie,Vangconstructie,Ongewijzigd
+DD,Keersluis,Verankering,Verankering,Ongewijzigd
+DD,Keersluis,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+DD,Keersluis,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+DD,Keersluis,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+DD,Keersluis,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+DD,Keersluis,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+DD,Keersluis,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+DD,Keersluis,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+DD,Keersluis,Voegovergang,Voegovergang,Ongewijzigd
+DD,Keersluis,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+DD,Keersluis,Zinker,Zinker,Ongewijzigd
+DD,Keersluis,Grendelinrichting,Grendelinrichting,Ongewijzigd
+DD,Keersluis,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+DD,Keersluis,Kelder,Kelder,Ongewijzigd
+DD,Keersluis,Stuwhoofd,Stuwhoofd,Ongewijzigd
+DD,Keersluis,Vispassage,Vispassage,Ongewijzigd
+DD,Keersluis,Talud,Talud,Ongewijzigd
+DD,Keersluis,Afscheiding,Afscheiding,Ongewijzigd
+DD,Keersluis,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+DD,Keersluis,Vissluis,Vissluis,Ongewijzigd
+DD,Keersluis,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+DD,Keersluis,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+DD,Keersluis,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+DD,Keersluis,Meetinstallatie,Meetinstallatie,Ongewijzigd
+DD,Keersluis,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+DD,Keersluis,Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+DD,Keersluis,Sluismarkering,Sluismarkering,Ongewijzigd
+DD,Keersluis,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+DD,Keersluis,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+DD,Keersluis,Geleidetoren,Geleidetoren,Ongewijzigd
+DD,Keersluis,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+DD,Keersluis,Leuningconstructie,Leuningconstructie,Ongewijzigd
+AY,Landbouwgebied,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+AY,Landbouwgebied,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+AY,Landbouwgebied,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+AY,Landbouwgebied,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+AY,Landbouwgebied,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+AY,Landbouwgebied,Wegmarkering,Wegmarkering,Ongewijzigd
+AY,Landbouwgebied,Landbouwgrond,Landbouwgrond,Ongewijzigd
+AY,Landbouwgebied,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+AY,Landbouwgebied,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+AY,Landbouwgebied,Sloot,Sloot,Ongewijzigd
+AY,Landbouwgebied,Beek,Beek,Ongewijzigd
+AZ,Meer,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+AZ,Meer,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+AZ,Meer,Bodem,Bodem,Ongewijzigd
+AZ,Meer,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+AZ,Meer,Fauna uittreedplaats,Fauna uittreedplaats,Ongewijzigd
+AZ,Meer,Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+AZ,Meer,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+AZ,Meer,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+AZ,Meer,Kerende constructie,Kerende constructie,Ongewijzigd
+AZ,Meer,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+AZ,Meer,Steiger,Steiger,Ongewijzigd
+AZ,Meer,Strekdam,Strekdam,Ongewijzigd
+AZ,Meer,Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+AZ,Meer,Verankering,Verankering,Ongewijzigd
+AZ,Meer,Vaargeul,Vaargeul,Ongewijzigd
+AZ,Meer,Aanloopgebied,Aanloopgebied,Ongewijzigd
+AZ,Meer,Wingebied,Wingebied,Ongewijzigd
+AZ,Meer,Keerplaats,Keerplaats,Ongewijzigd
+AZ,Meer,Talud,Talud,Ongewijzigd
+AZ,Meer,Leikade,Leikade,Ongewijzigd
+AZ,Meer,Leidam,Leidam,Ongewijzigd
+AZ,Meer,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+BA,Natuurgebied,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BA,Natuurgebied,Kerende constructie,Kerende constructie,Ongewijzigd
+BA,Natuurgebied,Wegmarkering,Wegmarkering,Ongewijzigd
+BA,Natuurgebied,Kwelder,Kwelder,Ongewijzigd
+BA,Natuurgebied,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BA,Natuurgebied,Sloot,Sloot,Ongewijzigd
+BA,Natuurgebied,Beek,Beek,Ongewijzigd
+BA,Natuurgebied,Ven,Ven,Ongewijzigd
+BB,Onderdoorgang,Aanrijbalk,Aanrijbalk,Ongewijzigd
+BB,Onderdoorgang,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BB,Onderdoorgang,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+BB,Onderdoorgang,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BB,Onderdoorgang,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BB,Onderdoorgang,Kabel,Kabel,Ongewijzigd
+BB,Onderdoorgang,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BB,Onderdoorgang,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BB,Onderdoorgang,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BB,Onderdoorgang,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BB,Onderdoorgang,Drainage,Drainage,Ongewijzigd
+BB,Onderdoorgang,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BB,Onderdoorgang,Fundering,Fundering,Ongewijzigd
+BB,Onderdoorgang,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BB,Onderdoorgang,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+BB,Onderdoorgang,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BB,Onderdoorgang,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BB,Onderdoorgang,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+BB,Onderdoorgang,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BB,Onderdoorgang,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BB,Onderdoorgang,Kerende constructie,Kerende constructie,Ongewijzigd
+BB,Onderdoorgang,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BB,Onderdoorgang,Leiding,Leiding,Ongewijzigd
+BB,Onderdoorgang,Loopbrug,Loopbrug,Ongewijzigd
+BB,Onderdoorgang,Mantelbuis,Mantelbuis,Ongewijzigd
+BB,Onderdoorgang,Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+BB,Onderdoorgang,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BB,Onderdoorgang,Objectverlichting,Objectverlichting,Ongewijzigd
+BB,Onderdoorgang,Onderbouw,Onderbouw,Ongewijzigd
+BB,Onderdoorgang,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BB,Onderdoorgang,Oplegging,Oplegging,Ongewijzigd
+BB,Onderdoorgang,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+BB,Onderdoorgang,Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+BB,Onderdoorgang,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BB,Onderdoorgang,Pompkelder,Pompkelder,Ongewijzigd
+BB,Onderdoorgang,Portaal,Portaal,Ongewijzigd
+BB,Onderdoorgang,Schampkant,Schampkant,Ongewijzigd
+BB,Onderdoorgang,Steunpunt,Steunpunt,Ongewijzigd
+BB,Onderdoorgang,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BB,Onderdoorgang,Uithouder,Uithouder,Ongewijzigd
+BB,Onderdoorgang,Verankering,Verankering,Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BB,Onderdoorgang,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BB,Onderdoorgang,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+BB,Onderdoorgang,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BB,Onderdoorgang,Voegovergang,Voegovergang,Ongewijzigd
+BB,Onderdoorgang,Wegmarkering,Wegmarkering,Ongewijzigd
+BB,Onderdoorgang,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BB,Onderdoorgang,Kelder,Kelder,Ongewijzigd
+BB,Onderdoorgang,Talud,Talud,Ongewijzigd
+BB,Onderdoorgang,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BB,Onderdoorgang,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BB,Onderdoorgang,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BB,Onderdoorgang,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BB,Onderdoorgang,Slijtlaag,Slijtlaag,Ongewijzigd
+BB,Onderdoorgang,Sproei-installatie,Sproei-installatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Kabel,Kabel,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Fundering,Fundering,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Klepconstructie,Klepconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Leiding,Leiding,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Mantelbuis,Mantelbuis,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Objectverlichting,Objectverlichting,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Opstal,Opstal,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Pompkelder,Pompkelder,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Tracing,Tracing,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Kelder,Kelder,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Borstwering,Borstwering,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Roostergoed container,Roostergoed container,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Persinstallatie,Persinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Tankconstructie,Tankconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Wandconstructie,Wandconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Trapconstructie,Trapconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Dakconstructie,Dakconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CT,Ontvangst- en verdeelwerk,Sproei-installatie,Sproei-installatie,Ongewijzigd
+BD,Open tunnelbak,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BD,Open tunnelbak,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+BD,Open tunnelbak,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BD,Open tunnelbak,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BD,Open tunnelbak,Kabel,Kabel,Ongewijzigd
+BD,Open tunnelbak,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BD,Open tunnelbak,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BD,Open tunnelbak,Calamiteiten Doorsteek installatie (CADO),Calamiteiten Doorsteek installatie (CADO),Ongewijzigd
+BD,Open tunnelbak,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BD,Open tunnelbak,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BD,Open tunnelbak,Drainage,Drainage,Ongewijzigd
+BD,Open tunnelbak,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BD,Open tunnelbak,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+BD,Open tunnelbak,Folieconstructie,Folieconstructie,Ongewijzigd
+BD,Open tunnelbak,Fundering,Fundering,Ongewijzigd
+BD,Open tunnelbak,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BD,Open tunnelbak,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+BD,Open tunnelbak,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BD,Open tunnelbak,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+BD,Open tunnelbak,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BD,Open tunnelbak,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BD,Open tunnelbak,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BD,Open tunnelbak,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+BD,Open tunnelbak,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BD,Open tunnelbak,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BD,Open tunnelbak,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BD,Open tunnelbak,Kerende constructie,Kerende constructie,Ongewijzigd
+BD,Open tunnelbak,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BD,Open tunnelbak,Leiding,Leiding,Ongewijzigd
+BD,Open tunnelbak,Loopbrug,Loopbrug,Ongewijzigd
+BD,Open tunnelbak,Mantelbuis,Mantelbuis,Ongewijzigd
+BD,Open tunnelbak,Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+BD,Open tunnelbak,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BD,Open tunnelbak,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BD,Open tunnelbak,Objectverlichting,Objectverlichting,Ongewijzigd
+BD,Open tunnelbak,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BD,Open tunnelbak,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BD,Open tunnelbak,Oplegging,Oplegging,Ongewijzigd
+BD,Open tunnelbak,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+BD,Open tunnelbak,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BD,Open tunnelbak,Pompkelder,Pompkelder,Ongewijzigd
+BD,Open tunnelbak,Schampkant,Schampkant,Ongewijzigd
+BD,Open tunnelbak,Steunpunt,Steunpunt,Ongewijzigd
+BD,Open tunnelbak,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BD,Open tunnelbak,Toegangshek,Toegangshek,Ongewijzigd
+BD,Open tunnelbak,Tracing,Tracing,Ongewijzigd
+BD,Open tunnelbak,Trambaan,Trambaan,Ongewijzigd
+BD,Open tunnelbak,Verankering,Verankering,Ongewijzigd
+BD,Open tunnelbak,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BD,Open tunnelbak,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BD,Open tunnelbak,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BD,Open tunnelbak,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BD,Open tunnelbak,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BD,Open tunnelbak,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+BD,Open tunnelbak,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BD,Open tunnelbak,Verplaatsbare Vangrail installatie (VEVA),Verplaatsbare Vangrail installatie (VEVA),Ongewijzigd
+BD,Open tunnelbak,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BD,Open tunnelbak,Voegovergang,Voegovergang,Ongewijzigd
+BD,Open tunnelbak,Wegmarkering,Wegmarkering,Ongewijzigd
+BD,Open tunnelbak,Kelder,Kelder,Ongewijzigd
+BD,Open tunnelbak,Talud,Talud,Ongewijzigd
+BD,Open tunnelbak,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BD,Open tunnelbak,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BD,Open tunnelbak,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BD,Open tunnelbak,Slijtlaag,Slijtlaag,Ongewijzigd
+BD,Open tunnelbak,Sproei-installatie,Sproei-installatie,Ongewijzigd
+CW,Opslagtank,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CW,Opslagtank,Aanrijbalk,Aanrijbalk,Ongewijzigd
+CW,Opslagtank,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CW,Opslagtank,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CW,Opslagtank,Kabel,Kabel,Ongewijzigd
+CW,Opslagtank,Fundering,Fundering,Ongewijzigd
+CW,Opslagtank,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+CW,Opslagtank,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CW,Opslagtank,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CW,Opslagtank,Leiding,Leiding,Ongewijzigd
+CW,Opslagtank,Mantelbuis,Mantelbuis,Ongewijzigd
+CW,Opslagtank,Objectverlichting,Objectverlichting,Ongewijzigd
+CW,Opslagtank,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+CW,Opslagtank,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CW,Opslagtank,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CW,Opslagtank,Tracing,Tracing,Ongewijzigd
+CW,Opslagtank,Put,Put,Ongewijzigd
+CW,Opslagtank,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CW,Opslagtank,Menginstallatie,Menginstallatie,Ongewijzigd
+CW,Opslagtank,Ruimerinstallatie,Ruimerinstallatie,Ongewijzigd
+CW,Opslagtank,Tankconstructie,Tankconstructie,Ongewijzigd
+CW,Opslagtank,Transportinstallatie,Transportinstallatie,Ongewijzigd
+CW,Opslagtank,Wandconstructie,Wandconstructie,Ongewijzigd
+CW,Opslagtank,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CW,Opslagtank,Trapconstructie,Trapconstructie,Ongewijzigd
+CW,Opslagtank,Dakconstructie,Dakconstructie,Ongewijzigd
+CW,Opslagtank,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CW,Opslagtank,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BE,Overkluizing,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+BE,Overkluizing,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BE,Overkluizing,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BE,Overkluizing,Fundering,Fundering,Ongewijzigd
+BE,Overkluizing,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BE,Overkluizing,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BE,Overkluizing,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BE,Overkluizing,Kerende constructie,Kerende constructie,Ongewijzigd
+BE,Overkluizing,Onderbouw,Onderbouw,Ongewijzigd
+BE,Overkluizing,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BE,Overkluizing,Oplegging,Oplegging,Ongewijzigd
+BE,Overkluizing,Schampkant,Schampkant,Ongewijzigd
+BE,Overkluizing,Steunpunt,Steunpunt,Ongewijzigd
+BE,Overkluizing,Verankering,Verankering,Ongewijzigd
+BE,Overkluizing,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BE,Overkluizing,Voegovergang,Voegovergang,Ongewijzigd
+BE,Overkluizing,Talud,Talud,Ongewijzigd
+BE,Overkluizing,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BE,Overkluizing,Slijtlaag,Slijtlaag,Ongewijzigd
+BG,Park,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BG,Park,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BG,Park,Kabel,Kabel,Ongewijzigd
+BG,Park,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BG,Park,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BG,Park,Kerende constructie,Kerende constructie,Ongewijzigd
+BG,Park,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BG,Park,Leiding,Leiding,Ongewijzigd
+BG,Park,Mantelbuis,Mantelbuis,Ongewijzigd
+BG,Park,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BG,Park,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BG,Park,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BG,Park,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BG,Park,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BG,Park,Wegmarkering,Wegmarkering,Ongewijzigd
+BG,Park,Talud,Talud,Ongewijzigd
+BG,Park,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BG,Park,Vijver,Vijver,Ongewijzigd
+BG,Park,Grasvegetatie,Grasvegetatie,Ongewijzigd
+BG,Park,Sloot,Sloot,Ongewijzigd
+BG,Park,Beek,Beek,Ongewijzigd
+BG,Park,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BG,Park,Boomgroep,,Vervallen
+BG,Park,Klim- en leiplant,,Vervallen
+BG,Park,Heester,,Vervallen
+BG,Park,Bol- en knolgewas,,Vervallen
+BG,Park,Perkplant,,Vervallen
+BG,Park,Vaste plant,,Vervallen
+BG,Park,,Begroeid terreindeel,Toegevoegd
+DB,Persleiding,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+DB,Persleiding,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+DB,Persleiding,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+DB,Persleiding,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+DB,Persleiding,Folieconstructie,Folieconstructie,Ongewijzigd
+DB,Persleiding,Fundering,Fundering,Ongewijzigd
+DB,Persleiding,Kerende constructie,Kerende constructie,Ongewijzigd
+DB,Persleiding,Klepconstructie,Klepconstructie,Ongewijzigd
+DB,Persleiding,Leiding,Leiding,Ongewijzigd
+DB,Persleiding,Pompinstallatie,Pompinstallatie,Ongewijzigd
+DB,Persleiding,Schuifconstructie,Schuifconstructie,Ongewijzigd
+DB,Persleiding,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+DB,Persleiding,Zinker,Zinker,Ongewijzigd
+DB,Persleiding,Kelder,Kelder,Ongewijzigd
+DB,Persleiding,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+DB,Persleiding,Meetinstallatie,Meetinstallatie,Ongewijzigd
+DB,Persleiding,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CL,Procesbassin,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+CL,Procesbassin,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+CL,Procesbassin,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CL,Procesbassin,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CL,Procesbassin,Kabel,Kabel,Ongewijzigd
+CL,Procesbassin,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+CL,Procesbassin,Fundering,Fundering,Ongewijzigd
+CL,Procesbassin,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+CL,Procesbassin,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+CL,Procesbassin,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CL,Procesbassin,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CL,Procesbassin,Klepconstructie,Klepconstructie,Ongewijzigd
+CL,Procesbassin,Leiding,Leiding,Ongewijzigd
+CL,Procesbassin,Mantelbuis,Mantelbuis,Ongewijzigd
+CL,Procesbassin,Objectverlichting,Objectverlichting,Ongewijzigd
+CL,Procesbassin,Opstal,Opstal,Ongewijzigd
+CL,Procesbassin,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CL,Procesbassin,Pompkelder,Pompkelder,Ongewijzigd
+CL,Procesbassin,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CL,Procesbassin,Tracing,Tracing,Ongewijzigd
+CL,Procesbassin,Put,Put,Ongewijzigd
+CL,Procesbassin,Afscheiderinstallatie (statisch),Afscheiderinstallatie (statisch),Ongewijzigd
+CL,Procesbassin,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CL,Procesbassin,Afscheiderinstallatie (dynamisch),Afscheiderinstallatie (dynamisch),Ongewijzigd
+CL,Procesbassin,Beluchtingsinstallatie,Beluchtingsinstallatie,Ongewijzigd
+CL,Procesbassin,Menginstallatie,Menginstallatie,Ongewijzigd
+CL,Procesbassin,Tankconstructie,Tankconstructie,Ongewijzigd
+CL,Procesbassin,Wandconstructie,Wandconstructie,Ongewijzigd
+CL,Procesbassin,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CL,Procesbassin,Trapconstructie,Trapconstructie,Ongewijzigd
+CL,Procesbassin,Dakconstructie,Dakconstructie,Ongewijzigd
+CL,Procesbassin,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CL,Procesbassin,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CL,Procesbassin,Sproei-installatie,Sproei-installatie,Ongewijzigd
+CD,Recreatief gebied,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+CD,Recreatief gebied,Sloot,Sloot,Ongewijzigd
+CD,Recreatief gebied,Beek,Beek,Ongewijzigd
+CD,Recreatief gebied,Boomgroep,,Vervallen
+CD,Recreatief gebied,,Begroeid terreindeel,Toegevoegd
+BH,Riolering,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BH,Riolering,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BH,Riolering,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BH,Riolering,Drainage,Drainage,Ongewijzigd
+BH,Riolering,Folieconstructie,Folieconstructie,Ongewijzigd
+BH,Riolering,Fundering,Fundering,Ongewijzigd
+BH,Riolering,Kerende constructie,Kerende constructie,Ongewijzigd
+BH,Riolering,Klepconstructie,Klepconstructie,Ongewijzigd
+BH,Riolering,Leiding,Leiding,Ongewijzigd
+BH,Riolering,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BH,Riolering,Schuifconstructie,Schuifconstructie,Ongewijzigd
+BH,Riolering,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BH,Riolering,Zinker,Zinker,Ongewijzigd
+BH,Riolering,Infiltratievoorziening,Infiltratievoorziening,Ongewijzigd
+BH,Riolering,Vijver,Vijver,Ongewijzigd
+BH,Riolering,Put,Put,Ongewijzigd
+BH,Riolering,Bergbezinkbassin,Bergbezinkbassin,Ongewijzigd
+BH,Riolering,Uitlaatvoorziening,Uitlaatvoorziening,Ongewijzigd
+BH,Riolering,Inlaatvoorziening,Inlaatvoorziening,Ongewijzigd
+BH,Riolering,Afscheiderinstallatie (statisch),Afscheiderinstallatie (statisch),Ongewijzigd
+BH,Riolering,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BH,Riolering,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BH,Riolering,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BI,Rivier,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+BI,Rivier,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BI,Rivier,Bodem,Bodem,Ongewijzigd
+BI,Rivier,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BI,Rivier,Fauna uittreedplaats,Fauna uittreedplaats,Ongewijzigd
+BI,Rivier,Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+BI,Rivier,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+BI,Rivier,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BI,Rivier,Kerende constructie,Kerende constructie,Ongewijzigd
+BI,Rivier,Krib,Krib,Ongewijzigd
+BI,Rivier,Kribvak,Kribvak,Ongewijzigd
+BI,Rivier,Oeverbescherming,Oeverbescherming,Ongewijzigd
+BI,Rivier,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BI,Rivier,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+BI,Rivier,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+BI,Rivier,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BI,Rivier,Steiger,Steiger,Ongewijzigd
+BI,Rivier,Strekdam,Strekdam,Ongewijzigd
+BI,Rivier,Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+BI,Rivier,Wegmarkering,Wegmarkering,Ongewijzigd
+BI,Rivier,Zinker,Zinker,Ongewijzigd
+BI,Rivier,Vispassage,Vispassage,Ongewijzigd
+BI,Rivier,Vaargeul,Vaargeul,Ongewijzigd
+BI,Rivier,Aanloopgebied,Aanloopgebied,Ongewijzigd
+BI,Rivier,Ankergebied,Ankergebied,Ongewijzigd
+BI,Rivier,Wingebied,Wingebied,Ongewijzigd
+BI,Rivier,Keerplaats,Keerplaats,Ongewijzigd
+BI,Rivier,Afscheiding,Afscheiding,Ongewijzigd
+BI,Rivier,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BI,Rivier,Leikade,Leikade,Ongewijzigd
+BI,Rivier,Leidam,Leidam,Ongewijzigd
+BI,Rivier,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+BI,Rivier,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BI,Rivier,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BI,Rivier,,Hoogwatervluchtplaats,Toegevoegd
+BK,Schutsluis,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+BK,Schutsluis,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+BK,Schutsluis,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+BK,Schutsluis,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BK,Schutsluis,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+BK,Schutsluis,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BK,Schutsluis,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BK,Schutsluis,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BK,Schutsluis,Kabel,Kabel,Ongewijzigd
+BK,Schutsluis,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BK,Schutsluis,Bodembescherming,Bodembescherming,Ongewijzigd
+BK,Schutsluis,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BK,Schutsluis,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BK,Schutsluis,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BK,Schutsluis,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+BK,Schutsluis,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BK,Schutsluis,Drainage,Drainage,Ongewijzigd
+BK,Schutsluis,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BK,Schutsluis,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+BK,Schutsluis,Fundering,Fundering,Ongewijzigd
+BK,Schutsluis,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BK,Schutsluis,Heftoren,Heftoren,Ongewijzigd
+BK,Schutsluis,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BK,Schutsluis,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BK,Schutsluis,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+BK,Schutsluis,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BK,Schutsluis,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BK,Schutsluis,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BK,Schutsluis,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Ongewijzigd
+BK,Schutsluis,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+BK,Schutsluis,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BK,Schutsluis,Kerende constructie,Kerende constructie,Ongewijzigd
+BK,Schutsluis,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BK,Schutsluis,Leiding,Leiding,Ongewijzigd
+BK,Schutsluis,Loopbrug,Loopbrug,Ongewijzigd
+BK,Schutsluis,Mantelbuis,Mantelbuis,Ongewijzigd
+BK,Schutsluis,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+BK,Schutsluis,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+BK,Schutsluis,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BK,Schutsluis,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BK,Schutsluis,Objectverlichting,Objectverlichting,Ongewijzigd
+BK,Schutsluis,Oeverbescherming,Oeverbescherming,Ongewijzigd
+BK,Schutsluis,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BK,Schutsluis,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BK,Schutsluis,Oplegging,Oplegging,Ongewijzigd
+BK,Schutsluis,Opstal,Opstal,Ongewijzigd
+BK,Schutsluis,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+BK,Schutsluis,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BK,Schutsluis,Pompkelder,Pompkelder,Ongewijzigd
+BK,Schutsluis,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BK,Schutsluis,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+BK,Schutsluis,Schampkant,Schampkant,Ongewijzigd
+BK,Schutsluis,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+BK,Schutsluis,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BK,Schutsluis,Schuifconstructie,Schuifconstructie,Ongewijzigd
+BK,Schutsluis,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol)",Ongewijzigd
+BK,Schutsluis,Sluishoofd,Sluishoofd,Ongewijzigd
+BK,Schutsluis,Sluiskolk,Sluiskolk,Ongewijzigd
+BK,Schutsluis,Steiger,Steiger,Ongewijzigd
+BK,Schutsluis,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BK,Schutsluis,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BK,Schutsluis,Erf,Erf,Ongewijzigd
+BK,Schutsluis,Toegangshek,Toegangshek,Ongewijzigd
+BK,Schutsluis,Tracing,Tracing,Ongewijzigd
+BK,Schutsluis,Vangconstructie,Vangconstructie,Ongewijzigd
+BK,Schutsluis,Verankering,Verankering,Ongewijzigd
+BK,Schutsluis,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BK,Schutsluis,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BK,Schutsluis,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BK,Schutsluis,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BK,Schutsluis,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BK,Schutsluis,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BK,Schutsluis,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BK,Schutsluis,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+BK,Schutsluis,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BK,Schutsluis,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BK,Schutsluis,Voegovergang,Voegovergang,Ongewijzigd
+BK,Schutsluis,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+BK,Schutsluis,Zinker,Zinker,Ongewijzigd
+BK,Schutsluis,Grendelinrichting,Grendelinrichting,Ongewijzigd
+BK,Schutsluis,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BK,Schutsluis,Kelder,Kelder,Ongewijzigd
+BK,Schutsluis,Vispassage,Vispassage,Ongewijzigd
+BK,Schutsluis,Talud,Talud,Ongewijzigd
+BK,Schutsluis,Faunadekking,Faunadekking,Ongewijzigd
+BK,Schutsluis,Afscheiding,Afscheiding,Ongewijzigd
+BK,Schutsluis,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BK,Schutsluis,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BK,Schutsluis,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+BK,Schutsluis,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BK,Schutsluis,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BK,Schutsluis,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BK,Schutsluis,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+BK,Schutsluis,Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+BK,Schutsluis,Sluismarkering,Sluismarkering,Ongewijzigd
+BK,Schutsluis,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BK,Schutsluis,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+BK,Schutsluis,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BK,Schutsluis,Slijtlaag,Slijtlaag,Ongewijzigd
+BK,Schutsluis,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BK,Schutsluis,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+CG,Sifon,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CG,Sifon,Bovenbouwconstructie,Bovenbouwconstructie,Ongewijzigd
+CG,Sifon,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+CG,Sifon,Fundering,Fundering,Ongewijzigd
+CG,Sifon,Geleideconstructie,Geleideconstructie,Ongewijzigd
+CG,Sifon,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+CG,Sifon,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+CG,Sifon,Kerende constructie,Kerende constructie,Ongewijzigd
+CG,Sifon,Klepconstructie,Klepconstructie,Ongewijzigd
+CG,Sifon,Oeverbescherming,Oeverbescherming,Ongewijzigd
+CG,Sifon,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+CG,Sifon,Opstal,Opstal,Ongewijzigd
+CG,Sifon,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+CG,Sifon,Schampkant,Schampkant,Ongewijzigd
+CG,Sifon,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CG,Sifon,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol)",Ongewijzigd
+CG,Sifon,Voegovergang,Voegovergang,Ongewijzigd
+CG,Sifon,Talud,Talud,Ongewijzigd
+CG,Sifon,Slijtlaag,Slijtlaag,Ongewijzigd
+CG,Sifon,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BL,Spoorweg,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BL,Spoorweg,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BL,Spoorweg,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BL,Spoorweg,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BL,Spoorweg,Kabel,Kabel,Ongewijzigd
+BL,Spoorweg,Berm,Berm,Ongewijzigd
+BL,Spoorweg,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BL,Spoorweg,Loopbrug,Loopbrug,Ongewijzigd
+BL,Spoorweg,Mantelbuis,Mantelbuis,Ongewijzigd
+BL,Spoorweg,Toegangshek,Toegangshek,Ongewijzigd
+BL,Spoorweg,Trambaan,Trambaan,Ongewijzigd
+BL,Spoorweg,Grasvegetatie,Grasvegetatie,Ongewijzigd
+BL,Spoorweg,Perron,Perron,Ongewijzigd
+BL,Spoorweg,,Begroeid terreindeel,Toegevoegd
+BM,Sport- en spelvoorziening,Objectverlichting,Objectverlichting,Ongewijzigd
+BM,Sport- en spelvoorziening,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BM,Sport- en spelvoorziening,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BM,Sport- en spelvoorziening,Afscheiding,Afscheiding,Ongewijzigd
+BM,Sport- en spelvoorziening,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BM,Sport- en spelvoorziening,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+BM,Sport- en spelvoorziening,Sportattribuut,Sportattribuut,Ongewijzigd
+BM,Sport- en spelvoorziening,Sportveld,Sportveld,Ongewijzigd
+BM,Sport- en spelvoorziening,Speeltoestel,Speeltoestel,Ongewijzigd
+BN,Spuisluis,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+BN,Spuisluis,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+BN,Spuisluis,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+BN,Spuisluis,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BN,Spuisluis,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BN,Spuisluis,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BN,Spuisluis,Kabel,Kabel,Ongewijzigd
+BN,Spuisluis,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BN,Spuisluis,Bodembescherming,Bodembescherming,Ongewijzigd
+BN,Spuisluis,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BN,Spuisluis,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BN,Spuisluis,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BN,Spuisluis,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+BN,Spuisluis,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BN,Spuisluis,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+BN,Spuisluis,Drainage,Drainage,Ongewijzigd
+BN,Spuisluis,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BN,Spuisluis,Fundering,Fundering,Ongewijzigd
+BN,Spuisluis,Heftoren,Heftoren,Ongewijzigd
+BN,Spuisluis,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BN,Spuisluis,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BN,Spuisluis,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+BN,Spuisluis,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BN,Spuisluis,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BN,Spuisluis,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BN,Spuisluis,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BN,Spuisluis,Kerende constructie,Kerende constructie,Ongewijzigd
+BN,Spuisluis,Klepconstructie,Klepconstructie,Ongewijzigd
+BN,Spuisluis,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BN,Spuisluis,Leiding,Leiding,Ongewijzigd
+BN,Spuisluis,Mantelbuis,Mantelbuis,Ongewijzigd
+BN,Spuisluis,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+BN,Spuisluis,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BN,Spuisluis,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BN,Spuisluis,Objectverlichting,Objectverlichting,Ongewijzigd
+BN,Spuisluis,Oeverbescherming,Oeverbescherming,Ongewijzigd
+BN,Spuisluis,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BN,Spuisluis,Oplegging,Oplegging,Ongewijzigd
+BN,Spuisluis,Opstal,Opstal,Ongewijzigd
+BN,Spuisluis,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BN,Spuisluis,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+BN,Spuisluis,Schampkant,Schampkant,Ongewijzigd
+BN,Spuisluis,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BN,Spuisluis,Schuifconstructie,Schuifconstructie,Ongewijzigd
+BN,Spuisluis,"Sluisdeur (hef, punt, rol)","Sluisdeur (hef, punt, rol)",Ongewijzigd
+BN,Spuisluis,Sluishoofd,Sluishoofd,Ongewijzigd
+BN,Spuisluis,Sluiskolk,Sluiskolk,Ongewijzigd
+BN,Spuisluis,Steiger,Steiger,Ongewijzigd
+BN,Spuisluis,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BN,Spuisluis,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BN,Spuisluis,Erf,Erf,Ongewijzigd
+BN,Spuisluis,Toegangshek,Toegangshek,Ongewijzigd
+BN,Spuisluis,Tracing,Tracing,Ongewijzigd
+BN,Spuisluis,Vangconstructie,Vangconstructie,Ongewijzigd
+BN,Spuisluis,Verankering,Verankering,Ongewijzigd
+BN,Spuisluis,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BN,Spuisluis,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BN,Spuisluis,Voegovergang,Voegovergang,Ongewijzigd
+BN,Spuisluis,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+BN,Spuisluis,Zinker,Zinker,Ongewijzigd
+BN,Spuisluis,Grendelinrichting,Grendelinrichting,Ongewijzigd
+BN,Spuisluis,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BN,Spuisluis,Kelder,Kelder,Ongewijzigd
+BN,Spuisluis,Stuwhoofd,Stuwhoofd,Ongewijzigd
+BN,Spuisluis,Vispassage,Vispassage,Ongewijzigd
+BN,Spuisluis,Talud,Talud,Ongewijzigd
+BN,Spuisluis,Afscheiding,Afscheiding,Ongewijzigd
+BN,Spuisluis,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BN,Spuisluis,Vissluis,Vissluis,Ongewijzigd
+BN,Spuisluis,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BN,Spuisluis,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+BN,Spuisluis,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BN,Spuisluis,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BN,Spuisluis,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BN,Spuisluis,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+BN,Spuisluis,Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+BN,Spuisluis,Sluismarkering,Sluismarkering,Ongewijzigd
+BN,Spuisluis,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BN,Spuisluis,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+BN,Spuisluis,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BN,Spuisluis,Slijtlaag,Slijtlaag,Ongewijzigd
+BN,Spuisluis,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BN,Spuisluis,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BO,Stormvloedkering,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+BO,Stormvloedkering,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+BO,Stormvloedkering,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+BO,Stormvloedkering,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BO,Stormvloedkering,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BO,Stormvloedkering,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Kabel,Kabel,Ongewijzigd
+BO,Stormvloedkering,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BO,Stormvloedkering,Bodembescherming,Bodembescherming,Ongewijzigd
+BO,Stormvloedkering,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BO,Stormvloedkering,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BO,Stormvloedkering,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BO,Stormvloedkering,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BO,Stormvloedkering,Drainage,Drainage,Ongewijzigd
+BO,Stormvloedkering,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BO,Stormvloedkering,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+BO,Stormvloedkering,Fundering,Fundering,Ongewijzigd
+BO,Stormvloedkering,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BO,Stormvloedkering,Heftoren,Heftoren,Ongewijzigd
+BO,Stormvloedkering,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BO,Stormvloedkering,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BO,Stormvloedkering,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BO,Stormvloedkering,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BO,Stormvloedkering,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BO,Stormvloedkering,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BO,Stormvloedkering,Kerende constructie,Kerende constructie,Ongewijzigd
+BO,Stormvloedkering,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Leiding,Leiding,Ongewijzigd
+BO,Stormvloedkering,Lift-installatie,Lift-installatie,Ongewijzigd
+BO,Stormvloedkering,Mantelbuis,Mantelbuis,Ongewijzigd
+BO,Stormvloedkering,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+BO,Stormvloedkering,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+BO,Stormvloedkering,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BO,Stormvloedkering,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BO,Stormvloedkering,Objectverlichting,Objectverlichting,Ongewijzigd
+BO,Stormvloedkering,Oeverbescherming,Oeverbescherming,Ongewijzigd
+BO,Stormvloedkering,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BO,Stormvloedkering,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BO,Stormvloedkering,Opstal,Opstal,Ongewijzigd
+BO,Stormvloedkering,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+BO,Stormvloedkering,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BO,Stormvloedkering,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BO,Stormvloedkering,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+BO,Stormvloedkering,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+BO,Stormvloedkering,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+BO,Stormvloedkering,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BO,Stormvloedkering,Sluishoofd,Sluishoofd,Ongewijzigd
+BO,Stormvloedkering,Steunpunt,Steunpunt,Ongewijzigd
+BO,Stormvloedkering,Keringschuif,Keringschuif,Ongewijzigd
+BO,Stormvloedkering,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BO,Stormvloedkering,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BO,Stormvloedkering,Erf,Erf,Ongewijzigd
+BO,Stormvloedkering,Toegangshek,Toegangshek,Ongewijzigd
+BO,Stormvloedkering,Tracing,Tracing,Ongewijzigd
+BO,Stormvloedkering,Vangconstructie,Vangconstructie,Ongewijzigd
+BO,Stormvloedkering,Verankering,Verankering,Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BO,Stormvloedkering,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BO,Stormvloedkering,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BO,Stormvloedkering,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+BO,Stormvloedkering,Grendelinrichting,Grendelinrichting,Ongewijzigd
+BO,Stormvloedkering,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Kelder,Kelder,Ongewijzigd
+BO,Stormvloedkering,Vispassage,Vispassage,Ongewijzigd
+BO,Stormvloedkering,Talud,Talud,Ongewijzigd
+BO,Stormvloedkering,Afscheiding,Afscheiding,Ongewijzigd
+BO,Stormvloedkering,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BO,Stormvloedkering,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BO,Stormvloedkering,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+BO,Stormvloedkering,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BO,Stormvloedkering,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BO,Stormvloedkering,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BO,Stormvloedkering,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BO,Stormvloedkering,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Geleidetoren,Geleidetoren,Ongewijzigd
+BO,Stormvloedkering,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BO,Stormvloedkering,Slijtlaag,Slijtlaag,Ongewijzigd
+BO,Stormvloedkering,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BO,Stormvloedkering,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BP,Stuw,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+BP,Stuw,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+BP,Stuw,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+BP,Stuw,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BP,Stuw,Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+BP,Stuw,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BP,Stuw,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BP,Stuw,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BP,Stuw,Kabel,Kabel,Ongewijzigd
+BP,Stuw,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BP,Stuw,Bodembescherming,Bodembescherming,Ongewijzigd
+BP,Stuw,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BP,Stuw,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BP,Stuw,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BP,Stuw,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+BP,Stuw,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BP,Stuw,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+BP,Stuw,Drainage,Drainage,Ongewijzigd
+BP,Stuw,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BP,Stuw,Fundering,Fundering,Ongewijzigd
+BP,Stuw,Heftoren,Heftoren,Ongewijzigd
+BP,Stuw,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BP,Stuw,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BP,Stuw,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BP,Stuw,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+BP,Stuw,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BP,Stuw,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BP,Stuw,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BP,Stuw,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+BP,Stuw,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BP,Stuw,Kerende constructie,Kerende constructie,Ongewijzigd
+BP,Stuw,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BP,Stuw,Leiding,Leiding,Ongewijzigd
+BP,Stuw,Loopbrug,Loopbrug,Ongewijzigd
+BP,Stuw,Mantelbuis,Mantelbuis,Ongewijzigd
+BP,Stuw,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+BP,Stuw,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BP,Stuw,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BP,Stuw,Objectverlichting,Objectverlichting,Ongewijzigd
+BP,Stuw,Oeverbescherming,Oeverbescherming,Ongewijzigd
+BP,Stuw,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BP,Stuw,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BP,Stuw,Opstal,Opstal,Ongewijzigd
+BP,Stuw,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BP,Stuw,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BP,Stuw,Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+BP,Stuw,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+BP,Stuw,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BP,Stuw,Sluishoofd,Sluishoofd,Ongewijzigd
+BP,Stuw,Steiger,Steiger,Ongewijzigd
+BP,Stuw,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BP,Stuw,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BP,Stuw,Erf,Erf,Ongewijzigd
+BP,Stuw,Toegangshek,Toegangshek,Ongewijzigd
+BP,Stuw,Tracing,Tracing,Ongewijzigd
+BP,Stuw,Vangconstructie,Vangconstructie,Ongewijzigd
+BP,Stuw,Verankering,Verankering,Ongewijzigd
+BP,Stuw,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BP,Stuw,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BP,Stuw,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BP,Stuw,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+BP,Stuw,Zinker,Zinker,Ongewijzigd
+BP,Stuw,Grendelinrichting,Grendelinrichting,Ongewijzigd
+BP,Stuw,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BP,Stuw,Kelder,Kelder,Ongewijzigd
+BP,Stuw,Stuwhoofd,Stuwhoofd,Ongewijzigd
+BP,Stuw,Vispassage,Vispassage,Ongewijzigd
+BP,Stuw,Talud,Talud,Ongewijzigd
+BP,Stuw,Afscheiding,Afscheiding,Ongewijzigd
+BP,Stuw,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BP,Stuw,Vissluis,Vissluis,Ongewijzigd
+BP,Stuw,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BP,Stuw,Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+BP,Stuw,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BP,Stuw,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BP,Stuw,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BP,Stuw,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+BP,Stuw,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BP,Stuw,Slijtlaag,Slijtlaag,Ongewijzigd
+BP,Stuw,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BP,Stuw,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BQ,Terrein,Aanrijbalk,Aanrijbalk,Ongewijzigd
+BQ,Terrein,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BQ,Terrein,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BQ,Terrein,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BQ,Terrein,Kabel,Kabel,Ongewijzigd
+BQ,Terrein,Berm,Berm,Ongewijzigd
+BQ,Terrein,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BQ,Terrein,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BQ,Terrein,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BQ,Terrein,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BQ,Terrein,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+BQ,Terrein,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BQ,Terrein,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+BQ,Terrein,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BQ,Terrein,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+BQ,Terrein,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BQ,Terrein,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+BQ,Terrein,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BQ,Terrein,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BQ,Terrein,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BQ,Terrein,Leiding,Leiding,Ongewijzigd
+BQ,Terrein,Lift-installatie,Lift-installatie,Ongewijzigd
+BQ,Terrein,Loopbrug,Loopbrug,Ongewijzigd
+BQ,Terrein,Mantelbuis,Mantelbuis,Ongewijzigd
+BQ,Terrein,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BQ,Terrein,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BQ,Terrein,Objectverlichting,Objectverlichting,Ongewijzigd
+BQ,Terrein,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BQ,Terrein,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BQ,Terrein,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BQ,Terrein,Opstal,Opstal,Ongewijzigd
+BQ,Terrein,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BQ,Terrein,Portaal,Portaal,Ongewijzigd
+BQ,Terrein,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BQ,Terrein,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+BQ,Terrein,Erf,Erf,Ongewijzigd
+BQ,Terrein,Toegangshek,Toegangshek,Ongewijzigd
+BQ,Terrein,Uithouder,Uithouder,Ongewijzigd
+BQ,Terrein,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BQ,Terrein,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BQ,Terrein,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BQ,Terrein,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BQ,Terrein,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BQ,Terrein,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BQ,Terrein,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BQ,Terrein,Wegmarkering,Wegmarkering,Ongewijzigd
+BQ,Terrein,Grendelinrichting,Grendelinrichting,Ongewijzigd
+BQ,Terrein,Talud,Talud,Ongewijzigd
+BQ,Terrein,Kwelder,Kwelder,Ongewijzigd
+BQ,Terrein,Afscheiding,Afscheiding,Ongewijzigd
+BQ,Terrein,Schietbaan,Schietbaan,Ongewijzigd
+BQ,Terrein,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BQ,Terrein,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+BQ,Terrein,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BQ,Terrein,Grasvegetatie,Grasvegetatie,Ongewijzigd
+BQ,Terrein,Sloot,Sloot,Ongewijzigd
+BQ,Terrein,Beek,Beek,Ongewijzigd
+BQ,Terrein,Afscheiderinstallatie (statisch),Afscheiderinstallatie (statisch),Ongewijzigd
+BQ,Terrein,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BQ,Terrein,Waarschuwings- en alarmeringssysteem (WAS),Waarschuwings- en alarmeringssysteem (WAS),Ongewijzigd
+BQ,Terrein,Afscheiderinstallatie (dynamisch),Afscheiderinstallatie (dynamisch),Ongewijzigd
+BQ,Terrein,Nooddouche-installatie,Nooddouche-installatie,Ongewijzigd
+BQ,Terrein,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BQ,Terrein,Pollerinstallatie,Pollerinstallatie,Ongewijzigd
+BQ,Terrein,Sproei-installatie,Sproei-installatie,Ongewijzigd
+BQ,Terrein,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BQ,Terrein,Boom,,Vervallen
+BQ,Terrein,Boomgroep,,Vervallen
+BQ,Terrein,Klim- en leiplant,,Vervallen
+BQ,Terrein,Moerasvegetatie,,Vervallen
+BQ,Terrein,Heester,,Vervallen
+BQ,Terrein,,Begroeid terreindeel,Toegevoegd
+BR,Tunnel,Aanrijbalk,Aanrijbalk,Ongewijzigd
+BR,Tunnel,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BR,Tunnel,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BR,Tunnel,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BR,Tunnel,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BR,Tunnel,Kabel,Kabel,Ongewijzigd
+BR,Tunnel,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BR,Tunnel,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BR,Tunnel,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BR,Tunnel,Calamiteiten Doorsteek installatie (CADO),Calamiteiten Doorsteek installatie (CADO),Ongewijzigd
+BR,Tunnel,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BR,Tunnel,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BR,Tunnel,Drainage,Drainage,Ongewijzigd
+BR,Tunnel,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BR,Tunnel,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+BR,Tunnel,Folieconstructie,Folieconstructie,Ongewijzigd
+BR,Tunnel,Fundering,Fundering,Ongewijzigd
+BR,Tunnel,Gasdetectie-installatie (LEL),Gasdetectie-installatie (LEL),Ongewijzigd
+BR,Tunnel,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BR,Tunnel,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+BR,Tunnel,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BR,Tunnel,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+BR,Tunnel,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BR,Tunnel,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BR,Tunnel,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BR,Tunnel,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+BR,Tunnel,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BR,Tunnel,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BR,Tunnel,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+BR,Tunnel,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BR,Tunnel,Kerende constructie,Kerende constructie,Ongewijzigd
+BR,Tunnel,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BR,Tunnel,Leiding,Leiding,Ongewijzigd
+BR,Tunnel,Lift-installatie,Lift-installatie,Ongewijzigd
+BR,Tunnel,Loopbrug,Loopbrug,Ongewijzigd
+BR,Tunnel,Mantelbuis,Mantelbuis,Ongewijzigd
+BR,Tunnel,Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+BR,Tunnel,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BR,Tunnel,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BR,Tunnel,Objectverlichting,Objectverlichting,Ongewijzigd
+BR,Tunnel,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BR,Tunnel,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BR,Tunnel,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BR,Tunnel,Oplegging,Oplegging,Ongewijzigd
+BR,Tunnel,Opstal,Opstal,Ongewijzigd
+BR,Tunnel,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+BR,Tunnel,Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+BR,Tunnel,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+BR,Tunnel,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BR,Tunnel,Pompkelder,Pompkelder,Ongewijzigd
+BR,Tunnel,Portaal,Portaal,Ongewijzigd
+BR,Tunnel,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BR,Tunnel,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+BR,Tunnel,Schampkant,Schampkant,Ongewijzigd
+BR,Tunnel,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BR,Tunnel,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BR,Tunnel,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BR,Tunnel,Erf,Erf,Ongewijzigd
+BR,Tunnel,Toegangshek,Toegangshek,Ongewijzigd
+BR,Tunnel,Tracing,Tracing,Ongewijzigd
+BR,Tunnel,Trambaan,Trambaan,Ongewijzigd
+BR,Tunnel,Tunnelbuis,Tunnelbuis,Ongewijzigd
+BR,Tunnel,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+BR,Tunnel,Verankering,Verankering,Ongewijzigd
+BR,Tunnel,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BR,Tunnel,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BR,Tunnel,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BR,Tunnel,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BR,Tunnel,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BR,Tunnel,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BR,Tunnel,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BR,Tunnel,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+BR,Tunnel,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BR,Tunnel,Verplaatsbare Vangrail installatie (VEVA),Verplaatsbare Vangrail installatie (VEVA),Ongewijzigd
+BR,Tunnel,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BR,Tunnel,Voegovergang,Voegovergang,Ongewijzigd
+BR,Tunnel,Wegmarkering,Wegmarkering,Ongewijzigd
+BR,Tunnel,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+BR,Tunnel,Centrale Antenne Installatie (CAI),Centrale Antenne Installatie (CAI),Ongewijzigd
+BR,Tunnel,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BR,Tunnel,Kelder,Kelder,Ongewijzigd
+BR,Tunnel,Talud,Talud,Ongewijzigd
+BR,Tunnel,Faunadekking,Faunadekking,Ongewijzigd
+BR,Tunnel,Afscheiding,Afscheiding,Ongewijzigd
+BR,Tunnel,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BR,Tunnel,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BR,Tunnel,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BR,Tunnel,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BR,Tunnel,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BR,Tunnel,Sanitaire installatie,Sanitaire installatie,Ongewijzigd
+BR,Tunnel,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BR,Tunnel,Zonweringsinstallatie,Zonweringsinstallatie,Ongewijzigd
+BR,Tunnel,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BR,Tunnel,Drukluchtschuiminstallatie (DLS),Drukluchtschuiminstallatie (DLS),Ongewijzigd
+BR,Tunnel,Watermistinstallatie (WMS),Watermistinstallatie (WMS),Ongewijzigd
+BR,Tunnel,Slijtlaag,Slijtlaag,Ongewijzigd
+BR,Tunnel,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BR,Tunnel,Sproei-installatie,Sproei-installatie,Ongewijzigd
+BR,Tunnel,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BS,Uiterwaard,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BS,Uiterwaard,Achterland,Achterland,Ongewijzigd
+BS,Uiterwaard,Faunadekking,Faunadekking,Ongewijzigd
+BS,Uiterwaard,Afscheiding,Afscheiding,Ongewijzigd
+BS,Uiterwaard,Sloot,Sloot,Ongewijzigd
+BS,Uiterwaard,Beek,Beek,Ongewijzigd
+BS,Uiterwaard,Nevengeul,Nevengeul,Ongewijzigd
+BS,Uiterwaard,Boom,,Vervallen
+BS,Uiterwaard,Boomgroep,,Vervallen
+BS,Uiterwaard,Vaste plant,,Vervallen
+BS,Uiterwaard,,Begroeid terreindeel,Toegevoegd
+BU,Verkeerscentrale,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Kabel,Kabel,Ongewijzigd
+BU,Verkeerscentrale,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BU,Verkeerscentrale,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Brandmeld- en ontruimingsinstallatie (BMI),Brandmeld- en ontruimingsinstallatie (BMI),Ongewijzigd
+BU,Verkeerscentrale,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BU,Verkeerscentrale,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BU,Verkeerscentrale,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BU,Verkeerscentrale,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+BU,Verkeerscentrale,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Inspectiewagen,Inspectiewagen,Ongewijzigd
+BU,Verkeerscentrale,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BU,Verkeerscentrale,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Ongewijzigd
+BU,Verkeerscentrale,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BU,Verkeerscentrale,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Leiding,Leiding,Ongewijzigd
+BU,Verkeerscentrale,Lift-installatie,Lift-installatie,Ongewijzigd
+BU,Verkeerscentrale,Loopbrug,Loopbrug,Ongewijzigd
+BU,Verkeerscentrale,Mantelbuis,Mantelbuis,Ongewijzigd
+BU,Verkeerscentrale,Marifooninstallatie,Marifooninstallatie,Ongewijzigd
+BU,Verkeerscentrale,Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+BU,Verkeerscentrale,Nautofooninstallatie,Nautofooninstallatie,Ongewijzigd
+BU,Verkeerscentrale,Noodstroominstallatie (roterend),Noodstroominstallatie (roterend),Ongewijzigd
+BU,Verkeerscentrale,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+BU,Verkeerscentrale,Objectverlichting,Objectverlichting,Ongewijzigd
+BU,Verkeerscentrale,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Personenzoekinstallatie (PZI),Personenzoekinstallatie (PZI),Ongewijzigd
+BU,Verkeerscentrale,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Radarinstallatie,Radarinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Roltrapinstallatie,Roltrapinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+BU,Verkeerscentrale,Telefooninstallatie,Telefooninstallatie,Ongewijzigd
+BU,Verkeerscentrale,Telemetrie-installatie,Telemetrie-installatie,Ongewijzigd
+BU,Verkeerscentrale,Toegangshek,Toegangshek,Ongewijzigd
+BU,Verkeerscentrale,Tracing,Tracing,Ongewijzigd
+BU,Verkeerscentrale,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+BU,Verkeerscentrale,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BU,Verkeerscentrale,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BU,Verkeerscentrale,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BU,Verkeerscentrale,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+BU,Verkeerscentrale,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BV,Verzorgingsplaats,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BV,Verzorgingsplaats,Kabel,Kabel,Ongewijzigd
+BV,Verzorgingsplaats,Brandblusinstallatie,Brandblusinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BV,Verzorgingsplaats,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BV,Verzorgingsplaats,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+BV,Verzorgingsplaats,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BV,Verzorgingsplaats,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BV,Verzorgingsplaats,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+BV,Verzorgingsplaats,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+BV,Verzorgingsplaats,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BV,Verzorgingsplaats,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Leiding,Leiding,Ongewijzigd
+BV,Verzorgingsplaats,Loopbrug,Loopbrug,Ongewijzigd
+BV,Verzorgingsplaats,Mantelbuis,Mantelbuis,Ongewijzigd
+BV,Verzorgingsplaats,Omroepinstallatie,Omroepinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BV,Verzorgingsplaats,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Portaal,Portaal,Ongewijzigd
+BV,Verzorgingsplaats,Uithouder,Uithouder,Ongewijzigd
+BV,Verzorgingsplaats,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BV,Verzorgingsplaats,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BV,Verzorgingsplaats,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BV,Verzorgingsplaats,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BV,Verzorgingsplaats,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BV,Verzorgingsplaats,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+BV,Verzorgingsplaats,Wegmarkering,Wegmarkering,Ongewijzigd
+BV,Verzorgingsplaats,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BV,Verzorgingsplaats,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Pollerinstallatie,Pollerinstallatie,Ongewijzigd
+BV,Verzorgingsplaats,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+BW,Viaduct,Aanrijbalk,Aanrijbalk,Ongewijzigd
+BW,Viaduct,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BW,Viaduct,Antivandalismevoorziening,Antivandalismevoorziening,Ongewijzigd
+BW,Viaduct,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BW,Viaduct,Kabel,Kabel,Ongewijzigd
+BW,Viaduct,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BW,Viaduct,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+BW,Viaduct,Drainage,Drainage,Ongewijzigd
+BW,Viaduct,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BW,Viaduct,Fundering,Fundering,Ongewijzigd
+BW,Viaduct,Geleideconstructie,Geleideconstructie,Ongewijzigd
+BW,Viaduct,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+BW,Viaduct,Gladheidsmeldsysteem,Gladheidsmeldsysteem,Ongewijzigd
+BW,Viaduct,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BW,Viaduct,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+BW,Viaduct,Hoofddraaipunt,Hoofddraaipunt,Ongewijzigd
+BW,Viaduct,Hoogtedetectie-installatie,Hoogtedetectie-installatie,Ongewijzigd
+BW,Viaduct,Intercominstallatie,Intercominstallatie,Ongewijzigd
+BW,Viaduct,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BW,Viaduct,Kerende constructie,Kerende constructie,Ongewijzigd
+BW,Viaduct,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BW,Viaduct,Leiding,Leiding,Ongewijzigd
+BW,Viaduct,Mantelbuis,Mantelbuis,Ongewijzigd
+BW,Viaduct,Objectverlichting,Objectverlichting,Ongewijzigd
+BW,Viaduct,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+BW,Viaduct,Oplegging,Oplegging,Ongewijzigd
+BW,Viaduct,Over- en onderdrukinstallatie,Over- en onderdrukinstallatie,Ongewijzigd
+BW,Viaduct,Overgangsconstructie,Overgangsconstructie,Ongewijzigd
+BW,Viaduct,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BW,Viaduct,Pompkelder,Pompkelder,Ongewijzigd
+BW,Viaduct,Portaal,Portaal,Ongewijzigd
+BW,Viaduct,Schampkant,Schampkant,Ongewijzigd
+BW,Viaduct,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BW,Viaduct,Steunpunt,Steunpunt,Ongewijzigd
+BW,Viaduct,Toegangshek,Toegangshek,Ongewijzigd
+BW,Viaduct,Trambaan,Trambaan,Ongewijzigd
+BW,Viaduct,Uithouder,Uithouder,Ongewijzigd
+BW,Viaduct,Verankering,Verankering,Ongewijzigd
+BW,Viaduct,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+BW,Viaduct,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+BW,Viaduct,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+BW,Viaduct,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+BW,Viaduct,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+BW,Viaduct,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BW,Viaduct,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+BW,Viaduct,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+BW,Viaduct,Voegovergang,Voegovergang,Ongewijzigd
+BW,Viaduct,Wegmarkering,Wegmarkering,Ongewijzigd
+BW,Viaduct,Weigh In Motion,Weigh In Motion,Ongewijzigd
+BW,Viaduct,Talud,Talud,Ongewijzigd
+BW,Viaduct,Faunadekking,Faunadekking,Ongewijzigd
+BW,Viaduct,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+BW,Viaduct,Borstwering,Borstwering,Ongewijzigd
+BW,Viaduct,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+BW,Viaduct,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BW,Viaduct,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BW,Viaduct,Slijtlaag,Slijtlaag,Ongewijzigd
+BW,Viaduct,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BW,Viaduct,Sproei-installatie,Sproei-installatie,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Bodem,Bodem,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Fauna uittreedplaats,Fauna uittreedplaats,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Kerende constructie,Kerende constructie,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Oeverbescherming,Oeverbescherming,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Radarinstallatie,Radarinstallatie,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Steiger,Steiger,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Strekdam,Strekdam,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Verankering,Verankering,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Zinker,Zinker,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Vaargeul,Vaargeul,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Aanloopgebied,Aanloopgebied,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Ankergebied,Ankergebied,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Wingebied,Wingebied,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Keerplaats,Keerplaats,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Talud,Talud,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Faunadekking,Faunadekking,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Infiltratievoorziening,Infiltratievoorziening,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Faunageleiding,Faunageleiding,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Leikade,Leikade,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Leidam,Leidam,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Meetinstallatie,Meetinstallatie,Ongewijzigd
+CK,"Water en watergang (lijnvormig), overig",Watervegetatie,,Vervallen
+CK,"Water en watergang (lijnvormig), overig",,Waterlichaam (oppervlaktewater),Toegevoegd
+CK,"Water en watergang (lijnvormig), overig",,Hoogwatervluchtplaats,Toegevoegd
+CJ,"Water en watergang (niet lijnvormig), overig",Afmeervoorziening,Afmeervoorziening,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Bodem,Bodem,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Fauna uittreedplaats,Fauna uittreedplaats,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Kerende constructie,Kerende constructie,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Oeverbescherming,Oeverbescherming,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Radarinstallatie,Radarinstallatie,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Remming- en geleidewerk,Remming- en geleidewerk,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Scheepvaartdetectie-installatie,Scheepvaartdetectie-installatie,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Steiger,Steiger,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Strekdam,Strekdam,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Vaarwegmarkering,Vaarwegmarkering,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Verankering,Verankering,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Vispassage,Vispassage,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Vaargeul,Vaargeul,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Aanloopgebied,Aanloopgebied,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Ankergebied,Ankergebied,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Wingebied,Wingebied,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Keerplaats,Keerplaats,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Talud,Talud,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Faunadekking,Faunadekking,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Infiltratievoorziening,Infiltratievoorziening,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Faunageleiding,Faunageleiding,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Leikade,Leikade,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Leidam,Leidam,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Reddingsmiddel,Reddingsmiddel,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Meetinstallatie,Meetinstallatie,Ongewijzigd
+CJ,"Water en watergang (niet lijnvormig), overig",Watervegetatie,,Vervallen
+CJ,"Water en watergang (niet lijnvormig), overig",,Waterlichaam (oppervlaktewater),Toegevoegd
+CJ,"Water en watergang (niet lijnvormig), overig",,Hoogwatervluchtplaats,Toegevoegd
+AH,Waterbuffer,Bodem,Bodem,Ongewijzigd
+AH,Waterbuffer,Folieconstructie,Folieconstructie,Ongewijzigd
+AH,Waterbuffer,Gestrekte oever (natuurvriendelijk),Gestrekte oever (natuurvriendelijk),Ongewijzigd
+AH,Waterbuffer,Gestrekte oever (talud),Gestrekte oever (talud),Ongewijzigd
+AH,Waterbuffer,Kerende constructie,Kerende constructie,Ongewijzigd
+AH,Waterbuffer,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Aandrijving en bewegingswerk (elektrohydraulisch),Aandrijving en bewegingswerk (elektrohydraulisch),Ongewijzigd
+BZ,Waterreguleringswerk,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+BZ,Waterreguleringswerk,Aandrijving en bewegingswerk (mechanisch),Aandrijving en bewegingswerk (mechanisch),Ongewijzigd
+BZ,Waterreguleringswerk,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+BZ,Waterreguleringswerk,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Kabel,Kabel,Ongewijzigd
+BZ,Waterreguleringswerk,Binnenverlichting,Binnenverlichting,Ongewijzigd
+BZ,Waterreguleringswerk,Bodembescherming,Bodembescherming,Ongewijzigd
+BZ,Waterreguleringswerk,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+BZ,Waterreguleringswerk,Doorlaatkoker,Doorlaatkoker,Ongewijzigd
+BZ,Waterreguleringswerk,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+BZ,Waterreguleringswerk,Fundering,Fundering,Ongewijzigd
+BZ,Waterreguleringswerk,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+BZ,Waterreguleringswerk,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Hoogspanningsinstallatie,Hoogspanningsinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+BZ,Waterreguleringswerk,Kerende constructie,Kerende constructie,Ongewijzigd
+BZ,Waterreguleringswerk,Klepconstructie,Klepconstructie,Ongewijzigd
+BZ,Waterreguleringswerk,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Leiding,Leiding,Ongewijzigd
+BZ,Waterreguleringswerk,Loopbrug,Loopbrug,Ongewijzigd
+BZ,Waterreguleringswerk,Mantelbuis,Mantelbuis,Ongewijzigd
+BZ,Waterreguleringswerk,Objectverlichting,Objectverlichting,Ongewijzigd
+BZ,Waterreguleringswerk,Oeverbescherming,Oeverbescherming,Ongewijzigd
+BZ,Waterreguleringswerk,Onderhoudsvoorziening,Onderhoudsvoorziening,Ongewijzigd
+BZ,Waterreguleringswerk,Opstal,Opstal,Ongewijzigd
+BZ,Waterreguleringswerk,Pompinstallatie,Pompinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Scheepverkeersbeseining,Scheepverkeersbeseining,Ongewijzigd
+BZ,Waterreguleringswerk,Schuifconstructie,Schuifconstructie,Ongewijzigd
+BZ,Waterreguleringswerk,Sluishoofd,Sluishoofd,Ongewijzigd
+BZ,Waterreguleringswerk,Keringschuif,Keringschuif,Ongewijzigd
+BZ,Waterreguleringswerk,Erf,Erf,Ongewijzigd
+BZ,Waterreguleringswerk,Toegangshek,Toegangshek,Ongewijzigd
+BZ,Waterreguleringswerk,Verankering,Verankering,Ongewijzigd
+BZ,Waterreguleringswerk,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+BZ,Waterreguleringswerk,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Zinker,Zinker,Ongewijzigd
+BZ,Waterreguleringswerk,Grendelinrichting,Grendelinrichting,Ongewijzigd
+BZ,Waterreguleringswerk,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Kelder,Kelder,Ongewijzigd
+BZ,Waterreguleringswerk,Talud,Talud,Ongewijzigd
+BZ,Waterreguleringswerk,Afscheiding,Afscheiding,Ongewijzigd
+BZ,Waterreguleringswerk,Vissluis,Vissluis,Ongewijzigd
+BZ,Waterreguleringswerk,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Kathodische bescherminstallatie,Kathodische bescherminstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Meetinstallatie,Meetinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Roosterreinigingsinstallatie,Roosterreinigingsinstallatie,Ongewijzigd
+BZ,Waterreguleringswerk,Toegangscontrole-installatie,Toegangscontrole-installatie,Ongewijzigd
+BZ,Waterreguleringswerk,Leuningconstructie,Leuningconstructie,Ongewijzigd
+BZ,Waterreguleringswerk,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+CA,Weg,Aanrijbalk,Aanrijbalk,Ongewijzigd
+CA,Weg,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CA,Weg,Afsluitboominstallatie,Afsluitboominstallatie,Ongewijzigd
+CA,Weg,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CA,Weg,Kabel,Kabel,Ongewijzigd
+CA,Weg,Berm,Berm,Ongewijzigd
+CA,Weg,Calamiteiten Doorsteek installatie (CADO),Calamiteiten Doorsteek installatie (CADO),Ongewijzigd
+CA,Weg,Closed Circuit TeleVision installatie (CCTV),Closed Circuit TeleVision installatie (CCTV),Ongewijzigd
+CA,Weg,Transmissie-installatie,Transmissie-installatie,Ongewijzigd
+CA,Weg,Drainage,Drainage,Ongewijzigd
+CA,Weg,Duurzame energiebron,Duurzame energiebron,Ongewijzigd
+CA,Weg,Dynamische bewegwijzering en informatie systemen,Dynamische bewegwijzering en informatie systemen,Ongewijzigd
+CA,Weg,Geleideconstructie,Geleideconstructie,Ongewijzigd
+CA,Weg,Geluidbeperkende constructie,Geluidbeperkende constructie,Ongewijzigd
+CA,Weg,Gladheidsmeldsysteem,Gladheidsmeldsysteem,Ongewijzigd
+CA,Weg,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+CA,Weg,Hoog Frequent installatie (HF),Hoog Frequent installatie (HF),Ongewijzigd
+CA,Weg,Intercominstallatie,Intercominstallatie,Ongewijzigd
+CA,Weg,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CA,Weg,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CA,Weg,Kerende constructie,Kerende constructie,Ongewijzigd
+CA,Weg,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+CA,Weg,Leiding,Leiding,Ongewijzigd
+CA,Weg,Mantelbuis,Mantelbuis,Ongewijzigd
+CA,Weg,Wegkantsysteem (WKS),Wegkantsysteem (WKS),Ongewijzigd
+CA,Weg,Noodstroominstallatie (statisch),Noodstroominstallatie (statisch),Ongewijzigd
+CA,Weg,Objectverlichting,Objectverlichting,Ongewijzigd
+CA,Weg,Openbare verlichting (OV),Openbare verlichting (OV),Ongewijzigd
+CA,Weg,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CA,Weg,Portaal,Portaal,Ongewijzigd
+CA,Weg,Radarinstallatie,Radarinstallatie,Ongewijzigd
+CA,Weg,Toegangshek,Toegangshek,Ongewijzigd
+CA,Weg,Trambaan,Trambaan,Ongewijzigd
+CA,Weg,Uithouder,Uithouder,Ongewijzigd
+CA,Weg,Verharding wegtype 1 (hoofdwegennet),Verharding wegtype 1 (hoofdwegennet),Ongewijzigd
+CA,Weg,Verharding wegtype 2 (zwaarbelaste weg),Verharding wegtype 2 (zwaarbelaste weg),Ongewijzigd
+CA,Weg,Verharding wegtype 3 (gemiddeld belaste weg),Verharding wegtype 3 (gemiddeld belaste weg),Ongewijzigd
+CA,Weg,Verharding wegtype 4 (licht belast),Verharding wegtype 4 (licht belast),Ongewijzigd
+CA,Weg,Verharding wegtype 5 (weg in woongebied),Verharding wegtype 5 (weg in woongebied),Ongewijzigd
+CA,Weg,Verharding wegtype 6 (weg in verblijfsgebied),Verharding wegtype 6 (weg in verblijfsgebied),Ongewijzigd
+CA,Weg,Verharding wegtype 7 (fietspaden),Verharding wegtype 7 (fietspaden),Ongewijzigd
+CA,Weg,Verkeersdetectie-installatie,Verkeersdetectie-installatie,Ongewijzigd
+CA,Weg,Verkeersregelinstallatie (VRI),Verkeersregelinstallatie (VRI),Ongewijzigd
+CA,Weg,Verplaatsbare Vangrail installatie (VEVA),Verplaatsbare Vangrail installatie (VEVA),Ongewijzigd
+CA,Weg,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Vluchthaven Aanwezigheidsdetectie installatie (VAD),Ongewijzigd
+CA,Weg,Wegmarkering,Wegmarkering,Ongewijzigd
+CA,Weg,Weigh In Motion,Weigh In Motion,Ongewijzigd
+CA,Weg,Werk-spreekverbinding,Werk-spreekverbinding,Ongewijzigd
+CA,Weg,Fauna-insprong,Fauna-insprong,Ongewijzigd
+CA,Weg,Faunadekking,Faunadekking,Ongewijzigd
+CA,Weg,Faunageleiding,Faunageleiding,Ongewijzigd
+CA,Weg,Terreinmeubilair,Terreinmeubilair,Ongewijzigd
+CA,Weg,Klimaatinstallatie,Klimaatinstallatie,Ongewijzigd
+CA,Weg,Grasvegetatie,Grasvegetatie,Ongewijzigd
+CA,Weg,Sloot,Sloot,Ongewijzigd
+CA,Weg,Beek,Beek,Ongewijzigd
+CA,Weg,Put,Put,Ongewijzigd
+CA,Weg,Bergbezinkbassin,Bergbezinkbassin,Ongewijzigd
+CA,Weg,Uitlaatvoorziening,Uitlaatvoorziening,Ongewijzigd
+CA,Weg,Inlaatvoorziening,Inlaatvoorziening,Ongewijzigd
+CA,Weg,Afscheiderinstallatie (statisch),Afscheiderinstallatie (statisch),Ongewijzigd
+CA,Weg,Dataloginstallatie,Dataloginstallatie,Ongewijzigd
+CA,Weg,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CA,Weg,Verkeerseiland,Verkeerseiland,Ongewijzigd
+CA,Weg,Pollerinstallatie,Pollerinstallatie,Ongewijzigd
+CA,Weg,Sproei-installatie,Sproei-installatie,Ongewijzigd
+CA,Weg,Boom,,Vervallen
+CA,Weg,Boomgroep,,Vervallen
+CA,Weg,Haag,,Vervallen
+CA,Weg,Heester,,Vervallen
+CA,Weg,,Begroeid terreindeel,Toegevoegd
+DA,Windmolen,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+DA,Windmolen,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+DA,Windmolen,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+DA,Windmolen,Bedienings- en besturingsinstallatie,Bedienings- en besturingsinstallatie,Ongewijzigd
+DA,Windmolen,Kabel,Kabel,Ongewijzigd
+DA,Windmolen,Binnenverlichting,Binnenverlichting,Ongewijzigd
+DA,Windmolen,Fundering,Fundering,Ongewijzigd
+DA,Windmolen,Hemelwaterafvoer (HWA),Hemelwaterafvoer (HWA),Ongewijzigd
+DA,Windmolen,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+DA,Windmolen,Hoofddraagconstructie,Hoofddraagconstructie,Ongewijzigd
+DA,Windmolen,Laagspanningsinstallatie,Laagspanningsinstallatie,Ongewijzigd
+DA,Windmolen,Erf,Erf,Ongewijzigd
+DA,Windmolen,Toegangshek,Toegangshek,Ongewijzigd
+DA,Windmolen,Vluchtweginstallatie,Vluchtweginstallatie,Ongewijzigd
+DA,Windmolen,Inbraakbeveiligingsinstallatie,Inbraakbeveiligingsinstallatie,Ongewijzigd
+DA,Windmolen,Kelder,Kelder,Ongewijzigd
+DA,Windmolen,Afscheiding,Afscheiding,Ongewijzigd
+DA,Windmolen,Wandconstructie,Wandconstructie,Ongewijzigd
+DA,Windmolen,Vloerconstructie,Vloerconstructie,Ongewijzigd
+DA,Windmolen,Trapconstructie,Trapconstructie,Ongewijzigd
+DA,Windmolen,Dakconstructie,Dakconstructie,Ongewijzigd
+DA,Windmolen,Plafondconstructie,Plafondconstructie,Ongewijzigd
+DA,Windmolen,Kozijnwerk,Kozijnwerk,Ongewijzigd
+DA,Windmolen,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+DA,Windmolen,Global System for Mobile communications installatie (GSM),Global System for Mobile communications installatie (GSM),Ongewijzigd
+CY,Zandfilterbassin,Aandrijving en bewegingswerk (elektromechanisch),Aandrijving en bewegingswerk (elektromechanisch),Ongewijzigd
+CY,Zandfilterbassin,Aarding- en bliksembeveiligingsinstallatie,Aarding- en bliksembeveiligingsinstallatie,Ongewijzigd
+CY,Zandfilterbassin,Bebording en bewegwijzering (statisch),Bebording en bewegwijzering (statisch),Ongewijzigd
+CY,Zandfilterbassin,Kabel,Kabel,Ongewijzigd
+CY,Zandfilterbassin,Compressorinstallatie,Compressorinstallatie,Ongewijzigd
+CY,Zandfilterbassin,Fundering,Fundering,Ongewijzigd
+CY,Zandfilterbassin,Hijs- en hefinstallatie,Hijs- en hefinstallatie,Ongewijzigd
+CY,Zandfilterbassin,Kabel- en leidingtunnel,Kabel- en leidingtunnel,Ongewijzigd
+CY,Zandfilterbassin,Kabeldraagconstructie,Kabeldraagconstructie,Ongewijzigd
+CY,Zandfilterbassin,Klepconstructie,Klepconstructie,Ongewijzigd
+CY,Zandfilterbassin,Mantelbuis,Mantelbuis,Ongewijzigd
+CY,Zandfilterbassin,Objectverlichting,Objectverlichting,Ongewijzigd
+CY,Zandfilterbassin,Pompinstallatie,Pompinstallatie,Ongewijzigd
+CY,Zandfilterbassin,Schuifconstructie,Schuifconstructie,Ongewijzigd
+CY,Zandfilterbassin,Tracing,Tracing,Ongewijzigd
+CY,Zandfilterbassin,Ventilatie-installatie,Ventilatie-installatie,Ongewijzigd
+CY,Zandfilterbassin,Kelder,Kelder,Ongewijzigd
+CY,Zandfilterbassin,Borstwering,Borstwering,Ongewijzigd
+CY,Zandfilterbassin,Inlaatvoorziening,Inlaatvoorziening,Ongewijzigd
+CY,Zandfilterbassin,Meetinstallatie,Meetinstallatie,Ongewijzigd
+CY,Zandfilterbassin,Wandconstructie,Wandconstructie,Ongewijzigd
+CY,Zandfilterbassin,Vloerconstructie,Vloerconstructie,Ongewijzigd
+CY,Zandfilterbassin,Trapconstructie,Trapconstructie,Ongewijzigd
+CY,Zandfilterbassin,Dakconstructie,Dakconstructie,Ongewijzigd
+CY,Zandfilterbassin,Plafondconstructie,Plafondconstructie,Ongewijzigd
+CY,Zandfilterbassin,Stuurstroomvoedingsinstallatie,Stuurstroomvoedingsinstallatie,Ongewijzigd
+CB,Zee,Bodem,Bodem,Ongewijzigd
+CB,Zee,Havendam,Havendam,Ongewijzigd
+CB,Zee,Strandhoofd,Strandhoofd,Ongewijzigd
+CB,Zee,Strekdam,Strekdam,Ongewijzigd
+CB,Zee,Vaargeul,Vaargeul,Ongewijzigd
+CB,Zee,Aanloopgebied,Aanloopgebied,Ongewijzigd
+CB,Zee,Ankergebied,Ankergebied,Ongewijzigd
+CB,Zee,Wingebied,Wingebied,Ongewijzigd
+CB,Zee,Keerplaats,Keerplaats,Ongewijzigd
+CB,Zee,Kwelder,Kwelder,Ongewijzigd
+CB,Zee,Stortvak,Stortvak,Ongewijzigd
+CB,Zee,Leikade,Leikade,Ongewijzigd
+CB,Zee,Leidam,Leidam,Ongewijzigd

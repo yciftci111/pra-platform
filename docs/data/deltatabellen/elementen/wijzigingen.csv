@@ -1,0 +1,465 @@
+Code,Element,Onderdeel,Oud,Nieuw,Mutatie
+424,Aalgoot,Element,,Aalgoot,Toegevoegd
+424,Aalgoot,Beheerobjectcategorie,,Dam,Toegevoegd
+424,Aalgoot,Beheerobjectcategorie,,Dijk,Toegevoegd
+424,Aalgoot,Lead werkgroep,,CGR,Toegevoegd
+424,Aalgoot,Extra werkgroep,,CGR,Toegevoegd
+424,Aalgoot,Extra werkgroep,,WB,Toegevoegd
+424,Aalgoot,Extra werkgroep,,KW,Toegevoegd
+424,Aalgoot,Bouwdeel,,Goot,Toegevoegd
+424,Aalgoot,Bouwdeel,,Buisleiding,Toegevoegd
+424,Aalgoot,Bouwdeel,,Pomp,Toegevoegd
+424,Aalgoot,Bouwdeel,,Rooster,Toegevoegd
+424,Aalgoot,Afbeelding,,Afbeelding Aalgoot 1.png,Toegevoegd
+424,Aalgoot,Afbeelding,,Afbeelding Aalgoot 2.png,Toegevoegd
+424,Aalgoot,Afbeelding,,Afbeelding Aalgoot 3.png,Toegevoegd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Bouwdeel,,Koppeling,Toegevoegd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Bouwdeel,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Bouwdeel,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+264,Achterland,Bouwdeel,,Boom,Toegevoegd
+264,Achterland,Bouwdeel,,Gras/kruid,Toegevoegd
+264,Achterland,Bouwdeel,,Haag,Toegevoegd
+359,Afscheiderinstallatie (statisch),Bouwdeel,Kabeldoorvoer,Doorvoer,Gewijzigd
+359,Afscheiderinstallatie (statisch),Bouwdeel,,Helofytenfilter,Toegevoegd
+306,Afscheiding,Vakdiscipline,GN,GB,Gewijzigd
+306,Afscheiding,Bouwdeel,,Oversteek,Toegevoegd
+428,Afslagzone,Element,,Afslagzone,Toegevoegd
+428,Afslagzone,Beheerobjectcategorie,,Duingebied,Toegevoegd
+428,Afslagzone,Lead werkgroep,,WB,Toegevoegd
+428,Afslagzone,Extra werkgroep,,WB,Toegevoegd
+428,Afslagzone,Vakdiscipline,,WB,Toegevoegd
+428,Afslagzone,Bouwdeel,,Asfaltverharding,Toegevoegd
+428,Afslagzone,Bouwdeel,,Duinovergang,Toegevoegd
+428,Afslagzone,Bouwdeel,,Elementenverharding,Toegevoegd
+428,Afslagzone,Bouwdeel,,Grondlichaam,Toegevoegd
+428,Afslagzone,Bouwdeel,,Bekleding,Toegevoegd
+428,Afslagzone,Bouwdeel,,Embryonaal-duin,Toegevoegd
+428,Afslagzone,Bouwdeel,,Kerf,Toegevoegd
+428,Afslagzone,Bouwdeel,,Slufter,Toegevoegd
+428,Afslagzone,Bouwdeel,,Stuifkuil,Toegevoegd
+428,Afslagzone,Bouwdeel,,Stuifscherm,Toegevoegd
+275,Asbestemming,Vakdiscipline,GN,GB,Gewijzigd
+111,Bebording en bewegwijzering (statisch),Vakdiscipline,GN,GB,Gewijzigd
+111,Bebording en bewegwijzering (statisch),Bouwdeel,,Paal,Toegevoegd
+112,Bedienings- en besturingsinstallatie,Bouwdeel,,Veldbus,Toegevoegd
+112,Bedienings- en besturingsinstallatie,Bouwdeel,,Wide Area Network (WAN),Toegevoegd
+353,Beek,Vakdiscipline,GN,GB,Gewijzigd
+353,Beek,Bouwdeel,,Plant,Toegevoegd
+353,Beek,Bouwdeel,,Uitmonding,Toegevoegd
+418,Begroeid terreindeel,Element,,Begroeid terreindeel,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Bosgebied,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Dam,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Dijk,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Infragebonden gebouw,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Park,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Spoorweg,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Terrein,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Uiterwaard,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Weg,Toegevoegd
+418,Begroeid terreindeel,Beheerobjectcategorie,,Recreatief gebied,Toegevoegd
+418,Begroeid terreindeel,Lead werkgroep,,CGR,Toegevoegd
+418,Begroeid terreindeel,Extra werkgroep,,CGR,Toegevoegd
+418,Begroeid terreindeel,Vakdiscipline,,GB,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Boom,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Heester,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Struikroos,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Gras/kruid,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Bodembedekker,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Haag,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Plant,Toegevoegd
+418,Begroeid terreindeel,Bouwdeel,,Plasberm,Toegevoegd
+356,Bergbezinkbassin,Bouwdeel,Kabeldoorvoer,Doorvoer,Gewijzigd
+114,Berm,Werkdefinitie,"Horizontale of licht hellende strook langs de weg, spoorweg of grondlichaam veelal begroeid met gras en/of beplanting",Een strook grond langs een weg of spoorweg.,Gewijzigd
+114,Berm,Vakdiscipline,GN,GB,Gewijzigd
+114,Berm,Bouwdeel,"Berm, Algemeen",,Vervallen
+114,Berm,Bouwdeel,Schraalgrasland,,Vervallen
+114,Berm,Bouwdeel,,Boom,Toegevoegd
+114,Berm,Bouwdeel,,Heester,Toegevoegd
+114,Berm,Bouwdeel,,Struikroos,Toegevoegd
+114,Berm,Bouwdeel,,Gras/kruid,Toegevoegd
+114,Berm,Bouwdeel,,Bodembedekker,Toegevoegd
+114,Berm,Bouwdeel,,Haag,Toegevoegd
+114,Berm,Bouwdeel,,Plant,Toegevoegd
+425,Binnenberm,Element,,Binnenberm,Toegevoegd
+425,Binnenberm,Beheerobjectcategorie,,Dam,Toegevoegd
+425,Binnenberm,Beheerobjectcategorie,,Dijk,Toegevoegd
+425,Binnenberm,Lead werkgroep,,WB,Toegevoegd
+425,Binnenberm,Extra werkgroep,,WB,Toegevoegd
+425,Binnenberm,Vakdiscipline,,WB,Toegevoegd
+425,Binnenberm,Bouwdeel,,Asfaltverharding,Toegevoegd
+425,Binnenberm,Bouwdeel,,Elementenverharding,Toegevoegd
+425,Binnenberm,Bouwdeel,,Grondlichaam,Toegevoegd
+425,Binnenberm,Bouwdeel,,Op- en afrit,Toegevoegd
+425,Binnenberm,Bouwdeel,,Opsluitband,Toegevoegd
+425,Binnenberm,Bouwdeel,,Peilschaal,Toegevoegd
+425,Binnenberm,Bouwdeel,,Sensor,Toegevoegd
+425,Binnenberm,Bouwdeel,,Boom,Toegevoegd
+425,Binnenberm,Bouwdeel,,Grindkoffer,Toegevoegd
+425,Binnenberm,Bouwdeel,,Schanskorf,Toegevoegd
+425,Binnenberm,Bouwdeel,,Bekleding,Toegevoegd
+425,Binnenberm,Bouwdeel,,Gras/kruid,Toegevoegd
+425,Binnenberm,Bouwdeel,,Haag,Toegevoegd
+425,Binnenberm,Bouwdeel,,Peilbuis,Toegevoegd
+425,Binnenberm,Bouwdeel,,Kwelscherm,Toegevoegd
+429,Binnenduin,Element,,Binnenduin,Toegevoegd
+429,Binnenduin,Beheerobjectcategorie,,Duingebied,Toegevoegd
+429,Binnenduin,Lead werkgroep,,WB,Toegevoegd
+429,Binnenduin,Extra werkgroep,,WB,Toegevoegd
+429,Binnenduin,Vakdiscipline,,WB,Toegevoegd
+429,Binnenduin,Bouwdeel,,Asfaltverharding,Toegevoegd
+429,Binnenduin,Bouwdeel,,Duinovergang,Toegevoegd
+429,Binnenduin,Bouwdeel,,Elementenverharding,Toegevoegd
+429,Binnenduin,Bouwdeel,,Grondlichaam,Toegevoegd
+429,Binnenduin,Bouwdeel,,Bekleding,Toegevoegd
+429,Binnenduin,Bouwdeel,,Stuifkuil,Toegevoegd
+429,Binnenduin,Bouwdeel,,Stuifscherm,Toegevoegd
+260,Binnentalud,Beheerobjectcategorie,,Dam,Toegevoegd
+260,Binnentalud,Bouwdeel,,Asfaltverharding,Toegevoegd
+260,Binnentalud,Bouwdeel,,Boom,Toegevoegd
+260,Binnentalud,Bouwdeel,,Grindkoffer,Toegevoegd
+260,Binnentalud,Bouwdeel,,Schanskorf,Toegevoegd
+260,Binnentalud,Bouwdeel,Bomen/houtopstanden,,Vervallen
+260,Binnentalud,Bouwdeel,,Gras/kruid,Toegevoegd
+260,Binnentalud,Bouwdeel,,Haag,Toegevoegd
+260,Binnentalud,Bouwdeel,,Oversteek,Toegevoegd
+260,Binnentalud,Bouwdeel,,Peilbuis,Toegevoegd
+260,Binnentalud,Bouwdeel,,Kwelscherm,Toegevoegd
+116,Bodem,Beheerobjectcategorie,,Dam,Toegevoegd
+116,Bodem,Beheerobjectcategorie,,Dijk,Toegevoegd
+116,Bodem,Bouwdeel,,Stortebed,Toegevoegd
+116,Bodem,Bouwdeel,,Zinkstuk,Toegevoegd
+346,Bol- en knolgewas,Element,Bol- en knolgewas,,Vervallen
+346,Bol- en knolgewas,Beheerobjectcategorie,Park,,Vervallen
+346,Bol- en knolgewas,Lead werkgroep,CGR,,Vervallen
+346,Bol- en knolgewas,Extra werkgroep,CGR,,Vervallen
+346,Bol- en knolgewas,Vakdiscipline,GN,,Vervallen
+346,Bol- en knolgewas,Bouwdeel,Bollen,,Vervallen
+276,Boom,Element,Boom,,Vervallen
+276,Boom,Beheerobjectcategorie,Begraafplaats,,Vervallen
+276,Boom,Beheerobjectcategorie,Terrein,,Vervallen
+276,Boom,Beheerobjectcategorie,Uiterwaard,,Vervallen
+276,Boom,Beheerobjectcategorie,Weg,,Vervallen
+276,Boom,Lead werkgroep,CGR,,Vervallen
+276,Boom,Extra werkgroep,CGR,,Vervallen
+276,Boom,Vakdiscipline,GN,,Vervallen
+276,Boom,Bouwdeel,"Boom, Algemeen",,Vervallen
+276,Boom,Bouwdeel,Boomgeleiding,,Vervallen
+276,Boom,Bouwdeel,Vormboom,,Vervallen
+276,Boom,Bouwdeel,Vrij uitgroeiende boom,,Vervallen
+276,Boom,Bouwdeel,Niet vrij uitgroeiende boom,,Vervallen
+278,Boomgroep,Element,Boomgroep,,Vervallen
+278,Boomgroep,Beheerobjectcategorie,Park,,Vervallen
+278,Boomgroep,Beheerobjectcategorie,Terrein,,Vervallen
+278,Boomgroep,Beheerobjectcategorie,Uiterwaard,,Vervallen
+278,Boomgroep,Beheerobjectcategorie,Weg,,Vervallen
+278,Boomgroep,Beheerobjectcategorie,Recreatief gebied,,Vervallen
+278,Boomgroep,Lead werkgroep,CGR,,Vervallen
+278,Boomgroep,Extra werkgroep,CGR,,Vervallen
+278,Boomgroep,Vakdiscipline,GN,,Vervallen
+278,Boomgroep,Bouwdeel,Bomen/houtopstanden,,Vervallen
+278,Boomgroep,Bouwdeel,Bomenlaan,,Vervallen
+278,Boomgroep,Bouwdeel,Bomenrij,,Vervallen
+278,Boomgroep,Bouwdeel,Boomweide,,Vervallen
+278,Boomgroep,Bouwdeel,Windsingel,,Vervallen
+278,Boomgroep,Bouwdeel,Hakhout,,Vervallen
+278,Boomgroep,Bouwdeel,Grienden,,Vervallen
+426,Buitenberm,Element,,Buitenberm,Toegevoegd
+426,Buitenberm,Beheerobjectcategorie,,Dam,Toegevoegd
+426,Buitenberm,Beheerobjectcategorie,,Dijk,Toegevoegd
+426,Buitenberm,Lead werkgroep,,WB,Toegevoegd
+426,Buitenberm,Extra werkgroep,,WB,Toegevoegd
+426,Buitenberm,Vakdiscipline,,WB,Toegevoegd
+426,Buitenberm,Bouwdeel,,Asfaltverharding,Toegevoegd
+426,Buitenberm,Bouwdeel,,Elementenverharding,Toegevoegd
+426,Buitenberm,Bouwdeel,,Grondlichaam,Toegevoegd
+426,Buitenberm,Bouwdeel,,Op- en afrit,Toegevoegd
+426,Buitenberm,Bouwdeel,,Opsluitband,Toegevoegd
+426,Buitenberm,Bouwdeel,,Peilschaal,Toegevoegd
+426,Buitenberm,Bouwdeel,,Sensor,Toegevoegd
+426,Buitenberm,Bouwdeel,,Boom,Toegevoegd
+426,Buitenberm,Bouwdeel,,Grindkoffer,Toegevoegd
+426,Buitenberm,Bouwdeel,,Schanskorf,Toegevoegd
+426,Buitenberm,Bouwdeel,,Bekleding,Toegevoegd
+426,Buitenberm,Bouwdeel,,Gras/kruid,Toegevoegd
+426,Buitenberm,Bouwdeel,,Haag,Toegevoegd
+426,Buitenberm,Bouwdeel,,Peilbuis,Toegevoegd
+426,Buitenberm,Bouwdeel,,Kwelscherm,Toegevoegd
+258,Buitentalud,Bouwdeel,,Asfaltverharding,Toegevoegd
+258,Buitentalud,Bouwdeel,,Boom,Toegevoegd
+258,Buitentalud,Bouwdeel,,Grindkoffer,Toegevoegd
+258,Buitentalud,Bouwdeel,,Schanskorf,Toegevoegd
+258,Buitentalud,Bouwdeel,Bomen/houtopstanden,,Vervallen
+258,Buitentalud,Bouwdeel,,Gras/kruid,Toegevoegd
+258,Buitentalud,Bouwdeel,,Haag,Toegevoegd
+258,Buitentalud,Bouwdeel,,Oversteek,Toegevoegd
+258,Buitentalud,Bouwdeel,,Peilbuis,Toegevoegd
+258,Buitentalud,Bouwdeel,,Kwelscherm,Toegevoegd
+126,Doorlaatkoker,Beheerobjectcategorie,,Faunatunnel,Toegevoegd
+127,Drainage,Beheerobjectcategorie,,Dam,Toegevoegd
+127,Drainage,Beheerobjectcategorie,,Dijk,Toegevoegd
+127,Drainage,Extra werkgroep,,WB,Toegevoegd
+127,Drainage,Vakdiscipline,,WB,Toegevoegd
+127,Drainage,Vakdiscipline,GN,GB,Gewijzigd
+127,Drainage,Bouwdeel,,Drainmonding,Toegevoegd
+127,Drainage,Bouwdeel,,Informatiebord,Toegevoegd
+128,Duin,Vakdiscipline,GN,GB,Gewijzigd
+128,Duin,Bouwdeel,,Embryonaal-duin,Toegevoegd
+128,Duin,Bouwdeel,,Kerf,Toegevoegd
+128,Duin,Bouwdeel,,Slufter,Toegevoegd
+128,Duin,Bouwdeel,,Stuifkuil,Toegevoegd
+128,Duin,Bouwdeel,,Stuifscherm,Toegevoegd
+430,Duinvoetverdediging,Element,,Duinvoetverdediging,Toegevoegd
+430,Duinvoetverdediging,Beheerobjectcategorie,,Duingebied,Toegevoegd
+430,Duinvoetverdediging,Lead werkgroep,,WB,Toegevoegd
+430,Duinvoetverdediging,Extra werkgroep,,WB,Toegevoegd
+430,Duinvoetverdediging,Vakdiscipline,,WB,Toegevoegd
+430,Duinvoetverdediging,Bouwdeel,,Damwand,Toegevoegd
+430,Duinvoetverdediging,Bouwdeel,,Keermuur,Toegevoegd
+430,Duinvoetverdediging,Bouwdeel,,Bekleding,Toegevoegd
+130,Dynamische bewegwijzering en informatie systemen,Vakdiscipline,GN,GB,Gewijzigd
+131,Fauna uittreedplaats,Vakdiscipline,GN,GB,Gewijzigd
+281,Fauna-insprong,Vakdiscipline,GN,GB,Gewijzigd
+281,Fauna-insprong,Bouwdeel,,Boom,Toegevoegd
+281,Fauna-insprong,Bouwdeel,Extensief gazon,,Vervallen
+281,Fauna-insprong,Bouwdeel,,Gras/kruid,Toegevoegd
+285,Faunadekking,Vakdiscipline,GN,GB,Gewijzigd
+307,Faunageleiding,Vakdiscipline,GN,GB,Gewijzigd
+136,Geleideconstructie,Vakdiscipline,GN,GB,Gewijzigd
+136,Geleideconstructie,Bouwdeel,,Oversteek,Toegevoegd
+137,Geluidbeperkende constructie,Vakdiscipline,GN,GB,Gewijzigd
+138,Gestrekte oever (natuurvriendelijk),Bouwdeel,,Gras/kruid,Toegevoegd
+138,Gestrekte oever (natuurvriendelijk),Bouwdeel,,Plant,Toegevoegd
+138,Gestrekte oever (natuurvriendelijk),Bouwdeel,,Uitmonding,Toegevoegd
+138,Gestrekte oever (natuurvriendelijk),Bouwdeel,,Plasberm,Toegevoegd
+139,Gestrekte oever (talud),Bouwdeel,,Uitmonding,Toegevoegd
+291,Graf,Vakdiscipline,GN,GB,Gewijzigd
+341,Grasvegetatie,Vakdiscipline,GN,GB,Gewijzigd
+341,Grasvegetatie,Bouwdeel,Extensief gazon,,Vervallen
+341,Grasvegetatie,Bouwdeel,Helmgras,,Vervallen
+341,Grasvegetatie,Bouwdeel,Natuurlijke grasvegetatie,,Vervallen
+341,Grasvegetatie,Bouwdeel,Ruiggras,,Vervallen
+341,Grasvegetatie,Bouwdeel,Gazon,,Vervallen
+431,Grensprofiel,Element,,Grensprofiel,Toegevoegd
+431,Grensprofiel,Beheerobjectcategorie,,Duingebied,Toegevoegd
+431,Grensprofiel,Lead werkgroep,,WB,Toegevoegd
+431,Grensprofiel,Extra werkgroep,,WB,Toegevoegd
+431,Grensprofiel,Vakdiscipline,,WB,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Asfaltverharding,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Duinovergang,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Elementenverharding,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Grondlichaam,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Bekleding,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Kerf,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Stuifkuil,Toegevoegd
+431,Grensprofiel,Bouwdeel,,Stuifscherm,Toegevoegd
+292,Haag,Element,Haag,,Vervallen
+292,Haag,Beheerobjectcategorie,Weg,,Vervallen
+292,Haag,Lead werkgroep,CGR,,Vervallen
+292,Haag,Extra werkgroep,CGR,,Vervallen
+292,Haag,Vakdiscipline,GN,,Vervallen
+292,Haag,Bouwdeel,Geschoren haag,,Vervallen
+292,Haag,Bouwdeel,Geschoren heestervak,,Vervallen
+292,Haag,Bouwdeel,Haagwindscherm,,Vervallen
+292,Haag,Bouwdeel,Losse haag,,Vervallen
+292,Haag,Bouwdeel,Zeeuwse haag,,Vervallen
+317,Heester,Element,Heester,,Vervallen
+317,Heester,Beheerobjectcategorie,Park,,Vervallen
+317,Heester,Beheerobjectcategorie,Terrein,,Vervallen
+317,Heester,Beheerobjectcategorie,Weg,,Vervallen
+317,Heester,Lead werkgroep,CGR,,Vervallen
+317,Heester,Extra werkgroep,CGR,,Vervallen
+317,Heester,Vakdiscipline,GN,,Vervallen
+317,Heester,Bouwdeel,Bodembedekkende heester,,Vervallen
+317,Heester,Bouwdeel,Botanische rozen,,Vervallen
+317,Heester,Bouwdeel,Droge heide,,Vervallen
+317,Heester,Bouwdeel,Halfheester,,Vervallen
+317,Heester,Bouwdeel,Heesterrozen,,Vervallen
+317,Heester,Bouwdeel,Natte heide,,Vervallen
+317,Heester,Bouwdeel,Sierheester,,Vervallen
+317,Heester,Bouwdeel,"Heester, Algemeen",,Vervallen
+317,Heester,Bouwdeel,Struikrozen,,Vervallen
+144,Hemelwaterafvoer (HWA),Vakdiscipline,GN,GB,Gewijzigd
+146,Hijs- en hefinstallatie,Bouwdeel,,Balk,Toegevoegd
+146,Hijs- en hefinstallatie,Bouwdeel,,Ketting,Toegevoegd
+146,Hijs- en hefinstallatie,Bouwdeel,Overspanning,,Vervallen
+145,Hoog Frequent installatie (HF),Bouwdeel,,Portofoon,Toegevoegd
+423,Hoogwatervluchtplaats,Element,,Hoogwatervluchtplaats,Toegevoegd
+423,Hoogwatervluchtplaats,Beheerobjectcategorie,,Kanaal,Toegevoegd
+423,Hoogwatervluchtplaats,Beheerobjectcategorie,,Rivier,Toegevoegd
+423,Hoogwatervluchtplaats,Beheerobjectcategorie,,"Water en watergang (niet lijnvormig), overig",Toegevoegd
+423,Hoogwatervluchtplaats,Beheerobjectcategorie,,"Water en watergang (lijnvormig), overig",Toegevoegd
+423,Hoogwatervluchtplaats,Lead werkgroep,,CGR,Toegevoegd
+423,Hoogwatervluchtplaats,Extra werkgroep,,CGR,Toegevoegd
+423,Hoogwatervluchtplaats,Vakdiscipline,,GB,Toegevoegd
+423,Hoogwatervluchtplaats,Bouwdeel,,Grondlichaam,Toegevoegd
+423,Hoogwatervluchtplaats,Bouwdeel,,Bekleding,Toegevoegd
+423,Hoogwatervluchtplaats,Afbeelding,,Afbeelding Hoogwatervluchtplaats 1.png,Toegevoegd
+423,Hoogwatervluchtplaats,Afbeelding,,Afbeelding Hoogwatervluchtplaats 2.png,Toegevoegd
+296,Infiltratievoorziening,Lead werkgroep,CGR,,Vervallen
+296,Infiltratievoorziening,Extra werkgroep,CGR,,Vervallen
+296,Infiltratievoorziening,Vakdiscipline,GN,GB,Gewijzigd
+155,Kabel- en leidingtunnel,Bouwdeel,Kabeldoorvoer,Doorvoer,Gewijzigd
+156,Kabeldraagconstructie,Bouwdeel,Kabeldoorvoer,Doorvoer,Gewijzigd
+157,Kerende constructie,Bouwdeel,Asfaltconstructie,Asfaltverharding,Gewijzigd
+299,Klim- en leiplant,Element,Klim- en leiplant,,Vervallen
+299,Klim- en leiplant,Beheerobjectcategorie,Infragebonden gebouw,,Vervallen
+299,Klim- en leiplant,Beheerobjectcategorie,Park,,Vervallen
+299,Klim- en leiplant,Beheerobjectcategorie,Terrein,,Vervallen
+299,Klim- en leiplant,Lead werkgroep,CGR,,Vervallen
+299,Klim- en leiplant,Extra werkgroep,CGR,,Vervallen
+299,Klim- en leiplant,Vakdiscipline,GN,,Vervallen
+299,Klim- en leiplant,Bouwdeel,Objectbegroeiing,,Vervallen
+299,Klim- en leiplant,Bouwdeel,Klimplant,,Vervallen
+299,Klim- en leiplant,Bouwdeel,Leiplant,,Vervallen
+337,Klimaatinstallatie,Bouwdeel,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+259,Kruin,Bouwdeel,,Asfaltverharding,Toegevoegd
+259,Kruin,Bouwdeel,,Boom,Toegevoegd
+259,Kruin,Bouwdeel,,Grindkoffer,Toegevoegd
+259,Kruin,Bouwdeel,,Schanskorf,Toegevoegd
+259,Kruin,Bouwdeel,,Gras/kruid,Toegevoegd
+259,Kruin,Bouwdeel,,Haag,Toegevoegd
+259,Kruin,Bouwdeel,,Peilbuis,Toegevoegd
+259,Kruin,Bouwdeel,,Kwelscherm,Toegevoegd
+302,Kwelder,Vakdiscipline,GN,GB,Gewijzigd
+427,Kwelkade,Element,,Kwelkade,Toegevoegd
+427,Kwelkade,Beheerobjectcategorie,,Dam,Toegevoegd
+427,Kwelkade,Beheerobjectcategorie,,Dijk,Toegevoegd
+427,Kwelkade,Lead werkgroep,,WB,Toegevoegd
+427,Kwelkade,Extra werkgroep,,WB,Toegevoegd
+427,Kwelkade,Vakdiscipline,,WB,Toegevoegd
+427,Kwelkade,Bouwdeel,,Asfaltverharding,Toegevoegd
+427,Kwelkade,Bouwdeel,,Elementenverharding,Toegevoegd
+427,Kwelkade,Bouwdeel,,Bekleding,Toegevoegd
+273,Landbouwgrond,Vakdiscipline,GN,GB,Gewijzigd
+361,Leidam,Beheerobjectcategorie,,Dam,Toegevoegd
+361,Leidam,Beheerobjectcategorie,,Dijk,Toegevoegd
+360,Leikade,Beheerobjectcategorie,,Dam,Toegevoegd
+360,Leikade,Beheerobjectcategorie,,Dijk,Toegevoegd
+304,Moerasvegetatie,Element,Moerasvegetatie,,Vervallen
+304,Moerasvegetatie,Beheerobjectcategorie,Terrein,,Vervallen
+304,Moerasvegetatie,Lead werkgroep,CGR,,Vervallen
+304,Moerasvegetatie,Extra werkgroep,CGR,,Vervallen
+304,Moerasvegetatie,Vakdiscipline,GN,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Helofytenfilter,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Biezenvegetatie,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Moeras- en oevervegetatie,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Moeraszeggevegetatie,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Plasberm,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Rietvegetatie,,Vervallen
+304,Moerasvegetatie,Bouwdeel,Ruige oevervegetatie,,Vervallen
+364,Nevengeul,Bouwdeel,,Rivierhout,Toegevoegd
+173,Objectverlichting,Vakdiscipline,GN,GB,Gewijzigd
+174,Oeverbescherming,Beheerobjectcategorie,,Dam,Toegevoegd
+174,Oeverbescherming,Beheerobjectcategorie,,Dijk,Toegevoegd
+174,Oeverbescherming,Vakdiscipline,GN,GB,Gewijzigd
+174,Oeverbescherming,Bouwdeel,,Gras/kruid,Toegevoegd
+174,Oeverbescherming,Bouwdeel,,Plant,Toegevoegd
+174,Oeverbescherming,Bouwdeel,,Schijnduiker,Toegevoegd
+333,Onbegroeid terreindeel,Naam,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+333,Onbegroeid terreindeel,Werkdefinitie,"Gebied of terrein vooral bestaand uit zandgrond dat, al dan niet bewust, begroeiingsvrij is",Terreindeel zonder (aaneengesloten) vegetatie.,Gewijzigd
+333,Onbegroeid terreindeel,Vakdiscipline,GN,GB,Gewijzigd
+333,Onbegroeid terreindeel,Bouwdeel,,Onverhard oppervlak,Toegevoegd
+333,Onbegroeid terreindeel,Bouwdeel,,Halfverharding,Toegevoegd
+179,Openbare verlichting (OV),Vakdiscipline,GN,GB,Gewijzigd
+181,Opstal,Beheerobjectcategorie,,Dam,Toegevoegd
+181,Opstal,Beheerobjectcategorie,,Dijk,Toegevoegd
+181,Opstal,Bouwdeel,,Heester,Toegevoegd
+181,Opstal,Bouwdeel,,Tuinhuisje,Toegevoegd
+181,Opstal,Bouwdeel,Objectbegroeiing,,Vervallen
+181,Opstal,Bouwdeel,,Gras/kruid,Toegevoegd
+181,Opstal,Bouwdeel,,Haag,Toegevoegd
+181,Opstal,Bouwdeel,,Plant,Toegevoegd
+347,Perkplant,Element,Perkplant,,Vervallen
+347,Perkplant,Beheerobjectcategorie,Park,,Vervallen
+347,Perkplant,Lead werkgroep,CGR,,Vervallen
+347,Perkplant,Extra werkgroep,CGR,,Vervallen
+347,Perkplant,Vakdiscipline,GN,,Vervallen
+347,Perkplant,Bouwdeel,Eén- en tweejarige perkplant,,Vervallen
+186,Pompinstallatie,Bouwdeel,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+188,Portaal,Vakdiscipline,GN,GB,Gewijzigd
+354,Put,Bouwdeel,Kabeldoorvoer,Doorvoer,Gewijzigd
+308,Schietbaan,Vakdiscipline,GN,GB,Gewijzigd
+351,Sloot,Vakdiscipline,GN,GB,Gewijzigd
+351,Sloot,Bouwdeel,,Plant,Toegevoegd
+351,Sloot,Bouwdeel,,Oversteek,Toegevoegd
+351,Sloot,Bouwdeel,,Uitmonding,Toegevoegd
+200,Sluiskolk,Vakdiscipline,GN,GB,Gewijzigd
+343,Sportattribuut,Vakdiscipline,GN,GB,Gewijzigd
+344,Sportveld,Vakdiscipline,GN,GB,Gewijzigd
+415,Sproei-installatie,Vakdiscipline,GN,GB,Gewijzigd
+415,Sproei-installatie,Bouwdeel,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+203,Strandhoofd,Bouwdeel,,Palenrij,Toegevoegd
+204,Strekdam,Beheerobjectcategorie,,Dam,Toegevoegd
+204,Strekdam,Beheerobjectcategorie,,Dijk,Toegevoegd
+263,Teensloot,Bouwdeel,,Boom,Toegevoegd
+263,Teensloot,Bouwdeel,,Gras/kruid,Toegevoegd
+263,Teensloot,Bouwdeel,,Haag,Toegevoegd
+263,Teensloot,Bouwdeel,,Oversteek,Toegevoegd
+263,Teensloot,Bouwdeel,,Peilbuis,Toegevoegd
+263,Teensloot,Bouwdeel,,Kwelscherm,Toegevoegd
+319,Terreinmeubilair,Beheerobjectcategorie,,Dam,Toegevoegd
+319,Terreinmeubilair,Beheerobjectcategorie,,Dijk,Toegevoegd
+319,Terreinmeubilair,Vakdiscipline,GN,GB,Gewijzigd
+124,Transmissie-installatie,Bouwdeel,,Wide Area Network (WAN),Toegevoegd
+390,Trapconstructie,Beheerobjectcategorie,,Dam,Toegevoegd
+390,Trapconstructie,Beheerobjectcategorie,,Dijk,Toegevoegd
+390,Trapconstructie,Extra werkgroep,,WB,Toegevoegd
+417,Valbeveiliging,Element,,Valbeveiliging,Toegevoegd
+417,Valbeveiliging,Beheerobjectcategorie,,Infragebonden gebouw,Toegevoegd
+417,Valbeveiliging,Lead werkgroep,,KW,Toegevoegd
+417,Valbeveiliging,Extra werkgroep,,KW,Toegevoegd
+417,Valbeveiliging,Vakdiscipline,,KW,Toegevoegd
+417,Valbeveiliging,Bouwdeel,,Bevestiging,Toegevoegd
+417,Valbeveiliging,Bouwdeel,,Staalkabel,Toegevoegd
+348,Vaste plant,Element,Vaste plant,,Vervallen
+348,Vaste plant,Beheerobjectcategorie,Park,,Vervallen
+348,Vaste plant,Beheerobjectcategorie,Uiterwaard,,Vervallen
+348,Vaste plant,Lead werkgroep,CGR,,Vervallen
+348,Vaste plant,Extra werkgroep,CGR,,Vervallen
+348,Vaste plant,Vakdiscipline,GN,,Vervallen
+348,Vaste plant,Bouwdeel,Kruidachtige plant,,Vervallen
+363,Ven,Bouwdeel,,Plant,Toegevoegd
+213,Ventilatie-installatie,Bouwdeel,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+222,Verharding wegtype 4 (licht belast),Vakdiscipline,GN,GB,Gewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Vakdiscipline,GN,GB,Gewijzigd
+322,Vijver,Vakdiscipline,GN,GB,Gewijzigd
+323,Vleermuiskelder,Vakdiscipline,GN,GB,Gewijzigd
+256,Voorland,Bouwdeel,,Asfaltverharding,Toegevoegd
+256,Voorland,Bouwdeel,,Boom,Toegevoegd
+256,Voorland,Bouwdeel,,Grindkoffer,Toegevoegd
+256,Voorland,Bouwdeel,,Schanskorf,Toegevoegd
+256,Voorland,Bouwdeel,Bomen/houtopstanden,,Vervallen
+256,Voorland,Bouwdeel,,Gras/kruid,Toegevoegd
+256,Voorland,Bouwdeel,,Haag,Toegevoegd
+256,Voorland,Bouwdeel,,Peilbuis,Toegevoegd
+256,Voorland,Bouwdeel,,Kwelscherm,Toegevoegd
+257,Vooroever,Bouwdeel,,Stortebed,Toegevoegd
+257,Vooroever,Bouwdeel,,Rivierhout,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Element,,Waterlichaam (oppervlaktewater),Toegevoegd
+421,Waterlichaam (oppervlaktewater),Beheerobjectcategorie,,"Water en watergang (niet lijnvormig), overig",Toegevoegd
+421,Waterlichaam (oppervlaktewater),Beheerobjectcategorie,,"Water en watergang (lijnvormig), overig",Toegevoegd
+421,Waterlichaam (oppervlaktewater),Lead werkgroep,,CGR,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Extra werkgroep,,CGR,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Vakdiscipline,,GB,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Bouwdeel,,Bodem (waterbodem),Toegevoegd
+421,Waterlichaam (oppervlaktewater),Bouwdeel,,Waterplant,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Bouwdeel,,Waterplant (ondergedoken),Toegevoegd
+329,Watervegetatie,Element,Watervegetatie,,Vervallen
+329,Watervegetatie,Beheerobjectcategorie,"Water en watergang (niet lijnvormig), overig",,Vervallen
+329,Watervegetatie,Beheerobjectcategorie,"Water en watergang (lijnvormig), overig",,Vervallen
+329,Watervegetatie,Lead werkgroep,CGR,,Vervallen
+329,Watervegetatie,Extra werkgroep,CGR,,Vervallen
+329,Watervegetatie,Vakdiscipline,GN,,Vervallen
+329,Watervegetatie,Bouwdeel,Waterplant (drijvend),,Vervallen
+329,Watervegetatie,Bouwdeel,Waterplant (ondergedoken),,Vervallen
+329,Watervegetatie,Bouwdeel,"Watervegetatie, Algemeen",,Vervallen
+238,Wegmarkering,Bouwdeel,,Belijning,Toegevoegd
+432,Zeestrand,Element,,Zeestrand,Toegevoegd
+432,Zeestrand,Beheerobjectcategorie,,Duingebied,Toegevoegd
+432,Zeestrand,Lead werkgroep,,WB,Toegevoegd
+432,Zeestrand,Extra werkgroep,,WB,Toegevoegd
+432,Zeestrand,Vakdiscipline,,WB,Toegevoegd
+432,Zeestrand,Bouwdeel,,Elementenverharding,Toegevoegd
+432,Zeestrand,Bouwdeel,,Grondlichaam,Toegevoegd
+432,Zeestrand,Bouwdeel,,Bekleding,Toegevoegd
+432,Zeestrand,Bouwdeel,,Embryonaal-duin,Toegevoegd

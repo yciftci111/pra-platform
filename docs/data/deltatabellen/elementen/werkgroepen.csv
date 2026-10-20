@@ -1,0 +1,901 @@
+Code,Element,Soort,Oud,Nieuw,Mutatie
+424,Aalgoot,Lead werkgroep,,CGR,Toegevoegd
+424,Aalgoot,Extra werkgroep,,CGR,Toegevoegd
+424,Aalgoot,Extra werkgroep,,WB,Toegevoegd
+424,Aalgoot,Extra werkgroep,,KW,Toegevoegd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Lead werkgroep,E/W,E/W,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Extra werkgroep,E/W,E/W,Ongewijzigd
+101,Aandrijving en bewegingswerk (elektrohydraulisch),Vakdiscipline,EW,EW,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Lead werkgroep,E/W,E/W,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Extra werkgroep,E/W,E/W,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Extra werkgroep,KW,KW,Ongewijzigd
+102,Aandrijving en bewegingswerk (elektromechanisch),Vakdiscipline,EW,EW,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Lead werkgroep,E/W,E/W,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Extra werkgroep,E/W,E/W,Ongewijzigd
+103,Aandrijving en bewegingswerk (mechanisch),Vakdiscipline,EW,EW,Ongewijzigd
+268,Aanloopgebied,Lead werkgroep,WB,WB,Ongewijzigd
+268,Aanloopgebied,Extra werkgroep,WB,WB,Ongewijzigd
+268,Aanloopgebied,Vakdiscipline,WB,WB,Ongewijzigd
+104,Aanrijbalk,Lead werkgroep,KW,KW,Ongewijzigd
+104,Aanrijbalk,Extra werkgroep,KW,KW,Ongewijzigd
+104,Aanrijbalk,Vakdiscipline,KW,KW,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+105,Aarding- en bliksembeveiligingsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+264,Achterland,Lead werkgroep,WB,WB,Ongewijzigd
+264,Achterland,Extra werkgroep,WB,WB,Ongewijzigd
+264,Achterland,Vakdiscipline,WB,WB,Ongewijzigd
+106,Afmeervoorziening,Lead werkgroep,WB,WB,Ongewijzigd
+106,Afmeervoorziening,Extra werkgroep,WB,WB,Ongewijzigd
+106,Afmeervoorziening,Extra werkgroep,KW,KW,Ongewijzigd
+106,Afmeervoorziening,Vakdiscipline,WB,WB,Ongewijzigd
+106,Afmeervoorziening,Vakdiscipline,KW,KW,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Lead werkgroep,E/W,E/W,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Extra werkgroep,E/W,E/W,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Extra werkgroep,KW,KW,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Vakdiscipline,KW,KW,Ongewijzigd
+377,Afscheiderinstallatie (dynamisch),Vakdiscipline,EW,EW,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Lead werkgroep,RL,RL,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Extra werkgroep,WN,WN,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Extra werkgroep,RL,RL,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Vakdiscipline,WN,WN,Ongewijzigd
+359,Afscheiderinstallatie (statisch),Vakdiscipline,RL,RL,Ongewijzigd
+306,Afscheiding,Lead werkgroep,CGR,CGR,Ongewijzigd
+306,Afscheiding,Extra werkgroep,CGR,CGR,Ongewijzigd
+306,Afscheiding,Vakdiscipline,GN,GB,Gewijzigd
+428,Afslagzone,Lead werkgroep,,WB,Toegevoegd
+428,Afslagzone,Extra werkgroep,,WB,Toegevoegd
+428,Afslagzone,Vakdiscipline,,WB,Toegevoegd
+107,Afsluitboominstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+107,Afsluitboominstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+107,Afsluitboominstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+269,Ankergebied,Lead werkgroep,WB,WB,Ongewijzigd
+269,Ankergebied,Extra werkgroep,WB,WB,Ongewijzigd
+269,Ankergebied,Vakdiscipline,WB,WB,Ongewijzigd
+110,Antivandalismevoorziening,Lead werkgroep,KW,KW,Ongewijzigd
+110,Antivandalismevoorziening,Extra werkgroep,KW,KW,Ongewijzigd
+110,Antivandalismevoorziening,Vakdiscipline,KW,KW,Ongewijzigd
+275,Asbestemming,Lead werkgroep,CGR,CGR,Ongewijzigd
+275,Asbestemming,Extra werkgroep,CGR,CGR,Ongewijzigd
+275,Asbestemming,Vakdiscipline,GN,GB,Gewijzigd
+247,Basculekelder,Lead werkgroep,KW,KW,Ongewijzigd
+247,Basculekelder,Extra werkgroep,KW,KW,Ongewijzigd
+247,Basculekelder,Vakdiscipline,KW,KW,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Lead werkgroep,WN,WN,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Extra werkgroep,E/W,E/W,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Extra werkgroep,WN,WN,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Extra werkgroep,CGR,CGR,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Extra werkgroep,WB,WB,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Extra werkgroep,KW,KW,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Vakdiscipline,WB,WB,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Vakdiscipline,KW,KW,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Vakdiscipline,EW,EW,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Vakdiscipline,WN,WN,Ongewijzigd
+111,Bebording en bewegwijzering (statisch),Vakdiscipline,GN,GB,Gewijzigd
+112,Bedienings- en besturingsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+112,Bedienings- en besturingsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+353,Beek,Lead werkgroep,CGR,CGR,Ongewijzigd
+353,Beek,Extra werkgroep,CGR,CGR,Ongewijzigd
+353,Beek,Extra werkgroep,WB,WB,Ongewijzigd
+353,Beek,Vakdiscipline,WB,WB,Ongewijzigd
+353,Beek,Vakdiscipline,GN,GB,Gewijzigd
+418,Begroeid terreindeel,Lead werkgroep,,CGR,Toegevoegd
+418,Begroeid terreindeel,Extra werkgroep,,CGR,Toegevoegd
+418,Begroeid terreindeel,Vakdiscipline,,GB,Toegevoegd
+378,Beluchtingsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+378,Beluchtingsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+378,Beluchtingsinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+378,Beluchtingsinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+378,Beluchtingsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+356,Bergbezinkbassin,Lead werkgroep,RL,RL,Ongewijzigd
+356,Bergbezinkbassin,Extra werkgroep,WN,WN,Ongewijzigd
+356,Bergbezinkbassin,Extra werkgroep,RL,RL,Ongewijzigd
+356,Bergbezinkbassin,Vakdiscipline,WN,WN,Ongewijzigd
+356,Bergbezinkbassin,Vakdiscipline,RL,RL,Ongewijzigd
+114,Berm,Lead werkgroep,WN,WN,Ongewijzigd
+114,Berm,Extra werkgroep,WN,WN,Ongewijzigd
+114,Berm,Extra werkgroep,CGR,CGR,Ongewijzigd
+114,Berm,Extra werkgroep,KW,KW,Ongewijzigd
+114,Berm,Vakdiscipline,KW,KW,Ongewijzigd
+114,Berm,Vakdiscipline,WN,WN,Ongewijzigd
+114,Berm,Vakdiscipline,GN,GB,Gewijzigd
+425,Binnenberm,Lead werkgroep,,WB,Toegevoegd
+425,Binnenberm,Extra werkgroep,,WB,Toegevoegd
+425,Binnenberm,Vakdiscipline,,WB,Toegevoegd
+429,Binnenduin,Lead werkgroep,,WB,Toegevoegd
+429,Binnenduin,Extra werkgroep,,WB,Toegevoegd
+429,Binnenduin,Vakdiscipline,,WB,Toegevoegd
+260,Binnentalud,Lead werkgroep,WB,WB,Ongewijzigd
+260,Binnentalud,Extra werkgroep,WB,WB,Ongewijzigd
+260,Binnentalud,Vakdiscipline,WB,WB,Ongewijzigd
+115,Binnenverlichting,Lead werkgroep,E/W,E/W,Ongewijzigd
+115,Binnenverlichting,Extra werkgroep,E/W,E/W,Ongewijzigd
+115,Binnenverlichting,Extra werkgroep,KW,KW,Ongewijzigd
+115,Binnenverlichting,Vakdiscipline,EW,EW,Ongewijzigd
+116,Bodem,Lead werkgroep,WB,WB,Ongewijzigd
+116,Bodem,Extra werkgroep,WB,WB,Ongewijzigd
+116,Bodem,Vakdiscipline,WB,WB,Ongewijzigd
+117,Bodembescherming,Lead werkgroep,KW,KW,Ongewijzigd
+117,Bodembescherming,Extra werkgroep,WB,WB,Ongewijzigd
+117,Bodembescherming,Extra werkgroep,KW,KW,Ongewijzigd
+117,Bodembescherming,Vakdiscipline,WB,WB,Ongewijzigd
+117,Bodembescherming,Vakdiscipline,KW,KW,Ongewijzigd
+346,Bol- en knolgewas,Lead werkgroep,CGR,,Vervallen
+346,Bol- en knolgewas,Extra werkgroep,CGR,,Vervallen
+346,Bol- en knolgewas,Vakdiscipline,GN,,Vervallen
+276,Boom,Lead werkgroep,CGR,,Vervallen
+276,Boom,Extra werkgroep,CGR,,Vervallen
+276,Boom,Vakdiscipline,GN,,Vervallen
+278,Boomgroep,Lead werkgroep,CGR,,Vervallen
+278,Boomgroep,Extra werkgroep,CGR,,Vervallen
+278,Boomgroep,Vakdiscipline,GN,,Vervallen
+349,Borstwering,Lead werkgroep,KW,KW,Ongewijzigd
+349,Borstwering,Extra werkgroep,KW,KW,Ongewijzigd
+349,Borstwering,Vakdiscipline,KW,KW,Ongewijzigd
+118,Bovenbouwconstructie,Lead werkgroep,WB,WB,Ongewijzigd
+118,Bovenbouwconstructie,Extra werkgroep,WB,WB,Ongewijzigd
+118,Bovenbouwconstructie,Vakdiscipline,WB,WB,Ongewijzigd
+119,Brandblusinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+119,Brandblusinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+119,Brandblusinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+119,Brandblusinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+119,Brandblusinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Lead werkgroep,E/W,E/W,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Extra werkgroep,E/W,E/W,Ongewijzigd
+120,Brandmeld- en ontruimingsinstallatie (BMI),Vakdiscipline,EW,EW,Ongewijzigd
+426,Buitenberm,Lead werkgroep,,WB,Toegevoegd
+426,Buitenberm,Extra werkgroep,,WB,Toegevoegd
+426,Buitenberm,Vakdiscipline,,WB,Toegevoegd
+258,Buitentalud,Lead werkgroep,WB,WB,Ongewijzigd
+258,Buitentalud,Extra werkgroep,WB,WB,Ongewijzigd
+258,Buitentalud,Vakdiscipline,WB,WB,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Lead werkgroep,E/W,E/W,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Extra werkgroep,E/W,E/W,Ongewijzigd
+121,Calamiteiten Doorsteek installatie (CADO),Vakdiscipline,EW,EW,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Lead werkgroep,E/W,E/W,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Extra werkgroep,E/W,E/W,Ongewijzigd
+248,Centrale Antenne Installatie (CAI),Vakdiscipline,EW,EW,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Lead werkgroep,E/W,E/W,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Extra werkgroep,E/W,E/W,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Extra werkgroep,KW,KW,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Vakdiscipline,KW,KW,Ongewijzigd
+122,Closed Circuit TeleVision installatie (CCTV),Vakdiscipline,EW,EW,Ongewijzigd
+123,Compressorinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+123,Compressorinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+123,Compressorinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+391,Dakconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+391,Dakconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+391,Dakconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+370,Dataloginstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+370,Dataloginstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+370,Dataloginstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+126,Doorlaatkoker,Lead werkgroep,KW,KW,Ongewijzigd
+126,Doorlaatkoker,Extra werkgroep,KW,KW,Ongewijzigd
+126,Doorlaatkoker,Vakdiscipline,KW,KW,Ongewijzigd
+127,Drainage,Lead werkgroep,RL,RL,Ongewijzigd
+127,Drainage,Extra werkgroep,WN,WN,Ongewijzigd
+127,Drainage,Extra werkgroep,CGR,CGR,Ongewijzigd
+127,Drainage,Extra werkgroep,,WB,Toegevoegd
+127,Drainage,Extra werkgroep,KW,KW,Ongewijzigd
+127,Drainage,Extra werkgroep,RL,RL,Ongewijzigd
+127,Drainage,Vakdiscipline,,WB,Toegevoegd
+127,Drainage,Vakdiscipline,KW,KW,Ongewijzigd
+127,Drainage,Vakdiscipline,WN,WN,Ongewijzigd
+127,Drainage,Vakdiscipline,GN,GB,Gewijzigd
+127,Drainage,Vakdiscipline,RL,RL,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Lead werkgroep,E/W,E/W,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Extra werkgroep,E/W,E/W,Ongewijzigd
+409,Drukluchtschuiminstallatie (DLS),Vakdiscipline,EW,EW,Ongewijzigd
+128,Duin,Lead werkgroep,WB,WB,Ongewijzigd
+128,Duin,Extra werkgroep,CGR,CGR,Ongewijzigd
+128,Duin,Extra werkgroep,WB,WB,Ongewijzigd
+128,Duin,Vakdiscipline,WB,WB,Ongewijzigd
+128,Duin,Vakdiscipline,GN,GB,Gewijzigd
+430,Duinvoetverdediging,Lead werkgroep,,WB,Toegevoegd
+430,Duinvoetverdediging,Extra werkgroep,,WB,Toegevoegd
+430,Duinvoetverdediging,Vakdiscipline,,WB,Toegevoegd
+129,Duurzame energiebron,Lead werkgroep,E/W,E/W,Ongewijzigd
+129,Duurzame energiebron,Extra werkgroep,E/W,E/W,Ongewijzigd
+129,Duurzame energiebron,Vakdiscipline,EW,EW,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Lead werkgroep,E/W,E/W,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Extra werkgroep,E/W,E/W,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Extra werkgroep,CGR,CGR,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Vakdiscipline,EW,EW,Ongewijzigd
+130,Dynamische bewegwijzering en informatie systemen,Vakdiscipline,GN,GB,Gewijzigd
+208,Erf,Lead werkgroep,KW,KW,Ongewijzigd
+208,Erf,Extra werkgroep,KW,KW,Ongewijzigd
+208,Erf,Vakdiscipline,KW,KW,Ongewijzigd
+131,Fauna uittreedplaats,Lead werkgroep,WB,WB,Ongewijzigd
+131,Fauna uittreedplaats,Extra werkgroep,CGR,CGR,Ongewijzigd
+131,Fauna uittreedplaats,Extra werkgroep,WB,WB,Ongewijzigd
+131,Fauna uittreedplaats,Vakdiscipline,WB,WB,Ongewijzigd
+131,Fauna uittreedplaats,Vakdiscipline,GN,GB,Gewijzigd
+281,Fauna-insprong,Lead werkgroep,CGR,CGR,Ongewijzigd
+281,Fauna-insprong,Extra werkgroep,CGR,CGR,Ongewijzigd
+281,Fauna-insprong,Vakdiscipline,GN,GB,Gewijzigd
+285,Faunadekking,Lead werkgroep,CGR,CGR,Ongewijzigd
+285,Faunadekking,Extra werkgroep,CGR,CGR,Ongewijzigd
+285,Faunadekking,Vakdiscipline,GN,GB,Gewijzigd
+307,Faunageleiding,Lead werkgroep,CGR,CGR,Ongewijzigd
+307,Faunageleiding,Extra werkgroep,CGR,CGR,Ongewijzigd
+307,Faunageleiding,Vakdiscipline,GN,GB,Gewijzigd
+132,Folieconstructie,Lead werkgroep,WB,WB,Ongewijzigd
+132,Folieconstructie,Extra werkgroep,WB,WB,Ongewijzigd
+132,Folieconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+132,Folieconstructie,Vakdiscipline,WB,WB,Ongewijzigd
+132,Folieconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+133,Fundering,Lead werkgroep,KW,KW,Ongewijzigd
+133,Fundering,Extra werkgroep,WB,WB,Ongewijzigd
+133,Fundering,Extra werkgroep,KW,KW,Ongewijzigd
+133,Fundering,Vakdiscipline,WB,WB,Ongewijzigd
+133,Fundering,Vakdiscipline,KW,KW,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Lead werkgroep,E/W,E/W,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Extra werkgroep,E/W,E/W,Ongewijzigd
+134,Gasdetectie-installatie (LEL),Vakdiscipline,EW,EW,Ongewijzigd
+396,Gasinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+396,Gasinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+396,Gasinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+136,Geleideconstructie,Lead werkgroep,WN,WN,Ongewijzigd
+136,Geleideconstructie,Extra werkgroep,WN,WN,Ongewijzigd
+136,Geleideconstructie,Extra werkgroep,CGR,CGR,Ongewijzigd
+136,Geleideconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+136,Geleideconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+136,Geleideconstructie,Vakdiscipline,WN,WN,Ongewijzigd
+136,Geleideconstructie,Vakdiscipline,GN,GB,Gewijzigd
+405,Geleidetoren,Lead werkgroep,KW,KW,Ongewijzigd
+405,Geleidetoren,Extra werkgroep,KW,KW,Ongewijzigd
+405,Geleidetoren,Vakdiscipline,KW,KW,Ongewijzigd
+137,Geluidbeperkende constructie,Lead werkgroep,KW,KW,Ongewijzigd
+137,Geluidbeperkende constructie,Extra werkgroep,CGR,CGR,Ongewijzigd
+137,Geluidbeperkende constructie,Extra werkgroep,KW,KW,Ongewijzigd
+137,Geluidbeperkende constructie,Vakdiscipline,KW,KW,Ongewijzigd
+137,Geluidbeperkende constructie,Vakdiscipline,GN,GB,Gewijzigd
+138,Gestrekte oever (natuurvriendelijk),Lead werkgroep,WB,WB,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Extra werkgroep,WB,WB,Ongewijzigd
+138,Gestrekte oever (natuurvriendelijk),Vakdiscipline,WB,WB,Ongewijzigd
+139,Gestrekte oever (talud),Lead werkgroep,WB,WB,Ongewijzigd
+139,Gestrekte oever (talud),Extra werkgroep,WB,WB,Ongewijzigd
+139,Gestrekte oever (talud),Vakdiscipline,WB,WB,Ongewijzigd
+140,Gladheidsmeldsysteem,Lead werkgroep,E/W,E/W,Ongewijzigd
+140,Gladheidsmeldsysteem,Extra werkgroep,E/W,E/W,Ongewijzigd
+140,Gladheidsmeldsysteem,Vakdiscipline,EW,EW,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Lead werkgroep,E/W,E/W,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Extra werkgroep,E/W,E/W,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Vakdiscipline,KW,KW,Ongewijzigd
+416,Global System for Mobile communications installatie (GSM),Vakdiscipline,EW,EW,Ongewijzigd
+291,Graf,Lead werkgroep,CGR,CGR,Ongewijzigd
+291,Graf,Extra werkgroep,CGR,CGR,Ongewijzigd
+291,Graf,Vakdiscipline,GN,GB,Gewijzigd
+341,Grasvegetatie,Lead werkgroep,CGR,CGR,Ongewijzigd
+341,Grasvegetatie,Extra werkgroep,CGR,CGR,Ongewijzigd
+341,Grasvegetatie,Vakdiscipline,GN,GB,Gewijzigd
+249,Grendelinrichting,Lead werkgroep,E/W,E/W,Ongewijzigd
+249,Grendelinrichting,Extra werkgroep,E/W,E/W,Ongewijzigd
+249,Grendelinrichting,Extra werkgroep,KW,KW,Ongewijzigd
+249,Grendelinrichting,Vakdiscipline,EW,EW,Ongewijzigd
+431,Grensprofiel,Lead werkgroep,,WB,Toegevoegd
+431,Grensprofiel,Extra werkgroep,,WB,Toegevoegd
+431,Grensprofiel,Vakdiscipline,,WB,Toegevoegd
+292,Haag,Lead werkgroep,CGR,,Vervallen
+292,Haag,Extra werkgroep,CGR,,Vervallen
+292,Haag,Vakdiscipline,GN,,Vervallen
+142,Havendam,Lead werkgroep,WB,WB,Ongewijzigd
+142,Havendam,Extra werkgroep,WB,WB,Ongewijzigd
+142,Havendam,Vakdiscipline,WB,WB,Ongewijzigd
+317,Heester,Lead werkgroep,CGR,,Vervallen
+317,Heester,Extra werkgroep,CGR,,Vervallen
+317,Heester,Vakdiscipline,GN,,Vervallen
+143,Heftoren,Lead werkgroep,KW,KW,Ongewijzigd
+143,Heftoren,Extra werkgroep,KW,KW,Ongewijzigd
+143,Heftoren,Vakdiscipline,KW,KW,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Lead werkgroep,RL,RL,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Extra werkgroep,WN,WN,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Extra werkgroep,CGR,CGR,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Extra werkgroep,WB,WB,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Extra werkgroep,KW,KW,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Extra werkgroep,RL,RL,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Vakdiscipline,WB,WB,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Vakdiscipline,KW,KW,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Vakdiscipline,WN,WN,Ongewijzigd
+144,Hemelwaterafvoer (HWA),Vakdiscipline,GN,GB,Gewijzigd
+146,Hijs- en hefinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+146,Hijs- en hefinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+146,Hijs- en hefinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+147,Hoofddraagconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+147,Hoofddraagconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+147,Hoofddraagconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+148,Hoofddraaipunt,Lead werkgroep,E/W,E/W,Ongewijzigd
+148,Hoofddraaipunt,Extra werkgroep,E/W,E/W,Ongewijzigd
+148,Hoofddraaipunt,Extra werkgroep,KW,KW,Ongewijzigd
+148,Hoofddraaipunt,Vakdiscipline,KW,KW,Ongewijzigd
+148,Hoofddraaipunt,Vakdiscipline,EW,EW,Ongewijzigd
+145,Hoog Frequent installatie (HF),Lead werkgroep,E/W,E/W,Ongewijzigd
+145,Hoog Frequent installatie (HF),Extra werkgroep,E/W,E/W,Ongewijzigd
+145,Hoog Frequent installatie (HF),Vakdiscipline,EW,EW,Ongewijzigd
+149,Hoogspanningsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+149,Hoogspanningsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+149,Hoogspanningsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+150,Hoogtedetectie-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+150,Hoogtedetectie-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+150,Hoogtedetectie-installatie,Extra werkgroep,KW,KW,Ongewijzigd
+150,Hoogtedetectie-installatie,Vakdiscipline,KW,KW,Ongewijzigd
+150,Hoogtedetectie-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+423,Hoogwatervluchtplaats,Lead werkgroep,,CGR,Toegevoegd
+423,Hoogwatervluchtplaats,Extra werkgroep,,CGR,Toegevoegd
+423,Hoogwatervluchtplaats,Vakdiscipline,,GB,Toegevoegd
+250,Inbraakbeveiligingsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+250,Inbraakbeveiligingsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+296,Infiltratievoorziening,Lead werkgroep,RL,RL,Ongewijzigd
+296,Infiltratievoorziening,Lead werkgroep,CGR,,Vervallen
+296,Infiltratievoorziening,Extra werkgroep,RL,RL,Ongewijzigd
+296,Infiltratievoorziening,Extra werkgroep,CGR,,Vervallen
+296,Infiltratievoorziening,Vakdiscipline,GN,GB,Gewijzigd
+296,Infiltratievoorziening,Vakdiscipline,RL,RL,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Lead werkgroep,E/W,E/W,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Extra werkgroep,E/W,E/W,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Extra werkgroep,KW,KW,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Vakdiscipline,KW,KW,Ongewijzigd
+154,Informatie en Volgsysteem Scheepvaart 1990 (IVS90),Vakdiscipline,EW,EW,Ongewijzigd
+358,Inlaatvoorziening,Lead werkgroep,RL,RL,Ongewijzigd
+358,Inlaatvoorziening,Extra werkgroep,WN,WN,Ongewijzigd
+358,Inlaatvoorziening,Extra werkgroep,RL,RL,Ongewijzigd
+358,Inlaatvoorziening,Vakdiscipline,WN,WN,Ongewijzigd
+358,Inlaatvoorziening,Vakdiscipline,RL,RL,Ongewijzigd
+152,Inspectiewagen,Lead werkgroep,E/W,E/W,Ongewijzigd
+152,Inspectiewagen,Extra werkgroep,E/W,E/W,Ongewijzigd
+152,Inspectiewagen,Vakdiscipline,EW,EW,Ongewijzigd
+153,Intercominstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+153,Intercominstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+153,Intercominstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+153,Intercominstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+153,Intercominstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+113,Kabel,Lead werkgroep,E/W,E/W,Ongewijzigd
+113,Kabel,Extra werkgroep,E/W,E/W,Ongewijzigd
+113,Kabel,Vakdiscipline,EW,EW,Ongewijzigd
+155,Kabel- en leidingtunnel,Lead werkgroep,WB,WB,Ongewijzigd
+155,Kabel- en leidingtunnel,Extra werkgroep,WB,WB,Ongewijzigd
+155,Kabel- en leidingtunnel,Vakdiscipline,WB,WB,Ongewijzigd
+156,Kabeldraagconstructie,Lead werkgroep,E/W,E/W,Ongewijzigd
+156,Kabeldraagconstructie,Extra werkgroep,E/W,E/W,Ongewijzigd
+156,Kabeldraagconstructie,Vakdiscipline,EW,EW,Ongewijzigd
+373,Kathodische bescherminstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+373,Kathodische bescherminstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+373,Kathodische bescherminstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+373,Kathodische bescherminstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+373,Kathodische bescherminstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+271,Keerplaats,Lead werkgroep,WB,WB,Ongewijzigd
+271,Keerplaats,Extra werkgroep,WB,WB,Ongewijzigd
+271,Keerplaats,Vakdiscipline,WB,WB,Ongewijzigd
+251,Kelder,Lead werkgroep,KW,KW,Ongewijzigd
+251,Kelder,Extra werkgroep,KW,KW,Ongewijzigd
+251,Kelder,Vakdiscipline,KW,KW,Ongewijzigd
+157,Kerende constructie,Lead werkgroep,WB,WB,Ongewijzigd
+157,Kerende constructie,Extra werkgroep,WB,WB,Ongewijzigd
+157,Kerende constructie,Extra werkgroep,KW,KW,Ongewijzigd
+157,Kerende constructie,Vakdiscipline,WB,WB,Ongewijzigd
+157,Kerende constructie,Vakdiscipline,KW,KW,Ongewijzigd
+205,Keringschuif,Lead werkgroep,KW,KW,Ongewijzigd
+205,Keringschuif,Extra werkgroep,KW,KW,Ongewijzigd
+205,Keringschuif,Vakdiscipline,KW,KW,Ongewijzigd
+407,Keukeninrichting,Lead werkgroep,E/W,E/W,Ongewijzigd
+407,Keukeninrichting,Extra werkgroep,E/W,E/W,Ongewijzigd
+407,Keukeninrichting,Vakdiscipline,EW,EW,Ongewijzigd
+158,Klepconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+158,Klepconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+158,Klepconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+299,Klim- en leiplant,Lead werkgroep,CGR,,Vervallen
+299,Klim- en leiplant,Extra werkgroep,CGR,,Vervallen
+299,Klim- en leiplant,Vakdiscipline,GN,,Vervallen
+337,Klimaatinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+337,Klimaatinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+337,Klimaatinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+393,Kozijnwerk,Lead werkgroep,KW,KW,Ongewijzigd
+393,Kozijnwerk,Extra werkgroep,KW,KW,Ongewijzigd
+393,Kozijnwerk,Vakdiscipline,KW,KW,Ongewijzigd
+159,Krib,Lead werkgroep,WB,WB,Ongewijzigd
+159,Krib,Extra werkgroep,WB,WB,Ongewijzigd
+159,Krib,Vakdiscipline,WB,WB,Ongewijzigd
+160,Kribvak,Lead werkgroep,WB,WB,Ongewijzigd
+160,Kribvak,Extra werkgroep,WB,WB,Ongewijzigd
+160,Kribvak,Vakdiscipline,WB,WB,Ongewijzigd
+259,Kruin,Lead werkgroep,WB,WB,Ongewijzigd
+259,Kruin,Extra werkgroep,WB,WB,Ongewijzigd
+259,Kruin,Vakdiscipline,WB,WB,Ongewijzigd
+302,Kwelder,Lead werkgroep,CGR,CGR,Ongewijzigd
+302,Kwelder,Extra werkgroep,CGR,CGR,Ongewijzigd
+302,Kwelder,Vakdiscipline,GN,GB,Gewijzigd
+427,Kwelkade,Lead werkgroep,,WB,Toegevoegd
+427,Kwelkade,Extra werkgroep,,WB,Toegevoegd
+427,Kwelkade,Vakdiscipline,,WB,Toegevoegd
+162,Laagspanningsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+162,Laagspanningsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+162,Laagspanningsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+273,Landbouwgrond,Lead werkgroep,CGR,CGR,Ongewijzigd
+273,Landbouwgrond,Extra werkgroep,CGR,CGR,Ongewijzigd
+273,Landbouwgrond,Vakdiscipline,GN,GB,Gewijzigd
+361,Leidam,Lead werkgroep,WB,WB,Ongewijzigd
+361,Leidam,Extra werkgroep,WB,WB,Ongewijzigd
+361,Leidam,Vakdiscipline,WB,WB,Ongewijzigd
+163,Leiding,Lead werkgroep,E/W,E/W,Ongewijzigd
+163,Leiding,Extra werkgroep,E/W,E/W,Ongewijzigd
+163,Leiding,Extra werkgroep,KW,KW,Ongewijzigd
+163,Leiding,Vakdiscipline,KW,KW,Ongewijzigd
+163,Leiding,Vakdiscipline,EW,EW,Ongewijzigd
+360,Leikade,Lead werkgroep,WB,WB,Ongewijzigd
+360,Leikade,Extra werkgroep,WB,WB,Ongewijzigd
+360,Leikade,Vakdiscipline,WB,WB,Ongewijzigd
+414,Leuningconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+414,Leuningconstructie,Extra werkgroep,WB,WB,Ongewijzigd
+414,Leuningconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+414,Leuningconstructie,Vakdiscipline,WB,WB,Ongewijzigd
+414,Leuningconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+414,Leuningconstructie,Vakdiscipline,EW,EW,Ongewijzigd
+165,Lift-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+165,Lift-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+165,Lift-installatie,Extra werkgroep,KW,KW,Ongewijzigd
+165,Lift-installatie,Vakdiscipline,KW,KW,Ongewijzigd
+165,Lift-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+166,Loopbrug,Lead werkgroep,KW,KW,Ongewijzigd
+166,Loopbrug,Extra werkgroep,KW,KW,Ongewijzigd
+166,Loopbrug,Vakdiscipline,KW,KW,Ongewijzigd
+167,Mantelbuis,Lead werkgroep,E/W,E/W,Ongewijzigd
+167,Mantelbuis,Extra werkgroep,E/W,E/W,Ongewijzigd
+167,Mantelbuis,Extra werkgroep,KW,KW,Ongewijzigd
+167,Mantelbuis,Vakdiscipline,KW,KW,Ongewijzigd
+167,Mantelbuis,Vakdiscipline,EW,EW,Ongewijzigd
+168,Marifooninstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+168,Marifooninstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+168,Marifooninstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+168,Marifooninstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+168,Marifooninstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+374,Meetinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+374,Meetinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+374,Meetinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+374,Meetinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+374,Meetinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+380,Menginstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+380,Menginstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+380,Menginstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+380,Menginstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+380,Menginstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+304,Moerasvegetatie,Lead werkgroep,CGR,,Vervallen
+304,Moerasvegetatie,Extra werkgroep,CGR,,Vervallen
+304,Moerasvegetatie,Vakdiscipline,GN,,Vervallen
+170,Nautofooninstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+170,Nautofooninstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+170,Nautofooninstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+364,Nevengeul,Lead werkgroep,WB,WB,Ongewijzigd
+364,Nevengeul,Extra werkgroep,WB,WB,Ongewijzigd
+364,Nevengeul,Vakdiscipline,WB,WB,Ongewijzigd
+379,Nooddouche-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+379,Nooddouche-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+379,Nooddouche-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+171,Noodstroominstallatie (roterend),Lead werkgroep,E/W,E/W,Ongewijzigd
+171,Noodstroominstallatie (roterend),Extra werkgroep,E/W,E/W,Ongewijzigd
+171,Noodstroominstallatie (roterend),Vakdiscipline,EW,EW,Ongewijzigd
+172,Noodstroominstallatie (statisch),Lead werkgroep,E/W,E/W,Ongewijzigd
+172,Noodstroominstallatie (statisch),Extra werkgroep,E/W,E/W,Ongewijzigd
+172,Noodstroominstallatie (statisch),Extra werkgroep,KW,KW,Ongewijzigd
+172,Noodstroominstallatie (statisch),Vakdiscipline,KW,KW,Ongewijzigd
+172,Noodstroominstallatie (statisch),Vakdiscipline,EW,EW,Ongewijzigd
+173,Objectverlichting,Lead werkgroep,E/W,E/W,Ongewijzigd
+173,Objectverlichting,Extra werkgroep,E/W,E/W,Ongewijzigd
+173,Objectverlichting,Extra werkgroep,CGR,CGR,Ongewijzigd
+173,Objectverlichting,Extra werkgroep,KW,KW,Ongewijzigd
+173,Objectverlichting,Vakdiscipline,KW,KW,Ongewijzigd
+173,Objectverlichting,Vakdiscipline,EW,EW,Ongewijzigd
+173,Objectverlichting,Vakdiscipline,GN,GB,Gewijzigd
+174,Oeverbescherming,Lead werkgroep,KW,KW,Ongewijzigd
+174,Oeverbescherming,Extra werkgroep,CGR,CGR,Ongewijzigd
+174,Oeverbescherming,Extra werkgroep,KW,KW,Ongewijzigd
+174,Oeverbescherming,Vakdiscipline,KW,KW,Ongewijzigd
+174,Oeverbescherming,Vakdiscipline,GN,GB,Gewijzigd
+175,Omroepinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+175,Omroepinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+175,Omroepinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+333,Onbegroeid terreindeel,Lead werkgroep,CGR,CGR,Ongewijzigd
+333,Onbegroeid terreindeel,Extra werkgroep,CGR,CGR,Ongewijzigd
+333,Onbegroeid terreindeel,Vakdiscipline,GN,GB,Gewijzigd
+176,Onderbouw,Lead werkgroep,KW,KW,Ongewijzigd
+176,Onderbouw,Extra werkgroep,KW,KW,Ongewijzigd
+176,Onderbouw,Vakdiscipline,KW,KW,Ongewijzigd
+177,Onderbouwconstructie,Lead werkgroep,WB,WB,Ongewijzigd
+177,Onderbouwconstructie,Extra werkgroep,WB,WB,Ongewijzigd
+177,Onderbouwconstructie,Vakdiscipline,WB,WB,Ongewijzigd
+262,Onderhoudsstrook,Lead werkgroep,WB,WB,Ongewijzigd
+262,Onderhoudsstrook,Extra werkgroep,WB,WB,Ongewijzigd
+262,Onderhoudsstrook,Vakdiscipline,WB,WB,Ongewijzigd
+178,Onderhoudsvoorziening,Lead werkgroep,KW,KW,Ongewijzigd
+178,Onderhoudsvoorziening,Extra werkgroep,KW,KW,Ongewijzigd
+178,Onderhoudsvoorziening,Vakdiscipline,KW,KW,Ongewijzigd
+179,Openbare verlichting (OV),Lead werkgroep,E/W,E/W,Ongewijzigd
+179,Openbare verlichting (OV),Extra werkgroep,E/W,E/W,Ongewijzigd
+179,Openbare verlichting (OV),Extra werkgroep,CGR,CGR,Ongewijzigd
+179,Openbare verlichting (OV),Extra werkgroep,KW,KW,Ongewijzigd
+179,Openbare verlichting (OV),Vakdiscipline,KW,KW,Ongewijzigd
+179,Openbare verlichting (OV),Vakdiscipline,EW,EW,Ongewijzigd
+179,Openbare verlichting (OV),Vakdiscipline,GN,GB,Gewijzigd
+180,Oplegging,Lead werkgroep,KW,KW,Ongewijzigd
+180,Oplegging,Extra werkgroep,KW,KW,Ongewijzigd
+180,Oplegging,Vakdiscipline,KW,KW,Ongewijzigd
+181,Opstal,Lead werkgroep,KW,KW,Ongewijzigd
+181,Opstal,Extra werkgroep,KW,KW,Ongewijzigd
+181,Opstal,Vakdiscipline,KW,KW,Ongewijzigd
+182,Over- en onderdrukinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+182,Over- en onderdrukinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+182,Over- en onderdrukinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+182,Over- en onderdrukinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+182,Over- en onderdrukinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+183,Overgangsconstructie,Lead werkgroep,WB,WB,Ongewijzigd
+183,Overgangsconstructie,Extra werkgroep,WB,WB,Ongewijzigd
+183,Overgangsconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+183,Overgangsconstructie,Vakdiscipline,WB,WB,Ongewijzigd
+183,Overgangsconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+347,Perkplant,Lead werkgroep,CGR,,Vervallen
+347,Perkplant,Extra werkgroep,CGR,,Vervallen
+347,Perkplant,Vakdiscipline,GN,,Vervallen
+404,Perron,Lead werkgroep,KW,KW,Ongewijzigd
+404,Perron,Extra werkgroep,KW,KW,Ongewijzigd
+404,Perron,Vakdiscipline,KW,KW,Ongewijzigd
+383,Persinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+383,Persinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+383,Persinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+383,Persinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+383,Persinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Lead werkgroep,E/W,E/W,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Extra werkgroep,E/W,E/W,Ongewijzigd
+184,Personenzoekinstallatie (PZI),Vakdiscipline,EW,EW,Ongewijzigd
+265,Pipingberm,Lead werkgroep,WB,WB,Ongewijzigd
+265,Pipingberm,Extra werkgroep,WB,WB,Ongewijzigd
+265,Pipingberm,Vakdiscipline,WB,WB,Ongewijzigd
+392,Plafondconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+392,Plafondconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+392,Plafondconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+402,Pollerinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+402,Pollerinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+402,Pollerinstallatie,Extra werkgroep,WN,WN,Ongewijzigd
+402,Pollerinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+402,Pollerinstallatie,Vakdiscipline,WN,WN,Ongewijzigd
+186,Pompinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+186,Pompinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+186,Pompinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+186,Pompinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+186,Pompinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+187,Pompkelder,Lead werkgroep,KW,KW,Ongewijzigd
+187,Pompkelder,Extra werkgroep,KW,KW,Ongewijzigd
+187,Pompkelder,Vakdiscipline,KW,KW,Ongewijzigd
+336,Ponton,Lead werkgroep,KW,KW,Ongewijzigd
+336,Ponton,Extra werkgroep,KW,KW,Ongewijzigd
+336,Ponton,Vakdiscipline,KW,KW,Ongewijzigd
+188,Portaal,Lead werkgroep,E/W,E/W,Ongewijzigd
+188,Portaal,Extra werkgroep,E/W,E/W,Ongewijzigd
+188,Portaal,Extra werkgroep,CGR,CGR,Ongewijzigd
+188,Portaal,Vakdiscipline,EW,EW,Ongewijzigd
+188,Portaal,Vakdiscipline,GN,GB,Gewijzigd
+354,Put,Lead werkgroep,RL,RL,Ongewijzigd
+354,Put,Extra werkgroep,WN,WN,Ongewijzigd
+354,Put,Extra werkgroep,CGR,CGR,Ongewijzigd
+354,Put,Extra werkgroep,RL,RL,Ongewijzigd
+354,Put,Vakdiscipline,WN,WN,Ongewijzigd
+354,Put,Vakdiscipline,RL,RL,Ongewijzigd
+189,Radarinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+189,Radarinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+189,Radarinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+362,Reddingsmiddel,Lead werkgroep,KW,KW,Ongewijzigd
+362,Reddingsmiddel,Extra werkgroep,KW,KW,Ongewijzigd
+362,Reddingsmiddel,Vakdiscipline,KW,KW,Ongewijzigd
+190,Remming- en geleidewerk,Lead werkgroep,KW,KW,Ongewijzigd
+190,Remming- en geleidewerk,Extra werkgroep,KW,KW,Ongewijzigd
+190,Remming- en geleidewerk,Vakdiscipline,KW,KW,Ongewijzigd
+192,Roltrapinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+192,Roltrapinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+192,Roltrapinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+192,Roltrapinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+192,Roltrapinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+381,Roostergoed container,Lead werkgroep,E/W,E/W,Ongewijzigd
+381,Roostergoed container,Extra werkgroep,E/W,E/W,Ongewijzigd
+381,Roostergoed container,Vakdiscipline,EW,EW,Ongewijzigd
+382,Roosterreinigingsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+382,Roosterreinigingsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+382,Roosterreinigingsinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+382,Roosterreinigingsinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+382,Roosterreinigingsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+384,Ruimerinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+384,Ruimerinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+384,Ruimerinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+384,Ruimerinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+384,Ruimerinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+394,Sanitaire installatie,Lead werkgroep,KW,KW,Ongewijzigd
+394,Sanitaire installatie,Extra werkgroep,KW,KW,Ongewijzigd
+394,Sanitaire installatie,Vakdiscipline,KW,KW,Ongewijzigd
+193,Schampkant,Lead werkgroep,KW,KW,Ongewijzigd
+193,Schampkant,Extra werkgroep,KW,KW,Ongewijzigd
+193,Schampkant,Vakdiscipline,KW,KW,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+194,Scheepvaartdetectie-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+195,Scheepverkeersbeseining,Lead werkgroep,E/W,E/W,Ongewijzigd
+195,Scheepverkeersbeseining,Extra werkgroep,E/W,E/W,Ongewijzigd
+195,Scheepverkeersbeseining,Extra werkgroep,KW,KW,Ongewijzigd
+195,Scheepverkeersbeseining,Vakdiscipline,KW,KW,Ongewijzigd
+195,Scheepverkeersbeseining,Vakdiscipline,EW,EW,Ongewijzigd
+308,Schietbaan,Lead werkgroep,CGR,CGR,Ongewijzigd
+308,Schietbaan,Extra werkgroep,CGR,CGR,Ongewijzigd
+308,Schietbaan,Vakdiscipline,GN,GB,Gewijzigd
+403,Schoorsteen,Lead werkgroep,KW,KW,Ongewijzigd
+403,Schoorsteen,Extra werkgroep,KW,KW,Ongewijzigd
+403,Schoorsteen,Vakdiscipline,KW,KW,Ongewijzigd
+196,Schuifconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+196,Schuifconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+196,Schuifconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+413,Slijtlaag,Lead werkgroep,KW,KW,Ongewijzigd
+413,Slijtlaag,Extra werkgroep,WB,WB,Ongewijzigd
+413,Slijtlaag,Extra werkgroep,KW,KW,Ongewijzigd
+413,Slijtlaag,Vakdiscipline,WB,WB,Ongewijzigd
+413,Slijtlaag,Vakdiscipline,KW,KW,Ongewijzigd
+351,Sloot,Lead werkgroep,CGR,CGR,Ongewijzigd
+351,Sloot,Extra werkgroep,CGR,CGR,Ongewijzigd
+351,Sloot,Extra werkgroep,WB,WB,Ongewijzigd
+351,Sloot,Vakdiscipline,WB,WB,Ongewijzigd
+351,Sloot,Vakdiscipline,GN,GB,Gewijzigd
+198,"Sluisdeur (hef, punt, rol)",Lead werkgroep,KW,KW,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Extra werkgroep,KW,KW,Ongewijzigd
+198,"Sluisdeur (hef, punt, rol)",Vakdiscipline,KW,KW,Ongewijzigd
+199,Sluishoofd,Lead werkgroep,KW,KW,Ongewijzigd
+199,Sluishoofd,Extra werkgroep,KW,KW,Ongewijzigd
+199,Sluishoofd,Vakdiscipline,KW,KW,Ongewijzigd
+200,Sluiskolk,Lead werkgroep,KW,KW,Ongewijzigd
+200,Sluiskolk,Extra werkgroep,CGR,CGR,Ongewijzigd
+200,Sluiskolk,Extra werkgroep,KW,KW,Ongewijzigd
+200,Sluiskolk,Vakdiscipline,KW,KW,Ongewijzigd
+200,Sluiskolk,Vakdiscipline,GN,GB,Gewijzigd
+398,Sluismarkering,Lead werkgroep,KW,KW,Ongewijzigd
+398,Sluismarkering,Extra werkgroep,KW,KW,Ongewijzigd
+398,Sluismarkering,Vakdiscipline,KW,KW,Ongewijzigd
+345,Speeltoestel,Lead werkgroep,CGR,CGR,Ongewijzigd
+345,Speeltoestel,Extra werkgroep,CGR,CGR,Ongewijzigd
+343,Sportattribuut,Lead werkgroep,CGR,CGR,Ongewijzigd
+343,Sportattribuut,Extra werkgroep,CGR,CGR,Ongewijzigd
+343,Sportattribuut,Vakdiscipline,GN,GB,Gewijzigd
+344,Sportveld,Lead werkgroep,CGR,CGR,Ongewijzigd
+344,Sportveld,Extra werkgroep,CGR,CGR,Ongewijzigd
+344,Sportveld,Vakdiscipline,GN,GB,Gewijzigd
+415,Sproei-installatie,Lead werkgroep,CGR,CGR,Ongewijzigd
+415,Sproei-installatie,Extra werkgroep,WN,WN,Ongewijzigd
+415,Sproei-installatie,Extra werkgroep,CGR,CGR,Ongewijzigd
+415,Sproei-installatie,Extra werkgroep,KW,KW,Ongewijzigd
+415,Sproei-installatie,Vakdiscipline,GN,GB,Gewijzigd
+261,Stabiliteitsberm,Lead werkgroep,WB,WB,Ongewijzigd
+261,Stabiliteitsberm,Extra werkgroep,WB,WB,Ongewijzigd
+261,Stabiliteitsberm,Vakdiscipline,WB,WB,Ongewijzigd
+201,Steiger,Lead werkgroep,KW,KW,Ongewijzigd
+201,Steiger,Extra werkgroep,KW,KW,Ongewijzigd
+201,Steiger,Vakdiscipline,KW,KW,Ongewijzigd
+202,Steunpunt,Lead werkgroep,KW,KW,Ongewijzigd
+202,Steunpunt,Extra werkgroep,KW,KW,Ongewijzigd
+202,Steunpunt,Vakdiscipline,KW,KW,Ongewijzigd
+350,Stortvak,Lead werkgroep,WB,WB,Ongewijzigd
+350,Stortvak,Extra werkgroep,WB,WB,Ongewijzigd
+350,Stortvak,Vakdiscipline,WB,WB,Ongewijzigd
+203,Strandhoofd,Lead werkgroep,WB,WB,Ongewijzigd
+203,Strandhoofd,Extra werkgroep,WB,WB,Ongewijzigd
+203,Strandhoofd,Vakdiscipline,WB,WB,Ongewijzigd
+204,Strekdam,Lead werkgroep,WB,WB,Ongewijzigd
+204,Strekdam,Extra werkgroep,WB,WB,Ongewijzigd
+204,Strekdam,Vakdiscipline,WB,WB,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+406,Stuurstroomvoedingsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+255,Stuwhoofd,Lead werkgroep,KW,KW,Ongewijzigd
+255,Stuwhoofd,Extra werkgroep,KW,KW,Ongewijzigd
+255,Stuwhoofd,Vakdiscipline,KW,KW,Ongewijzigd
+272,Talud,Lead werkgroep,KW,KW,Ongewijzigd
+272,Talud,Extra werkgroep,WB,WB,Ongewijzigd
+272,Talud,Extra werkgroep,KW,KW,Ongewijzigd
+272,Talud,Vakdiscipline,WB,WB,Ongewijzigd
+272,Talud,Vakdiscipline,KW,KW,Ongewijzigd
+385,Tankconstructie,Lead werkgroep,E/W,E/W,Ongewijzigd
+385,Tankconstructie,Extra werkgroep,E/W,E/W,Ongewijzigd
+385,Tankconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+385,Tankconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+385,Tankconstructie,Vakdiscipline,EW,EW,Ongewijzigd
+263,Teensloot,Lead werkgroep,WB,WB,Ongewijzigd
+263,Teensloot,Extra werkgroep,WB,WB,Ongewijzigd
+263,Teensloot,Vakdiscipline,WB,WB,Ongewijzigd
+206,Telefooninstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+206,Telefooninstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+206,Telefooninstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+207,Telemetrie-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+207,Telemetrie-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+207,Telemetrie-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+319,Terreinmeubilair,Lead werkgroep,CGR,CGR,Ongewijzigd
+319,Terreinmeubilair,Extra werkgroep,CGR,CGR,Ongewijzigd
+319,Terreinmeubilair,Vakdiscipline,GN,GB,Gewijzigd
+400,Toegangscontrole-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+400,Toegangscontrole-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+400,Toegangscontrole-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+209,Toegangshek,Lead werkgroep,E/W,E/W,Ongewijzigd
+209,Toegangshek,Extra werkgroep,E/W,E/W,Ongewijzigd
+209,Toegangshek,Vakdiscipline,EW,EW,Ongewijzigd
+210,Tracing,Lead werkgroep,E/W,E/W,Ongewijzigd
+210,Tracing,Extra werkgroep,E/W,E/W,Ongewijzigd
+210,Tracing,Vakdiscipline,EW,EW,Ongewijzigd
+211,Trambaan,Lead werkgroep,WN,WN,Ongewijzigd
+211,Trambaan,Extra werkgroep,WN,WN,Ongewijzigd
+211,Trambaan,Vakdiscipline,WN,WN,Ongewijzigd
+124,Transmissie-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+124,Transmissie-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+124,Transmissie-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+386,Transportinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+386,Transportinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+386,Transportinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+386,Transportinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+386,Transportinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+390,Trapconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+390,Trapconstructie,Extra werkgroep,,WB,Toegevoegd
+390,Trapconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+390,Trapconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+212,Tunnelbuis,Lead werkgroep,KW,KW,Ongewijzigd
+212,Tunnelbuis,Extra werkgroep,KW,KW,Ongewijzigd
+212,Tunnelbuis,Vakdiscipline,KW,KW,Ongewijzigd
+215,Uithouder,Lead werkgroep,E/W,E/W,Ongewijzigd
+215,Uithouder,Extra werkgroep,E/W,E/W,Ongewijzigd
+215,Uithouder,Vakdiscipline,EW,EW,Ongewijzigd
+357,Uitlaatvoorziening,Lead werkgroep,RL,RL,Ongewijzigd
+357,Uitlaatvoorziening,Extra werkgroep,WN,WN,Ongewijzigd
+357,Uitlaatvoorziening,Extra werkgroep,RL,RL,Ongewijzigd
+357,Uitlaatvoorziening,Vakdiscipline,WN,WN,Ongewijzigd
+357,Uitlaatvoorziening,Vakdiscipline,RL,RL,Ongewijzigd
+267,Vaargeul,Lead werkgroep,WB,WB,Ongewijzigd
+267,Vaargeul,Extra werkgroep,WB,WB,Ongewijzigd
+267,Vaargeul,Vakdiscipline,WB,WB,Ongewijzigd
+216,Vaarwegmarkering,Lead werkgroep,E/W,E/W,Ongewijzigd
+216,Vaarwegmarkering,Extra werkgroep,E/W,E/W,Ongewijzigd
+216,Vaarwegmarkering,Vakdiscipline,EW,EW,Ongewijzigd
+417,Valbeveiliging,Lead werkgroep,,KW,Toegevoegd
+417,Valbeveiliging,Extra werkgroep,,KW,Toegevoegd
+417,Valbeveiliging,Vakdiscipline,,KW,Toegevoegd
+217,Vangconstructie,Lead werkgroep,E/W,E/W,Ongewijzigd
+217,Vangconstructie,Extra werkgroep,E/W,E/W,Ongewijzigd
+217,Vangconstructie,Vakdiscipline,EW,EW,Ongewijzigd
+348,Vaste plant,Lead werkgroep,CGR,,Vervallen
+348,Vaste plant,Extra werkgroep,CGR,,Vervallen
+348,Vaste plant,Vakdiscipline,GN,,Vervallen
+363,Ven,Lead werkgroep,WB,WB,Ongewijzigd
+363,Ven,Extra werkgroep,WB,WB,Ongewijzigd
+363,Ven,Vakdiscipline,WB,WB,Ongewijzigd
+213,Ventilatie-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+213,Ventilatie-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+213,Ventilatie-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+218,Verankering,Lead werkgroep,KW,KW,Ongewijzigd
+218,Verankering,Extra werkgroep,WB,WB,Ongewijzigd
+218,Verankering,Extra werkgroep,KW,KW,Ongewijzigd
+218,Verankering,Vakdiscipline,WB,WB,Ongewijzigd
+218,Verankering,Vakdiscipline,KW,KW,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Lead werkgroep,WN,WN,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Extra werkgroep,WN,WN,Ongewijzigd
+219,Verharding wegtype 1 (hoofdwegennet),Vakdiscipline,WN,WN,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Lead werkgroep,WN,WN,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Extra werkgroep,WN,WN,Ongewijzigd
+220,Verharding wegtype 2 (zwaarbelaste weg),Vakdiscipline,WN,WN,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Lead werkgroep,WN,WN,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Extra werkgroep,WN,WN,Ongewijzigd
+221,Verharding wegtype 3 (gemiddeld belaste weg),Vakdiscipline,WN,WN,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Lead werkgroep,WN,WN,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Extra werkgroep,WN,WN,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Extra werkgroep,CGR,CGR,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Vakdiscipline,WN,WN,Ongewijzigd
+222,Verharding wegtype 4 (licht belast),Vakdiscipline,GN,GB,Gewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Lead werkgroep,WN,WN,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Extra werkgroep,WN,WN,Ongewijzigd
+223,Verharding wegtype 5 (weg in woongebied),Vakdiscipline,WN,WN,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Lead werkgroep,WN,WN,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Extra werkgroep,WN,WN,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Extra werkgroep,CGR,CGR,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Vakdiscipline,WN,WN,Ongewijzigd
+224,Verharding wegtype 6 (weg in verblijfsgebied),Vakdiscipline,GN,GB,Gewijzigd
+225,Verharding wegtype 7 (fietspaden),Lead werkgroep,WN,WN,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Extra werkgroep,WN,WN,Ongewijzigd
+225,Verharding wegtype 7 (fietspaden),Vakdiscipline,WN,WN,Ongewijzigd
+226,Verkeersdetectie-installatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+226,Verkeersdetectie-installatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+226,Verkeersdetectie-installatie,Vakdiscipline,EW,EW,Ongewijzigd
+399,Verkeerseiland,Lead werkgroep,WN,WN,Ongewijzigd
+399,Verkeerseiland,Extra werkgroep,WN,WN,Ongewijzigd
+399,Verkeerseiland,Vakdiscipline,WN,WN,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Lead werkgroep,E/W,E/W,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Extra werkgroep,E/W,E/W,Ongewijzigd
+227,Verkeersregelinstallatie (VRI),Vakdiscipline,EW,EW,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Lead werkgroep,E/W,E/W,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Extra werkgroep,E/W,E/W,Ongewijzigd
+229,Verplaatsbare Vangrail installatie (VEVA),Vakdiscipline,EW,EW,Ongewijzigd
+322,Vijver,Lead werkgroep,CGR,CGR,Ongewijzigd
+322,Vijver,Extra werkgroep,CGR,CGR,Ongewijzigd
+322,Vijver,Vakdiscipline,GN,GB,Gewijzigd
+230,Vijzelinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+230,Vijzelinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+230,Vijzelinstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+266,Vispassage,Lead werkgroep,WB,WB,Ongewijzigd
+266,Vispassage,Extra werkgroep,WB,WB,Ongewijzigd
+266,Vispassage,Vakdiscipline,WB,WB,Ongewijzigd
+335,Vissluis,Lead werkgroep,KW,KW,Ongewijzigd
+335,Vissluis,Extra werkgroep,KW,KW,Ongewijzigd
+335,Vissluis,Vakdiscipline,KW,KW,Ongewijzigd
+323,Vleermuiskelder,Lead werkgroep,CGR,CGR,Ongewijzigd
+323,Vleermuiskelder,Extra werkgroep,CGR,CGR,Ongewijzigd
+323,Vleermuiskelder,Vakdiscipline,GN,GB,Gewijzigd
+389,Vloerconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+389,Vloerconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+389,Vloerconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Lead werkgroep,E/W,E/W,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Extra werkgroep,E/W,E/W,Ongewijzigd
+231,Vluchthaven Aanwezigheidsdetectie installatie (VAD),Vakdiscipline,EW,EW,Ongewijzigd
+232,Vluchtweginstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+232,Vluchtweginstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+232,Vluchtweginstallatie,Vakdiscipline,EW,EW,Ongewijzigd
+233,Voegovergang,Lead werkgroep,KW,KW,Ongewijzigd
+233,Voegovergang,Extra werkgroep,WB,WB,Ongewijzigd
+233,Voegovergang,Extra werkgroep,KW,KW,Ongewijzigd
+233,Voegovergang,Vakdiscipline,WB,WB,Ongewijzigd
+233,Voegovergang,Vakdiscipline,KW,KW,Ongewijzigd
+256,Voorland,Lead werkgroep,WB,WB,Ongewijzigd
+256,Voorland,Extra werkgroep,WB,WB,Ongewijzigd
+256,Voorland,Vakdiscipline,WB,WB,Ongewijzigd
+257,Vooroever,Lead werkgroep,WB,WB,Ongewijzigd
+257,Vooroever,Extra werkgroep,WB,WB,Ongewijzigd
+257,Vooroever,Vakdiscipline,WB,WB,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Lead werkgroep,E/W,E/W,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Extra werkgroep,E/W,E/W,Ongewijzigd
+372,Waarschuwings- en alarmeringssysteem (WAS),Vakdiscipline,EW,EW,Ongewijzigd
+388,Wandconstructie,Lead werkgroep,KW,KW,Ongewijzigd
+388,Wandconstructie,Extra werkgroep,KW,KW,Ongewijzigd
+388,Wandconstructie,Vakdiscipline,KW,KW,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Lead werkgroep,E/W,E/W,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Extra werkgroep,E/W,E/W,Ongewijzigd
+408,Warmte-kracht koppelingsinstallatie (WKK),Vakdiscipline,EW,EW,Ongewijzigd
+421,Waterlichaam (oppervlaktewater),Lead werkgroep,,CGR,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Extra werkgroep,,CGR,Toegevoegd
+421,Waterlichaam (oppervlaktewater),Vakdiscipline,,GB,Toegevoegd
+410,Watermistinstallatie (WMS),Lead werkgroep,E/W,E/W,Ongewijzigd
+410,Watermistinstallatie (WMS),Extra werkgroep,E/W,E/W,Ongewijzigd
+410,Watermistinstallatie (WMS),Vakdiscipline,EW,EW,Ongewijzigd
+395,Watertapinstallatie,Lead werkgroep,KW,KW,Ongewijzigd
+395,Watertapinstallatie,Extra werkgroep,KW,KW,Ongewijzigd
+395,Watertapinstallatie,Vakdiscipline,KW,KW,Ongewijzigd
+329,Watervegetatie,Lead werkgroep,CGR,,Vervallen
+329,Watervegetatie,Extra werkgroep,CGR,,Vervallen
+329,Watervegetatie,Vakdiscipline,GN,,Vervallen
+169,Wegkantsysteem (WKS),Lead werkgroep,E/W,E/W,Ongewijzigd
+169,Wegkantsysteem (WKS),Extra werkgroep,E/W,E/W,Ongewijzigd
+169,Wegkantsysteem (WKS),Extra werkgroep,KW,KW,Ongewijzigd
+169,Wegkantsysteem (WKS),Vakdiscipline,KW,KW,Ongewijzigd
+169,Wegkantsysteem (WKS),Vakdiscipline,EW,EW,Ongewijzigd
+238,Wegmarkering,Lead werkgroep,WN,WN,Ongewijzigd
+238,Wegmarkering,Extra werkgroep,E/W,E/W,Ongewijzigd
+238,Wegmarkering,Extra werkgroep,WN,WN,Ongewijzigd
+238,Wegmarkering,Vakdiscipline,EW,EW,Ongewijzigd
+238,Wegmarkering,Vakdiscipline,WN,WN,Ongewijzigd
+239,Weigh In Motion,Lead werkgroep,E/W,E/W,Ongewijzigd
+239,Weigh In Motion,Extra werkgroep,E/W,E/W,Ongewijzigd
+239,Weigh In Motion,Extra werkgroep,KW,KW,Ongewijzigd
+239,Weigh In Motion,Vakdiscipline,KW,KW,Ongewijzigd
+239,Weigh In Motion,Vakdiscipline,EW,EW,Ongewijzigd
+240,Werk-spreekverbinding,Lead werkgroep,E/W,E/W,Ongewijzigd
+240,Werk-spreekverbinding,Extra werkgroep,E/W,E/W,Ongewijzigd
+240,Werk-spreekverbinding,Vakdiscipline,EW,EW,Ongewijzigd
+270,Wingebied,Lead werkgroep,WB,WB,Ongewijzigd
+270,Wingebied,Extra werkgroep,WB,WB,Ongewijzigd
+270,Wingebied,Vakdiscipline,WB,WB,Ongewijzigd
+432,Zeestrand,Lead werkgroep,,WB,Toegevoegd
+432,Zeestrand,Extra werkgroep,,WB,Toegevoegd
+432,Zeestrand,Vakdiscipline,,WB,Toegevoegd
+242,Zinker,Lead werkgroep,E/W,E/W,Ongewijzigd
+242,Zinker,Extra werkgroep,E/W,E/W,Ongewijzigd
+242,Zinker,Vakdiscipline,EW,EW,Ongewijzigd
+401,Zonweringsinstallatie,Lead werkgroep,E/W,E/W,Ongewijzigd
+401,Zonweringsinstallatie,Extra werkgroep,E/W,E/W,Ongewijzigd
+401,Zonweringsinstallatie,Vakdiscipline,EW,EW,Ongewijzigd

@@ -1,0 +1,167 @@
+Gebrekgroep,Gebrek (oud),Gebrek (nieuw),Mutatie
+Beschadiging,Afbrokkelen,Afbrokkelen,Ongewijzigd
+Beschadiging,"Afdichting, defect","Afdichting, defect",Ongewijzigd
+Beschadiging,Afschuiving,Afschuiving,Ongewijzigd
+Beschadiging,Oeverafslag,Oeverafslag,Ongewijzigd
+Beschadiging,"Grasmat, beschadigd","Grasmat, beschadigd",Ongewijzigd
+Beschadiging,Breuk,Breuk,Ongewijzigd
+Beschadiging,"Deformatie, kritiek","Deformatie, kritiek",Ongewijzigd
+Beschadiging,Groeven,Groeven,Ongewijzigd
+Beschadiging,Houtrot,Houtrot,Ongewijzigd
+Beschadiging,Krassen,Krassen,Ongewijzigd
+Beschadiging,Ontgronding,Ontgronding,Ongewijzigd
+Beschadiging,Rafeling,Rafeling,Ongewijzigd
+Beschadiging,"Scheur, niet constructief","Scheur, niet constructief",Ongewijzigd
+Beschadiging,"Scheur, constructief","Scheur, constructief",Ongewijzigd
+Beschadiging,"Beschermlaag, defect","Beschermlaag, defect",Ongewijzigd
+Beschadiging,Uitspoeling,Uitspoeling,Ongewijzigd
+Beschadiging,"Verankering, defect","Verankering, defect",Ongewijzigd
+Beschadiging,Vergraving,Vergraving,Ongewijzigd
+Beschadiging,Verpoederen,Verpoederen,Ongewijzigd
+Beschadiging,Verzakking,Verzakking,Ongewijzigd
+Beschadiging,Scheefstand,Scheefstand,Ongewijzigd
+Beschadiging,Rafeling (ZOAB),Rafeling (ZOAB),Ongewijzigd
+Beschadiging,Verwering,Verwering,Ongewijzigd
+Beschadiging,Verzanding,Verzanding,Ongewijzigd
+Beschadiging,"Voegvulling, defect","Voegvulling, defect",Ongewijzigd
+Beschadiging,Randschade,Randschade,Ongewijzigd
+Beschadiging,"Dakgrind, ingezakt","Dakgrind, ingezakt",Ongewijzigd
+Beschadiging,Kieren,Kieren,Ongewijzigd
+Beschadiging,Losliggend,Losliggend,Ongewijzigd
+Beschadiging,"Aansluiting, onjuist","Aansluiting, onjuist",Ongewijzigd
+Beschadiging,"Breuk/instorting, riool","Breuk/instorting, riool",Ongewijzigd
+Beschadiging,Oppervlakteschade,Oppervlakteschade,Ongewijzigd
+Beschadiging,"Verbinding, verplaatst","Verbinding, verplaatst",Ongewijzigd
+Beschadiging,"Lining, defect","Lining, defect",Ongewijzigd
+Beschadiging,"Materiaal, poreus","Materiaal, poreus",Ongewijzigd
+Beschadiging,Wortelingroei,Wortelingroei,Ongewijzigd
+Beschadiging,Bezinksel,Bezinksel,Ongewijzigd
+Beschadiging,Grondindringing,Grondindringing,Ongewijzigd
+Beschadiging,Obstakels,Obstakels,Ongewijzigd
+Beschadiging,Infiltratie,Infiltratie,Ongewijzigd
+Beschadiging,Scheurvorming,Scheurvorming,Ongewijzigd
+Beschadiging,"Deformatie, niet kritiek","Deformatie, niet kritiek",Ongewijzigd
+Beschadiging,Onthechting,Onthechting,Ongewijzigd
+Beschadiging,Delaminatie,Delaminatie,Ongewijzigd
+Beschadiging,Vervorming,Vervorming,Ongewijzigd
+Beschadiging,Desintegratie,Desintegratie,Ongewijzigd
+Beschadiging,"Slijtage, mechanisch","Slijtage, mechanisch",Ongewijzigd
+Beschadiging,"Aansluiting, defect","Aansluiting, defect",Ongewijzigd
+Beschadiging,Verpulveren,Verpulveren,Ongewijzigd
+Beschadiging,Verruiging,Verruiging,Ongewijzigd
+Beschadiging,Vertrapping,,Vervallen
+Beschadiging,Wildschade,,Vervallen
+Beschadiging,Aanhechtingsmankement,,Vervallen
+Beschadiging,"Gesteltakken, gescheurd",,Vervallen
+Beschadiging,,Windworp,Toegevoegd
+Beschadiging,,Omgevallen,Toegevoegd
+Beschadiging,,"Aansluiting, onvoldoende",Toegevoegd
+Beschadiging,,Erosie,Toegevoegd
+Beschadiging,,Gaten,Toegevoegd
+Bevestiging,"Bevestiging, onjuist","Bevestiging, onjuist",Ongewijzigd
+Bevestiging,"Bevestiging, ontbreekt","Bevestiging, ontbreekt",Ongewijzigd
+Bevestiging,"Bevestiging, defect","Bevestiging, defect",Ongewijzigd
+Codering,"Codering, onjuist","Codering, onjuist",Ongewijzigd
+Corrosie,"Corrosie, uniform","Corrosie, uniform",Ongewijzigd
+Corrosie,Putcorrosie,Putcorrosie,Ongewijzigd
+Corrosie,Spleetcorrosie,Spleetcorrosie,Ongewijzigd
+Corrosie,Wapeningscorrosie,Wapeningscorrosie,Ongewijzigd
+Documentatie,"Documentatie, onjuist","Documentatie, onjuist",Ongewijzigd
+Functionaliteit,"Beschermingsgraad, onvoldoende","Beschermingsgraad, onvoldoende",Ongewijzigd
+Functionaliteit,"Functie, verminderd","Functie, verminderd",Ongewijzigd
+Functionaliteit,"Functie, afwezig","Functie, afwezig",Ongewijzigd
+Functionaliteit,"Servicetermijn, ten einde","Servicetermijn, ten einde",Ongewijzigd
+Functionaliteit,"Instelling, foutief","Instelling, foutief",Ongewijzigd
+Functionaliteit,"Kortsluitvastheid, onvoldoende","Kortsluitvastheid, onvoldoende",Ongewijzigd
+Functionaliteit,"Markering, onjuist","Markering, onjuist",Ongewijzigd
+Functionaliteit,"Onderdeel, ontbreekt","Onderdeel, ontbreekt",Ongewijzigd
+Functionaliteit,"Diepte, onvoldoende","Diepte, onvoldoende",Ongewijzigd
+Functionaliteit,"Smering, onvoldoende","Smering, onvoldoende",Ongewijzigd
+Functionaliteit,"Trilling, overmatig","Trilling, overmatig",Ongewijzigd
+Functionaliteit,"Warmte-ontwikkeling, overmatig","Warmte-ontwikkeling, overmatig",Ongewijzigd
+Functionaliteit,"Verspreidingsweerstand, onjuist","Verspreidingsweerstand, onjuist",Ongewijzigd
+Functionaliteit,"Verkeerstekens, onvoldoende","Verkeerstekens, onvoldoende",Ongewijzigd
+Functionaliteit,"Capaciteit, verminderd","Capaciteit, verminderd",Ongewijzigd
+Functionaliteit,"Inlaat, instekend","Inlaat, instekend",Ongewijzigd
+Functionaliteit,"Vloeistofpeil, onjuist","Vloeistofpeil, onjuist",Ongewijzigd
+Functionaliteit,,"Begroeiing, ongewenst",Toegevoegd
+Functionaliteit,,Verdwenen,Toegevoegd
+"Groei, ontwikkeling","Biotoop, afwijkend","Biotoop, afwijkend",Ongewijzigd
+"Groei, ontwikkeling","Bladkleur, afwijkend",Bladverkleuring,Gewijzigd
+"Groei, ontwikkeling","Groeistoornis, kritisch",Scheutlengte-ontwikkeling,Gewijzigd
+"Groei, ontwikkeling","Snoeiwond, afgrendeling onjuist",Wondreactie,Gewijzigd
+"Groei, ontwikkeling","Bloeiontwikkeling, onvoldoende",Bloeiontwikkeling,Gewijzigd
+"Groei, ontwikkeling","Groeihoogte onjuist, kritisch",Stamontwikkeling,Gewijzigd
+"Groei, ontwikkeling","Groeistoornis, niet kritisch",,Vervallen
+"Groei, ontwikkeling","Groeihoogte onjuist, niet kritisch",,Vervallen
+"Groei, ontwikkeling","Takken laaghangend, niet kritisch",,Vervallen
+"Groei, ontwikkeling","Kroon-stam, verhouding onjuist",,Vervallen
+"Groei, ontwikkeling","Kroon-stam, verhouding afwijkend",,Vervallen
+"Groei, ontwikkeling","Houtige begroeing, onderbroken",,Vervallen
+"Groei, ontwikkeling",Reactiehout,,Vervallen
+"Groei, ontwikkeling","Zuigers, overlast",,Vervallen
+"Groei, ontwikkeling",Wurgwortels,,Vervallen
+"Groei, ontwikkeling","Takken laaghangend, kritisch",,Vervallen
+"Groei, ontwikkeling","Top, dubbel",,Vervallen
+Groen,Afsterving,Afsterving,Ongewijzigd
+Groen,"Stam, beschadigd",Houtweefselschade,Gewijzigd
+Groen,"Toplaag, dichtgeslibd","Toplaag, dichtgeslibd",Ongewijzigd
+Groen,"Dichtgroei, boomopslag","Dichtgroei, boomopslag",Ongewijzigd
+Groen,Vergrassing,Vergrassing,Ongewijzigd
+Groen,Verhouting,Verhouting,Ongewijzigd
+Groen,Verlanding,Verlanding,Ongewijzigd
+Groen,Vermossing,Vermossing,Ongewijzigd
+Groen,Verstuiving,Verstuiving,Ongewijzigd
+Groen,"Bedekkingsgraad, onvoldoende",Bedekkingsgraad,Gewijzigd
+Groen,"Schade, mechanisch","Schade, mechanisch",Ongewijzigd
+Groen,"Draagkracht bodem, onvoldoende","Draagkracht bodem, onvoldoende",Ongewijzigd
+Groen,"Slijtage, sportvelden","Slijtage, sportvelden",Ongewijzigd
+Groen,"Bladontwikkeling, onjuist",Bladontwikkeling,Gewijzigd
+Groen,"Boomvitaliteit, vermindering",,Vervallen
+Groen,"Kroonontwikkeling, onevenwichtig",,Vervallen
+Groen,"Exotengroei, ongewenst",,Vervallen
+Groen,Verdroging,,Vervallen
+Groen,"Kroon, beschadigd",,Vervallen
+Groen,"Wortels, beschadigd",,Vervallen
+Groen,Plakoksel,,Vervallen
+Groen,,Groeiontwikkeling,Toegevoegd
+Groen,,"Afdekking, ongewenst",Toegevoegd
+Groen,,"Soortenrijkdom, onvoldoende",Toegevoegd
+"Leeftijd, veroudering","Theoretische levensduur, 100%","Theoretische levensduur, 100%",Ongewijzigd
+"Leeftijd, veroudering","Theoretische levensduur, tussen 50% en 75%","Theoretische levensduur, tussen 50% en 75%",Ongewijzigd
+"Leeftijd, veroudering","Theoretische levensduur, ouder dan 75%","Theoretische levensduur, ouder dan 75%",Ongewijzigd
+"Orde, netheid",Graffity,Graffity,Ongewijzigd
+"Orde, netheid",Onkruidgroei,Onkruidgroei,Ongewijzigd
+"Orde, netheid","Organische stof, overlast","Organische stof, overlast",Ongewijzigd
+"Orde, netheid",Verstopping,Verstopping,Ongewijzigd
+"Orde, netheid",Vervuiling,Vervuiling,Ongewijzigd
+"Orde, netheid","Afzetting, aangehecht","Afzetting, aangehecht",Ongewijzigd
+"Orde, netheid",Aangroei,Aangroei,Ongewijzigd
+"Orde, netheid","Afzetting, bezonken","Afzetting, bezonken",Ongewijzigd
+"Orde, netheid","Insectenvraat, niet kritisch",,Vervallen
+Veiligheid & Wet en regelgeving,Stroefheid,Stroefheid,Ongewijzigd
+Veiligheid & Wet en regelgeving,"Wet & regelgeving, voldoet niet","Wet & regelgeving, voldoet niet",Ongewijzigd
+Veiligheid & Wet en regelgeving,"Ziekte, kritisch",,Vervallen
+Veiligheid & Wet en regelgeving,"Ziekte, niet kritisch",,Vervallen
+Vlakheid,"Afschot, foutief","Afschot, foutief",Ongewijzigd
+Vlakheid,Boomwortelopgroei,Boomwortelopgroei,Ongewijzigd
+Vlakheid,Dwarsonvlakheid,Dwarsonvlakheid,Ongewijzigd
+Vlakheid,Langsonvlakheid,Langsonvlakheid,Ongewijzigd
+Vlakheid,Oneffenheden,Oneffenheden,Ongewijzigd
+Vlakheid,Opbolling,Opbolling,Ongewijzigd
+Vlakheid,Plasvorming,Plasvorming,Ongewijzigd
+Vlakheid,Spoorvorming,Spoorvorming,Ongewijzigd
+Vlakheid,"Voegwijdte, onjuist","Voegwijdte, onjuist",Ongewijzigd
+Vlakheid,Zetting,Zetting,Ongewijzigd
+Vlakheid,Spoordiepte,Spoordiepte,Ongewijzigd
+Vlakheid,"Comfort, fietspad","Comfort, fietspad",Ongewijzigd
+"Vocht, water",Kwelplek,Kwelplek,Ongewijzigd
+"Vocht, water",Verweking,Verweking,Ongewijzigd
+"Vocht, water",Wellen (zandmeevoerend),Wellen (zandmeevoerend),Ongewijzigd
+"Ziekte, aandoening","Leemgehalte, onjuist","Leemgehalte, onjuist",Ongewijzigd
+"Ziekte, aandoening",Verzuring,Verzuring,Ongewijzigd
+"Ziekte, aandoening","Aantasting, kritisch",,Vervallen
+"Ziekte, aandoening","Aantasting, niet kritisch",,Vervallen
+"Ziekte, aandoening","Insectenvraat, kritisch",,Vervallen
+"Ziekte, aandoening",,Blauwalgontwikkeling,Toegevoegd
+"Ziekte, aandoening",,Aantasting,Toegevoegd

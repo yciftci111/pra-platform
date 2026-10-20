@@ -1,0 +1,527 @@
+Nr,Code,Bouwdeel,Onderdeel,Oud,Nieuw,Mutatie
+38,1044,Asfaltverharding,Naam,Asfaltconstructie,Asfaltverharding,Gewijzigd
+38,1044,Asfaltverharding,Element,,Voorland,Toegevoegd
+38,1044,Asfaltverharding,Element,,Buitentalud,Toegevoegd
+38,1044,Asfaltverharding,Element,,Kruin,Toegevoegd
+38,1044,Asfaltverharding,Element,,Binnentalud,Toegevoegd
+38,1044,Asfaltverharding,Element,,Binnenberm,Toegevoegd
+38,1044,Asfaltverharding,Element,,Buitenberm,Toegevoegd
+38,1044,Asfaltverharding,Element,,Kwelkade,Toegevoegd
+38,1044,Asfaltverharding,Element,,Afslagzone,Toegevoegd
+38,1044,Asfaltverharding,Element,,Binnenduin,Toegevoegd
+38,1044,Asfaltverharding,Element,,Grensprofiel,Toegevoegd
+50,1051,Balk,Element,,Hijs- en hefinstallatie,Toegevoegd
+65,1962,"Begroeiingsvrij gebied, Algemeen",Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+67,2206,Bekleding,Element,,Hoogwatervluchtplaats,Toegevoegd
+67,2206,Bekleding,Element,,Binnenberm,Toegevoegd
+67,2206,Bekleding,Element,,Buitenberm,Toegevoegd
+67,2206,Bekleding,Element,,Kwelkade,Toegevoegd
+67,2206,Bekleding,Element,,Afslagzone,Toegevoegd
+67,2206,Bekleding,Element,,Binnenduin,Toegevoegd
+67,2206,Bekleding,Element,,Duinvoetverdediging,Toegevoegd
+67,2206,Bekleding,Element,,Grensprofiel,Toegevoegd
+67,2206,Bekleding,Element,,Zeestrand,Toegevoegd
+67,2206,Bekleding,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+67,2206,Bekleding,Materiaal,,Houtige vegetatie,Toegevoegd
+68,1736,Belijning,Werkdefinitie,"Geheel van lijnen, strepen, stippen of pijlen op sport- en speelvelden om bepaalde sporten mogelijk te maken.","Geheel van lijnen, strepen, stippen of pijlen.",Gewijzigd
+68,1736,Belijning,Element,,Wegmarkering,Toegevoegd
+71,1067,"Berm, Algemeen",Bouwdeel,"Berm, Algemeen",,Vervallen
+71,1067,"Berm, Algemeen",Element,Berm,,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Steen,,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Asfalt,,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Grond,,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Gras,,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Asfalt (open),,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Beplanting,,Vervallen
+71,1067,"Berm, Algemeen",Materiaal,Granulaat,,Vervallen
+75,1068,Beschoeiing,Werkdefinitie,Grondkerende constructie bestaande uit een dunne wand die afkalving van de walkant moet voorkomen,Grondkerende constructie bestaande uit een dunne wand die afkalving van de walkant moet voorkomen.,Gewijzigd
+75,1068,Beschoeiing,Afbeelding,,DSC_0102 beschoeiing.JPG,Toegevoegd
+77,1071,Bevestiging,Element,,Valbeveiliging,Toegevoegd
+81,1739,Biezenvegetatie,Bouwdeel,Biezenvegetatie,,Vervallen
+81,1739,Biezenvegetatie,Element,Moerasvegetatie,,Vervallen
+81,1739,Biezenvegetatie,Materiaal,Gras,,Vervallen
+81,1739,Biezenvegetatie,Materiaal,Fauna,,Vervallen
+86,1078,Bodem (waterbodem),Element,,Waterlichaam (oppervlaktewater),Toegevoegd
+86,1078,Bodem (waterbodem),Materiaal,,Kruidachtige vegetatie,Toegevoegd
+88,1740,Bodembedekkende heester,Bouwdeel,Bodembedekkende heester,,Vervallen
+88,1740,Bodembedekkende heester,Element,Heester,,Vervallen
+88,1740,Bodembedekkende heester,Materiaal,Beplanting,,Vervallen
+89,2212,Bodembedekker,Bouwdeel,,Bodembedekker,Toegevoegd
+89,2212,Bodembedekker,Element,,Berm,Toegevoegd
+89,2212,Bodembedekker,Element,,Begroeid terreindeel,Toegevoegd
+89,2212,Bodembedekker,Materiaal,,Houtige vegetatie,Toegevoegd
+89,2212,Bodembedekker,Afbeelding,,DSC_0094 bodembedekker.JPG,Toegevoegd
+89,2212,Bodembedekker,Afbeelding,,DSC_0108 bodembedekker.JPG,Toegevoegd
+89,2212,Bodembedekker,Afbeelding,,DSC_0095 bodembedekker.JPG,Toegevoegd
+95,1091,Bolder,Afbeelding,,1091_Bolder_I.JPG,Toegevoegd
+95,1091,Bolder,Afbeelding,,1091_Bolder_I.JPG,Toegevoegd
+95,1091,Bolder,Afbeelding,,1091_Bolder_I.JPG,Toegevoegd
+95,1091,Bolder,Afbeelding,,1091_Bolder_I.JPG,Toegevoegd
+96,1742,Bollen,Bouwdeel,Bollen,,Vervallen
+96,1742,Bollen,Element,Bol- en knolgewas,,Vervallen
+96,1742,Bollen,Materiaal,Beplanting,,Vervallen
+97,1092,Bomen/houtopstanden,Bouwdeel,Bomen/houtopstanden,,Vervallen
+97,1092,Bomen/houtopstanden,Element,Voorland,,Vervallen
+97,1092,Bomen/houtopstanden,Element,Buitentalud,,Vervallen
+97,1092,Bomen/houtopstanden,Element,Binnentalud,,Vervallen
+97,1092,Bomen/houtopstanden,Element,Boomgroep,,Vervallen
+97,1092,Bomen/houtopstanden,Materiaal,Bomen,,Vervallen
+97,1092,Bomen/houtopstanden,Materiaal,Fauna,,Vervallen
+98,1744,Bomenlaan,Bouwdeel,Bomenlaan,,Vervallen
+98,1744,Bomenlaan,Element,Boomgroep,,Vervallen
+98,1744,Bomenlaan,Materiaal,Bomen,,Vervallen
+98,1744,Bomenlaan,Materiaal,Fauna,,Vervallen
+99,1745,Bomenrij,Bouwdeel,Bomenrij,,Vervallen
+99,1745,Bomenrij,Element,Boomgroep,,Vervallen
+99,1745,Bomenrij,Materiaal,Bomen,,Vervallen
+99,1745,Bomenrij,Materiaal,Fauna,,Vervallen
+101,1743,Boom,Naam,"Boom, Algemeen",Boom,Gewijzigd
+101,1743,Boom,Werkdefinitie,,"Een houtig gewas met een wortelgestel en een enkele, stevige, houtige stam, die zich boven de grond vertakt (soms meerstammig).",Toegevoegd
+101,1743,Boom,Element,Boom,,Vervallen
+101,1743,Boom,Element,,Berm,Toegevoegd
+101,1743,Boom,Element,,Voorland,Toegevoegd
+101,1743,Boom,Element,,Buitentalud,Toegevoegd
+101,1743,Boom,Element,,Kruin,Toegevoegd
+101,1743,Boom,Element,,Binnentalud,Toegevoegd
+101,1743,Boom,Element,,Teensloot,Toegevoegd
+101,1743,Boom,Element,,Achterland,Toegevoegd
+101,1743,Boom,Element,,Fauna-insprong,Toegevoegd
+101,1743,Boom,Element,,Begroeid terreindeel,Toegevoegd
+101,1743,Boom,Element,,Binnenberm,Toegevoegd
+101,1743,Boom,Element,,Buitenberm,Toegevoegd
+101,1743,Boom,Materiaal,Bomen,,Vervallen
+101,1743,Boom,Materiaal,,Houtige vegetatie,Toegevoegd
+101,1743,Boom,Afbeelding,,DSC_0082 boom.JPG,Toegevoegd
+101,1743,Boom,Afbeelding,,DSC_0084 boom.JPG,Toegevoegd
+101,1743,Boom,Afbeelding,,DSC_0085 boom.JPG,Toegevoegd
+101,1743,Boom,Afbeelding,,DSC_0074 boom.JPG,Toegevoegd
+101,1743,Boom,Afbeelding,,20200615_111827 boom.jpg,Toegevoegd
+101,1743,Boom,Afbeelding,,DSC_0109 boom.JPG,Toegevoegd
+103,2011,Boomgeleiding,Bouwdeel,Boomgeleiding,,Vervallen
+103,2011,Boomgeleiding,Element,Boom,,Vervallen
+103,2011,Boomgeleiding,Materiaal,Hout,,Vervallen
+103,2011,Boomgeleiding,Materiaal,Beton,,Vervallen
+103,2011,Boomgeleiding,Materiaal,Kunststof,,Vervallen
+103,2011,Boomgeleiding,Materiaal,Staal,,Vervallen
+103,2011,Boomgeleiding,Materiaal,Rubber,,Vervallen
+104,1748,Boomweide,Bouwdeel,Boomweide,,Vervallen
+104,1748,Boomweide,Element,Boomgroep,,Vervallen
+104,1748,Boomweide,Materiaal,Bomen,,Vervallen
+108,1751,Botanische rozen,Bouwdeel,Botanische rozen,,Vervallen
+108,1751,Botanische rozen,Element,Heester,,Vervallen
+108,1751,Botanische rozen,Materiaal,Beplanting,,Vervallen
+113,1754,Brandgang,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+123,1331,Buisleiding,Werkdefinitie,Holle cilindrische leiding voor transport van gevaarlijke stoffen.,Holle cilindrische leiding voor transport van stoffen.,Gewijzigd
+123,1331,Buisleiding,Element,,Aalgoot,Toegevoegd
+146,1133,Damwand,Element,,Duinvoetverdediging,Toegevoegd
+171,1280,Doorvoer,Naam,Kabeldoorvoer,Doorvoer,Gewijzigd
+179,1167,Drainmonding,Element,,Drainage,Toegevoegd
+187,1767,Droge heide,Bouwdeel,Droge heide,,Vervallen
+187,1767,Droge heide,Element,Heester,,Vervallen
+187,1767,Droge heide,Materiaal,Beplanting,,Vervallen
+194,1176,Duinovergang,Element,,Afslagzone,Toegevoegd
+194,1176,Duinovergang,Element,,Binnenduin,Toegevoegd
+194,1176,Duinovergang,Element,,Grensprofiel,Toegevoegd
+202,1184,Elementenverharding,Element,,Binnenberm,Toegevoegd
+202,1184,Elementenverharding,Element,,Buitenberm,Toegevoegd
+202,1184,Elementenverharding,Element,,Kwelkade,Toegevoegd
+202,1184,Elementenverharding,Element,,Afslagzone,Toegevoegd
+202,1184,Elementenverharding,Element,,Binnenduin,Toegevoegd
+202,1184,Elementenverharding,Element,,Grensprofiel,Toegevoegd
+202,1184,Elementenverharding,Element,,Zeestrand,Toegevoegd
+203,2232,Embryonaal-duin,Bouwdeel,,Embryonaal-duin,Toegevoegd
+203,2232,Embryonaal-duin,Element,,Duin,Toegevoegd
+203,2232,Embryonaal-duin,Element,,Afslagzone,Toegevoegd
+203,2232,Embryonaal-duin,Element,,Zeestrand,Toegevoegd
+203,2232,Embryonaal-duin,Materiaal,,Zand,Toegevoegd
+208,1794,Extensief gazon,Bouwdeel,Extensief gazon,,Vervallen
+208,1794,Extensief gazon,Element,Fauna-insprong,,Vervallen
+208,1794,Extensief gazon,Element,Grasvegetatie,,Vervallen
+208,1794,Extensief gazon,Materiaal,Gras,,Vervallen
+208,1794,Extensief gazon,Materiaal,Fauna,,Vervallen
+209,1860,Eén- en tweejarige perkplant,Bouwdeel,Eén- en tweejarige perkplant,,Vervallen
+209,1860,Eén- en tweejarige perkplant,Element,Perkplant,,Vervallen
+209,1860,Eén- en tweejarige perkplant,Materiaal,Beplanting,,Vervallen
+231,1886,Gazon,Bouwdeel,Gazon,,Vervallen
+231,1886,Gazon,Element,Grasvegetatie,,Vervallen
+231,1886,Gazon,Materiaal,Kunststof,,Vervallen
+231,1886,Gazon,Materiaal,Gras,,Vervallen
+231,1886,Gazon,Materiaal,Grind,,Vervallen
+231,1886,Gazon,Materiaal,Zand,,Vervallen
+231,1886,Gazon,Materiaal,Kunstgras,,Vervallen
+245,1783,Geschoren haag,Bouwdeel,Geschoren haag,,Vervallen
+245,1783,Geschoren haag,Element,Haag,,Vervallen
+245,1783,Geschoren haag,Materiaal,Beplanting,,Vervallen
+246,1784,Geschoren heestervak,Bouwdeel,Geschoren heestervak,,Vervallen
+246,1784,Geschoren heestervak,Element,Haag,,Vervallen
+246,1784,Geschoren heestervak,Materiaal,Beplanting,,Vervallen
+253,1225,Goot,Element,,Aalgoot,Toegevoegd
+258,2211,Gras/kruid,Bouwdeel,,Gras/kruid,Toegevoegd
+258,2211,Gras/kruid,Element,,Berm,Toegevoegd
+258,2211,Gras/kruid,Element,,Gestrekte oever (natuurvriendelijk),Toegevoegd
+258,2211,Gras/kruid,Element,,Oeverbescherming,Toegevoegd
+258,2211,Gras/kruid,Element,,Opstal,Toegevoegd
+258,2211,Gras/kruid,Element,,Voorland,Toegevoegd
+258,2211,Gras/kruid,Element,,Buitentalud,Toegevoegd
+258,2211,Gras/kruid,Element,,Kruin,Toegevoegd
+258,2211,Gras/kruid,Element,,Binnentalud,Toegevoegd
+258,2211,Gras/kruid,Element,,Teensloot,Toegevoegd
+258,2211,Gras/kruid,Element,,Achterland,Toegevoegd
+258,2211,Gras/kruid,Element,,Fauna-insprong,Toegevoegd
+258,2211,Gras/kruid,Element,,Begroeid terreindeel,Toegevoegd
+258,2211,Gras/kruid,Element,,Binnenberm,Toegevoegd
+258,2211,Gras/kruid,Element,,Buitenberm,Toegevoegd
+258,2211,Gras/kruid,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+258,2211,Gras/kruid,Afbeelding,,DSC_0079 gras kruid.JPG,Toegevoegd
+258,2211,Gras/kruid,Afbeelding,,DSC_0077 gras kruid.JPG,Toegevoegd
+258,2211,Gras/kruid,Afbeelding,,DSC_0099 gras kruid.JPG,Toegevoegd
+258,2211,Gras/kruid,Afbeelding,,DSC_0101 gras kruid.JPG,Toegevoegd
+258,2211,Gras/kruid,Afbeelding,,DSC_0103 gras kruid.JPG,Toegevoegd
+258,2211,Gras/kruid,Afbeelding,,DSC_0106 gras kruid.JPG,Toegevoegd
+262,2017,Grienden,Bouwdeel,Grienden,,Vervallen
+262,2017,Grienden,Element,Boomgroep,,Vervallen
+262,2017,Grienden,Materiaal,Bomen,,Vervallen
+264,1798,Grindkoffer,Element,,Voorland,Toegevoegd
+264,1798,Grindkoffer,Element,,Buitentalud,Toegevoegd
+264,1798,Grindkoffer,Element,,Kruin,Toegevoegd
+264,1798,Grindkoffer,Element,,Binnentalud,Toegevoegd
+264,1798,Grindkoffer,Element,,Binnenberm,Toegevoegd
+264,1798,Grindkoffer,Element,,Buitenberm,Toegevoegd
+265,1801,Gronddepot,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+266,1228,Grondlichaam,Element,,Hoogwatervluchtplaats,Toegevoegd
+266,1228,Grondlichaam,Element,,Binnenberm,Toegevoegd
+266,1228,Grondlichaam,Element,,Buitenberm,Toegevoegd
+266,1228,Grondlichaam,Element,,Afslagzone,Toegevoegd
+266,1228,Grondlichaam,Element,,Binnenduin,Toegevoegd
+266,1228,Grondlichaam,Element,,Grensprofiel,Toegevoegd
+266,1228,Grondlichaam,Element,,Zeestrand,Toegevoegd
+266,1228,Grondlichaam,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+269,2214,Haag,Bouwdeel,,Haag,Toegevoegd
+269,2214,Haag,Element,,Berm,Toegevoegd
+269,2214,Haag,Element,,Opstal,Toegevoegd
+269,2214,Haag,Element,,Voorland,Toegevoegd
+269,2214,Haag,Element,,Buitentalud,Toegevoegd
+269,2214,Haag,Element,,Kruin,Toegevoegd
+269,2214,Haag,Element,,Binnentalud,Toegevoegd
+269,2214,Haag,Element,,Teensloot,Toegevoegd
+269,2214,Haag,Element,,Achterland,Toegevoegd
+269,2214,Haag,Element,,Begroeid terreindeel,Toegevoegd
+269,2214,Haag,Element,,Binnenberm,Toegevoegd
+269,2214,Haag,Element,,Buitenberm,Toegevoegd
+269,2214,Haag,Materiaal,,Houtige vegetatie,Toegevoegd
+269,2214,Haag,Afbeelding,,DSC_0092 haag.JPG,Toegevoegd
+269,2214,Haag,Afbeelding,,DSC_0093 Haag.JPG,Toegevoegd
+269,2214,Haag,Afbeelding,,DSC_0096 haag.JPG,Toegevoegd
+269,2214,Haag,Afbeelding,,DSC_0098 haag.JPG,Toegevoegd
+270,1803,Haagwindscherm,Bouwdeel,Haagwindscherm,,Vervallen
+270,1803,Haagwindscherm,Element,Haag,,Vervallen
+270,1803,Haagwindscherm,Materiaal,Beplanting,,Vervallen
+272,2016,Hakhout,Bouwdeel,Hakhout,,Vervallen
+272,2016,Hakhout,Element,Boomgroep,,Vervallen
+272,2016,Hakhout,Materiaal,Bomen,,Vervallen
+273,1804,Halfheester,Bouwdeel,Halfheester,,Vervallen
+273,1804,Halfheester,Element,Heester,,Vervallen
+273,1804,Halfheester,Materiaal,Beplanting,,Vervallen
+275,2008,Halfverharding,Werkdefinitie,Een (semi) gesloten verharding bestaande uit ongebonden of lichtgebonden steen of funderingsmateriaal,Een onsamenhangend materiaal dat meer draagkracht levert dan de ondergrond.,Gewijzigd
+275,2008,Halfverharding,Element,,Onbegroeid terreindeel,Toegevoegd
+275,2008,Halfverharding,Materiaal,Schelpen,Schelp,Gewijzigd
+275,2008,Halfverharding,Materiaal,,Grasklinker,Toegevoegd
+275,2008,Halfverharding,Materiaal,,Puin,Toegevoegd
+287,1905,Heester,Naam,"Heester, Algemeen",Heester,Gewijzigd
+287,1905,Heester,Werkdefinitie,,"Houtige, meerjarige, opgaande struik, die zich onmiddellijk boven of al in de grond vertakt in een aantal takken, die meer of minder dik kunnen worden. Er wordt geen stam gevormd.",Toegevoegd
+287,1905,Heester,Element,Heester,,Vervallen
+287,1905,Heester,Element,,Berm,Toegevoegd
+287,1905,Heester,Element,,Opstal,Toegevoegd
+287,1905,Heester,Element,,Begroeid terreindeel,Toegevoegd
+287,1905,Heester,Materiaal,Beplanting,,Vervallen
+287,1905,Heester,Materiaal,,Houtige vegetatie,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0088 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0071 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0072 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0073 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0104 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0105 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0107 heester.JPG,Toegevoegd
+287,1905,Heester,Afbeelding,,DSC_0110 heester.JPG,Toegevoegd
+288,1810,Heesterrozen,Bouwdeel,Heesterrozen,,Vervallen
+288,1810,Heesterrozen,Element,Heester,,Vervallen
+288,1810,Heesterrozen,Materiaal,Beplanting,,Vervallen
+295,1813,Helmgras,Bouwdeel,Helmgras,,Vervallen
+295,1813,Helmgras,Element,Grasvegetatie,,Vervallen
+295,1813,Helmgras,Materiaal,Gras,,Vervallen
+296,1248,Helofytenfilter,Bouwdeel,Helofytenfilter,,Vervallen
+296,1248,Helofytenfilter,Element,Moerasvegetatie,,Vervallen
+296,1248,Helofytenfilter,Element,Afscheiderinstallatie (statisch),,Vervallen
+296,1248,Helofytenfilter,Materiaal,Beton,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Steen,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Kunststof,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Grond,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Gras,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Textiel,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Vilt,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Jute,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Water,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Grind,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Zand,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Schelpen,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Beplanting,,Vervallen
+296,1248,Helofytenfilter,Materiaal,Fauna,,Vervallen
+297,1248,Helofytenfilter,Bouwdeel,,Helofytenfilter,Toegevoegd
+297,1248,Helofytenfilter,Element,,Afscheiderinstallatie (statisch),Toegevoegd
+297,1248,Helofytenfilter,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+297,1248,Helofytenfilter,Materiaal,,Houtige vegetatie,Toegevoegd
+297,1248,Helofytenfilter,Materiaal,,Watervegetatie,Toegevoegd
+322,1266,Infiltratiekratten,Materiaal,Schelpen,Schelp,Gewijzigd
+324,1268,Infiltratievelden,Materiaal,Schelpen,Schelp,Gewijzigd
+325,1269,Infiltratievijvers,Materiaal,Schelpen,Schelp,Gewijzigd
+327,1822,Informatiebord,Element,,Drainage,Toegevoegd
+354,1296,Keermuur,Element,,Duinvoetverdediging,Toegevoegd
+358,2233,Kerf,Bouwdeel,,Kerf,Toegevoegd
+358,2233,Kerf,Element,,Duin,Toegevoegd
+358,2233,Kerf,Element,,Afslagzone,Toegevoegd
+358,2233,Kerf,Element,,Grensprofiel,Toegevoegd
+358,2233,Kerf,Materiaal,,Zand,Toegevoegd
+362,1300,Ketting,Element,,Hijs- en hefinstallatie,Toegevoegd
+375,1826,Klimplant,Bouwdeel,Klimplant,,Vervallen
+375,1826,Klimplant,Element,Klim- en leiplant,,Vervallen
+375,1826,Klimplant,Materiaal,Beplanting,,Vervallen
+386,1316,Koppeling,Element,,Aandrijving en bewegingswerk (elektrohydraulisch),Toegevoegd
+392,1926,Kruidachtige plant,Bouwdeel,Kruidachtige plant,,Vervallen
+392,1926,Kruidachtige plant,Element,Vaste plant,,Vervallen
+392,1926,Kruidachtige plant,Materiaal,Beplanting,,Vervallen
+396,2227,Kwelscherm,Bouwdeel,,Kwelscherm,Toegevoegd
+396,2227,Kwelscherm,Element,,Voorland,Toegevoegd
+396,2227,Kwelscherm,Element,,Buitentalud,Toegevoegd
+396,2227,Kwelscherm,Element,,Kruin,Toegevoegd
+396,2227,Kwelscherm,Element,,Binnentalud,Toegevoegd
+396,2227,Kwelscherm,Element,,Teensloot,Toegevoegd
+396,2227,Kwelscherm,Element,,Binnenberm,Toegevoegd
+396,2227,Kwelscherm,Element,,Buitenberm,Toegevoegd
+396,2227,Kwelscherm,Materiaal,,Hout,Toegevoegd
+396,2227,Kwelscherm,Materiaal,,Kunststof,Toegevoegd
+396,2227,Kwelscherm,Materiaal,,Staal,Toegevoegd
+407,1837,Leiplant,Bouwdeel,Leiplant,,Vervallen
+407,1837,Leiplant,Element,Klim- en leiplant,,Vervallen
+407,1837,Leiplant,Materiaal,Beplanting,,Vervallen
+425,1839,Losse haag,Bouwdeel,Losse haag,,Vervallen
+425,1839,Losse haag,Element,Haag,,Vervallen
+425,1839,Losse haag,Materiaal,Beplanting,,Vervallen
+449,1842,Moeras- en oevervegetatie,Bouwdeel,Moeras- en oevervegetatie,,Vervallen
+449,1842,Moeras- en oevervegetatie,Element,Moerasvegetatie,,Vervallen
+449,1842,Moeras- en oevervegetatie,Materiaal,Gras,,Vervallen
+449,1842,Moeras- en oevervegetatie,Materiaal,Fauna,,Vervallen
+450,1843,Moeraszeggevegetatie,Bouwdeel,Moeraszeggevegetatie,,Vervallen
+450,1843,Moeraszeggevegetatie,Element,Moerasvegetatie,,Vervallen
+450,1843,Moeraszeggevegetatie,Materiaal,Gras,,Vervallen
+450,1843,Moeraszeggevegetatie,Materiaal,Fauna,,Vervallen
+453,1846,Natte heide,Bouwdeel,Natte heide,,Vervallen
+453,1846,Natte heide,Element,Heester,,Vervallen
+453,1846,Natte heide,Materiaal,Beplanting,,Vervallen
+453,1846,Natte heide,Materiaal,Fauna,,Vervallen
+454,1847,Natuurlijke grasvegetatie,Bouwdeel,Natuurlijke grasvegetatie,,Vervallen
+454,1847,Natuurlijke grasvegetatie,Element,Grasvegetatie,,Vervallen
+454,1847,Natuurlijke grasvegetatie,Materiaal,Gras,,Vervallen
+458,2015,Niet vrij uitgroeiende boom,Bouwdeel,Niet vrij uitgroeiende boom,,Vervallen
+458,2015,Niet vrij uitgroeiende boom,Element,Boom,,Vervallen
+458,2015,Niet vrij uitgroeiende boom,Materiaal,Bomen,,Vervallen
+465,1735,Objectbegroeiing,Bouwdeel,Objectbegroeiing,,Vervallen
+465,1735,Objectbegroeiing,Element,Opstal,,Vervallen
+465,1735,Objectbegroeiing,Element,Klim- en leiplant,,Vervallen
+465,1735,Objectbegroeiing,Materiaal,Beplanting,,Vervallen
+469,2228,Oevervegetatie,Bouwdeel,,Oevervegetatie,Toegevoegd
+487,1397,Onverhard oppervlak,Werkdefinitie,Terreindeel zonder verharding bestaand uit het materiaal van de ondergrond waar het oppervlak ligt,Een onverhard oppervlak is een oppervlak zonder (half)verharding.,Gewijzigd
+487,1397,Onverhard oppervlak,Element,,Onbegroeid terreindeel,Toegevoegd
+487,1397,Onverhard oppervlak,Materiaal,Grond,,Vervallen
+487,1397,Onverhard oppervlak,Materiaal,Gras,,Vervallen
+487,1397,Onverhard oppervlak,Materiaal,Onverhard,,Vervallen
+488,1398,Op- en afrit,Element,,Binnenberm,Toegevoegd
+488,1398,Op- en afrit,Element,,Buitenberm,Toegevoegd
+501,1408,Opsluitband,Element,,Binnenberm,Toegevoegd
+501,1408,Opsluitband,Element,,Buitenberm,Toegevoegd
+509,1438,Overspanning,Bouwdeel,Overspanning,,Vervallen
+509,1438,Overspanning,Element,Hijs- en hefinstallatie,,Vervallen
+509,1438,Overspanning,Materiaal,Beton,,Vervallen
+509,1438,Overspanning,Materiaal,Kunststof,,Vervallen
+509,1438,Overspanning,Materiaal,Staal,,Vervallen
+511,2217,Oversteek,Bouwdeel,,Oversteek,Toegevoegd
+511,2217,Oversteek,Element,,Geleideconstructie,Toegevoegd
+511,2217,Oversteek,Element,,Buitentalud,Toegevoegd
+511,2217,Oversteek,Element,,Binnentalud,Toegevoegd
+511,2217,Oversteek,Element,,Teensloot,Toegevoegd
+511,2217,Oversteek,Element,,Afscheiding,Toegevoegd
+511,2217,Oversteek,Element,,Sloot,Toegevoegd
+511,2217,Oversteek,Materiaal,,Hout,Toegevoegd
+511,2217,Oversteek,Materiaal,,Beton,Toegevoegd
+511,2217,Oversteek,Materiaal,,Kunststof,Toegevoegd
+511,2217,Oversteek,Materiaal,,Staal,Toegevoegd
+511,2217,Oversteek,Materiaal,,Aluminium,Toegevoegd
+511,2217,Oversteek,Materiaal,,Metaal; overig,Toegevoegd
+511,2217,Oversteek,Afbeelding,,Afbeelding oversteek 1.png,Toegevoegd
+511,2217,Oversteek,Afbeelding,,Afbeelding oversteek 2.png,Toegevoegd
+511,2217,Oversteek,Afbeelding,,Afbeelding oversteek 3.png,Toegevoegd
+513,1423,Paal,Toelichting,,In het geval van strandpaal de volgende definitie: Een markant punt op het strand dat dient als referentiepunt voor afstandsaanduidingen.,Toegevoegd
+513,1423,Paal,Element,,Bebording en bewegwijzering (statisch),Toegevoegd
+515,2234,Palenrij,Bouwdeel,,Palenrij,Toegevoegd
+515,2234,Palenrij,Element,,Strandhoofd,Toegevoegd
+515,2234,Palenrij,Materiaal,,Hout,Toegevoegd
+515,2234,Palenrij,Materiaal,,Beton,Toegevoegd
+521,2226,Peilbuis,Bouwdeel,,Peilbuis,Toegevoegd
+521,2226,Peilbuis,Element,,Voorland,Toegevoegd
+521,2226,Peilbuis,Element,,Buitentalud,Toegevoegd
+521,2226,Peilbuis,Element,,Kruin,Toegevoegd
+521,2226,Peilbuis,Element,,Binnentalud,Toegevoegd
+521,2226,Peilbuis,Element,,Teensloot,Toegevoegd
+521,2226,Peilbuis,Element,,Binnenberm,Toegevoegd
+521,2226,Peilbuis,Element,,Buitenberm,Toegevoegd
+521,2226,Peilbuis,Materiaal,,Kunststof,Toegevoegd
+521,2226,Peilbuis,Materiaal,,Staal,Toegevoegd
+522,1425,Peilschaal,Element,,Binnenberm,Toegevoegd
+522,1425,Peilschaal,Element,,Buitenberm,Toegevoegd
+533,2215,Plant,Bouwdeel,,Plant,Toegevoegd
+533,2215,Plant,Element,,Berm,Toegevoegd
+533,2215,Plant,Element,,Gestrekte oever (natuurvriendelijk),Toegevoegd
+533,2215,Plant,Element,,Oeverbescherming,Toegevoegd
+533,2215,Plant,Element,,Opstal,Toegevoegd
+533,2215,Plant,Element,,Sloot,Toegevoegd
+533,2215,Plant,Element,,Beek,Toegevoegd
+533,2215,Plant,Element,,Ven,Toegevoegd
+533,2215,Plant,Element,,Begroeid terreindeel,Toegevoegd
+533,2215,Plant,Materiaal,,Houtige vegetatie,Toegevoegd
+533,2215,Plant,Afbeelding,,DSC_0075 vaste plant.JPG,Toegevoegd
+533,2215,Plant,Afbeelding,,DSC_0076 vaste plant.JPG,Toegevoegd
+533,2215,Plant,Afbeelding,,DSC_0113 vaste plant.JPG,Toegevoegd
+534,1863,Plasberm,Bouwdeel,Plasberm,,Vervallen
+534,1863,Plasberm,Element,Gestrekte oever (natuurvriendelijk),,Vervallen
+534,1863,Plasberm,Element,Moerasvegetatie,,Vervallen
+534,1863,Plasberm,Materiaal,Grond,,Vervallen
+534,1863,Plasberm,Materiaal,Gras,,Vervallen
+534,1863,Plasberm,Materiaal,Fauna,,Vervallen
+535,1863,Plasberm,Bouwdeel,,Plasberm,Toegevoegd
+535,1863,Plasberm,Element,,Gestrekte oever (natuurvriendelijk),Toegevoegd
+535,1863,Plasberm,Element,,Begroeid terreindeel,Toegevoegd
+535,1863,Plasberm,Materiaal,,Grond,Toegevoegd
+535,1863,Plasberm,Materiaal,,Fauna,Toegevoegd
+535,1863,Plasberm,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+538,1434,Pomp,Element,,Aalgoot,Toegevoegd
+543,2221,Portofoon,Bouwdeel,,Portofoon,Toegevoegd
+543,2221,Portofoon,Element,,Hoog Frequent installatie (HF),Toegevoegd
+543,2221,Portofoon,Materiaal,,Elektrotechniek,Toegevoegd
+543,2221,Portofoon,Afbeelding,,Afbeelding Portofoon.png,Toegevoegd
+570,2193,Regelbare aandrijving,Naam,Elektrische aandrijving,Regelbare aandrijving,Gewijzigd
+570,2193,Regelbare aandrijving,Toelichting,,De functie van een toerenregelinstallatie is om het toerental te regelen.,Toegevoegd
+575,1871,Rietvegetatie,Bouwdeel,Rietvegetatie,,Vervallen
+575,1871,Rietvegetatie,Element,Moerasvegetatie,,Vervallen
+575,1871,Rietvegetatie,Materiaal,Gras,,Vervallen
+575,1871,Rietvegetatie,Materiaal,Fauna,,Vervallen
+577,1461,Rijdek,Werkdefinitie,Constructiedeel van de draagconstructie van een kunstwerk waar verkeer overheen kan rijden.,Constructiedeel van de draagconstructie van een kunstwerk waar verkeer overheen kan rijden. Een rijdek kan zowel zelfdragend als in de uitvoeringsvorm van een monoliet betonnen dek alsook een rijdek dat wordt ondersteund door langsliggers.,Gewijzigd
+579,2216,Rivierhout,Bouwdeel,,Rivierhout,Toegevoegd
+579,2216,Rivierhout,Element,,Vooroever,Toegevoegd
+579,2216,Rivierhout,Element,,Nevengeul,Toegevoegd
+579,2216,Rivierhout,Materiaal,,Hout,Toegevoegd
+579,2216,Rivierhout,Afbeelding,,Afbeeldingen Rivierhout.png,Toegevoegd
+579,2216,Rivierhout,Afbeelding,,Afbeeldingen Rivierhout 2.png,Toegevoegd
+591,1473,Rooster,Element,,Aalgoot,Toegevoegd
+596,1874,Ruige oevervegetatie,Bouwdeel,Ruige oevervegetatie,,Vervallen
+596,1874,Ruige oevervegetatie,Element,Moerasvegetatie,,Vervallen
+596,1874,Ruige oevervegetatie,Materiaal,Gras,,Vervallen
+596,1874,Ruige oevervegetatie,Materiaal,Fauna,,Vervallen
+597,1875,Ruiggras,Bouwdeel,Ruiggras,,Vervallen
+597,1875,Ruiggras,Element,Grasvegetatie,,Vervallen
+597,1875,Ruiggras,Materiaal,Gras,,Vervallen
+597,1875,Ruiggras,Materiaal,Fauna,,Vervallen
+607,1878,Schanskorf,Element,,Voorland,Toegevoegd
+607,1878,Schanskorf,Element,,Buitentalud,Toegevoegd
+607,1878,Schanskorf,Element,,Kruin,Toegevoegd
+607,1878,Schanskorf,Element,,Binnentalud,Toegevoegd
+607,1878,Schanskorf,Element,,Binnenberm,Toegevoegd
+607,1878,Schanskorf,Element,,Buitenberm,Toegevoegd
+607,1878,Schanskorf,Materiaal,,Breuksteen,Toegevoegd
+614,2225,Schijnduiker,Bouwdeel,,Schijnduiker,Toegevoegd
+614,2225,Schijnduiker,Element,,Oeverbescherming,Toegevoegd
+614,2225,Schijnduiker,Materiaal,,Kunststof,Toegevoegd
+622,1883,Schraalgrasland,Element,Berm,,Vervallen
+630,1490,Sensor,Element,,Binnenberm,Toegevoegd
+630,1490,Sensor,Element,,Buitenberm,Toegevoegd
+633,1888,Sierheester,Bouwdeel,Sierheester,,Vervallen
+633,1888,Sierheester,Element,Heester,,Vervallen
+633,1888,Sierheester,Materiaal,Beplanting,,Vervallen
+645,2235,Slufter,Bouwdeel,,Slufter,Toegevoegd
+645,2235,Slufter,Element,,Duin,Toegevoegd
+645,2235,Slufter,Element,,Afslagzone,Toegevoegd
+645,2235,Slufter,Materiaal,,Zand,Toegevoegd
+660,1504,Staalkabel,Element,,Valbeveiliging,Toegevoegd
+672,1510,Stortebed,Element,,Bodem,Toegevoegd
+672,1510,Stortebed,Element,,Vooroever,Toegevoegd
+672,1510,Stortebed,Materiaal,,Stortsteen,Toegevoegd
+674,1707,Strand,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+678,1906,Struikroos,Naam,Struikrozen,Struikroos,Gewijzigd
+678,1906,Struikroos,Werkdefinitie,"Doorbloeiende roos met een brede groeiwijze die winterhard is en ieder jaar wordt gesnoeid, toegepast als vakbeplanting","Rozen niet-zijnde botanische rozen, heesterrozen (heesters) of bodembedekkende rozen (bodembedekkers).",Gewijzigd
+678,1906,Struikroos,Element,Heester,,Vervallen
+678,1906,Struikroos,Element,,Berm,Toegevoegd
+678,1906,Struikroos,Element,,Begroeid terreindeel,Toegevoegd
+678,1906,Struikroos,Materiaal,Beplanting,,Vervallen
+678,1906,Struikroos,Materiaal,,Houtige vegetatie,Toegevoegd
+678,1906,Struikroos,Afbeelding,,DSC_0086 struikroos.JPG,Toegevoegd
+678,1906,Struikroos,Afbeelding,,DSC_0087 struikroos.JPG,Toegevoegd
+678,1906,Struikroos,Afbeelding,,DSC_0089 struikroos.JPG,Toegevoegd
+678,1906,Struikroos,Afbeelding,,DSC_0090 struikroos.JPG,Toegevoegd
+678,1906,Struikroos,Afbeelding,,DSC_0091 struikroos.JPG,Toegevoegd
+679,2236,Stuifkuil,Bouwdeel,,Stuifkuil,Toegevoegd
+679,2236,Stuifkuil,Element,,Duin,Toegevoegd
+679,2236,Stuifkuil,Element,,Afslagzone,Toegevoegd
+679,2236,Stuifkuil,Element,,Binnenduin,Toegevoegd
+679,2236,Stuifkuil,Element,,Grensprofiel,Toegevoegd
+679,2236,Stuifkuil,Materiaal,,Zand,Toegevoegd
+680,2237,Stuifscherm,Bouwdeel,,Stuifscherm,Toegevoegd
+680,2237,Stuifscherm,Element,,Duin,Toegevoegd
+680,2237,Stuifscherm,Element,,Afslagzone,Toegevoegd
+680,2237,Stuifscherm,Element,,Binnenduin,Toegevoegd
+680,2237,Stuifscherm,Element,,Grensprofiel,Toegevoegd
+680,2237,Stuifscherm,Materiaal,,Hout,Toegevoegd
+680,2237,Stuifscherm,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+681,1907,Stuifzand,Element,Begroeiingsvrij gebied,Onbegroeid terreindeel,Gewijzigd
+709,2208,Toplaag,Werkdefinitie,,De buitenste verdedigingslaag die bescherming biedt tegen allerlei invloeden.,Toegevoegd
+709,2208,Toplaag,Materiaal,,Kruidachtige vegetatie,Toegevoegd
+727,1922,Tuinhuisje,Element,,Opstal,Toegevoegd
+732,2218,Uitmonding,Bouwdeel,,Uitmonding,Toegevoegd
+732,2218,Uitmonding,Element,,Gestrekte oever (natuurvriendelijk),Toegevoegd
+732,2218,Uitmonding,Element,,Gestrekte oever (talud),Toegevoegd
+732,2218,Uitmonding,Element,,Sloot,Toegevoegd
+732,2218,Uitmonding,Element,,Beek,Toegevoegd
+732,2218,Uitmonding,Materiaal,,Steen,Toegevoegd
+732,2218,Uitmonding,Materiaal,,Houtige vegetatie,Toegevoegd
+732,2218,Uitmonding,Afbeelding,,Afbeelding uitmonding 1.png,Toegevoegd
+732,2218,Uitmonding,Afbeelding,,Afbeelding uitmonding 2.png,Toegevoegd
+732,2218,Uitmonding,Afbeelding,,Afbeelding uitmonding 3.png,Toegevoegd
+742,2219,Veldbus,Bouwdeel,,Veldbus,Toegevoegd
+742,2219,Veldbus,Element,,Bedienings- en besturingsinstallatie,Toegevoegd
+786,2012,Vormboom,Bouwdeel,Vormboom,,Vervallen
+786,2012,Vormboom,Element,Boom,,Vervallen
+786,2012,Vormboom,Materiaal,Bomen,,Vervallen
+787,2013,Vrij uitgroeiende boom,Bouwdeel,Vrij uitgroeiende boom,,Vervallen
+787,2013,Vrij uitgroeiende boom,Element,Boom,,Vervallen
+787,2013,Vrij uitgroeiende boom,Materiaal,Bomen,,Vervallen
+791,1617,Wadi,Materiaal,Schelpen,Schelp,Gewijzigd
+800,1940,Waterplant,Naam,Waterplant (drijvend),Waterplant,Gewijzigd
+800,1940,Waterplant,Werkdefinitie,Plant die in het water leeft met op het wateroppervlak drijvende bladeren en bloemen,"Plant die haar natuurlijke standplaats in het water heeft, en die kenmerken vertoond, welke op een aanpassing aan dit medium wijzen.",Gewijzigd
+800,1940,Waterplant,Element,Watervegetatie,,Vervallen
+800,1940,Waterplant,Element,,Waterlichaam (oppervlaktewater),Toegevoegd
+800,1940,Waterplant,Materiaal,,Watervegetatie,Toegevoegd
+801,1941,Waterplant (ondergedoken),Werkdefinitie,Plant die in het water leeft en zich geheel onderwater bevindt,"Plant die haar natuurlijke standplaats in het water heeft, en die kenmerken vertoond, welke op een aanpassing aan dit medium wijzen.",Gewijzigd
+801,1941,Waterplant (ondergedoken),Element,Watervegetatie,,Vervallen
+801,1941,Waterplant (ondergedoken),Element,,Waterlichaam (oppervlaktewater),Toegevoegd
+801,1941,Waterplant (ondergedoken),Materiaal,,Watervegetatie,Toegevoegd
+803,1942,"Watervegetatie, Algemeen",Bouwdeel,"Watervegetatie, Algemeen",,Vervallen
+803,1942,"Watervegetatie, Algemeen",Element,Watervegetatie,,Vervallen
+803,1942,"Watervegetatie, Algemeen",Materiaal,Gras,,Vervallen
+812,2220,Wide Area Network (WAN),Bouwdeel,,Wide Area Network (WAN),Toegevoegd
+812,2220,Wide Area Network (WAN),Element,,Bedienings- en besturingsinstallatie,Toegevoegd
+812,2220,Wide Area Network (WAN),Element,,Transmissie-installatie,Toegevoegd
+816,1949,Windsingel,Bouwdeel,Windsingel,,Vervallen
+816,1949,Windsingel,Element,Boomgroep,,Vervallen
+816,1949,Windsingel,Materiaal,Bomen,,Vervallen
+829,1964,Zeeuwse haag,Bouwdeel,Zeeuwse haag,,Vervallen
+829,1964,Zeeuwse haag,Element,Haag,,Vervallen
+829,1964,Zeeuwse haag,Materiaal,Beplanting,,Vervallen
+835,1646,Zinkstuk,Element,,Bodem,Toegevoegd
+835,1646,Zinkstuk,Materiaal,,Stortsteen,Toegevoegd
